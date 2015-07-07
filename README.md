@@ -1,4 +1,4 @@
-# Hacking Team Sweeper
+# 'Hacking Team' Sweeper
 
 Hacking Team has developed a large amount of malware that is being used to target activists around the world. A hacker has recently released a 400+ GB data dump of internal HackingTeam source code. Currently there is a possibility that HT clients are attempting to wipe traces off their victim's computers. **We need your aid to help perserve evidence.** If you have technical skills we urge to contribute, time is of the essence.
 
