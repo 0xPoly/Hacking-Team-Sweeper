@@ -1,0 +1,4 @@
+Linux Signatures
+================
+
+* Files matching the patterns "/var/crash/.reports-%u-%s" or "/var/tmp/.reports-%u-%s"
