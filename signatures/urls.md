@@ -1,7321 +1,7322 @@
+# URLS
 * all the unique hardcoded urls found in source code
 
-http://0.0.0.0/
-http://10.0.0.1/
-http://10.0.2.2
-http://1.1.1.1/
-http://1.2.3.4
-http://12.34.56.78
-http://12.34.56.78/foo/
-http://125.125.125.125
-http://127.0.01
-http://127.0.0.1
-http://127.0.0.1/
-http://127.0.0.1/10k.html
-http://127.0.0.1/communication/jobs/12
-http://127.0.0.1/communication/servers/127.0.0.1
-http://127.0.0.1/spam
-http://127.0.0.1/spammity/spam
-http://127.0.0.1/spammity/spam?say=ni
-http://127.1.1.1/
-http://14.136.236.155/scout.dat
-http://14.136.236.155/stage3.dat
-http://172.16.42.100
-http://172.20.20.168/testrail/index.php?/api
-http://172.20.30.31/results/2013-09-04
-http://172.20.30.31/updates/
-http://192.0.2.16
-http://192.168.0.1/Python/interrupt/test1.asp
-http://192.168.0.1/Python/interrupt/test.asp
-http://192.168.1.153
-http://192.168.1.189/wc12/webclient
-http://192.168.168.202/app.ipa
-http://192.168.168.202/down.png
-http://192.168.69.127/sploit.html
-http://192.168.69.229/news/1316691816/page.cfm
-http://192.168.69.229/news/3466125380/page.cfm
-http://199.175.54.94/docs/cccccc/fwd
-http://7-zip.org/
-http://7-zip.org/sdk.html
-http://88.80.197.161
-http://89.96.137.6/a.jad
-http://a
-http://a/
-http://aa.usno.navy.mil/faq/docs/UT.html
-http://a/b/
-http://a/b/c/
-http://a/b/c/d
-http://a/b/c/de
-http://a/b/c/d?y
-http://a/b/c/g
-http://a/b/c/.g
-http://a/b/c/..g
-http://a/b/c/g/
-http://a/b/c/g.
-http://a/b/c/g..
-http://a/b/c/g/h
-http://a/b/c/g?y
-http://a/b/c/g?y/./x
-http://a/b/c/g?y/../x
-http://a/b/c/h
-http://a/b/c/y
-http://abernathycummerata.uk/
-http://a/b/g
-http://about.travis-ci.org/docs/user/languages/ruby/
-http://acme.com/
-http://acme.example.com
-http://acme.example.com/
-http://acme.example.com/a
-http://acme.example.com/protected
-http://activestate.com/activepython
-http://activestate.com/activepython/downloads
-http://ad.doubleclick.net/pfadx/DARTSHELLCONFIGXML
-http://addressable.rubyforge.org/
-http://addressable.rubyforge.org/api/
-http://adoxa.3eeweb.com/ansicon/
-http://ads.gameforgeads.de/adframe.php?n=a44fb522
-http://ad.wz.cz/openx/www/delivery/avw.php?zoneid=12
-http://ad.wz.cz/openx/www/delivery/ck.php?n=a5977468
-http://adywicaksono.wordpress.com/2008/05/11/sending-wap-push-service-indication/
-http://a.example.com
-http://a.example.com/
-http://a/g
-http://a/./g
-http://a/../g
-http://a/../../g
-http://ahad-haam
-http://analytics.postrank.com/
-http://andre.arko.net/2010/08/16/using-passengerpane-with-gem_home-set/
-http://android.git.kernel.org/?p=platform/packages/apps/Settings.git
-http://ankundingsporer.co.uk/
-http://another.pypi/
-http://ant.apache.org
-http://ant.apache.org/
-http://ant.apache.org/manual/Types/classfileset.html
-http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/cwg_active.html
-http://anubis.dkuug.dk/JTC1/SC22/WG21/docs/cwg_defects.html
-http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/lwg-defects.html
-http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/papers/2000/n1232.pdf
-http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/papers/2003/n1454.html
-http://any.org/archive
-http://apache.org/xml/features/calculate-src-ofs
-http://apache.org/xml/features/continue-after-fatal-error
-http://apache.org/xml/features/disable-default-entity-resolution
-http://apache.org/xml/features/dom/byte-order-mark
-http://apache.org/xml/features/dom-has-psvi-info
-http://apache.org/xml/features/dom/user-adopts-DOMDocument
-http://apache.org/xml/features/generate-synthetic-annotations
-http://apache.org/xml/features/nonvalidating/load-external-dtd
-http://apache.org/xml/features/pretty-print/space-first-level-elements
-http://apache.org/xml/features/schema/ignore-annotations
-http://apache.org/xml/features/standard-uri-conformant
-http://apache.org/xml/features/validate-annotations
-http://apache.org/xml/features/validating/load-schema
-http://apache.org/xml/features/validation/cache-grammarFromParse
-http://apache.org/xml/features/validation/dynamic
-http://apache.org/xml/features/validation-error-as-fatal
-http://apache.org/xml/features/validation/identity-constraint-checking
-http://apache.org/xml/features/validation/ignoreCachedDTD
-http://apache.org/xml/features/validation/reuse-grammar
-http://apache.org/xml/features/validation/schema
-http://apache.org/xml/features/validation/schema-full-checking
-http://apache.org/xml/features/validation/schema/skip-dtd-validation
-http://apache.org/xml/features/validation/use-cachedGrammarInParse
-http://apache.org/xml/properties/entity-resolver
-http://apache.org/xml/properties/parser-use-DOMDocument-from-Implementation
-http://apache.org/xml/properties/scannerName
-http://apache.org/xml/properties/schema/external-noNamespaceSchemaLocation
-http://apache.org/xml/properties/schema/external-noNamespaceSchemaLocation.
-http://apache.org/xml/properties/schema/external-schemaLocation
-http://apache.org/xml/properties/security-manager
-http://apenwarr.ca/log/?m=201111
-http://api.twitter.com/1/statuses/home_timeline.json
-http://apps.gotdotnet.com/xmltools/xsdvalidator/
-http://apr.apache.org/
-http://aprsworld.net/gisdata/world
-http://archive.apache.org/dist/xmlgraphics/fop/binaries/
-http://archives.free.net.ph/message/20070507.175609.4c4f503a.en.html
-http://arglist.com/regex/
-http://armstrong.info/
-http://artax.karlin.mff.cuni.cz/
-http://article.gmane.org/gmane.comp.lib.boost.build/3389/
-http://article.gmane.org/gmane.comp.lib.boost.build/3906/
-http://article.gmane.org/gmane.comp.lib.boost.build/4241
-http://article.gmane.org/gmane.comp.lib.boost.build/5643/
-http://article.gmane.org/gmane.comp.lib.boost.build/6353
-http://article.gmane.org/gmane.comp.lib.boost.devel/103843
-http://article.gmane.org/gmane.comp.lib.boost.devel/108959
-http://article.gmane.org/gmane.comp.lib.boost.devel/146688
-http://article.gmane.org/gmane.comp.lib.boost.devel/151065
-http://article.gmane.org/gmane.comp.lib.boost.devel/173011
-http://article.gmane.org/gmane.comp.lib.boost.testing/933
-http://article.gmane.org/gmane.comp.lib.boost.user/3005
-http://article.gmane.org/gmane.comp.parsers.spirit.devel/1891/
-http://article.gmane.org/gmane.comp.parsers.spirit.general/3678
-http://article.gmane.org/gmane.comp.parsers.spirit.general/4029
-http://article.gmane.org/gmane.comp.parsers.spirit.general/4575
-http://article.gmane.org/gmane.comp.parsers.spirit.general/8544
-http://article.gmane.org/gmane.comp.parsers.spirit.general/8860
-http://article.gmane.org/gmane.comp.parsers.spirit.general/8868
-http://article.gmane.org/gmane.comp.parsers.spirit.general/9013
-http://article.gmane.org/gmane.comp.python.general/544986
-http://article.gmane.org/gmane.comp.time.tz/1008
-http://article.gmane.org/gmane.comp.time.tz/1175
-http://article.gmane.org/gmane.comp.time.tz/1288
-http://article.gmane.org/gmane.comp.time.tz/1358
-http://article.gmane.org/gmane.comp.time.tz/1810
-http://article.gmane.org/gmane.comp.time.tz/1878
-http://article.gmane.org/gmane.comp.time.tz/2029
-http://article.gmane.org/gmane.comp.time.tz/2071
-http://article.gmane.org/gmane.comp.time.tz/2149
-http://article.gmane.org/gmane.comp.time.tz/2183
-http://article.gmane.org/gmane.comp.time.tz/2293
-http://article.gmane.org/gmane.comp.time.tz/2335
-http://article.gmane.org/gmane.comp.time.tz/2440
-http://article.gmane.org/gmane.comp.time.tz/2668
-http://article.gmane.org/gmane.comp.time.tz/2818
-http://article.gmane.org/gmane.comp.time.tz/2953
-http://article.gmane.org/gmane.comp.time.tz/3053
-http://article.gmane.org/gmane.comp.time.tz/3128
-http://article.gmane.org/gmane.comp.time.tz/3172
-http://article.gmane.org/gmane.comp.time.tz/3188
-http://article.gmane.org/gmane.comp.time.tz/3202
-http://article.gmane.org/gmane.comp.time.tz/3225
-http://article.gmane.org/gmane.comp.time.tz/3354
-http://article.gmane.org/gmane.comp.time.tz/3473
-http://article.gmane.org/gmane.comp.time.tz/3662
-http://article.gmane.org/gmane.comp.time.tz/3707
-http://article.gmane.org/gmane.comp.time.tz/3758
-http://article.gmane.org/gmane.comp.time.tz/3814
-http://article.gmane.org/gmane.comp.time.tz/4084
-http://article.gmane.org/gmane.comp.time.tz/4434
-http://article.gmane.org/gmane.comp.time.tz/4756
-http://article.gmane.org/gmane.comp.time.tz/4859
-http://article.gmane.org/gmane.comp.time.tz/738
-http://article.gmane.org/gmane.comp.time.tz/920
-http://article.gmane.org/gmane.comp.time.tz/936
-http://article.gmane.org/gmane.comp.version-control.git/146500
-http://arxiv.org/abs/math.CA/9409227
-http://asdl.sourceforge.net/
-http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/393090
-http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/416087
-http://aspn.activestate.com/ASPN/Mail/Message/Attachments/boost/
-http://aspn.activestate.com/ASPN/Mail/Message/boost/1614864
-http://assarbad.net/contact/
-http://a.tbcdn.cn/p/fp/2010c/??fp-header-min.css
-http://aufderhar.info/
-http://austingroupbugs.net/view.php?id=542
-http://auth.foo.com/
-http://autoconf-archive.cryp.to/acx_pthread.html
-http://automation.whatismyip.com/n09230945.asp
-http://avisynth.org/mediawiki/Filter_SDK/Assembler_optimizing
-http://aws.amazon.com/apache2.0/
-http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/com.apple.jingle.appserver.client.MZITunesClientCheck/version
-http://azzalini.stat.unipd.it/SN/
-http://badge.fury.io/rb/docile
-http://badge.fury.io/rb/tzinfo
-http://balistrerigerhold.co.uk/
-http://banisterfiend.wordpress.com
-http://bannalia.blogspot.com/2008/09/introducing-stablevector.html
-http://barry.wooz.org
-http://bartell.ca/
-http://bashirian.ca/
-http://baumbach.info/
-http://behindfirewall
-http://berge.info/
-http://berge.name/
-http://beta.boost.org/development/snapshot.php/
-http://beta.boost.org/development/tests/
-http://beta.boost.org/doc/libs
-http://beta.zyprexia.com/docs/pgsql/user/datatype1130.htm
-http://bitbucket.org/ged/ruby-pg
-http://bitbucket.org/tarek/buildout-distribute
-http://bitbucket.org/tarek/distribute
-http://bitbucket.org/tarek/distribute/issue/1.
-http://bitbucket.org/tarek/distribute/issue/10.
-http://bitbucket.org/tarek/distribute/issue/12.
-http://bitbucket.org/tarek/distribute/issue/13.
-http://bitbucket.org/tarek/distribute/issue/16
-http://bitbucket.org/tarek/distribute/issue/163/md5-validation-error
-http://bitbucket.org/tarek/distribute/issue/18.
-http://bitbucket.org/tarek/distribute/issue/3.
-http://bitbucket.org/tarek/distribute/issue/31.
-http://bitbucket.org/tarek/distribute/issue/40.
-http://bitbucket.org/tarek/distribute/issue/49.
-http://bitbucket.org/tarek/distribute/issue/5.
-http://bitbucket.org/tarek/distribute/issue/50.
-http://bitbucket.org/tarek/distribute/issue/52.
-http://bitbucket.org/tarek/distribute/issue/56.
-http://bitbucket.org/tarek/distribute/issue/6.
-http://bitbucket.org/tarek/distribute/issue/7.
-http://bitbucket.org/tarek/distribute/issue/8.
-http://bitbucket.org/tarek/distribute/issue/9.
-http://bitbucket.org/tarek/distribute/issues/
-http://bitcoin.org/critfix
-http://bit.ly/bundler-issues.
-http://bit.ly/d2iiUL
-http://bit.ly/j70E7T
-http://bit.ly/jW3cR3
-http://bit.ly/roflscalevideo
-http://bit.ly/syck-defaultkey.
-http://bit.ly/webscaletm
-http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/37805
-http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/193379
-http://blah/
-http://blahblah
-http://blah.spam.org/
-http://blicksmitham.biz/
-http://block.ca/
-http://blockexplorer.com/
-http://blog.cuckoosandbox.org/
-http://blog.davidchelimsky.net/2012/05/13/spec-smell-explicit-use-of-subject/
-http://blog.emptyway.com/2009/11/03/proper-way-to-detect-windows-platform-in-ruby/
-http://blog.flexuous.com/2010/09/08/flexflash-builder-localization-configuration/
-http://blog.ianbicking.org/2007/10/10/workingenv-is-dead-long-live-virtualenv/
-http://blog.laptopmag.com/how-to-add-another-90-days-to-your-windows-8-trial
-http://blog.mmediasys.com/2010/11/24/we-all-love-colors/
-http://blog.nikosd.com/2011/11/github-flavored-markdown-in-yard.html
-http://blog.rubygems.org/2011/08/31/shaving-the-yaml-yacc.html
-http://blogs.msdn.com/david.wang/archive/2006/03/26/HOWTO-Detect-Process-Bitness.aspx
-http://blogs.msdn.com/michkap/archive/2006/12/22/1350684.aspx
-http://blog.zenspider.com/2008/10/rubygems-howto-preventing-cata.html
-http://blueprintcss.org
-http://bogisichblick.co.uk/
-http://bogisichborer.info/
-http://boost.2283326.n4.nabble.com/type-traits-is-constructible-when-decltype-is-supported-td3575452.html
-http://boost-consulting.com/boost/libs/multi_index/doc/compiler_specifics.html
-http://boost.org/b2.
-http://boost.org/boost-build2
-http://boost.org/boost-build2/boost-build.tar.bz2
-http://boost.org/boost-build2/boost-build.zip
-http://boost.org/boost-build2/doc/html/bbv2/advanced/configuration.html
-http://boost.org/boost-build2/doc/html/bbv2/advanced.html
-http://boost.org/boost-build2/doc/html/bbv2/reference.html
-http://boost.org/boost-build2/doc/html/bbv2/reference/tools.html
-http://boost.org/doc/html/hash/portability.html
-http://boost.org/libs/iostreams/doc/index.html?path=7
-http://boost.org/libs/utility/shared_container_iterator.html
-http://boost.org/LICENSE_1_0.txt
-http://boost.org/more/getting_started/windows.html
-http://boost.sf.net/boost-build2/boost.png
-http://boost-spirit.com/home/2010/02/08/how-to-adapt-templates-as-a-fusion-sequence
-http://boost-spirit.com/home/?page_id=659
-http://bottlepy.org/
-http://bot.whatismyipaddress.com
-http://boyerbartoletti.com/
-http://b.pypi.python.org
-http://brainwallet.org/
-http://break.com/
-http://bruen.info/
-http://bsonspec.org
-http://bsonspec.org/
-http://bsonspec.org.
-http://buckridge.name/
-http://bugs.activestate.com/ActivePython/show_bug.cgi?id=33311
-http://bugs.activestate.com/show_bug.cgi?id=85099
-http://bugs.activestate.com/show_bug.cgi?id=89657
-http://bugs.adobe.com/jira/browse/SDK-21143
-http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=618367
-http://bugs.gentoo.org/show_bug.cgi?id=286911
-http://bugs.jquery.com/ticket/12273
-http://bugs.jython.org/issue1112
-http://bugs.python.org
-http://bugs.python.org/.
-http://bugs.python.org.
-http://bugs.python.org/546117
-http://bugs.python.org/814976
-http://bugs.python.org/file10357/msum4.py
-http://bugs.python.org/issue10447
-http://bugs.python.org/issue1202
-http://bugs.python.org/issue1282647
-http://bugs.python.org/issue1293.
-http://bugs.python.org/issue1336
-http://bugs.python.org/issue1533164
-http://bugs.python.org/issue1640.
-http://bugs.python.org/issue1747858
-http://bugs.python.org/issue1881
-http://bugs.python.org/issue2016
-http://bugs.python.org/issue2254
-http://bugs.python.org/issue2279
-http://bugs.python.org/issue2550
-http://bugs.python.org/issue2578
-http://bugs.python.org/issue2578.
-http://bugs.python.org/issue2646
-http://bugs.python.org/issue2791.
-http://bugs.python.org/issue3221.
-http://bugs.python.org/issue3309
-http://bugs.python.org/issue3386
-http://bugs.python.org/issue3554
-http://bugs.python.org/issue3677.
-http://bugs.python.org/issue3708
-http://bugs.python.org/issue3863.
-http://bugs.python.org/issue4373
-http://bugs.python.org/issue4524
-http://bugs.python.org/issue5040
-http://bugs.python.org/issue5042
-http://bugs.python.org/issue561858.
-http://bugs.python.org/issue6149
-http://bugs.python.org/issue6196
-http://bugs.python.org/issue6289
-http://bugs.python.org/issue6333
-http://bugs.python.org/issue6435
-http://bugs.python.org/issue6510
-http://bugs.python.org/issue6584
-http://bugs.python.org/issue6609
-http://bugs.python.org/issue6643.
-http://bugs.python.org/issue6665
-http://bugs.python.org/issue6704
-http://bugs.python.org/issue6857.
-http://bugs.python.org/issue6990
-http://bugs.python.org/issue7005
-http://bugs.python.org/issue7250
-http://bugs.python.org/issue742342
-http://bugs.python.org/issue7478
-http://bugs.python.org/issue7632
-http://bugs.python.org/issue7846
-http://bugs.python.org/issue8032
-http://bugs.python.org/issue8108
-http://bugs.python.org/issue8279?
-http://bugs.python.org/issue8330
-http://bugs.python.org/issue8600
-http://bugs.python.org/issue8732
-http://bugs.python.org/issue874900
-http://bugs.python.org/issue8772
-http://bugs.python.org/issue9444
-http://bugs.python.org/setuptools/issue2.
-http://bugs.python.org/setuptools/issue20.
-http://bugs.python.org/setuptools/issue33.
-http://bugs.python.org/setuptools/issue39.
-http://bugs.python.org/setuptools/issue40.
-http://bugs.python.org/setuptools/issue41.
-http://bugs.python.org/setuptools/issue44.
-http://bugs.ruby-lang.org
-http://bugs.ruby-lang.org.
-http://bugs.ruby-lang.org/issues/8059
-http://bugs.ruby-lang.org/wiki/ruby/Contributors
-http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7027598
-http://bugs.sun.com/view_bug.do?bug_id=4216736
-http://bugs.sun.com/view_bug.do?bug_id=4362291
-http://bugs.sun.com/view_bug.do?bug_id=4761949
-http://bugs.sun.com/view_bug.do?bug_id=6782987
-http://bugs.sun.com/view_bug.do?bug_id=7027598
-http://bugzilla.gnome.org/.
-http://bugzilla.gnome.org/enter_bug.cgi?product=glib
-http://bugzilla.mindrot.org/show_bug.cgi?id=138
-http://bugzilla.mindrot.org/show_bug.cgi?id=697
-http://builder.rubyforge.org/
-http://bundler.io
-http://bundler.io/
-http://bundler.io/compatibility.html
-http://bundler.io/conduct.html
-http://bundler.io/deploying.html
-http://bundler.io/rationale.html
-http://bundler.io/v1.3/man/bundle.1.html
-http://bundler.io/v1.5/rationale.html
-http://bundler.localgemserver.test
-http://c2.com/cgi/wiki?TrivialDoWhileLoop
-http://carroll.co.uk/
-http://carroll.us/
-http://cartogrammar.com/blog
-http://cartwright.ca/
-http://cava.unog.ch
-http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-http://c.example.com
-http://c-faq.com/misc/hexio.html.
-http://cheeseshop.python.org/pypi/workingenv.py
-http://choosealicense.com/licenses/mit/
-http://christiansen.biz/
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.6687
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.614
-http://clover.slavic.pitt.edu/
-http://code.activestate.com/pypm/
-http://code.activestate.com/pypm/search
-http://code.activestate.com/pypm/virtualenv
-http://code.activestate.com/recipes/259174/
-http://code.activestate.com/recipes/393090/
-http://code.activestate.com/recipes/440694/
-http://code.activestate.com/recipes/577621-manage-environment-variables-on-windows/
-http://code.google.com/p/android/issues/detail?id=10603
-http://code.google.com/p/android/issues/detail?id=2042
-http://code.google.com/p/android/issues/detail?id=3031
-http://code.google.com/p/android/issues/detail?id=39983
-http://code.google.com/p/asmjit/
-http://code.google.com/p/birdeye/wiki/RaVis
-http://code.google.com/p/bitcoinj/source/browse/trunk/src/com/google/bitcoin/core/Script.java
-http://code.google.com/p/cmdln/
-http://code.google.com/p/dpkt/
-http://code.google.com/p/flexlib/
-http://code.google.com/p/flexpad/
-http://code.google.com/p/grapefruit/issues/detail?id=3
-http://code.google.com/p/gyp/
-http://code.google.com/p/modwsgi/wiki/VirtualEnvironments
-http://code.google.com/p/ouspg/
-http://code.google.com/p/ouspg/downloads/list
-http://code.google.com/p/simplejson/issues/detail?id=3
-http://code.google.com/p/slowaes/
-http://code.google.com/p/smali/
-http://code.google.com/p/swfobject/
-http://code.google.com/p/treeshaker/
-http://code.google.com/p/unladen-swallow/source/detail?spec=svn875
-http://code.google.com/p/yara-project/
-http://code.macournoyer.com/thin/
-http://coderay.rubychan.de
-http://coderay.rubychan.de/doc/
-http://code.shichiseki.jp/as3/ExifInfo/
-http://code.sixapart.com/svn/memcached/trunk/server/doc/protocol.txt
-http://coding.derkeiler.com/Archive/General/comp.theory/2007-05/msg00043.html
-http://collinsheidenreich.uk/
-http://collins.us/
-http://colloquy.info
-http://colszowka.github.com/simplecov/devise_result-0.5.3.png
-http://colszowka.github.com/simplecov/devise_source_file-0.5.3.png
-http://community.rapid7.com/community/open_source/magnificent7
-http://connect.microsoft.com/VisualStudio/feedback/details/484295
-http://conn.info/
-http://conroy.co.uk/
-http://conroy.info/
-http://cool.haxx.se/mailman/listinfo/curl-library/
-http://coolio.github.com/
-http://corkami.blogspot.com/2010/01/hey-hey-hey-whats-in-your-head.html
-http://corkami.blogspot.com/2010/01/parce-que-la-planche-aura-brule.html
-http://corkerymurazik.ca/
-http://cormier.ca/
-http://cpe.mitre.org.
-http://cpe.mitre.org/The
-http://cran.r-project.org/src/contrib/Archive/ig/
-http://creativecommons.org/licenses/by-sa/2.0/
-http://creativecommons.org/licenses/publicdomain.
-http://creativecommons.org/ns
-http://creativecommons.org/publicdomain/zero/1.0/
-http://cremin.uk/
-http://cristmayer.uk/
-http://crooks.biz/
-http://crooks.co.uk/
-http://crookslindgren.us/
-http://cr.yp.to/libtai.html
-http://cs.arizona.edu/
-http://csrc.nist.gov/cryptval/shs.htm
-http://csrc.nist.gov/cryptval/shs.html
-http://csrc.nist.gov/cryptval/shs/shabytetestvectors.zip
-http://csrc.nist.gov/publications/fips/fips180-2/fips180-2.pdf
-http://cummings.co.uk/
-http://cummingshagenes.uk/
-http://curl.haxx.se
-http://curl.haxx.se/
-http://curl.haxx.se/docs/
-http://curl.haxx.se/docs/copyright.html.
-http://curl.haxx.se/docs/sslcerts.html
-http://curl.haxx.se/libcurl/
-http://curl.haxx.se/libcurl/c/curl_easy_cleanup.html
-http://curl.haxx.se/libcurl/c/curl_easy_getinfo.html
-http://curl.haxx.se/libcurl/c/curl_easy_init.html
-http://curl.haxx.se/libcurl/c/curl_easy_perform.html
-http://curl.haxx.se/libcurl/c/curl_easy_setopt.html
-http://curl.haxx.se/rfc/cookie_spec.html
-http://curl.haxx.se/rfc/rfc2396.txt
-http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2959
-http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-1350
-http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-1352
-http://cwe.mitre.org/
-http://cyberscore.dev/api/users
-http://cyberscore.dev/api/users?username=foobaz
-http://cycnus.de/raindark/coderay/scheme.png
-http://czyborra.com/
-http://czyborra.com/charsets/dec-mcs.txt.gz
-http://czyborra.com/charsets/hp-roman8.txt.gz
-http://czyborra.com/charsets/viscii.txt.gz
-http://d
-http://d.android.com/tools/testing/testing_android.html
-http://daniel.haxx.se/projects/roffit/
-http://darcs.brianweb.net/
-http://darcs.brianweb.net/gcclass/
-http://dare.us/
-http://daringfireball.net/projects/markdown/.
-http://daringfireball.net/projects/markdown/dingus
-http://daringfireball.net/projects/markdown/syntax
-http://data.linux-ntfs.org/rpm/whichrpm
-http://datatracker.ietf.org/public/idindex.cgi?command=id_details
-http://david.tribble.com/text/c0xcalendar.html
-http://davisschmitt.biz/
-http://db.apache.org/derby/
-http://db.apache.org/derby/derby_downloads.html
-http://dbus.freedesktop.org/doc/dbus-specification.html
-http://ddkwizard.assarbad.net
-http://denesik.name/
-http://dep.debian.net/deps/dep5
-http://dev.cuckoosandbox.org
-http://deveiate.org/projects/Darkfish-Rdoc/
-http://developer.android.com
-http://developer.android.com/guide/developing/tools/proguard.html
-http://developer.android.com/guide/publishing/licensing.html
-http://developer.android.com/guide/topics
-http://developer.android.com/guide/topics/media/camera.html
-http://developer.android.com/reference/android/media/MediaRecorder.html
-http://developer.android.com/tools/sdk/ndk/index.html
-http://developer.android.com/training/basics/fragments/communicating.html
-http://developer.android.com/training/multiscreen/screensizes.html
-http://developer.apple.com/documentation/MacOSX/Conceptual/BPFileSystem/index.html
-http://developer.apple.com/IPhone/library/samplecode/SpeakHere/index.html
-http://developer.apple.com/mac/library/documentation/MacOSX/Conceptual/BPInternational/Articles/FileEncodings.html
-http://developer.apple.com/mac/library/documentation/Performance/Conceptual/ManagingMemory/Articles/MallocDebug.html
-http://developer.apple.com/mac/library/qa/qa2001/qa1173.html
-http://developer.apple.com/mac/library/technotes/tn2002/tn2059.html
-http://developer.apple.com/mac/library/technotes/tn/tn1103.html
-http://developer.apple.com/qa/qa2004/qa1361.html
-http://developer.apple.com/samplecode/SonOfGrab/listing3.html
-http://developer.apple.com/tools/creatingdocsetswithdoxygen.html
-http://developer.intel.com/ial/wfm/wfmspecs.htm
-http://developers.sun.com/
-http://developer.symbian.org/wiki/index.php/Active_Objects_
-http://dev.pocoo.org/projects/pygments/browser/pygments/lexers/agile.py.
-http://dias.aueb.gr/
-http://didierstevens.com/files/software/TestIntegrityCheckFlag.zip
-http://diffhost.com/no/creds/
-http://diff-lcs.rubyforge.org/
-http://digg.com/news
-http://directory.fedora.redhat.com/docs/mod_nss.html
-http://directory.fsf.org/bras.html
-http://directory.fsf.org/project/patch/
-http://discussion.forum.nokia.com/forum/showthread.php?146721-how-to-get-FULL-message-body-for-SMS/page2
-http://dlmf.nist.gov
-http://dlmf.nist.gov/4.45
-http://dn.codegear.com/article/36575
-http://docbook.sourceforge.net/
-http://docbook.sourceforge.net/release/xsl/current/
-http://docbook.sourceforge.net/release/xsl/current/common/common.xsl
-http://docbook.sourceforge.net/release/xsl/current/fo/docbook.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/admon.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/callout.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/chunk-common.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/chunker.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/chunkfast.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/chunk.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/docbook.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/formal.xsl
-http://docbook.sourceforge.net/release/xsl/current/htmlhelp/htmlhelp.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/math.xsl
-http://docbook.sourceforge.net/release/xsl/current/html/xref.xsl
-http://docbook.sourceforge.net/release/xsl/current/lib/lib.xsl
-http://docbook.sourceforge.net/release/xsl/current/manpages/docbook.xsl
-http://docbook.sourceforge.net/release/xsl/current/xhtml/chunkfast.xsl
-http://docbook.sourceforge.net/release/xsl/current/xhtml/chunk.xsl
-http://docbook.sourceforge.net/release/xsl/current/xhtml/math.xsl
-http://../doc/path.htm
-http://docs.activestate.com/activepython/
-http://docs.blackberry.com/en/developers/deliverables/606/BlackBerry_Device_Simulator_User_Guide.pdf
-http://docs.codehaus.org/display/GEOTDOC/02
-http://docs.codehaus.org/display/GEOTDOC/Point
-http://docs.codehaus.org/display/STOMP/Protocol
-http://docs.cray.com/books/S-2179-50/html-S-2179-50/S-2179-50-toc.html
-http://docs.jquery.com/UI/Theming/API
-http://docs.mandragor.org/files/Programming_languages/Cpp/libstdcpp_v3_Source_Documentation/classstd_1_1out__of__range.html
-http://docs.oracle.com/javase/7/docs/technotes/guides/plugin/
-http://docs.oracle.com/javase/8/docs/platform/serialization/spec/class.html
-http://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html
-http://docs.oracle.com/javase/8/docs/technotes/guides/jfr/
-http://docs.oracle.com/javase/specs/jls/se5.0/html/binaryComp.html
-http://docs.oracle.com/javase/specs/jls/se5.0/html/classes.html
-http://docs.oracle.com/javase/specs/jls/se5.0/html/j3TOC.html
-http://docs.oracle.com/javase/specs/jvms/se5.0/html/ClassFile.doc.html
-http://docs.oracle.com/javase/specs/jvms/se5.0/html/VMSpecTOC.doc.html
-http://docs.python.org/
-http://docs.python.org/dev/whatsnew/2.6.html
-http://docs.python.org/distutils/
-http://docs.python.org/extending/windows.html
-http://docs.python.org/glossary.html
-http://docs.python.org/lib/decimal-recipes.html
-http://docs.python.org/library
-http://docs.python.org/library/
-http://docs.python.org/library/unittest.html
-http://docs.python.org/library/urllib2.html
-http://docs.python.org/library/urllib.html
-http://docs.python.org/library/warnings.html
-http://docs.python.org/license.html
-http://docs.python.org/ref/ref.html
-http://docs.python.org/tutorial/.
-http://docs.rubygems.org/
-http://docs.rubygems.org/read/book/1
-http://docs.rubygems.org/read/book/3
-http://docs.rubygems.org/read/chapter/16
-http://docs.rubygems.org/read/chapter/5
-http://docs.rubyrake.org
-http://docs.seattlerb.org/net-http-pipeline/Net/HTTP/Pipeline.html
-http://docs.sun.com/source/806-3568/ncg_goldberg.html
-http://doc.trolltech.com/qthelpproject.html
-http://doc.trolltech.com/qt/resources.html
-http://documents.wolfram.com/calculationcenter/v2/Functions/ListsMatrices/Statistics/PoissonDistribution.html
-http://documents.wolfram.com/calculationcenter/v2/Functions/ListsMatrices/Statistics/UniformDistribution.html
-http://documents.wolfram.com/teachersedition/Teacher/Statistics/DiscreteDistributions.html
-http://documents.wolfram.com/v5/Add-onsLinks/StandardPackages/Statistics/DiscreteDistributions.html
-http://docutils.sourceforge.net/
-http://dog.borec.cz/down_apps/Adventures_in_Air.apk
-http://dog.borec.cz/img/4895.png
-http://dog.borec.cz/img/download.png
-http://dog.borec.cz/img/hstar.png
-http://dog.borec.cz/img/ystar.png
-http://dog.borec.cz/style/desktop.css
-http://dog.borec.cz/style/global.css
-http://dog.borec.cz/style/mobile.css
-http://dogma.net/markn/articles/zlibtool/zlibtool.htm
-http://doi.acm.org/10.1145/1916461.1916469
-http://doi.acm.org/10.1145/237814.237880
-http://doi.acm.org/10.1145/355666.355670
-http://doi.acm.org/10.1145/362342.362367
-http://doi.acm.org/10.1145/362814.362819
-http://doi.acm.org/10.1145/363219.363232
-http://domain.com/
-http://domain/repo
-http://donquixote.cafebabe.jp/
-http://doofus
-http://dooleystreich.uk/
-http://download.adobe.com/pub/adobe/acrobat/win/all/ifilter50.exe
-http://download.boulder.ibm.com/ibmdl/pub/software/dw/aix/es-aix_ll.pdf
-http://downloadcenter.intel.com/Detail_Desc.aspx?agr=Y
-http://downloadcenter.intel.com/Detail_Desc.aspx?lang=eng
-http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab
-http://download.microsoft.com/download/2/c/1/2c16c7e0-96c1-40f5-81fc-3e4bf7b65496/microsoft_asl_compiler-v4-0-0.msi
-http://downloadmirror.intel.com/8659/eng/LAN_ALLOS_11.2_PV
-http://download.oracle.com/javadb/index.html
-http://download.oracle.com/technology/products/missioncontrol/updatesites/emf-xsd-source-2.8.0.zip
-http://download.oracle.com/technology/products/missioncontrol/updatesites/emf-xsd-source-2.8.3.zip
-http://download.oracle.com/technology/products/missioncontrol/updatesites/org-eclipse-rcp-source-3.8.2.zip.
-http://download.oracle.com/technology/products/missioncontrol/updatesites/tmf-xtext-SDK-2.3.0_source.zip.
-http://download.osgeo.org/shapelib/
-http://downloads.sourceforge.net/project/boost/boost/
-http://doyle.name/
-http://doyle.us/
-http://d.pypi.python.org
-http://dry.sailingissues.com/linux-equivalents-verdana-arial.html
-http://ds.internic.net/rfc/rfc1521.txt
-http://dumps.webbtc.com.
-http://durgan.co.uk/
-http://dx.doi.org/10.1016/j.socnet.2005.11.005
-http://dx.doi.org/10.1016/j.tcs.2006.06.015
-http://eclipse.org/equinox/p2/repository_packaging.html
-http://edk2.tianocore.org/toolkit/python
-http://edk.tianocore.org.
-http://effbot.org/ns
-http://effbot.org/zone/simple-iterator-parser.htm
-http://effbot.org/zone/stringlib.htm
-http://effertz.biz/
-http://eigenclass.org/hiki/bounded
-http://elsewhere.com/
-http://elsewhere.com/path/to/
-http://emmerich.ca/
-http://emmerich.co.uk/
-http://emr.cs.iit.edu/home/reingold/calendar-book/second-edition
-http://emr.cs.iit.edu/home/reingold/calendar-book/second-edition/
-http://emr.cs.uiuc.edu/home/reingold/calendar-book/index.shtml
-http://en.citizendium.org/wiki/Spherical_polar_coordinates
-http://english2american.com.
-http://en.wikibooks.org/wiki/X86_Disassembly/Calling_Conventions
-http://en.wikipedia.org/wiki/8.3_filename
-http://en.wikipedia.org/wiki/Abstract_factory_pattern
-http://en.wikipedia.org/wiki/Adobe_Flash_Player
-http://en.wikipedia.org/wiki/Affine_transformation
-http://en.wikipedia.org/wiki/ANSI_escape_code
-http://en.wikipedia.org/wiki/Argument-dependent_name_lookup
-http://en.wikipedia.org/wiki/Bayesian_inference
-http://en.wikipedia.org/wiki/bernoulli_distribution
-http://en.wikipedia.org/wiki/Bernoulli_distribution
-http://en.wikipedia.org/wiki/Bernoulli_process
-http://en.wikipedia.org/wiki/Bernoulli_trial
-http://en.wikipedia.org/wiki/Beta_distribution
-http://en.wikipedia.org/wiki/binomial_distribution
-http://en.wikipedia.org/wiki/BLAS
-http://en.wikipedia.org/wiki/Boyer
-http://en.wikipedia.org/wiki/C
-http://en.wikipedia.org/wiki/Cartesian_coordinate_system
-http://en.wikipedia.org/wiki/Cash
-http://en.wikipedia.org/wiki/Characteristic_function_
-http://en.wikipedia.org/wiki/Coefficient_of_determination
-http://en.wikipedia.org/wiki/Confidence_interval
-http://en.wikipedia.org/wiki/Conjugate_prior
-http://en.wikipedia.org/wiki/Cramer
-http://en.wikipedia.org/wiki/CRAM-MD5
-http://en.wikipedia.org/wiki/Cuboctahedron
-http://en.wikipedia.org/wiki/Curtosis
-http://en.wikipedia.org/wiki/Derivative
-http://en.wikipedia.org/wiki/Energy_Policy_Act_of_2005
-http://en.wikipedia.org/wiki/Ephemeral_port
-http://en.wikipedia.org/wiki/Euler
-http://en.wikipedia.org/wiki/Foo
-http://en.wikipedia.org/wiki/Foobar
-http://en.wikipedia.org/wiki/Free_throw
-http://en.wikipedia.org/wiki/Frequentist_inference
-http://en.wikipedia.org/wiki/Gamma_distribution
-http://en.wikipedia.org/wiki/Geographic_coordinate_system
-http://en.wikipedia.org/wiki/geometric
-http://en.wikipedia.org/wiki/geometric_distribution
-http://en.wikipedia.org/wiki/Graph_theory.
-http://en.wikipedia.org/wiki/Great-circle_distance
-http://en.wikipedia.org/wiki/Haversine_formula
-http://en.wikipedia.org/wiki/Hermitian_matrix
-http://en.wikipedia.org/wiki/HLS_color_space
-http://en.wikipedia.org/wiki/Horner
-http://en.wikipedia.org/wiki/HSV_color_space
-http://en.wikipedia.org/wiki/HTTP_tunnel
-http://en.wikipedia.org/wiki/IEEE_802.11i-2004
-http://en.wikipedia.org/wiki/Immutable_object
-http://en.wikipedia.org/wiki/Imperative_programming
-http://en.wikipedia.org/wiki/Inotify
-http://en.wikipedia.org/wiki/Inverse-chi-square_distribution
-http://en.wikipedia.org/wiki/Inverse-gamma_distribution
-http://en.wikipedia.org/wiki/Inverse_Gaussian_distribution.
-http://en.wikipedia.org/wiki/IP_multicast
-http://en.wikipedia.org/wiki/Knuth-Morris-Pratt_algorithm
-http://en.wikipedia.org/wiki/Laplace_distribution
-http://en.wikipedia.org/wiki/Linear_multistep_method
-http://en.wikipedia.org/wiki/List_of_canonical_coordinate_transformations
-http://en.wikipedia.org/wiki/Lognormal_distribution
-http://en.wikipedia.org/wiki/Mathematical_constant
-http://en.wikipedia.org/wiki/Mobile_country_code
-http://en.wikipedia.org/wiki/Mobile_Network_Code
-http://en.wikipedia.org/wiki/Monitor_
-http://en.wikipedia.org/wiki/Multicast_address
-http://en.wikipedia.org/wiki/Multiset
-http://en.wikipedia.org/wiki/Name_mangling
-http://en.wikipedia.org/wiki/Negative_binomial
-http://en.wikipedia.org/wiki/negative_binomial_distribution
-http://en.wikipedia.org/wiki/Negative_binomial_distribution
-http://en.wikipedia.org/wiki/Newton
-http://en.wikipedia.org/wiki/Normal_distribution
-http://en.wikipedia.org/wiki/Normal-inverse_Gaussian_distribution
-http://en.wikipedia.org/wiki/pareto_distribution
-http://en.wikipedia.org/wiki/Pareto_distribution
-http://en.wikipedia.org/wiki/Poisson_distribution
-http://en.wikipedia.org/wiki/Polar_coordinates
-http://en.wikipedia.org/wiki/Privacy_Enhanced_Mail
-http://en.wikipedia.org/wiki/Qt_
-http://en.wikipedia.org/wiki/Ramer-Douglas-Peucker_algorithm
-http://en.wikipedia.org/wiki/Reactor_pattern
-http://en.wikipedia.org/wiki/Rotation_
-http://en.wikipedia.org/wiki/Runge
-http://en.wikipedia.org/wiki/Sandbox_
-http://en.wikipedia.org/wiki/Scaled-inverse-chi-square_distribution
-http://en.wikipedia.org/wiki/Scaling_
-http://en.wikipedia.org/wiki/Skew_normal_distribution
-http://en.wikipedia.org/wiki/Skype
-http://en.wikipedia.org/wiki/SLIME
-http://en.wikipedia.org/wiki/SOCKS
-http://en.wikipedia.org/wiki/Spherical_coordinates
-http://en.wikipedia.org/wiki/Standard_deviation
-http://en.wikipedia.org/wiki/Stdcall
-http://en.wikipedia.org/wiki/Sticky_bit
-http://en.wikipedia.org/wiki/Student
-http://en.wikipedia.org/wiki/Symplectic_integrator
-http://en.wikipedia.org/wiki/Talk
-http://en.wikipedia.org/wiki/Taxicab_geometry
-http://en.wikipedia.org/wiki/Tebibyte
-http://en.wikipedia.org/wiki/Time_t
-http://en.wikipedia.org/wiki/Translation_
-http://en.wikipedia.org/wiki/Transport_Layer_Security
-http://en.wikipedia.org/wiki/Triangular_distribution
-http://en.wikipedia.org/wiki/Trie
-http://en.wikipedia.org/wiki/Tuvalu
-http://en.wikipedia.org/wiki/Uniform_distribution_
-http://en.wikipedia.org/wiki/Uniform_Resource_Locator.
-http://en.wikipedia.org/wiki/Uniform_spanning_tree
-http://en.wikipedia.org/wiki/Weibull_distribution
-http://en.wikipedia.org/wiki/X.509
-http://en.wikipedia.org/wiki/YIQ
-http://en.wiktionary.org/wiki/Wiktionary
-http://ernserkeeling.us/
-http://es.ogame.org/
-http://espse.ed.psu.edu/edpsych/faculty/rhale/hale/507Mat/statlets/free/pdist.htm
-http://esupport.sony.com/US/p/swu-matrix.pl?upd_id=2396
-http://eternallyconfuzzled.com/tuts/algorithms/jsw_tut_hashing.aspx
-http://etutorials.org/Networking/802.11
-http://eventmachine.rubyforge.org
-http://eventmachine.rubyforge.org/EventMachine/Connection.html
-http://events.ccc.de/congress/2005/fahrplan/attachments/683-slides_fuzzing.pdf
-http://everburning.com/news/eventmachine-introductions/
-http://everburning.com/news/eventmachine-screencast-em-http-request/
-http://everything2.com/title/loop-erased
-http://evil
-http://examle.com/ABCD
-http://example/
-http://example.
-http:///example.com
-http://example.com
-http://example.com?
-http://example.com/
-http://example.com/?
-http://example.com/..
-http://example.com/../..
-http://example.com./
-http://Example.com/
-http://EXAMPLE.com
-http://EXAMPLE.COM/
-http://example.com/1
-http://example.com/1/
-http://example.com/?a=
-http://example.com/?a=1
-http://example.com/a/b/c/
-http://example.com/ABCD
-http://example.com/a/b/c/?one=1
-http://example.com/action_which_sets_session_id
-http://example.com/a.html
-http://example.com/awesome/web/service
-http://example.com/bar
-http://example.com/b.html
-http://example.com?blahblah=/foo
-http://example.com/C
-http://example.com/cached_response
-http://example.com/doc/
-http://example.com/docs/
-http://example.com/example.com/
-http://example.com/examplepost.cgi
-http://example.com/file.txt
-http://example.com/foo
-http://example.com/?foo=bar
-http://example.com/foo/bar
-http://example.com//foo/bar/baz.html
-http://example.com/foo//bar/baz.html
-http://example.com/foo/bar//baz.html
-http://example.com/foo/bar/baz.html
-http://example.com/home/
-http://example.com/home/index
-http://example.com/index.html
-http://example.com/index.html?count=10
-http://example.com/index.html?key=value
-http://example.com/indirect/path/./to/../resource/
-http://example.com/large_file
-http://example.com/ni
-http://example.com/ns
-http://example.com/?one=1
-http://example.com/orders
-http://example.com/orders/1
-http://example.com/orders/1/items
-http://example.com/path
-http://example.com/path/
-http://example.com/path?a=1
-http://example.com/path?query
-http://example.com/path/segment/
-http://example.com/path/to/
-http://example.com/path/to/another
-http://example.com/path/to/res
-http://example.com/path/to/resource
-http://example.com/path/to/resource/
-http://example.com/path/to/resource?query=x
-http://example.com/path/to/resource/sub
-http://example.com/posts
-http://example.com/?q
-http://example.com/?q=
-http://example.com/?q=a
-http://example.com/?q=string
-http://example.com/relative/path
-http://example.com/resource
-http://example.com/resource?foo=bar
-http://example.com/resource.pdf
-http://example.com/resource.xml
-http://example.com/search/
-http://example.com/search/an
-http://example.com/search/an-example-search-query/
-http://example.com/search?q=Q
-http://example.com/some.jpg
-http://example.com/some_path?query=string
-http://example.com/sound
-http://example.com/spam
-http://example.com/?spam/eggs
-http://example.com/spam/spam
-http://example.com/to/resource/
-http://example.com/?v=
-http://example.com/x
-http://example.com/?x=1
-http://example.co.uk/
-http://example.jp/
-http://example.org
-http://example.org/
-http://exmple.org
-http://exslt.org/common
-http://exslt.org/dates-and-times
-http://exslt.org/functions
-http://exslt.org/sets
-http://exslt.org/strings
-http://faculty.vassar.edu/lowry/tsamp.html
-http://faculty.vassar.edu/lowry/VassarStats.html
-http://fadel.com/
-http://ferrygrant.biz/
-http://files2.europe.creative.com/manualdn/Drivers/AVP/10599/0x48689B99/SB51_XPDR
-http://files.chumby.com/toolchain/arm-2008q3-72-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
-http://firefly.activestate.com/sridharr/pypm/ticket/126
-http://fishbowl.pastiche.org/2003/07/01/the_curse_of_apos
-http://fishbowl.pastiche.org/2004/10/13/cargo_cult_programming
-http://fishernolan.uk/
-http://flatley.uk/
-http://flattr.com/thing/394890/Cuckoo-Sandbox
-http:///fo
-http://foo
-http://foo/
-http://foo/bar
-http://foo.bar.acme.com/foo
-http://foo/bar/baz
-http://foo/bar/baz?search=FooBar
-http://foo.bar.com/
-http://foo.bar.net/comment.html
-http://foo.com
-http://foo.com/
-http://foo.com/a/b/c/d
-http://foo.com/bar
-http://foo.com/bar/
-http://foo.com/bar/baz
-http://foo.com/bar/baz/
-http://foo.com/ignorable/path
-http://foo.com/posts?id=30
-http://foo.com?query
-http://foo.co.uk
-http://foo.co.uk/
-http://foo.example.com/bla
-http://foo.example.org/bla
-http://foo.net/
-http://foo.net/foo
-http://foo.net/foo/
-http://foo.net/foo/bar/
-http://foo.org/
-http://forums.adobe.com/message/3819357
-http://forums.java.net/node/703624
-http://forums.winamp.com/showthread.php?s=
-http://forum.xda-developers.com/showpost.php?p=41461956
-http://forum.xda-developers.com/showthread.php?t=2130276
-http://forum.xda-developers.com/showthread.php?t=688095
-http://franeckiwalter.co.uk/
-http://freshmeat.net/rate/38012/
-http://freshsources.com
-http://fsf.org/
-http://ftp.gnome.org/pub/GNOME/sources/glib/
-http://ftp.gnome.org/pub/GNOME/sources/libgnome-keyring/
-http://ftp.gnu.org/pub/gnu/gettext/gettext-
-http://ftp.gnu.org/pub/gnu/libiconv/libiconv-
-http://ftpmirror.gnu.org/gcc/
-http://ftp.mozilla.org/pub/mozilla.org/nspr/
-http://ftp.mozilla.org/pub/mozilla.org/security/nss/
-http://ftp.sas.com/standards/large.file/x_open.20Mar96.html
-http://ftp.x.org/pub/DOCS/registry
-http://functions.wolfram.com/
-http://functions.wolfram.com/BesselAiryStruveFunctions/BesselJ/06/02/02/0001/
-http://functions.wolfram.com/Bessel-TypeFunctions/BesselJ/06/01/04/01/01/0003/
-http://functions.wolfram.com/Bessel-TypeFunctions/BesselY/06/01/04/01/01/0003/
-http://functions.wolfram.com/Bessel-TypeFunctions/BesselY/06/01/04/01/02/
-http://functions.wolfram.com/Constants/E/02/
-http://functions.wolfram.com/ElementaryFunctions/ArcCosh/02/
-http://functions.wolfram.com/ElementaryFunctions/ArcCosh/06/01/04/01/0001/
-http://functions.wolfram.com/ElementaryFunctions/ArcCosh/06/01/06/01/0001/
-http://functions.wolfram.com/ElementaryFunctions/ArcSin/26/01/01/
-http://functions.wolfram.com/ElementaryFunctions/ArcSinh/02/
-http://functions.wolfram.com/ElementaryFunctions/ArcSinh/06/01/03/01/0001/
-http://functions.wolfram.com/ElementaryFunctions/ArcSinh/06/01/06/01/0001/
-http://functions.wolfram.com/ElementaryFunctions/ArcTanh/
-http://functions.wolfram.com/ElementaryFunctions/ArcTanh/02/
-http://functions.wolfram.com/ElementaryFunctions/ArcTanh/06/01/03/01/
-http://functions.wolfram.com/GammaBetaErf/Binomial/
-http://functions.wolfram.com/HypergeometricFunctions/Hypergeometric0F0/06/01/
-http://functions.wolfram.com/HypergeometricFunctions/Hypergeometric0F1/06/01/01/
-http://functions.wolfram.com/HypergeometricFunctions/Hypergeometric1F0/06/01/01/
-http://functions.wolfram.com/webMathematica/FunctionEvaluation.jsp
-http://functions.wolfram.com/webMathematica/FunctionEvaluation.jsp?name=BetaRegularized
-http://functions.wolfram.com/webMathematica/FunctionEvaluation.jsp?name=GammaRegularized
-http://fuzzybunnies.example.com/
-http://g
-http://gaslight.co/home
-http://gaylordconsidine.ca/
-http://gcc.gnu.org/bugzilla/show_bug.cgi?8503
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=14176
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=17435
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=20439
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=24063
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=24915
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=28088
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=29328
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=30111
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=33916
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=37920
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=38064
-http://gcc.gnu.org/bugzilla/show_bug.cgi?id=9810
-http://gcc.gnu.org/ml/gcc/2004-06/msg00227.html
-http://gcc.gnu.org/ml/gcc-bugs/1999-03n/msg00884.html
-http://gcc.gnu.org/ml/gcc-bugs/2000-03/msg00805.html
-http://gcc.gnu.org/ml/gcc-patches/2003-12/msg02303.html
-http://gcc.gnu.org/ml/java/1999-q3/msg00138.html
-http://gcc.gnu.org/ml/java/1999-q3/msg00174.html
-http://gcc.gnu.org/ml/libstdc
-http://gcc.gnu.org/onlinedocs/gcc-4.1.1/gcc/Atomic-Builtins.html
-http://gcc.gnu.org/onlinedocs/gcc/Machine-Constraints.html
-http://gcc.gnu.org/onlinedocs/libstdc
-http://gcc.gnu.org/onlinedocs/porting/Thread-safety.html
-http://gee.cs.oswego.edu/cgi-bin/viewcvs.cgi/jsr166/src/jsr166e/ConcurrentHashMapV8.java?revision=1.59
-http://gee.cs.oswego.edu/cgi-bin/viewcvs.cgi/jsr166/src/jsr166e/LongAdder.java?revision=1.8
-http://gee.cs.oswego.edu/cgi-bin/viewcvs.cgi/jsr166/src/jsr166e/Striped64.java?revision=1.6
-http://gee.cs.oswego.edu/dl/classes/collections/RBCell.java
-http://gee.cs.oswego.edu/dl/html/malloc.html
-http://gembundler.com
-http://gembundler.com/
-http://gemcutter.org
-http://gem-mirror.example.org
-http://gem-mirror.example.org/
-http://gem_server_host
-http://gems.example.com/
-http://gems.example.com/yaml
-http://gems.example.org
-http://gems.example.org/
-http://gems.rubyforge.org/gems/yaml
-http://genius.ru/products.aspx?pnum=24948
-http://genjar.sourceforge.net/
-http://gennaro-prota.50webs.com/
-http://geojson.org/geojson-spec.html
-http://geometryalgorithms.com/Archive/algorithm_0102/algorithm_0102.htm
-http://getbootstrap.com
-http://getfirebug.com/
-http://g.example.com
-http://gibson.name/
-http://gis.hsr.ch/wiki/images/3/3d/9dem_springer.pdf
-http://gist.github.com/103208
-http://gist.github.com/155877
-http://gist.github.com/251244
-http://gist.github.com/265593
-http://gist.github.com/54177.
-http://git.gnome.org/browse/gimp/tree/devel-docs/xcf.txt
-http://github.com/
-http://github.com/a2800276/http-parser.java
-http://github.com/ActiveState/appdirs
-http://github.com/ActiveState/pythonselect
-http://github.com/archiloque/rest-client
-http://github.com/banister
-http://github.com/banister/method_source
-http://github.com/bdurand/ref
-http://github.com/benburkert
-http://github.com/besquared
-http://github.com/bleything/plist
-http://github.com/bpardee/gene_pool
-http://github.com/bpardee/persistent_http
-http://github.com/brianmario
-http://github.com/brianmario/freckle-api
-http://github.com/brianmario/yajl-ruby
-http://github.com/brianmario/yajl-ruby/tree/master/examples
-http://github.com/bundler/bundler
-http://github.com/bundler/bundler/issues
-http://github.com/capistrano/bundler
-http://github.com/colszowka/simplecov
-http://github.com/colszowka/simplecov/issues/179
-http://github.com/colszowka/simplecov/pull/192
-http://github.com/crohr/rest-client-components
-http://github.com/cuckoobox/
-http://github.com/cuckoobox/cuckoo
-http://github.com/cuckoobox/cuckoo/tree/development
-http://github.com/cuckoobox/cuckoo/tree/testing
-http://github.com/cypriss
-http://github.com/dwaite/cookiejar
-http://github.com/eventmachine/eventmachine
-http://github.com/ffi/ffi/wiki/Structs
-http://github.com/francois/rest-client
-http://github.com/hone
-http://github.com/http-parser/http-parser.java
-http://github.com/igrigorik/em-http-request
-http://github.com/igrigorik/em-socksify
-http://github.com/igrigorik/em-websocket
-http://github.com/indirect
-http://github.com/intridea/multi_json
-http://github.com/jdg
-http://github.com/jimweirich/rake
-http://github.com/jimweirich/rake.
-http://github.com/jlsuttles
-http://github.com/joyent/http-parser
-http://github.com/kevn
-http://github.com/leejarvis/slop
-http://github.com/lloyd
-http://github.com/lloyd/yajl.
-http://github.com/luislavena/win32console
-http://github.com/mhanne/bitcoin-ruby/tree/master/
-http://github.com/mongodb/bson-ruby/pull/13
-http://github.com/mongodb/bson-ruby/pull/14
-http://github.com/mongodb/bson-ruby/pull/15
-http://github.com/mongodb/bson-ruby/pull/16
-http://github.com/mongodb/bson-ruby/pull/17
-http://github.com/ms-ati/docile/compare/1b225c8a27...v1.0.0
-http://github.com/ms-ati/docile/compare/v1.0.0...v1.0.1
-http://github.com/ms-ati/docile/compare/v1.0.1...v1.0.2
-http://github.com/ms-ati/docile/compare/v1.0.2...v1.0.3
-http://github.com/ms-ati/docile/compare/v1.0.3...v1.0.4
-http://github.com/ms-ati/docile/compare/v1.0.4...v1.0.5
-http://github.com/ms-ati/docile/compare/v1.0.5...v1.1.0
-http://github.com/ms-ati/docile/compare/v1.1.0...v1.1.1
-http://github.com/ms-ati/docile/compare/v1.1.1...v1.1.2
-http://github.com/ms-ati/docile/compare/v1.1.2...v1.1.3
-http://github.com/ms-ati/docile/compare/v1.1.3...v1.1.4
-http://github.com/ms-ati/docile/compare/v1.1.4...v1.1.5
-http://github.com/ninjudd/tuple
-http://github.com/oneclick/rubyinstaller/wiki/Development-Kit
-http://github.com/oortle
-http://github.com/pry/pry
-http://github.com/rails/rails/commit/63bb955a99eb46e257655c93dd64e86ebbf05651
-http://github.com/rails/rails/commit/a96bf4ab5e73fccdafb78b99e8a122cc2172b505
-http://github.com/rails/rails.git
-http://github.com/retoo/rvincenty
-http://github.com/rspec
-http://github.com/rspec/rspec
-http://github.com/rspec/rspec-collection_matchers
-http://github.com/rspec/rspec-core
-http://github.com/rspec/rspec-core/blob/master/features/example_groups/shared_example_group.feature
-http://github.com/rspec/rspec-core/compare/v2.0.0.beta.20...v2.0.0.beta.22
-http://github.com/rspec/rspec-core/compare/v2.0.0.beta.22...v2.0.0.rc
-http://github.com/rspec/rspec-core/compare/v2.0.0.rc...v2.0.0
-http://github.com/rspec/rspec-core/compare/v2.0.0...v2.0.1
-http://github.com/rspec/rspec-core/compare/v2.0.1...v2.1.0
-http://github.com/rspec/rspec-core/compare/v2.10.0...v2.10.1
-http://github.com/rspec/rspec-core/compare/v2.10.1...v2.11.0
-http://github.com/rspec/rspec-core/compare/v2.1.0...v2.2.0
-http://github.com/rspec/rspec-core/compare/v2.11.0...v2.11.1
-http://github.com/rspec/rspec-core/compare/v2.11.1...v2.12.0
-http://github.com/rspec/rspec-core/compare/v2.12.0...v2.12.1
-http://github.com/rspec/rspec-core/compare/v2.12.1...v2.12.2
-http://github.com/rspec/rspec-core/compare/v2.12.2...v2.13.0
-http://github.com/rspec/rspec-core/compare/v2.13.0...v2.13.1
-http://github.com/rspec/rspec-core/compare/v2.13.1...v2.14.0.rc1
-http://github.com/rspec/rspec-core/compare/v2.14.0.rc1...v2.14.0
-http://github.com/rspec/rspec-core/compare/v2.14.0...v2.14.1
-http://github.com/rspec/rspec-core/compare/v2.14.1...v2.14.2
-http://github.com/rspec/rspec-core/compare/v2.14.2...v2.14.3
-http://github.com/rspec/rspec-core/compare/v2.14.3...v2.14.4
-http://github.com/rspec/rspec-core/compare/v2.14.4...v2.14.5
-http://github.com/rspec/rspec-core/compare/v2.14.5...v2.14.6
-http://github.com/rspec/rspec-core/compare/v2.14.6...v2.14.7
-http://github.com/rspec/rspec-core/compare/v2.14.7...v2.14.8
-http://github.com/rspec/rspec-core/compare/v2.14.7...v2.99.0.beta1
-http://github.com/rspec/rspec-core/compare/v2.2.0...v2.2.1
-http://github.com/rspec/rspec-core/compare/v2.2.1...v2.3.0
-http://github.com/rspec/rspec-core/compare/v2.3.0...v2.3.1
-http://github.com/rspec/rspec-core/compare/v2.3.1...v2.4.0
-http://github.com/rspec/rspec-core/compare/v2.4.0...v2.5.0
-http://github.com/rspec/rspec-core/compare/v2.5.0...v2.5.1
-http://github.com/rspec/rspec-core/compare/v2.5.1...v2.6.0
-http://github.com/rspec/rspec-core/compare/v2.6.0...v2.6.1
-http://github.com/rspec/rspec-core/compare/v2.6.1...v2.6.2
-http://github.com/rspec/rspec-core/compare/v2.6.2...v2.6.3
-http://github.com/rspec/rspec-core/compare/v2.6.3...v2.6.4
-http://github.com/rspec/rspec-core/compare/v2.6.4...v2.7.0
-http://github.com/rspec/rspec-core/compare/v2.7.0...v2.7.1
-http://github.com/rspec/rspec-core/compare/v2.7.1...v2.8.0.rc1
-http://github.com/rspec/rspec-core/compare/v2.8.0.rc1...v2.8.0.rc2
-http://github.com/rspec/rspec-core/compare/v2.8.0.rc2...v2.8.0
-http://github.com/rspec/rspec-core/compare/v2.8.0...v2.9.0
-http://github.com/rspec/rspec-core/compare/v2.9.0...v2.10.0
-http://github.com/rspec/rspec-core/compare/v2.99.0.beta1...v2.99.0.beta2
-http://github.com/rspec/rspec-core/compare/v2.99.0.beta2...v2.99.0.rc1
-http://github.com/rspec/rspec-core/compare/v2.99.0.rc1...v2.99.0
-http://github.com/rspec/rspec-core/compare/v2.99.0...v2.99.1
-http://github.com/rspec/rspec-core/compare/v2.99.1...v2.99.2
-http://github.com/rspec/rspec-core/compare/v2.99.1...v3.0.0.beta1
-http://github.com/rspec/rspec-core/compare/v3.0.0.beta1...v3.0.0.beta2
-http://github.com/rspec/rspec-core/compare/v3.0.0.beta2...v3.0.0.rc1
-http://github.com/rspec/rspec-core/compare/v3.0.0.rc1...v3.0.0
-http://github.com/rspec/rspec-core/compare/v3.0.0...v3.0.1
-http://github.com/rspec/rspec-core/compare/v3.0.1...v3.0.2
-http://github.com/rspec/rspec-core/compare/v3.0.2...v3.0.3
-http://github.com/rspec/rspec-core/compare/v3.0.3...v3.0.4
-http://github.com/rspec/rspec-core/compare/v3.0.4...v3.1.0
-http://github.com/rspec/rspec-core/compare/v3.1.0...v3.1.1
-http://github.com/rspec/rspec-core/compare/v3.1.1...v3.1.2
-http://github.com/rspec/rspec-core/compare/v3.1.2...v3.1.3
-http://github.com/rspec/rspec-core/compare/v3.1.3...v3.1.4
-http://github.com/rspec/rspec-core/compare/v3.1.4...v3.1.5
-http://github.com/rspec/rspec-core/compare/v3.1.5...v3.1.6
-http://github.com/rspec/rspec-core/compare/v3.1.6...v3.1.7
-http://github.com/rspec/rspec-core/issues
-http://github.com/rspec/rspec-dev
-http://github.com/rspec/rspec-expectations
-http://github.com/rspec/rspec-expectations/compare/v2.0.0.beta.20...v2.0.0.beta.22
-http://github.com/rspec/rspec-expectations/compare/v2.0.0.beta.22...v2.0.0.rc
-http://github.com/rspec/rspec-expectations/compare/v2.0.0.rc...v2.0.0
-http://github.com/rspec/rspec-expectations/compare/v2.0.1...v2.1.0
-http://github.com/rspec/rspec-expectations/compare/v2.10.0...v2.11.0
-http://github.com/rspec/rspec-expectations/compare/v2.1.0...v2.2.0
-http://github.com/rspec/rspec-expectations/compare/v2.11.0...v2.11.1
-http://github.com/rspec/rspec-expectations/compare/v2.11.1...v2.11.2
-http://github.com/rspec/rspec-expectations/compare/v2.11.2...v2.11.3
-http://github.com/rspec/rspec-expectations/compare/v2.11.3...v2.12.0
-http://github.com/rspec/rspec-expectations/compare/v2.12.0...v2.12.1
-http://github.com/rspec/rspec-expectations/compare/v2.12.1...v2.13.0
-http://github.com/rspec/rspec-expectations/compare/v2.13.0...v2.14.0.rc1
-http://github.com/rspec/rspec-expectations/compare/v2.14.0...2.14.1
-http://github.com/rspec/rspec-expectations/compare/v2.14.0.rc1...v2.14.0
-http://github.com/rspec/rspec-expectations/compare/v2.14.1...v2.14.2
-http://github.com/rspec/rspec-expectations/compare/v2.14.2...v2.14.3
-http://github.com/rspec/rspec-expectations/compare/v2.14.3...v2.14.4
-http://github.com/rspec/rspec-expectations/compare/v2.14.4...v2.14.5
-http://github.com/rspec/rspec-expectations/compare/v2.14.4...v2.99.0.beta1
-http://github.com/rspec/rspec-expectations/compare/v2.2.1...v2.3.0
-http://github.com/rspec/rspec-expectations/compare/v2.3.0...v2.4.0
-http://github.com/rspec/rspec-expectations/compare/v2.4.0...v2.5.0
-http://github.com/rspec/rspec-expectations/compare/v2.5.0...v2.6.0
-http://github.com/rspec/rspec-expectations/compare/v2.6.0...v2.7.0
-http://github.com/rspec/rspec-expectations/compare/v2.7.0...v2.8.0.rc1
-http://github.com/rspec/rspec-expectations/compare/v2.8.0.rc1...v2.8.0.rc2
-http://github.com/rspec/rspec-expectations/compare/v2.8.0.rc2...v2.8.0
-http://github.com/rspec/rspec-expectations/compare/v2.8.0...v2.9.0
-http://github.com/rspec/rspec-expectations/compare/v2.9.0...v2.9.1
-http://github.com/rspec/rspec-expectations/compare/v2.9.1...v2.10.0
-http://github.com/rspec/rspec-expectations/compare/v2.99.0.beta1...v2.99.0.beta2
-http://github.com/rspec/rspec-expectations/compare/v2.99.0.beta2...2.99.0.rc1
-http://github.com/rspec/rspec-expectations/compare/v2.99.0.rc1...v2.99.0
-http://github.com/rspec/rspec-expectations/compare/v2.99.0...v2.99.1
-http://github.com/rspec/rspec-expectations/compare/v2.99.1...v2.99.2
-http://github.com/rspec/rspec-expectations/compare/v2.99.2...v3.0.0.beta1
-http://github.com/rspec/rspec-expectations/compare/v3.0.0.beta1...v3.0.0.beta2
-http://github.com/rspec/rspec-expectations/compare/v3.0.0.beta2...v3.0.0.rc1
-http://github.com/rspec/rspec-expectations/compare/v3.0.0.rc1...v3.0.0
-http://github.com/rspec/rspec-expectations/compare/v3.0.0...v3.0.1
-http://github.com/rspec/rspec-expectations/compare/v3.0.1...v3.0.2
-http://github.com/rspec/rspec-expectations/compare/v3.0.2...v3.0.3
-http://github.com/rspec/rspec-expectations/compare/v3.0.3...v3.0.4
-http://github.com/rspec/rspec-expectations/compare/v3.0.4...v3.1.0
-http://github.com/rspec/rspec-expectations/compare/v3.1.0...v3.1.1
-http://github.com/rspec/rspec-expectations/compare/v3.1.1...v3.1.2
-http://github.com/rspec/rspec-expectations/issues
-http://github.com/rspec/rspec-mocks
-http://github.com/rspec/rspec-mocks/compare/v2.0.0.beta.20...v2.0.0.beta.22
-http://github.com/rspec/rspec-mocks/compare/v2.0.0.beta.22...v2.0.0
-http://github.com/rspec/rspec-mocks/compare/v2.0.0.beta.22...v2.0.0.rc
-http://github.com/rspec/rspec-mocks/compare/v2.0.1...v2.1.0
-http://github.com/rspec/rspec-mocks/compare/v2.10.0...v2.10.1
-http://github.com/rspec/rspec-mocks/compare/v2.10.1...v2.11.0
-http://github.com/rspec/rspec-mocks/compare/v2.1.0...v2.2.0
-http://github.com/rspec/rspec-mocks/compare/v2.11.0...v2.11.1
-http://github.com/rspec/rspec-mocks/compare/v2.11.1...v2.11.2
-http://github.com/rspec/rspec-mocks/compare/v2.11.2...v2.11.3
-http://github.com/rspec/rspec-mocks/compare/v2.11.3...v2.12.0
-http://github.com/rspec/rspec-mocks/compare/v2.12.0...v2.12.1
-http://github.com/rspec/rspec-mocks/compare/v2.12.1...v.2.12.2
-http://github.com/rspec/rspec-mocks/compare/v2.12.2...v2.13.0
-http://github.com/rspec/rspec-mocks/compare/v2.13.0...v2.13.1
-http://github.com/rspec/rspec-mocks/compare/v2.13.0...v2.14.0.rc1
-http://github.com/rspec/rspec-mocks/compare/v2.14.0.rc1...v2.14.0
-http://github.com/rspec/rspec-mocks/compare/v2.14.0...v2.14.1
-http://github.com/rspec/rspec-mocks/compare/v2.14.1...v2.14.2
-http://github.com/rspec/rspec-mocks/compare/v2.14.2...v2.14.3
-http://github.com/rspec/rspec-mocks/compare/v2.14.3...v2.14.4
-http://github.com/rspec/rspec-mocks/compare/v2.14.4...v2.14.5
-http://github.com/rspec/rspec-mocks/compare/v2.14.4...v2.99.0.beta1
-http://github.com/rspec/rspec-mocks/compare/v2.14.5...v2.14.6
-http://github.com/rspec/rspec-mocks/compare/v2.2.0...v2.3.0
-http://github.com/rspec/rspec-mocks/compare/v2.3.0...v2.4.0
-http://github.com/rspec/rspec-mocks/compare/v2.4.0...v2.5.0
-http://github.com/rspec/rspec-mocks/compare/v2.5.0...v2.6.0
-http://github.com/rspec/rspec-mocks/compare/v2.6.0...v2.7.0
-http://github.com/rspec/rspec-mocks/compare/v2.7.0...v2.8.0.rc1
-http://github.com/rspec/rspec-mocks/compare/v2.8.0.rc1...v2.8.0.rc2
-http://github.com/rspec/rspec-mocks/compare/v2.8.0.rc2...v2.8.0
-http://github.com/rspec/rspec-mocks/compare/v2.8.0...v2.9.0
-http://github.com/rspec/rspec-mocks/compare/v2.9.0...v2.10.0
-http://github.com/rspec/rspec-mocks/compare/v2.99.0.beta1...v2.99.0.beta2
-http://github.com/rspec/rspec-mocks/compare/v2.99.0.beta2...v2.99.0.rc1
-http://github.com/rspec/rspec-mocks/compare/v2.99.0.rc1...v2.99.0
-http://github.com/rspec/rspec-mocks/compare/v2.99.0...v2.99.1
-http://github.com/rspec/rspec-mocks/compare/v2.99.1...v2.99.2
-http://github.com/rspec/rspec-mocks/compare/v2.99.2...v3.0.0.beta1
-http://github.com/rspec/rspec-mocks/compare/v3.0.0.beta1...v3.0.0.beta2
-http://github.com/rspec/rspec-mocks/compare/v3.0.0.beta2...v3.0.0.rc1
-http://github.com/rspec/rspec-mocks/compare/v3.0.0.rc1...v3.0.0
-http://github.com/rspec/rspec-mocks/compare/v3.0.0...v3.0.1
-http://github.com/rspec/rspec-mocks/compare/v3.0.1...v3.0.2
-http://github.com/rspec/rspec-mocks/compare/v3.0.2...v3.0.3
-http://github.com/rspec/rspec-mocks/compare/v3.0.3...v3.0.4
-http://github.com/rspec/rspec-mocks/compare/v3.0.4...v3.1.0
-http://github.com/rspec/rspec-mocks/compare/v3.1.0...v3.1.1
-http://github.com/rspec/rspec-mocks/compare/v3.1.1...v3.1.2
-http://github.com/rspec/rspec-mocks/compare/v3.1.2...v3.1.3
-http://github.com/rspec/rspec-mocks/issues
-http://github.com/rspec/rspec-support/compare/v3.0.0.beta1...v3.0.0.beta2
-http://github.com/rspec/rspec-support/compare/v3.0.0.beta2...v3.0.0.rc1
-http://github.com/rspec/rspec-support/compare/v3.0.0.rc1...v3.0.0
-http://github.com/rspec/rspec-support/compare/v3.0.0...v3.0.1
-http://github.com/rspec/rspec-support/compare/v3.0.1...v3.0.2
-http://github.com/rspec/rspec-support/compare/v3.0.2...v3.0.3
-http://github.com/rspec/rspec-support/compare/v3.0.3...v3.0.4
-http://github.com/rspec/rspec-support/compare/v3.0.4...v3.1.0
-http://github.com/rspec/rspec-support/compare/v3.1.0...v3.1.1
-http://github.com/rspec/rspec-support/compare/v3.1.1...v3.1.2
-http://github.com/rtomsmith
-http://github.com/rubenfonseca/twitter-amqp-websocket-example
-http://github.com/ruby-bdb
-http://github.com/ruby-bdb/bdb
-http://github.com/ruby-bdb/sbdb
-http://github.com/ruby-bdb/tuple
-http://github.com/rubyzip/rubyzip
-http://github.com/ry/http-parser
-http://github.com/ry/http-parser/blob/37a0ff8928fb0d83cec0d0d8909c5a4abcd221af/test.c
-http://github.com/ry/node/blob/842eaf446d2fdcb33b296c67c911c32a0dabc747/src/http.js
-http://github.com/secobarbital
-http://github.com/smtlaissezfaire/project_path
-http://github.com/sporkmonger/addressable
-http://github.com/sporkmonger/uuidtools/tree/
-http://github.com/staugaard/idn_actionmailer
-http://github.com/technoweenie
-http://github.com/technoweenie/yajl-rails
-http://github.com/tenderlove/psych
-http://github.com/tmm1
-http://github.com/tmm1/http_parser.rb
-http://github.com/tsuna/boost.m4
-http://github.com/tsuna/boost.m4/raw/master/build-aux/boost.m4
-http://github.com/v6ak
-http://github.com/v6ak/Preverifier/
-http://github.com/wycats
-http://github.github.com/github-flavored-markdown/
-http://git.savannah.gnu.org/gitweb/?p=config.git
-http://gleichnerbergstrom.uk/
-http://gleichner.biz/
-http://gnuwin32.sourceforge.net/packages/patch.htm
-http://golang.org/ref/spec
-http://golang.org/src/pkg/json/decode.go
-http://golang.org/src/pkg/utf8/utf8.go
-http://go.microsoft.com/fwlink/?LinkId=131000
-http://go.microsoft.com/fwlink/?LinkId=262072.
-http://google.ca
-http://google.com
-http://google.com/
-http://google.com.
-http://gottlieb.name/
-http://gottlieb.uk/
-http://graphml.graphdrawing.org/xmlns
-http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd
-http://greenholt.uk/
-http://gri3ly.kiev.ua
-http://grimes.uk/
-http://grosser.it
-http://groups.google.com/
-http://groups.google.com/.
-http://groups.google.com/group/comp.databases.berkeley-db/browse_frm/thread/4f70a9999b64ce6a/c06b94692e3cbc41?tvc=1
-http://groups.google.com/group/comp.std.c
-http://groups.google.com/group/eventmachine
-http://groups.google.com/group/eventmachine/browse_thread/thread/fc60d9bb738ffc71
-http://groups.google.com/group/json-c
-http://groups.google.com/group/mongoid
-http://groups.google.com/group/python-virtualenv/
-http://groups.google.com/group/python-virtualenv?hl=en
-http://groups.google.com/group/ruby-bundler
-http://groups.google.com/groups?
-http://groups.google.com/groups?hl=en
-http://groups.google.com/group/sqlalchemy/browse_thread/thread/7c1eb642435adde7
-http://groups.google.com/groups?q=syscall
-http://groups.google.com/groups?selm=df893da6.0207110613.75b2fe90
-http://groups.google.com/groups?selm=df893da6.0301280859.522081f7
-http://groups.yahoo.com/group/boost/message/5441
-http://gs.apple.com.akadns.net/TSS/controller?action=2
-http://guides.rubygems.org
-http://guides.rubygems.org/gems-with-extensions/
-http://guides.rubygems.org/make-your-own-gem/
-http://guides.rubygems.org/rubygems-basics/
-http://guides.rubygems.org/security/
-http://gulgowski.ca/
-http://gunicorn.org/configure.html
-http://gutmann.us/
-http://gyp.googlecode.com/svn/trunk
-http://h30097.www3.hp.com/cplus/?jumpid=reg_R1002_USEN
-http://h71000.www7.hp.com/doc/82final/5601/5601pro_004.html
-http://haagzboncak.ca/
-http://hackersdelight.org/
-http://hackettolson.info/
-http://hal.cs.berkeley.edu/cil/cil016.html
-http://haltp.org/git/owl-lisp.git
-http://handflatley.com/
-http://hane.co.uk/
-http://hansenabernathy.uk/
-http://hashrocket.com/
-http://havenith-verlinden.nl/hannibal/
-http://hayeskoch.info/
-http://hdl.handle.net/1895.22/1013
-http://hegmann.us/
-http://help.adobe.com/en_US/air/build/WS13ACB483-1711-43c0-9049-0A7251630A7D.html
-http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/utils/ByteArray.html
-http://help.github.com/fork-a-repo/
-http://help.github.com/send-pull-requests/
-http://h.example.com
-http://hg.python.org/cpython/file/6b9f0a6efaeb/Lib/textwrap.py
-http://hilpert.info/
-http://hintz.biz/
-http://hirthe.ca/
-http://hirthemertz.ca/
-http://hirthe.uk/
-http://home.earthlink.net/
-http://home.netscape.com/eng/mozilla/2.0/relnotes/demo/content-length.html
-http://homenick.uk/
-http://homepage2.nifty.com/sakazuki/rde_e.html
-http://homepages.inf.ed.ac.uk/wadler/topics/language-design.html
-http://home.twcny.rr.com/hinnant/cpp_extensions/threads_move.html
-http://hoohoo.ncsa.uiuc.edu/cgi/env.html
-http://host
-http://host=ame/fo
-http://host.com
-http://hostname
-http://hostname/
-http://HOSTNAME/APPNAME
-http://howell.co.uk/
-http://html5shim.googlecode.com/svn/trunk/html5.js
-http://htmlentities.rubyforge.org/
-http://http
-http://httpd.apache.org/docs/2.4/
-http://httpd.apache.org/docs/2.4/mod/core.html
-http://httpd.apache.org/docs/2.4/mod/directives.html
-http://httpd.apache.org/docs/mod/mod_log_config.html
-http://hudson.info/
-http://huelhoeger.us/
-http://huels.us/
-http://hypnotoad.org
-http://hypnotoad.org?hail=all
-http://icu.sourceforge.net/userguide/dateCalendar.html
-http://icu.sourceforge.net/userguide/dateTime.html
-http://idlefork.sourceforge.net
-http://i.example.com
-http://igvita.com/
-http://iharder.net/xmlizable
-http://iharder.sourceforge.net/base64/
-http://iknowthis.googlecode.com
-http://i.loveruby.net
-http://img.shields.io/codeclimate/github/intridea/multi_json.svg
-http://img.shields.io/gemnasium/intridea/multi_json.svg
-http://img.shields.io/gem/v/multi_json.svg
-http://img.shields.io/gittip/sporkmonger.png
-http://inch-ci.org/github/colszowka/simplecov
-http://inch-ci.org/github/colszowka/simplecov.png
-http://inch-ci.org/github/ms-ati/docile
-http://inch-ci.org/github/ms-ati/docile.png
-http://inch-ci.org/github/pry/pry
-http://inch-ci.org/github/pry/pry.svg
-http://info.cern.ch/hypertext/DataSources/News/Groups/Overview.html
-http://info.webcrawler.com/mak/projects/robots/norobots-rfc.html
-http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd
-http://intertwingly.net/blog/2004/07/31/URI-Equivalence
-http://intertwingly.net/stories/2004/04/14/i18n.html
-http://intertwingly.net/stories/2005/09/28/xchar.rb
-http://intranet/delete-stuff.cgi
-http://intridea.com/
-http://ionelmc.wordpress.com/
-http://ipython.scipy.org/.
-http://i.wz.cz/banner/nudle03.gif
-http://jacklmoore.com/colorbox
-http://jacklmoore.com/notes/click-events/
-http://jacobs.ca/
-http://jacobson.com/
-http://jakarta.apache.org/log4j/
-http://jakarta.apache.org/log4j/docs/index.html
-http://jarg.sourceforge.net/
-http://jaskolskiweber.uk/
-http://jastpagac.name/
-http://javaboutique.internet.com/prime_numb/
-http://java.com/infourl
-http://java.com/license
-http://java.com/licensereadme
-http://javancss.codehaus.org/
-http://java.net/projects/dcd/
-http://javascript.crockford.com/tdop/tdop.html
-http://java.sun.com/docs/books/jls/second_edition/html/binaryComp.doc.html
-http://java.sun.com/docs/books/jls/second_edition/html/classes.doc.html
-http://java.sun.com/docs/books/jls/second_edition/html/j.title.doc.html
-http://java.sun.com/docs/books/jls/third_edition/html/interfaces.html
-http://java.sun.com/docs/books/tutorial/java/nutsandbolts/_keywords.html
-http://java.sun.com/docs/books/vmspec/2nd-edition/html/ClassFile.doc.html
-http://java.sun.com/docs/books/vmspec/2nd-edition/html/VMSpecTOC.doc.html
-http://java.sun.com/docs/books/vmspec/index.html.
-http://java.sun.com/j2se/1.4.2/docs/api/java/util/Properties.html
-http://java.sun.com/j2se/1.4.2/docs/api/java/util/zip/package-summary.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/Calendar.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/DateFormat.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/DateFormatSymbols.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/Date.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/GregorianCalendar.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/SimpleDateFormat.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/SimpleTimeZone.html
-http://java.sun.com/j2se/1.5.0/docs/api/java/util/Time.html
-http://java.sun.com/j2se/1.5/docs/guide/jpda/jdwp-spec.html
-http://java.sun.com/javase/6/
-http://java.sun.com/javase/6/docs/platform/serialization/spec/class.html
-http://java.sun.com/javase/6/docs/platform/serialization/spec/serialTOC.html
-http://java.sun.com/products/autodl/j2se
-http://j.example.com
-http://jgarber.lighthouseapp.com/projects/13054/tickets/124-code-markup-does-not-allow-brackets.
-http://jimblackler.net/blog/?p=151
-http://jira.codehaus.org/browse/JRUBY-4576
-http://jira.codehaus.org/browse/JRUBY-5194
-http://jira.codehaus.org/browse/JRUBY-5637
-http://jira.codehaus.org/browse/JRUBY-6753
-http://jira.codehaus.org/browse/JRUBY-7114
-http://jira.mongodb.org/browse/RUBY-714
-http://jmock.org/oopsla2004.pdf
-http://jode.sourceforge.net/
-http://joe
-http://john
-http://jonesrobel.biz/
-http://jon.oberheide.org
-http://jove.prohosting.com/
-http://jquery.com/
-http://jquery.org/license
-http://jqueryui.com/about
-http://jqueryui.com/themeroller/?ffDefault=Verdana
-http://jrc.krdl.org.sg/
-http://jrc.krdl.org.sg/decaf/
-http://jruby.org
-http://jschmoe
-http://jsonformatter.curiousconcept.com/
-http://jsonip.com/
-http://json.org
-http://json.org/
-http://json.org/JSON_checker/test/fail10.json
-http://json.org/JSON_checker/test/fail11.json
-http://json.org/JSON_checker/test/fail12.json
-http://json.org/JSON_checker/test/fail13.json
-http://json.org/JSON_checker/test/fail14.json
-http://json.org/JSON_checker/test/fail15.json
-http://json.org/JSON_checker/test/fail16.json
-http://json.org/JSON_checker/test/fail17.json
-http://json.org/JSON_checker/test/fail18.json
-http://json.org/JSON_checker/test/fail19.json
-http://json.org/JSON_checker/test/fail1.json
-http://json.org/JSON_checker/test/fail20.json
-http://json.org/JSON_checker/test/fail21.json
-http://json.org/JSON_checker/test/fail22.json
-http://json.org/JSON_checker/test/fail23.json
-http://json.org/JSON_checker/test/fail24.json
-http://json.org/JSON_checker/test/fail2.json
-http://json.org/JSON_checker/test/fail3.json
-http://json.org/JSON_checker/test/fail4.json
-http://json.org/JSON_checker/test/fail5.json
-http://json.org/JSON_checker/test/fail6.json
-http://json.org/JSON_checker/test/fail7.json
-http://json.org/JSON_checker/test/fail8.json
-http://json.org/JSON_checker/test/fail9.json
-http://json.org/JSON_checker/test/pass1.json
-http://json.org/JSON_checker/test/pass2.json
-http://json.org/JSON_checker/test/pass3.json
-http://kannel.3glab.org/
-http://kertzmannfay.uk/
-http://king.uk/
-http://kirlinfahey.name/
-http://klocko.biz/
-http://kochreynolds.us/
-http://kozey.uk/
-http://krajcik.co.uk/
-http://kshlerin.co.uk/
-http://kuhic.info/
-http://kuhlman.co.uk/
-http://kuhnsmith.us/
-http://kunze.com/
-http://kunzegraham.info/
-http://kxml.sourceforge.net.
-http://lab.msdn.microsoft.com/ProductFeedback/viewfeedback.aspx?feedbackid=22b0a6b7-120f-4ca0-9136-fa1b25b26efe
-http://lambda.cs.utu.fi
-http://lang.nas.activestate.com/pypm/sites/rex/be
-http://lang.nas.activestate.com/pypm/sites/rex/dev
-http://lang.nas.activestate.com/pypm/sites/rex/free
-http://lang.nas.activestate.com/pypm/sites/rex/rc
-http://langosh.ca/
-http://langosh.com/
-http://launchpad.net/linaro-image-tools/trunk/0.4.8/
-http://launchpad.net/python-mode/.
-http://learn.github.com/p/branching.html
-http://lebsack.uk/
-http://leejarvis.github.com/rdoc/slop/
-http://leejarvis.github.io/slop/
-http://leetupload.com/dbindex2/index.php?dir=Linux/
-http://library.forum.nokia.com/topic/S60_3rd_Edition_Cpp_Developers_Library/GUID-759FBC7F-5384-4487-8457-A8D4B76F6AA6/html/rconnmon_8h.html?resultof=
-http://libs.netbeans.org/
-http://libtomcrypt.org
-http://libwbxml.aymerick.com
-http://lindgrenbogan.uk/
-http://lind.name/
-http://link.nokia.com/support
-http://linuxmafia.com/faq/Admin/release-files.html
-http://lists.apple.com/archives/applescript-users/2002/Sep/msg00319.html
-http://lists.apple.com/archives/unix-porting/2007/Sep/msg00023.html
-http://lists.boost.org/Archives/boost/2006/02/101122.php
-http://lists.boost.org/Archives/boost/2006/04/102740.php
-http://lists.boost.org/Archives/boost/2006/04/103065.php
-http://lists.boost.org/Archives/boost/2006/05/105286.php
-http://lists.boost.org/Archives/boost/2006/07/108355.php
-http://lists.boost.org/Archives/boost/2007/05/121430.php
-http://lists.boost.org/Archives/boost/2008/11/144465.php
-http://lists.boost.org/Archives/boost/2009/04/150743.php
-http://lists.boost.org/Archives/boost/2012/03/191744.php
-http://lists.boost.org/Archives/boost/2012/06/194312.php
-http://lists.boost.org/boost-users/2005/11/15454.php
-http://lists.boost.org/boost-users/2006/02/17230.php
-http://lists.boost.org/boost-users/2006/05/19362.php
-http://lists.boost.org/boost-users/2006/05/19723.php
-http://lists.boost.org/boost-users/2006/09/22604.php
-http://lists.boost.org/boost-users/2006/12/24215.php
-http://lists.boost.org/boost-users/2007/07/29866.php
-http://lists.boost.org/MailArchives/boost/msg00886.php
-http://lists.boost.org/MailArchives/boost/msg47184.php
-http://lists.boost.org/MailArchives/boost/msg47220.php
-http://lists.boost.org/MailArchives/boost/msg48752.php
-http://lists.boost.org/MailArchives/boost-users/msg06567.php
-http://lists.boost.org/mailman/listinfo.cgi/boost-build
-http://lists.cs.uiuc.edu/pipermail/cfe-dev/2011-May/015178.html
-http://lists.gnu.org/archive/html/automake/2012-07/msg00001.html
-http://lists.gnu.org/archive/html/automake/2012-07/msg00014.html
-http://lists.gnu.org/archive/html/bug-coreutils/2005-11/msg00161.html
-http://lists.gnu.org/archive/html/bug-guile/2004-01/msg00013.html
-http://lists.osgeo.org/pipermail/ggl/2011-September/001533.html
-http://lists.slug.org.au/archives/slug-chat/2001/July/msg00054.html
-http://lists.sourceforge.net/lists/listinfo/optik-users
-http://littel.biz/
-http://livedocs.adobe.com/flash/9.0/ActionScriptLangRefV3/flash/geom/Matrix.html
-http://lkml.org/lkml/2005/9/10/129
-http://lloyd.github.com/yajl
-http://llvm.org
-http://llvm.org/bugs/show_bug.cgi?id=6907
-http://llvm.org/bugs/show_bug.cgi?id=7139
-http://localgemserver.test
-http://localgemserver.test/
-http://localgemserver.test/..
-http://localgemserver.test/api/v1/dependencies
-http://localgemserver.test/extra
-http://localgemserver.test/gems/rcov-1.0-x86-mswin32.gem
-http://localhost
-http://localhost/
-http://localhost/ammo
-http://localhost/bar/
-http://localhost/communication/capabilities
-http://localhost/fonts/folder/fontFolder
-http://localhost/foo
-http://localhost/foo/bar/
-http://localhost/fuzzers/native.py
-http://localhost/localstart.asp
-http://localhost/main.rbx
-http://localhost/pyisapi_test/test1
-http://localhost/yajl-ruby.git/benchmark/subjects/contacts.json
-http://localtestserver.gem
-http://log4r.rubyforge.org
-http://log4r.rubyforge.org/manual.html
-http://log4r.rubyforge.org/rdoc/Log4r/PatternFormatter.html
-http://logging.apache.org/log4j
-http://login.live.com
-http://lowecole.co.uk/
-http://ls7-www.cs.uni-dortmund.de/students/projectgroups/acit/lineclip.shtml
-http://ls.selice.cz
-http://lua.org
-http://luettgen.com/
-http://lunchroom.lunchboxsoftware.com/pages/tzinfo_rails
-http://lxr.mozilla.org/seamonkey/source/modules/libimg/png/mozpngconf.h
-http://lynx.browser.org/
-http://lynx.isc.org/
-http://macromates.com
-http://madskills.com/public/xml/rss/module/trackback/
-http://maec.mitre.org/XMLSchema/maec-core-1
-http://maigret.cog.brown.edu/pyutil/
-http://mail.example.com/delete-stuff.cgi
-http://mail.gnome.org/archives/xml/2007-April/thread.html
-http://mail.python.org/mailman/listinfo/distutils-sig
-http://mail.python.org/mailman/listinfo/idle-dev
-http://mail.python.org/pipermail/distutils-sig/2008-April/009283.html
-http://mail.python.org/pipermail/idle-dev/2004-December/002307.html
-http://mail.python.org/pipermail/python-bugs-list/2001-January/003752.html
-http://mail.python.org/pipermail/python-dev/2001-June/015239.html
-http://mail.python.org/pipermail/python-dev/2002-July/026512.html
-http://mail.python.org/pipermail/python-dev/2006-July/067774.html
-http://mail.python.org/pipermail/python-dev/2008-June/080579.html
-http://mail.python.org/pipermail/python-dev/2010-January/095637.html
-http://mail.python.org/pipermail/python-list/1999-July/007758.html
-http://mail.python.org/pipermail/python-list/2001-October/109973.html
-http://mail.python.org/pipermail/xml-sig/2001-April/005202.html
-http://make.rubyforge.org
-http://malwarecookbook.googlecode.com/svn/trunk/3/8/pescanner.py
-http://malwarecookbook.googlecode.com/svn/trunk/3/8/pescanner.py.
-http://malwr.com
-http://man7.org/linux/man-pages/man2/fchmodat.2.html
-http://man7.org/linux/man-pages/man7/symlink.7.html
-http://mannschamberger.co.uk/
-http://mante.info/
-http://mante.us/
-http://maps.ge.com/
-http://maps.googleapis.com/maps/api/js?key=AIzaSyAmG3O2wuA9Hj2L5an-ofRndUwVSrqElLM
-http://marakana.com/s/post/1291/android_device_policy_administration_tutorial
-http://market.android.com/details?id=
-http://market.android.com/publish/editProfile
-http://market.android.com/support/bin/answer.py?answer=1050566
-http://marknelson.us/2007/08/22/convex
-http://marquardtturner.co.uk/
-http://martinfowler.com/ap2/timeNarrative.html
-http://martinfowler.com/articles/rake.html
-http://marvin.name/
-http://math.berkeley.edu/
-http://math.libtomcrypt.com
-http://math.nist.gov/javanumerics/jama/
-http://mathworld.wolfram.com/AperysConstant.html
-http://mathworld.wolfram.com/BernoulliDistribution.html
-http://mathworld.wolfram.com/BetaDistribution.html
-http://mathworld.wolfram.com/BinomialCoefficient.html
-http://mathworld.wolfram.com/CauchyDistribution.html
-http://mathworld.wolfram.com/CoinTossing.html
-http://mathworld.wolfram.com/Dice.html
-http://mathworld.wolfram.com/ExtremeValueDistribution.html
-http://mathworld.wolfram.com/F-Distribution.html
-http://mathworld.wolfram.com/GammaDistribution.html
-http://mathworld.wolfram.com/GeometricDistribution.html
-http://mathworld.wolfram.com/GreatCircle.html
-http://mathworld.wolfram.com/InverseChi-SquaredDistribution.html
-http://mathworld.wolfram.com/InverseGaussianDistribution.html
-http://mathworld.wolfram.com/InverseHyperbolicTangent.html
-http://mathworld.wolfram.com/Kurtosis.html
-http://mathworld.wolfram.com/LambdaFunction.html
-http://mathworld.wolfram.com/LaplaceDistribution.html
-http://mathworld.wolfram.com/LeastSquaresFittingExponential.html
-http://mathworld.wolfram.com/LeastSquaresFitting.html
-http://mathworld.wolfram.com/LeastSquaresFittingPowerLaw.html
-http://mathworld.wolfram.com/Line-LineIntersection.html
-http://mathworld.wolfram.com/LogNormalDistribution.html
-http://mathworld.wolfram.com/NegativeBinomialDistribution.html
-http://mathworld.wolfram.com/NoncentralChi-SquaredDistribution.html
-http://mathworld.wolfram.com/NoncentralStudentst-Distribution.html
-http://mathworld.wolfram.com/NormalDistribution.html
-http://mathworld.wolfram.com/paretoDistribution.html
-http://mathworld.wolfram.com/ParetoDistribution.html
-http://mathworld.wolfram.com/RiemannZetaFunction.html
-http://mathworld.wolfram.com/RiemannZetaFunction.html.
-http://mathworld.wolfram.com/skewness.html
-http://mathworld.wolfram.com/Studentst-Distribution.html
-http://mathworld.wolfram.com/TriangularDistribution.html
-http://mathworld.wolfram.com/UniformDistribution.html
-http://mathworld.wolfram.com/WeibullDistribution.html
-http://matias.capeletto.googlepages.com/boost.bimap.reference.logo.png
-http://matias.capeletto.googlepages.com/boost_hs.zip
-http://mattahan.deviantart.com/
-http://maven.apache.org/maven-v4_0_0.xsd
-http://maven.apache.org/plugins/maven=-assembly-plugin/assembly/1.1.0
-http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0
-http://maven.apache.org/POM/4.0.0
-http://maven.apache.org/xsd/assembly-1.1.0.xsd
-http://mcclure.uk/
-http://mcclurezulauf.info/
-http://mckenziestroman.info/
-http://medhurst.ca/
-http://mediatae.3x.ro
-http://members.aol.com/iandjmsmith/BETAEX.HTM
-http://mertzcartwright.uk/
-http://mertz.name/
-http://mertzrogahn.co.uk/
-http://metasploit.com
-http://metrologyforum.tm.agilent.com/specs.shtml
-http://metz.uk/
-http://mexicodiario.com/touch.public.json.php
-http://mhanne.github.com/bitcoin-ruby/
-http://michelf.com/projects/php-markdown/extra/
-http://miller.us/
-http://mime-types.rubyforge.org/
-http://m.imgur.com
-http://mina.apache.org/
-http://mingw.org
-http://mingw-w64.svn.sourceforge.net/viewvc/mingw-w64/trunk/mingw-w64-doc/
-http://mirror.linux.org.au/pub/linux.conf.au/2007/video/talks/278.pdf
-http://mirrors.dotsrc.org/cran/src/contrib/mnormt_1.4-5.tar.gz
-http://mirrors.dotsrc.org/cran/src/contrib/sn_0.4-17.tar.gz
-http://mirrors.ibiblio.org/pub/mirrors/apache/xmlgraphics/fop/binaries
-http://mjpa.in/json
-http://mm.icann.org/pipermail/tz-announce/2012-November/000007.html
-http://mm.icann.org/pipermail/tz-announce/2012-October/000006.html
-http://mm.icann.org/pipermail/tz-announce/2013-March/000009.html
-http://mm.icann.org/pipermail/tz-announce/2013-March/000010.html
-http://mm.icann.org/pipermail/tz-announce/2013-October/000015.html
-http://mm.icann.org/pipermail/tz-announce/2014-March/000018.html
-http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg
-http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg?srid=qfBP6DYib_Jq97XZdSKqRg
-http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg?srid=sZcTfRdns9N9o6rsCbmEqA
-http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg?srid=t6CLo9DTqlAB1WQ0xGBwKw
-http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg
-http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg?srid=Bzq9fk2KAlSDNJYoYZwzSA
-http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg?srid=EsRVbt4a0PVZLVQJcqslwg
-http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg?srid=PLzThYFVEqlMWIp1j8FVjA
-http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA
-http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA?srid=6AEH1ho2sFA6SuzGoEDWMg
-http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA?srid=6RoFwO-RdkMW6YqeORQFPw
-http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA?srid=8_kbZ8PfEEzREMiYqv6iyQ
-http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ
-http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ?srid=5U87A3dHbLN55unJLj0VjQ
-http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ?srid=OhJUOg-CPz6JPs9l6p8xZg
-http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ?srid=prmIARCGNmaIKQj-szj0FQ
-http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w
-http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w?srid=bDXqtUlB4_xbAXhPG_eslw
-http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w?srid=JqOunqnq9xLTYW1LfVjsfA
-http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w?srid=YaZ8zIeIhOGE0Q90hyaHxQ
-http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg
-http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg?srid=0SEtOwc5fxrk9E4BzOX3Lg
-http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg?srid=A3dtzAGxYjRb5lh1mUSOhg
-http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg?srid=EHIPPWgySoXzd_YJpkjqyA
-http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA
-http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA?srid=6GvHJ_XmbQNd74VihlIDdA
-http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA?srid=7Dh2kxj3f8r_kgRdZPUvvQ
-http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA?srid=Vo3lgIL74UZSi5J7iPw1oQ
-http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q
-http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q?srid=f2EFPOtE2cWlwKwOyyUZuQ
-http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q?srid=FR6vaLqh-MvXUAO1AHGHXQ
-http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q?srid=V0CDM76r13GbsFBujh5tSg
-http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ
-http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ?srid=tWELGmx8xmZv9fUENn7jIA
-http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ?srid=u3pvhJyoOZ0Q602Xjc-7kA
-http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ?srid=zlYWR5eGTcK3UbCD_URGHQ
-http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ
-http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ?srid=3BF5IQWRCa5kE4CG66O7lg
-http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ?srid=7WfO0LKgRp0Tl_C-Zf-D4Q
-http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ?srid=fwBDJyffi2muLlxF5gRgFQ
-http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg
-http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg?srid=bwfzeVc_6gto9kFN_dXwZw
-http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg?srid=henYRKh-HFv-f0q25OrK-A
-http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg?srid=Zau3gO0fZmnLrwf_MeDDVQ
-http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ
-http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ?srid=6kA_HdUvQuOPZGiYaRoMOw
-http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ?srid=rZvHiZioZHzbK9SGEsAfhA
-http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ?srid=vabDEJCITNijgdNAU0nugQ
-http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A
-http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A?srid=0xMF-emnZXwMxpLdx7AmeQ
-http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A?srid=KA6C2DQShJhY4TQIT9Whbw
-http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A?srid=VZ50hhJuPJwjHF2t9UZ0HA
-http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA
-http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA?srid=5ti4DbCQHC0Jv0BICzMqoA
-http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA?srid=E_DBJLUf03v8nzUDML-vIQ
-http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA?srid=ukTS7oSTJ9jLZwX32JBVpA
-http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA
-http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA?srid=3w_awDdrGBWsJVpu8Cg8Kg
-http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA?srid=CNIUSa4Os71fVYOk8Tu0lA
-http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA?srid=zAr0i4_-Yvx3bMhAHxtRww
-http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ
-http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ?srid=jLYJ2se_DN73QiAogNfnJQ
-http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ?srid=kZgc0_KkkGy0cmi2C7fEHA
-http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ?srid=o45vWqKfPlGTSaYwK7Ziug
-http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw
-http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw?srid=qR9gfXBG2bAI--ffudbb8g
-http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw?srid=v-TypFJpjx3sI5imG3muHg
-http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw?srid=zS2Q_jRPYnSvApjcJnERbg
-http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw
-http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw?srid=2e-Y3tM2mbL8XmNSrKvOFg
-http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw?srid=I53XvaUKFN8CirxYnFLPdQ
-http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw?srid=nRaORNVURLfU32LijX-fOg
-http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw
-http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw?srid=6tuZws8FKafDWTwV8gPiAg
-http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw?srid=GgR8AfSlTQWN0kF-lKk-zw
-http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw?srid=NJfFkIR1k1SFkACtePHnWA
-http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw
-http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw?srid=1IlPciKzq2Z0SZrsLSANsA
-http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw?srid=Ez_hn7-Kor2EZ38lO37jMQ
-http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw?srid=oia-XcRxPrqwx11GtCuw8Q
-http://moen.us/
-http://mojo.codehaus.org/
-http://mojo.codehaus.org/minijar-maven-plugin/
-http://mongodb.onconfluence.com/display/DOCS/Mongo
-http://mongoid.org
-http://mongoid.org/en/origin/
-http://morar.ca/
-http://morar.com/
-http://more.sourceforge.net/
-http://mozilla.org/MPL/2.0/.
-http://mozilla.org.tr
-http://mpa.itc.it/radim/g50history/CMP/4.2.1-CERL-beta-libes/file475.txt
-http://mpmath.googlecode.com/svn/data/glaisher.txt
-http://msdn2.microsoft.com/en-us/library/aa363858.aspx
-http://msdn2.microsoft.com/en-us/library/aa365247.aspx
-http://msdn2.microsoft.com/en-us/library/aa969271.aspx
-http://msdn2.microsoft.com/en-us/library/bf1dw62z.aspx
-http://msdn2.microsoft.com/en-us/library/h66s5s0e
-http://msdn2.microsoft.com/en-us/library/ms235591
-http://msdn2.microsoft.com/en-us/library/ms675318.aspx
-http://msdn2.microsoft.com/en-us/library/ms725481.aspx
-http://msdn2.microsoft.com/en-us/library/ms740621
-http://msdn2.microsoft.com/en-us/library/ttcz0bys
-http://msdn2.microsoft.com/en-us/library/x4d2c09s
-http://msdn.microsoft.com
-http://msdn.microsoft.com/en-gb/library/ff565436.aspx
-http://msdn.microsoft.com/en-us/library/17w5ykft.aspx
-http://msdn.microsoft.com/en-us/library/833073z4
-http://msdn.microsoft.com/en-us/library/9b372w95.aspx
-http://msdn.microsoft.com/en-us/library/9yb4317s.aspx
-http://msdn.microsoft.com/en-us/library/a442x3ye
-http://msdn.microsoft.com/en-us/library/aa365247
-http://msdn.microsoft.com/en-us/library/aa369212
-http://msdn.microsoft.com/en-us/library/aa390423
-http://msdn.microsoft.com/en-us/library/ee872121
-http://msdn.microsoft.com/en-us/library/ms678353
-http://msdn.microsoft.com/en-us/library/ms685049
-http://msdn.microsoft.com/en-us/library/ms740548
-http://msdn.microsoft.com/en-us/library/ms791514.aspx
-http://msdn.microsoft.com/en-us/library/se0409db
-http://msdn.microsoft.com/en-us/library/syyszzf8
-http://msdn.microsoft.com/en-us/library/t3ayayh1.aspx
-http://msdn.microsoft.com/en-us/library/windows/hardware/jj131711
-http://msdn.microsoft.com/en-us/library/yt4xw8fh.aspx
-http://msdn.microsoft.com/en-us/library/zxk0tw93
-http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexcl2k2/html/odc_xlrtdfaq.asp
-http://msdn.microsoft.com/library/default.asp?url=/library/en-us/intl/nls_238z.asp
-http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vcmasm/html/vclrfml.asp
-http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winui/menus_0hdi.asp
-http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winui/WinUI/WindowsUserInterface/Resources/Menus/MenuReference/MenuStructures/MENUITEMINFO.asp
-http://msdn.microsoft.com/library/en-us/dnperfmo/html/msdn_pdhlib.asp
-http://msdn.microsoft.com/library/en-us/dnperfmo/html/perfmonpt2.asp
-http://msdn.microsoft.com/library/en-us/perfmon/base/using_the_pdh_interface.asp
-http://msdn.microsoft.com/library/en-us/sysinfo/base/expandenvironmentstrings.asp
-http://msdn.microsoft.com/library/en-us/sysinfo/base/osversioninfo_str.asp
-http://msdn.microsoft.com/library/en-us/sysinfo/base/predefined_keys.asp
-http://msdn.microsoft.com/library/en-us/sysinfo/base/registry.asp
-http://msdn.microsoft.com/library/en-us/sysinfo/base/regopenkeyex.asp
-http://msdn.microsoft.com/library/en-us/sysinfo/base/regqueryinfokey.asp
-http://msdn.microsoft.com/library/en-us/vccelng/htm/progs_12.asp
-http://msdn.microsoft.com/msdnmag/issues/05/05/SafeCandC/default.aspx
-http://msn.live.it
-http://mueblesmoraleda.com
-http://mulliner.org/android/
-http://murfy.de/ruby-constants.
-http://murraysipes.us/
-http://mwobfu.sourceforge.net/
-http://my.example.com
-http://my.example.com/faq/
-http://my.example.com/?id=1
-http://my.example.com/?id=25
-http://my.example.com/main.rbx?page=1
-http://my.example.com/pub/files
-http://my.fit.edu/
-http://my.netscape.com/publish/
-http://myrepo/svn/MyApp
-http://my-rest-service.com/resource
-http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax
-http://myronmars.to/n/dev-blog/2014/05/notable-changes-in-rspec-3
-http://myuser
-http://namespace.invalid/does/not/exist/
-http://new/resource
-http://news.bbcimg.co.uk/media/images/59290000/jpg/_59290153_mmf1perezbadlapv1.jpg
-http://news.bbcimg.co.uk/media/images/59292000/jpg/_59292981_59292980.jpg
-http://news.bbcimg.co.uk/media/images/59294000/jpg/_59294155_59294154.jpg
-http://news.bbcimg.co.uk/media/images/59294000/jpg/_59294159_59294158.jpg
-http://news.ycombinator.com/
-http://newuser
-http://nex-3.com
-http://nfs.sourceforge.net/
-http://nienow.uk/
-http://nikolaus.biz/
-http://nist.time.gov/exhibits.html
-http://nodejs.org
-http://non-existing.domain/
-http://nose.readthedocs.org/en/latest/
-http://nowhereatall.com/
-http://ns.adobe.com/air/application/15.0
-http://ns.adobe.com/air/application/2.0
-http://ns.adobe.com/air/application/2.6
-http://ns.adobe.com/Fiber/1.0
-http://ns.adobe.com/flashbuilder/2009
-http://ns.adobe.com/iX/1.0/
-http://ns.adobe.com/mxml/2009
-http://ns.adobe.com/pdf/1.3/
-http://ns.adobe.com/xap/1.0/
-http://ns.adobe.com/xap/1.0/mm/
-http://nsis.sourceforge.net/vb6runtime.zip
-http://nsis.sourceforge.net/wiki/SetSectionInInstType
-http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html
-http://nssdc.gsfc.nasa.gov/planetary/mars_mileage_guide.html
-http://nwalsh.com/xslt/ext/com.nwalsh.saxon.UnwrapLinks
-http://nwalsh.com/xslt/ext/com.nwalsh.saxon.Verbatim
-http://oconnerbins.uk/
-http://ocsp.example.net
-http://odrl.net/1.1/ODRL-DD
-http://odrl.net/1.1/ODRL-EX
-http://oeis.org/A002117/constant
-http://oeis.org/A006752/constant
-http://ogame182.de/epicblue/formate.css
-http://ogame182.de/epicblue/images/deuterium.gif
-http://ogame182.de/epicblue/images/energie.gif
-http://ogame182.de/epicblue/images/kristall.gif
-http://ogame182.de/epicblue/images/metall.gif
-http://ogame182.de/epicblue/planeten/small/s_dschjungelplanet04.jpg
-http://ohara.com/
-http://okuneva.uk/
-http://olson.us/
-http://onestepback.org
-http://onestepback.org/articles/buildingwithrake/
-http://onestepback.org/redmine/account/register
-http://onestepback.org/redmine/issues/show/44
-http://onestepback.org/redmine/issues/show/47
-http://onestepback.org/redmine/projects/show/rake
-http://openide.netbeans.org/proposals/arch/modularize.html
-http://openplans.org
-http://opensource.adobe.com
-http://opensource.adobe.com/gil
-http://opensource.adobe.com/gil/download.html
-http://opensource.adobe.com/project4/project.shtml
-http://opensource.apple.com/source/Libc/Libc-583/i386/sys/_sigtramp.s
-http://opensource.org/lic
-http://opensource.org/licenses/apache2.0.php
-http://opensource.org/licenses/bsd-license
-http://opensource.org/licenses/bsd-license.
-http://opensource.org/licenses/bsd-license.ph
-http://opensource.org/licenses/bsd-license.php
-http://opensource.org/licenses/bsd-license.php.
-http://opensource.org/licenses/mit-license.php
-http://oreillykutch.co.uk/
-http://osdir.com/ml/android-porting/2011-08/msg00182.html
-http://osinski.ca/
-http://osinski.name/
-http://oss.metaparadigm.com/json-c/
-http://oss.oracle.com/projects/gstreamer-mods/
-http://oss.oracle.com/projects/webkit-java-mods/
-http://oss.software.ibm.com/developerworks/opensource/license10.html
-http://oss.software.ibm.com/userguide/dateTimezone.html
-http://oss.software.ibm.com/userguide/formatDateTime.html
-http://pablotron.org/
-http://packages.python.org/
-http://packages.python.org.
-http://packages.python.org/distribute
-http://packages.python.org/distribute.
-http://packages.python.org/distribute/easy_install.html
-http://packages.python.org/distribute/roadmap
-http://packetstormsecurity.org/papers/attack/osx1061sysent.txt
-http://pages.cpsc.ucalgary.ca/
-http://palmzlib.sourceforge.net/
-http://pastebin.com/
-http://pastebin.com/bQtdDzHx
-http://pastie.org/
-http://paucek.uk/
-http://pauillac.inria.fr/
-http://pds-rings.seti.org/toolkits/julian_133_html/aareadme.html
-http://peak.telecommunity.com/DevCenter/EasyInstall
-http://peak.telecommunity.com/DevCenter/setuptools
-http://pelican.cl.cam.ac.uk/icons/page.xbm
-http://pelican.cl.cam.ac.uk/newspage/root.html
-http://pelican.cl.cam.ac.uk/people/qs101/me.html
-http://people.freebsd.org/
-http://people.xiph.org/
-http://pfeffer.us/
-http://phed.org/2012/Peach
-http://photon.poly.edu/
-http://php.net/quickref.php
-http://physics.nist.gov/cuu/Units/binary.html
-http://pip.openplans.org/requirement-format.html
-http://planetarynames.wr.usgs.gov/Page/MARS/system
-http://pleac.sourceforge.net/
-http://plist.rubyforge.org
-http://posthere.com/
-http://postit.example.com/moo.cgi
-http://ppt.perl.org/commands/make/index.html
-http://pragprog.com/book/sidruby/the-druby-book
-http://prdownloads.sourceforge.net/boost/boost-build-2.0-m12.tar.bz2
-http://prdownloads.sourceforge.net/boost/boost-build-2.0-m12.zip
-http://premium.microsoft.com/isapi/devonly/prodinfo/msdnprod/msdnlib.idc?theURL=/msdn/library/sdkdoc/perfdata_4982.htm
-http://price.info/
-http://profile.ak.fbcdn.net/hprofile-ak-prn1/572903_100003663718866_654642800_q.jpg
-http://profile.ak.fbcdn.net/hprofile-ak-prn1/c113.33.414.414/s320x320/563238_117488358383287_1706099789_n.jpg
-http://proguard.sourceforge.net/
-http://proguard.sourceforge.net/downloads.html
-http://proguard.sourceforge.net/quality/
-http://prohaskasteuber.name/
-http://promo.net/pg/
-http://prosaccobalistreri.info/
-http://protected/resource
-http://proxy
-http://proxy.example
-http://proxy.example.com
-http://proxy.example.com/
-http://proxy.example.org
-http://proxy.foo.com
-http://proxyservername.mycompany.com
-http://pry.github.com
-http://pry.github.com/
-http://pryrepl.org
-http://pryrepl.org/
-http://pubs.opengroup.org/onlinepubs/009695399/toc.htm
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/accept.htm
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/accept.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/bind.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/connect.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/getpeername.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/getsockname.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/getsockopt.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/listen.htm
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/listen.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/poll.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/recv.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/send.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/setsockopt.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/shutdown.html
-http://pubs.opengroup.org/onlinepubs/9699919799/functions/socket.html
-http://pulseaudio.org/wiki/DownloadPulseAudio
-http://purdy.biz/
-http://purl.org/dc/dcmitype/StillImage
-http://purl.org/dc/elements/1.1/
-http://purl.org/rss/1.0/
-http://purl.org/rss/1.0/modules/content/
-http://purl.org/rss/1.0/modules/image/
-http://purl.org/rss/1.0/modules/slash/
-http://purl.org/rss/1.0/modules/syndication/
-http://purl.org/rss/1.0/modules/taxonomy/
-http://purl.org/thecliff/tcl/wiki/858.html
-http://pusher.com
-http://pybsddb.sf.net/
-http://pypi.python.org
-http://pypi.python.org/mirrors
-http://pypi.python.org/packages/source/d/distribute/distribute-0.6.19.tar.gz
-http://pypi.python.org/pypi
-http://pypi.python.org/pypi/
-http://pypi.python.org/pypi/DeferArgs/0.4
-http://pypi.python.org/pypi/distribute
-http://pypi.python.org/pypi/gp.recipe.pip
-http://pypi.python.org/pypi/pip
-http://pypi.python.org/pypi/pylzma/
-http://pypi.python.org/pypi/pymongo/
-http://pypi.python.org/pypi/virtualenv
-http://pypi.python.org/pypi/zc.buildout
-http://pypi.python.org/simple
-http://pypi.python.org/simple/
-http://pypm-be.activestate.com
-http://pypm-be.as.com
-http://pypm-free.activestate.com
-http://pypm-free.as.com
-http://pypm-staging.as.com
-http://pypy.org
-http://pypy.python.org/pypi/pip
-http://python-distribute.org/bootstrap.py
-http://python-distribute.org/distribute_setup.py
-http://python.org
-http://python.org/
-http://python.org/p
-http://python.org/p?q
-http://python.org/?q
-http://python.org/sf/1174712
-http://python.org/sf/126863
-http://python.org/sf/1296433
-http://python.org/sf/1333982
-http://python.org/sf/1479302
-http://python.org/sf/14797027
-http://python.org/sf/1541697
-http://python.org/sf/742342
-http://pythonpaste.org
-http://pyxml.sf.net/minidom
-http://pyyaml.org/wiki/LibYAML
-http://qc.borland.com/wc/qcmain.aspx?d=32020.
-http://qc.codegear.com/wc/qcmain.aspx?d=10267
-http://qc.codegear.com/wc/qcmain.aspx?d=51854
-http://qc.codegear.com/wc/qcmain.aspx?d=68959
-http://qc.codegear.com/wc/qcmain.aspx?d=69196
-http://qc.embarcadero.com/wc/qcmain.aspx?d=51854
-http://qc.embarcadero.com/wc/qcmain.aspx?d=83751
-http://qc.embarcadero.com/wc/qcmain.aspx?d=83851
-http://qc.embarcadero.com/wc/qcmain.aspx?d=84279
-http://qt.nokia.com
-http://qt-project.org/doc/qt-4.8/moc.html
-http://qt-project.org/doc/qt-4.8/rcc.html
-http://qt-project.org/doc/qt-5.0/moc.html
-http://qt-project.org/doc/qt-5.0/rcc.html
-http://quequero.org/rcs.exe
-http://quinthar.com/qwikiwiki/index.php?page=Home
-http://raa.ruby-lang.org
-http://ragestorm.net/distorm/
-http://rake.rubyforge.org
-http://rake.rubyforge.org/
-http://rake.rubyforge.org.
-http://rathbode.ca/
-http://raynor.ca/
-http://rcs-dev.hackingteam.it/trac/wiki/Experimental
-http://rcs-dev/trac/wiki/RCS_Sync_Proto_Rest
-http://rdoc.info/gems/mime-types/
-http://rdoc.info/github/banister/method_source/master/file/README.markdown
-http://rdoc.info/github/durran/optionable/master/frames
-http://rdoc.info/github/mongodb/bson-ruby/master/frames
-http://rdoc.info/github/pry/pry/master/file/README.markdown
-http://rdoc.info/github/rubyzip/rubyzip/master/frames
-http://rdoc.info/projects/luislavena/win32console
-http://rdoc.rubyforge.org
-http://reader.google.com
-http://redir.opera.com/www.opera.com/firstrun/
-http://redmine.org/
-http://redmine.ruby-lang.org/issues/4522
-http://redmine.ruby-lang.org/issues/5341
-http://reference.wolfram.com/mathematica/ref/InverseChiSquareDistribution.html
-http://refspecs.linuxfoundation.org/elf/x86_64-abi-0.95.pdf
-http://register.dot-bit.org
-http://reichel.com/
-http://reingerroob.ca/
-http://relaxngcc.sf.net/
-http://releases.linaro.org/platform/linaro-m/headless/release-candidate/linaro-m-headless-tar-20101101-0.tar.gz
-http://releases.linaro.org/platform/linaro-m/hwpacks/final/hwpack_linaro-omap3_20101109-1_armel_supported.tar.gz
-http://relishapp.com/rspec/rspec-core
-http://relishapp.com/rspec/rspec-expectations
-http://relishapp.com/rspec/rspec-mocks
-http://rentzsch.com
-http://research.microsoft.com/projects/greta
-http://rest-test.heroku.com
-http://rest-test.heroku.com/resource
-http://rfc-editor.org/rfc/rfc
-http://rfc-editor.org/rfc/rfc123.txt
-http://ricerath.info/
-http://richarddingwall.name/2008/06/01/using-the-boost-unit-test-framework-with-xcode-3/
-http://rippindeckow.co.uk/
-http://ritchie.biz/
-http://rm-f.net/
-http://robaldred.co.uk
-http://rosenbaum.name/
-http://rpm.org
-http://rps-svcs.sun.com/services/countrylookup
-http://rss.acs.unt.edu/Rdoc/library/pscl/html/igamma.html
-http://rubini.us
-http://rubini.us/
-http://rubular.com/r/85ag5AZ2jP
-http://rubular.com/r/AOXNVDrZpx
-http://rubular.com/r/duOrD4i3wb
-http://rubular.com/r/fT0gmX6VJX
-http://rubular.com/r/kqeUIZOfPG
-http://rubular.com/r/sbAMHFrOx1
-http://rubular.com/r/zDD7DdWyzF
-http://ruby.brian-schroeder.de/priority_queue
-http://rubydoc.info/gems/addressable
-http://rubydoc.info/gems/docile
-http://rubydoc.info/gems/rspec-core/frames
-http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
-http://rubydoc.info/gems/rspec-core/RSpec/Core/ExampleGroup
-http://rubydoc.info/gems/rspec-expectations/frames
-http://rubydoc.info/gems/rspec-mocks/frames
-http://rubydoc.info/gems/simplecov/frames
-http://rubydoc.info/gems/simplecov/SimpleCov/Configuration
-http://rubydoc.info/gems/tzinfo/frames
-http://rubydoc.info/github/halostatue/diff-lcs
-http://rubydoc.info/github/pry/pry/master/Pry/Hooks
-http://rubyeventmachine.com
-http://rubyforge.org
-http://rubyforge.org/frs/?group_id=2550
-http://rubyforge.org/projects/addressable/
-http://rubyforge.org/project/showfiles.php?group_id=50
-http://rubyforge.org/projects/log4r/
-http://rubyforge.org/projects/rake
-http://rubyforge.org/projects/rake.
-http://rubyforge.org/projects/rubylexer
-http://rubyforge.org/projects/ruwiki
-http://rubyforge.org/projects/ruwiki/
-http://rubyforge.org/projects/syntax
-http://rubyforge.org/projects/uuidtools/
-http://rubyforge.org/projects/win32console
-http://rubyforge.org/projects/winconsole
-http://rubyforge.org/tracker/?func=detail
-http://rubyforge.org/tracker/index.php?func=detail
-http://rubygems-mirror.org
-http://rubygems.org
-http://rubygems.org/
-http://rubygems.org/gems/em-websocket
-http://rubygems.org/gems/mime-types
-http://rubygems.org/gems/netrc
-http://rubygems.org/gems/rdoc
-http://rubygems.org/gems/simplecov
-http://rubygems.rubyforge.org/rdoc
-http://rubygems.rubyforge.org/wiki/wiki.pl?RubyGems
-http://rubyinstaller.org/downloads
-http://ruby-lang.org
-http://ruby-lang.org/
-http://rubystuff.org/romp/
-http://rubyzip.sourceforge.net.
-http://runolfsdottir.name/
-http://runolfsdottirnitzsche.co.uk/
-http://runolfssonstroman.info/
-http://rvm.io/packages/openssl.
-http://rwiki.jin.gr.jp/cgi-bin/rw-cgi.rb?cmd=view
-http://s
-https://
-https://...
-https://127.0.0.1
-https://127.0.0.1/
-https://172.20.20.121/sdk
-https://192.168.168.202/app.plist
-https://account.activestate.com/
-https://accounts.google.com
-https://accounts.google.com/b/0/VerifiedPhoneInterstitial?continue=https
-https://addons.mozilla.org/en-US/firefox/addon/font-finder/
-https://addons.mozilla.org/en-US/firefox/addon/web-developer/developers
-http://sadflkjsasf.i.nvali.d/
-http://sadflkjsasf.i.nvali.d./
-http://sadun-util.sourceforge.net/
-http://sadun-util.sourceforge.net/pack.html
-https://ajax.googleapis.com/ajax/services/search/images?
-https://alkaline-solutions.com
-http://sam
-http://samtools.sourceforge.net/tabix.shtml
-http://sandmark.cs.arizona.edu/
-https://android.clients.google.com/fdfe/
-https://android.googlesource.com/platform/external/libnfc-nxp/
-https://api.travis-ci.org/lian/bitcoin-ruby.svg?branch=master
-http://savannah.gnu.org/cgi-bin/viewcvs/
-http://savannah.gnu.org/projects/rubypki
-https://badge.fury.io/rb/addressable.png
-https://badge.fury.io/rb/docile.png
-https://badge.fury.io/rb/em-websocket.png
-https://badge.fury.io/rb/tzinfo.svg
-https://bitbucket.org/pierrejoye/gd-libgd/downloads
-https://bitbucket.org/pypa/setuptools/pull-request/7/
-https://bitcointalk.org/index.php?topic=11665.0.
-https://bitcointalk.org/index.php?topic=260595.0
-https://bitcointalk.org/index.php?topic=46370.0
-https://bitdeli.com/free
-https://bugs.freedesktop.org//show_bug.cgi?id=34240
-https://bugs.launchpad.net/virtualenv/
-https://bugs.ruby-lang.org/issues/6492
-https://bugs.ruby-lang.org/issues/8556
-https://bugs.ruby-lang.org/issues/8686
-https://bugs.ruby-lang.org/issues/9967
-https://bugzilla.gnome.org/show_bug.cgi?id=647577
-https://bugzilla.gnome.org/show_bug.cgi?id=657100
-https://bugzilla.redhat.com/show_bug.cgi?id=556975
-https://ccrma.stanford.edu/courses/422/projects/WaveFormat/
-http://schadenspinka.ca/
-http://schema.org/AggregateRating
-http://schema.org/MobileApplication
-http://schema.org/Offer
-http://schema.org/Organization
-http://schemas.android.com/apk/res/android
-http://schemas.android.com/apk/res-auto
-http://schemas.android.com/tools
-http://schemas.micros
-http://schemas.microsoft.com/client/2007/deployment
-http://schemas.microsoft.com/developer/msbuild/2003
-http://schemas.microsoft.com/expression/blend/2008
-http://schemas.microsoft.com/intellisense/ie5
-http://schemas.microsoft.com/office/2006/activeX
-http://schemas.microsoft.com/office/2006/relationships/activeXControlBinary
-http://schemas.microsoft.com/office/drawing/2010/main
-http://schemas.microsoft.com/office/wo
-http://schemas.microsoft.com/office/word/2003/wor
-http://schemas.microsoft.com/office/word/2003/word
-http://schemas.microsoft.com/office/word/2003/wordml
-http://schemas.microsoft.com/SMI/2005/WindowsSettings
-http://schemas.microsoft.com/VisualStudio/2004/01/settings
-http://schemas.microsoft.com/windowsphone/2012/deployment
-http://schemas.microsoft.com/winfx/2006/xaml
-http://schemas.microsoft.com/winfx/2006/xaml/presentation
-http://schemas.openxmlformats.org/markup-compatibility/2006
-http://schemas.openxmlformats.org/officeDocument/2006/relationships
-http://schemas.openxmlformats.org/officeDocument/2006/relationships/control
-http://schemas.openxmlformats.org/officeDocument/2006/relationships/image
-http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing
-http://schemas.openxmlformats.org/package/2006/relationships
-http://schemas.xmlsoap.org/soap/envelope
-http://schemas.xmlsoap.org/soap/envelope/
-http://schemas.xmlsoap.org/wsdl/
-http://schimmel.us/
-http://schinner.name/
-http://schowalter.uk/
-https://chromium.googlesource.com/chromium/src/
-http://schulistcronin.uk/
-http://schulist.info/
-http://schuster.ca/
-http://schusterwintheiser.uk/
-https://codeclimate.com/github/bundler/bundler
-https://codeclimate.com/github/colszowka/simplecov
-https://codeclimate.com/github/colszowka/simplecov.png
-https://codeclimate.com/github/durran/optionable
-https://codeclimate.com/github/durran/optionable.png
-https://codeclimate.com/github/halostatue/mime-types
-https://codeclimate.com/github/intridea/multi_json
-https://codeclimate.com/github/mongodb/bson-ruby
-https://codeclimate.com/github/mongodb/bson-ruby.png
-https://codeclimate.com/github/mongoid/origin
-https://codeclimate.com/github/mongoid/origin.png
-https://codeclimate.com/github/ms-ati/docile
-https://codeclimate.com/github/ms-ati/docile.png
-https://codeclimate.com/github/pry/pry
-https://codeclimate.com/github/rspec/rspec-core
-https://codeclimate.com/github/rspec/rspec-core.png
-https://codeclimate.com/github/rspec/rspec-expectations
-https://codeclimate.com/github/rspec/rspec-expectations.png
-https://codeclimate.com/github/rspec/rspec-mocks
-https://codeclimate.com/github/rspec/rspec-mocks.png
-https://codeclimate.com/github/rubyzip/rubyzip
-https://codeclimate.com/github/rubyzip/rubyzip.png
-https://code.google.com/p/android/issues/detail?id=42540
-https://code.google.com/p/android/issues/detail?id=42735
-https://code.google.com/p/gmaps-api-as3/
-https://coinbase.com/network/tx/
-https://connect.microsoft.com/VisualStudio/feedback/details/100744
-https://connect.microsoft.com/VisualStudio/feedback/details/484295
-https://connect.microsoft.com/VisualStudio/feedback/details/499606
-https://connect.microsoft.com/VisualStudio/feedback/details/754684/premature-decay-of-function-types-in-overloaded-assignment-operator
-https://connect.microsoft.com/VisualStudio/feedback/details/765392/decltype-of-a-pointer-to-member-operator-gets-ref-qualification-wrong
-https://connect.microsoft.com/VisualStudio/feedback/details/765449/codegen-stack-corruption-using-runtime-checks-when-aggregate-initializing-struct
-https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=100744
-https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=240227
-https://coveralls.io/r/durran/optionable?branch=master
-https://coveralls.io/repos/durran/optionable/badge.png?branch=master
-https://coveralls.io/repos/halostatue/mime-types/badge.png
-https://coveralls.io/repos/mongodb/bson-ruby/badge.png?branch=master
-https://coveralls.io/repos/mongoid/origin/badge.png?branch=master
-https://coveralls.io/repos/ms-ati/docile/badge.png
-https://coveralls.io/repos/rubyzip/rubyzip/badge.png?branch=master
-https://coveralls.io/repos/sporkmonger/addressable/badge.png?branch=master
-https://coveralls.io/r/halostatue/mime-types
-https://coveralls.io/r/mongodb/bson-ruby?branch=master
-https://coveralls.io/r/mongoid/origin?branch=master
-https://coveralls.io/r/ms-ati/docile
-https://coveralls.io/r/rubyzip/rubyzip?branch=master
-https://coveralls.io/r/sporkmonger/addressable
-https://d2weczhvl823v0.cloudfront.net/ms-ati/docile/trend.png
-https://datatracker.ietf.org/public/idindex.cgi?
-https://developer.apple.com/icloud/documentation/data-storage/
-https://developer.apple.com/library/ios/
-https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/PassKit_PG/Chapters/Introduction.html
-https://developer.mozilla.org/en/PKCS11_Module_Specs.
-https://developers.google.com/maps/documentation/flash/overlays
-https://developers.google.com/speed/webp/
-https://dl.dropbox.com/u/26521875/pry
-https://drive.google.com
-https://drive.google.com/?authuser=0
-https://drive.google.com/drive/
-https://drive.google.com/drive?authuser
-https://duplicate-rubygems.org
-http://search.cpan.org/
-http://search.cpan.org/doc/MORTY/DateConvert-0.16/Convert.pm
-http://search.cpan.org/search?query=PerlBuildSystem
-http://search-dev.develooper.com/
-http://search-dev.develooper.com/search?m=module
-http://search.gmane.org/
-http://search.msn.com/docs/siteowner.aspx.
-http://search.twitter.com/search.json?q=
-http://search.twitter.com/search.json?q=engineyard
-http://search.twitter.com/search.json?q=github
-https://edk2-fatdriver2.svn.sourceforge.net/svnroot/edk2-fatdriver2/trunk/FatPkg
-https://edk2.svn.sourceforge.net/svnroot/edk2/branches/EADK/
-https://edk2.svn.sourceforge.net/svnroot/edk2/trunk/edk2
-https://edk2.svn.sourceforge.net/svnroot/edk2/trunk/edk2/EmulatorPkg/
-https://edk2.svn.sourceforge.net/svnroot/edk2/trunk/edk2/EmulatorPkg/EmulatorPkg.dsc
-https://edk2.tianocore.org/files/documents/64/494/EDKII_UserManual.pdf
-https://edk2.tianocore.org/source/browse/edk2/trunk/edk2/IntelFrameworkPkg
-https://edk2.tianocore.org/step-by-step-instructions.html
-https://edk2.tianocore.org/unix-getting-started.html
-https://edk.tianocore.org/files/documents/16/526/Edk-Dev-Snapshot-20090527.zip
-https://edk.tianocore.org/files/documents/16/558/Edk-Dev-Snapshot-20090812.zip
-https://efi-shell.tianocore.org/servlets/ProjectDocumentList?folderID=46
-http://semver.org
-http://semver.org/
-https://en.bitcoin.it/wiki/Base58Check_encoding
-https://en.bitcoin.it/wiki/BIP_0011
-https://en.bitcoin.it/wiki/BIP_0012
-https://en.bitcoin.it/wiki/BIP_0016
-https://en.bitcoin.it/wiki/BIP_0035
-https://en.bitcoin.it/wiki/Electrum
-https://en.bitcoin.it/wiki/OP_CHECKSIG
-https://en.bitcoin.it/wiki/Private_key
-https://en.bitcoin.it/wiki/Proof_of_work
-https://en.bitcoin.it/wiki/Protocol_specification
-https://example.com
-https://example.com/
-https://example.com/private/resource
-https://existing-rubygems.org
-https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c0.20.800.800/s200x200/734834_10152513415670114_1465039918_n.jpg
-https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c0.20.800.800/s720x720/734834_10152513415670114_1465039918_n.jpg
-https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c0.4.123.123/s100x100/734834_10152513415670114_1465039918_s.jpg
-https://fifth-rubygems.org
-https://first-rubygems.org
-http://sf.net/mailarchive/forum.php?thread_id=1963157
-http://sf.net/mailarchive/forum.php?thread_id=1966224
-http://sf.net/project/showfiles.php?group_id=7586
-http://sf.net/projects/mimelib
-http://sf.net/tracker/
-http://sf.net/tracker/?func=detail
-http://sf.net/tracker/index.php?func=detail
-https://forums13.itrc.hp.com/service/forums/questionanswer.do?threadId=1443331
-https://forums13.itrc.hp.com/service/forums/questionanswer.do?threadId=1443436
-https://forums.adobe.com/thread/1298374
-https://fourth-rubygems.org
-https://ga-beacon.appspot.com/UA-71196-10/em-websocket/readme
-https://gbandroid.googlecode.com/svn-history/r46/trunk/MobileSpy/src/org/ddth/android/monitor/observer/AndroidSmsWatcher.java
-https://gemnasium.com/colszowka/simplecov
-https://gemnasium.com/colszowka/simplecov.png
-https://gemnasium.com/intridea/multi_json
-https://gemnasium.com/ms-ati/docile
-https://gemnasium.com/ms-ati/docile.png
-https://gemnasium.com/sporkmonger/addressable
-https://gemnasium.com/sporkmonger/addressable.png?travis
-https://gemnasium.com/sporkmonger/uuidtools
-https://gemnasium.com/sporkmonger/uuidtools.png
-https://gems.example.com
-https://gems.example.com/
-https://gems.longerous.com/
-https://gist.github.com
-https://gist.github.com/
-https://gist.github.com/.
-https://gist.github.com/2859988.git
-https://gist.github.com/5332c38afc46d902ce46
-https://gist.github.com/802391
-https://gist.github.com/802395
-https://gist.github.com/802553
-https://gist.github.com/845896
-https://gist.github.com/c0fc686ef923c8b87715
-https://gist.github.com/cae143e4533416529726
-https://gist.github.com/xaviershay/6207550
-https://gist.github.com/xaviershay/6295889
-https://github.com/
-https://github.com/adamsanderson
-https://github.com/adoxa/ansicon
-https://github.com/AF83/em-eventsource
-https://github.com/alor/em-http-server
-https://github.com/antirez/hiredis
-https://github.com/astro/socksify-ruby
-https://github.com/avsej/gson.rb
-https://github.com/avsej/gson.rb/issues/3
-https://github.com/bblimke/webmock
-https://github.com/bcg/em-mongo
-https://github.com/bf4
-https://github.com/bitcoin/bips/blob/master/bip-0038.mediawiki
-https://github.com/bitcoin/bitcoin/blob/c2e8c8acd8ae0c94c70b59f55169841ad195bb99/src/script.cpp
-https://github.com/bitcoin/bitcoin/blob/e071a3f6c06f41068ad17134189a4ac3073ef76b/script.cpp
-https://github.com/bitcoin/bitcoin/blob/master/src/script.cpp
-https://github.com/bitcoin/bitcoin/blob/master/src/test/base58_tests.cpp
-https://github.com/brianmario/yajl-ruby
-https://github.com/bundler/bundler/blob/master/CHANGELOG.md
-https://github.com/bundler/bundler/blob/master/DEVELOPMENT.md
-https://github.com/bundler/bundler/blob/master/ISSUES.md
-https://github.com/bundler/bundler-features
-https://github.com/bundler/bundler-features/issues?labels=small
-https://github.com/bundler/bundler-features/issues/new
-https://github.com/bundler/bundler/issues
-https://github.com/bundler/bundler/issues/1202
-https://github.com/bundler/bundler/issues/1486
-https://github.com/bundler/bundler/issues/1500
-https://github.com/bundler/bundler/issues?labels=small
-https://github.com/bundler/bundler/issues/new
-https://github.com/bundler/bundler-site
-https://github.com/chipsec/chipsec
-https://github.com/cloudfoundry
-https://github.com/colszowka/simplecov
-https://github.com/colszowka/simplecov/blob/master/CHANGELOG.md
-https://github.com/colszowka/simplecov/blob/master/CONTRIBUTING.md
-https://github.com/colszowka/simplecov/blob/master/features/config_nocov_token.feature
-https://github.com/colszowka/simplecov/commit/37afca54ef503c33d888e910f950b3b943cb9a6c
-https://github.com/colszowka/simplecov/commit/63cfa99f8658fa5cc66a38c83b3195fdf71b9e93
-https://github.com/colszowka/simplecov/compare/v0.4.2...v0.5.4
-https://github.com/colszowka/simplecov/compare/v0.5.0...v0.5.1
-https://github.com/colszowka/simplecov/compare/v0.5.1...v0.5.2
-https://github.com/colszowka/simplecov/compare/v0.5.2...v0.5.3
-https://github.com/colszowka/simplecov/compare/v0.5.3...v0.5.4
-https://github.com/colszowka/simplecov/compare/v0.5.4...v0.6.0
-https://github.com/colszowka/simplecov/compare/v0.6.0...v0.6.1
-https://github.com/colszowka/simplecov/compare/v0.6.1...v0.6.2
-https://github.com/colszowka/simplecov/compare/v0.6.2...v0.6.3
-https://github.com/colszowka/simplecov/compare/v0.6.3...v0.6.4
-https://github.com/colszowka/simplecov/compare/v0.6.4...v0.7.0
-https://github.com/colszowka/simplecov/compare/v0.7.0...v0.7.1
-https://github.com/colszowka/simplecov/compare/v0.7.1...v0.8.0
-https://github.com/colszowka/simplecov/compare/v0.8.0...v0.8.1
-https://github.com/colszowka/simplecov/compare/v0.8.1...v0.8.2
-https://github.com/colszowka/simplecov/compare/v0.8.2...v0.9.0
-https://github.com/colszowka/simplecov/compare/v0.9.0...v0.9.1
-https://github.com/colszowka/simplecov/compare/v0.9.1...master
-https://github.com/colszowka/simplecov.git
-https://github.com/colszowka/simplecov-html
-https://github.com/colszowka/simplecov-html/pull/14
-https://github.com/colszowka/simplecov-html/pull/15
-https://github.com/colszowka/simplecov/issues
-https://github.com/colszowka/simplecov/issues/106
-https://github.com/colszowka/simplecov/issues/11
-https://github.com/colszowka/simplecov/issues/110
-https://github.com/colszowka/simplecov/issues/113
-https://github.com/colszowka/simplecov/issues/127
-https://github.com/colszowka/simplecov/issues/132
-https://github.com/colszowka/simplecov/issues/140
-https://github.com/colszowka/simplecov/issues/171
-https://github.com/colszowka/simplecov/issues/204
-https://github.com/colszowka/simplecov/issues/221
-https://github.com/colszowka/simplecov/issues/258
-https://github.com/colszowka/simplecov/issues/281
-https://github.com/colszowka/simplecov/issues/285
-https://github.com/colszowka/simplecov/issues/304
-https://github.com/colszowka/simplecov/issues/333
-https://github.com/colszowka/simplecov/issues/41
-https://github.com/colszowka/simplecov/issues/42
-https://github.com/colszowka/simplecov/issues/45
-https://github.com/colszowka/simplecov/issues/64
-https://github.com/colszowka/simplecov/issues/71
-https://github.com/colszowka/simplecov/issues/72
-https://github.com/colszowka/simplecov/issues/79
-https://github.com/colszowka/simplecov/issues/80
-https://github.com/colszowka/simplecov/issues/85
-https://github.com/colszowka/simplecov/issues/86
-https://github.com/colszowka/simplecov/issues/90
-https://github.com/colszowka/simplecov/issues/95
-https://github.com/colszowka/simplecov/issues/96
-https://github.com/colszowka/simplecov/pull/103
-https://github.com/colszowka/simplecov/pull/117.
-https://github.com/colszowka/simplecov/pull/119.
-https://github.com/colszowka/simplecov/pull/122
-https://github.com/colszowka/simplecov/pull/128.
-https://github.com/colszowka/simplecov/pull/139.
-https://github.com/colszowka/simplecov/pull/151
-https://github.com/colszowka/simplecov/pull/158
-https://github.com/colszowka/simplecov/pull/174
-https://github.com/colszowka/simplecov/pull/175
-https://github.com/colszowka/simplecov/pull/181
-https://github.com/colszowka/simplecov/pull/185
-https://github.com/colszowka/simplecov/pull/190
-https://github.com/colszowka/simplecov/pull/194
-https://github.com/colszowka/simplecov/pull/195
-https://github.com/colszowka/simplecov/pull/203
-https://github.com/colszowka/simplecov/pull/206
-https://github.com/colszowka/simplecov/pull/207
-https://github.com/colszowka/simplecov/pull/209
-https://github.com/colszowka/simplecov/pull/212
-https://github.com/colszowka/simplecov/pull/213
-https://github.com/colszowka/simplecov/pull/215
-https://github.com/colszowka/simplecov/pull/223
-https://github.com/colszowka/simplecov/pull/237
-https://github.com/colszowka/simplecov/pull/238
-https://github.com/colszowka/simplecov/pull/242
-https://github.com/colszowka/simplecov/pull/244
-https://github.com/colszowka/simplecov/pull/245
-https://github.com/colszowka/simplecov/pull/256
-https://github.com/colszowka/simplecov/pull/272
-https://github.com/colszowka/simplecov/pull/276
-https://github.com/colszowka/simplecov/pull/278
-https://github.com/colszowka/simplecov/pull/279
-https://github.com/colszowka/simplecov/pull/280
-https://github.com/colszowka/simplecov/pull/287
-https://github.com/colszowka/simplecov/pull/302
-https://github.com/colszowka/simplecov/pull/303
-https://github.com/colszowka/simplecov/pull/311
-https://github.com/colszowka/simplecov/pull/317
-https://github.com/colszowka/simplecov/pull/70
-https://github.com/colszowka/simplecov/pull/74
-https://github.com/colszowka/simplecov/pull/75
-https://github.com/colszowka/simplecov/pull/83
-https://github.com/ConradIrwin
-https://github.com/conradirwin/ruby18_source_location
-https://github.com/cucumber/aruba/issues/134
-https://github.com/cucumber/aruba/pull/125
-https://github.com/danmayer/coverband
-https://github.com/djberg96/sys-cpu
-https://github.com/djberg96/sys-filesystem
-https://github.com/dmitryelastic
-https://github.com/dtmilano/AndroidViewClient/issues
-https://github.com/eliben/pyelftools
-https://github.com/EmmanuelOga/firering
-https://github.com/eventmachine/em-mysql
-https://github.com/eventmachine/eventmachine/wiki
-https://github.com/fguillen/simplecov-csv
-https://github.com/fguillen/simplecov-rcov
-https://github.com/fintler/xnufuzz/tree/
-https://github.com/flori/json
-https://github.com/gimite/web-socket-js
-https://github.com/github/gitignore
-https://github.com/grosser/simplecov-single_file_reporter
-https://github.com/guard/guard
-https://github.com/guard/guard/wiki/Add-proper-Readline-support-to-Ruby-on-Mac-OS-X
-https://github.com/guyboertje/jrjackson
-https://github.com/guyboertje/jrjackson/issues/21
-https://github.com/hackedteam/core-android
-https://github.com/hackedteam/core-android-audiocapture
-https://github.com/hackedteam/core-android-market
-https://github.com/hackedteam/core-android-native
-https://github.com/hackedteam/core-blackberry
-https://github.com/hackedteam/core-ios
-https://github.com/hackedteam/core-linux
-https://github.com/hackedteam/core-macos
-https://github.com/hackedteam/core-packer
-https://github.com/hackedteam/core-symbian
-https://github.com/hackedteam/core-win32
-https://github.com/hackedteam/core-win64
-https://github.com/hackedteam/core-winmobile
-https://github.com/hackedteam/core-winphone
-https://github.com/hackedteam/driver-macos
-https://github.com/hackedteam/driver-win32
-https://github.com/hackedteam/driver-win64
-https://github.com/hackedteam/fuzzer-android
-https://github.com/hackedteam/fuzzer-windows
-https://github.com/hackedteam/GeoTrust
-https://github.com/hackedteam/gitosis-admin
-https://github.com/hackedteam/libmelter
-https://github.com/hackedteam/libpemelter
-https://github.com/hackedteam/melter
-https://github.com/hackedteam/poc-x
-https://github.com/hackedteam/rcs-anonymizer
-https://github.com/hackedteam/rcs-anonymizer-old
-https://github.com/hackedteam/rcs-backdoor
-https://github.com/hackedteam/rcs-collector
-https://github.com/hackedteam/rcs-common
-https://github.com/hackedteam/rcs-console
-https://github.com/hackedteam/rcs-console-library
-https://github.com/hackedteam/rcs-console-mobile
-https://github.com/hackedteam/rcs-db-ext
-https://github.com/hackedteam/scout-win
-https://github.com/hackedteam/shshget
-https://github.com/hackedteam/soldier-win
-https://github.com/hackedteam/test-av
-https://github.com/hackedteam/test-av2
-https://github.com/hackedteam/vector-applet
-https://github.com/hackedteam/vector-default
-https://github.com/hackedteam/vector-dropper
-https://github.com/hackedteam/vector-edk
-https://github.com/hackedteam/vector-exploit
-https://github.com/hackedteam/vector-ipa
-https://github.com/hackedteam/vector-macos-root
-https://github.com/hackedteam/vector-offline
-https://github.com/hackedteam/vector-offline2
-https://github.com/hackedteam/vector-recover
-https://github.com/hackedteam/vector-rmi
-https://github.com/hackedteam/vector-silent
-https://github.com/halorgium/rack-client
-https://github.com/halostatue/diff-lcs
-https://github.com/halostatue/diff-lcs/issues
-https://github.com/halostatue/diff-lcs/issues/1
-https://github.com/halostatue/diff-lcs/issues/10
-https://github.com/halostatue/diff-lcs/issues/12
-https://github.com/halostatue/diff-lcs/issues/13
-https://github.com/halostatue/diff-lcs/issues/2
-https://github.com/halostatue/diff-lcs/issues/3
-https://github.com/halostatue/diff-lcs/issues/4
-https://github.com/halostatue/diff-lcs/issues/8
-https://github.com/halostatue/diff-lcs/issues/9
-https://github.com/halostatue/diff-lcs/pull/15
-https://github.com/halostatue/diff-lcs/pull/18
-https://github.com/halostatue/diff-lcs/pull/23
-https://github.com/halostatue/mime-types/
-https://github.com/halostatue/mime-types/issue/13
-https://github.com/halostatue/mime-types/issue/16.
-https://github.com/halostatue/mime-types/issue/17
-https://github.com/halostatue/mime-types/issue/20
-https://github.com/halostatue/mime-types/issue/21
-https://github.com/halostatue/mime-types/issue/22
-https://github.com/halostatue/mime-types/issue/23
-https://github.com/halostatue/mime-types/issues
-https://github.com/halostatue/mime-types/issues/1
-https://github.com/halostatue/mime-types/issues/10
-https://github.com/halostatue/mime-types/issues/11.
-https://github.com/halostatue/mime-types/issues/12
-https://github.com/halostatue/mime-types/issues/2
-https://github.com/halostatue/mime-types/issues/3
-https://github.com/halostatue/mime-types/issues/32
-https://github.com/halostatue/mime-types/issues/39
-https://github.com/halostatue/mime-types/issues/57
-https://github.com/halostatue/mime-types/issues/59
-https://github.com/halostatue/mime-types/issues/6
-https://github.com/halostatue/mime-types/issues/60
-https://github.com/halostatue/mime-types/issues/71
-https://github.com/halostatue/mime-types/issues/77
-https://github.com/halostatue/mime-types/issues/8
-https://github.com/halostatue/mime-types/issues/8.
-https://github.com/halostatue/mime-types/pull/24
-https://github.com/halostatue/mime-types/pull/27
-https://github.com/halostatue/mime-types/pull/28
-https://github.com/halostatue/mime-types/pull/30
-https://github.com/halostatue/mime-types/pull/36
-https://github.com/halostatue/mime-types/pull/37
-https://github.com/halostatue/mime-types/pull/42
-https://github.com/halostatue/mime-types/pull/43
-https://github.com/halostatue/mime-types/pull/44
-https://github.com/halostatue/mime-types/pull/58
-https://github.com/halostatue/mime-types/pull/60
-https://github.com/halostatue/mime-types/pull/72
-https://github.com/halostatue/mime-types/pull/74
-https://github.com/halostatue/mime-types/pull/75
-https://github.com/hasmanydevelopers/RDaneel
-https://github.com/headius/thread_safe
-https://github.com/headius/thread_safe/issues/19
-https://github.com/headius/thread_safe/issues/40
-https://github.com/igrigorik
-https://github.com/igrigorik/em-http-request
-https://github.com/igrigorik/em-http-request/commit/1ca5b608e876c18fa6cfa318d0685dcf5b974e09
-https://github.com/igrigorik/em-http-request/commits/master
-https://github.com/igrigorik/em-http-request/issues/168
-https://github.com/igrigorik/em-http-request/wiki/Basic-Auth-and-OAuth
-https://github.com/igrigorik/em-http-request/wiki/Compression
-https://github.com/igrigorik/em-http-request/wiki/Issuing-Requests
-https://github.com/igrigorik/em-http-request/wiki/Keep-Alive-and-HTTP-Pipelining
-https://github.com/igrigorik/em-http-request/wiki/Middleware
-https://github.com/igrigorik/em-http-request/wiki/Parallel-Requests
-https://github.com/igrigorik/em-http-request/wiki/Proxy
-https://github.com/igrigorik/em-http-request/wiki/Redirects-and-Timeouts
-https://github.com/igrigorik/em-http-request/wiki/Streaming
-https://github.com/igrigorik/em-synchrony
-https://github.com/igrigorik/em-websocket/issues/61
-https://github.com/igrigorik/em-websocket/issues/98
-https://github.com/igrigorik/ga-beacon
-https://github.com/igrigorik/PubSubHubbub
-https://github.com/intridea/multi_json/commit/078de7ba8b6035343c3e96b4767549e9ec43369a
-https://github.com/intridea/multi_json/commit/0c8f75f03020c53bcf4c6be258faf433d24b2c2b
-https://github.com/intridea/multi_json/commit/106bbec469d5d0a832bfa31fffcb8c0f0cdc9bd3
-https://github.com/intridea/multi_json/commit/1706b11568db7f50af451fce5f4d679aeb3bbe8f
-https://github.com/intridea/multi_json/commit/193e28cf4dc61b6e7b7b7d80f06f74c76df65c41
-https://github.com/intridea/multi_json/commit/19ddafd44029c6681f66fae2a0f6eabfd0f85176
-https://github.com/intridea/multi_json/commit/1fd4e6635c436515b7d7d5a0bee4548de8571520
-https://github.com/intridea/multi_json/commit/30a3f474e17dd86a697c3fab04f468d1a4fd69d7
-https://github.com/intridea/multi_json/commit/315b6e460b6e4dcdb6c82e04e4be8ee975d395da
-https://github.com/intridea/multi_json/commit/31b990c2725e6673bf8ce57540fe66b57a751a72
-https://github.com/intridea/multi_json/commit/36b524e71544eb0186826a891bcc03b2820a008f
-https://github.com/intridea/multi_json/commit/36f7906c66477eb4b55b7afeaa3684b6db69eff2
-https://github.com/intridea/multi_json/commit/391d00b5e85294d42d41347605d8d46b4a7f66cc
-https://github.com/intridea/multi_json/commit/39abdf50199828c50e85b2ce8f8ba31fcbbc9332
-https://github.com/intridea/multi_json/commit/3b978a8995721a8dffedc3b75a7f49e5494ec553
-https://github.com/intridea/multi_json/commit/4abb98fe3a90b2a7b3d1594515c8a06042b4a27d
-https://github.com/intridea/multi_json/commit/4da612b617bd932bb6fa1cc4c43210327f98f271
-https://github.com/intridea/multi_json/commit/4dd86fa96300aaaf6d762578b9b31ea82adb056d
-https://github.com/intridea/multi_json/commit/526f5f29a42131574a088ad9bbb43d7f48439b2c
-https://github.com/intridea/multi_json/commit/5373a5e38c647f02427a0477cb8e0e0dafad1b8d
-https://github.com/intridea/multi_json/commit/58525b01c4c2f6635ba2ac13d6fd987b79f3962f
-https://github.com/intridea/multi_json/commit/58724acfed31866d079eaafb1cd824e341ade287
-https://github.com/intridea/multi_json/commit/59fad014e8fe41dbc6f09485ea0dc21fc42fd7a7
-https://github.com/intridea/multi_json/commit/5bd1afc977a8208ddb0443e1d57cb79665c019f1
-https://github.com/intridea/multi_json/commit/623ec8142d4a212fa0db763bb71295789a119929
-https://github.com/intridea/multi_json/commit/644d1c5c7c7f6a27663b11668527b346094e38b9
-https://github.com/intridea/multi_json/commit/65dedd84d59baeefc25c477fedf0bbe85e7ce2cd
-https://github.com/intridea/multi_json/commit/660101b70e962b3c007d0b90d45944fa47d13ec4
-https://github.com/intridea/multi_json/commit/6af2bf87b89f44eabf2ae9ca96779febc65ea94b
-https://github.com/intridea/multi_json/commit/707aae7d48d39c85b38febbd2c210ba87f6e4a36
-https://github.com/intridea/multi_json/commit/73998074058e1e58c557ffa7b9541d486d6041fa
-https://github.com/intridea/multi_json/commit/76a4aaf697b10bbabd5d535d83cf1149efcfe5c7
-https://github.com/intridea/multi_json/commit/7d9045338cc9029401c16f3c409d54ce97f275e2
-https://github.com/intridea/multi_json/commit/826fc5535b863b74fc9f981dfdda3e26f1ee4e5b
-https://github.com/intridea/multi_json/commit/8a26ee93140c4bed36194ed9fb887a1b6919257b
-https://github.com/intridea/multi_json/commit/911a3756bdff2cb5ac06497da3fa3e72199cb7ad
-https://github.com/intridea/multi_json/commit/942686f7e8597418c6f90ee69e1d45242fac07b1
-https://github.com/intridea/multi_json/commit/99a6b662f6ef4036e3ee94d7eb547fa72fb2ab50
-https://github.com/intridea/multi_json/commit/a153956be6b0df06ea1705ce3c1ff0b5b0e27ea5
-https://github.com/intridea/multi_json/commit/a3f14c3661688c5927638fa6088c7b46a67e875e
-https://github.com/intridea/multi_json/commit/a6dc935df08e7b3d5d701fbb9298384c96df0fde
-https://github.com/intridea/multi_json/commit/a9e587d5a63eafb4baee9fb211265e4dd96a26bc
-https://github.com/intridea/multi_json/commit/aa50ab8b7bb646b8b75d5d65dfeadae8248a4f10
-https://github.com/intridea/multi_json/commit/acd06b233edabe6c44f226873db7b49dab560c60
-https://github.com/intridea/multi_json/commit/ae7fd144a7949a9c221dcaa446196ec23db908df
-https://github.com/intridea/multi_json/commit/af8bd9799a66855f04b3aff1c488485950cec7bf
-https://github.com/intridea/multi_json/commit/b36dc915fc0e6548cbad06b5db6f520e040c9c8b
-https://github.com/intridea/multi_json/commit/b58b498747ff6e94f41488c971b2a30a98760ef2
-https://github.com/intridea/multi_json/commit/b698962c7f64430222a1f06430669706a47aff89
-https://github.com/intridea/multi_json/commit/b8e15a032247a63f1410d21a18add05035f3fa66
-https://github.com/intridea/multi_json/commit/ba1451c4c48baa297e049889be241a424cb05980
-https://github.com/intridea/multi_json/commit/c157240b1193b283d06d1bd4d4b5b06bcf3761f8
-https://github.com/intridea/multi_json/commit/c1cf075453ce0110f7decc4f906444b1233bb67c
-https://github.com/intridea/multi_json/commit/c2f4140141d785a24b3f56e58811b0e561b37f6a
-https://github.com/intridea/multi_json/commit/c44f9c928bb25fe672246ad394b3e5b991be32e6
-https://github.com/intridea/multi_json/commit/c885377d47a2aa39cb0d971fea78db2d2fa479a7
-https://github.com/intridea/multi_json/commit/caced0c4e8c795922a109ebc00c3c4fa8635bed8
-https://github.com/intridea/multi_json/commit/d06eec6b7996ac8b4ff0e2229efd835379b0c30f
-https://github.com/intridea/multi_json/commit/d0e5feeebcba0bc69400dd203a295f5c30971223
-https://github.com/intridea/multi_json/commit/d14c5d28cae96557a0421298621b9499e1f28104
-https://github.com/intridea/multi_json/commit/d1cde7de97cb0f6152aef8daf14037521cdce8c6
-https://github.com/intridea/multi_json/commit/d33c141619c54cccd770199694da8fd1bd8f449d
-https://github.com/intridea/multi_json/commit/dd4b68810c84f826fb98f9713bfb29ab96888d57
-https://github.com/intridea/multi_json/commit/dea9a1aef6dd1212aa1e5a37ab1669f9b045b732
-https://github.com/intridea/multi_json/commit/e0a7ff5d5ff621ffccc61617ed8aeec5816e81f7
-https://github.com/intridea/multi_json/commit/e1f162d5b668e5e4db5afa175361a601a8aa2b05
-https://github.com/intridea/multi_json/commit/e21d6eb7da74b3f283995c1d27d5880e75f0ae84
-https://github.com/intridea/multi_json/commit/e7438e7ba2be0236cfa24c2bb9ad40ee821286d1
-https://github.com/intridea/multi_json/commit/e90fd6cb1b0293eb0c73c2f4eb0f7a1764370216
-https://github.com/intridea/multi_json/commit/f862e2fc966cac8867fe7da3997fc76e8a6cf5d4
-https://github.com/intridea/multi_json/commit/fc3df0c7a3e2ab9ce0c2c7e7617a4da97dd13f6e
-https://github.com/intridea/multi_json/issues
-https://github.com/intridea/multi_json/issues/73
-https://github.com/intridea/multi_json/issues/86
-https://github.com/intridea/multi_json/pull/66
-https://github.com/intridea/multi_json/pull/67
-https://github.com/intridea/multi_json/pull/70
-https://github.com/intridea/multi_json/pull/71
-https://github.com/intridea/multi_json/pull/79
-https://github.com/ivmai/bdwgc/commit/83231d0ab5ed60015797c3d1ad9056295ac3b2bb
-https://github.com/jfairbairn/em-net-http
-https://github.com/jgm/peg-markdown
-https://github.com/jimweirich/builder/issues?state=open
-https://github.com/jimweirich/rake/blob/master/doc/command_line_usage.rdoc
-https://github.com/jimweirich/rake/blob/master/doc/glossary.rdoc
-https://github.com/jimweirich/rake/blob/master/doc/rakefile.rdoc
-https://github.com/jimweirich/rake/blob/master/doc/rational.rdoc
-https://github.com/jimweirich/rake/issues
-https://github.com/jonashaag/bjoern
-https://github.com/jordansissel/eventmachine-tail
-https://github.com/joshbuddy/chirpstream
-https://github.com/jruby/jruby/blob/master/src/org/jruby/javasupport/JavaClass.java
-https://github.com/jruby/jruby/commit/99a0613fe29935150d76a9a1ee4cf2b4f63f4a27
-https://github.com/jruby/jruby/commit/d365ebd309cf9df3dde28f5eb36ea97056e0c039
-https://github.com/jruby/jruby/issues/1311
-https://github.com/jruby/jruby/issues/1398
-https://github.com/jruby/jruby/issues/525
-https://github.com/jruby/jruby/issues/597
-https://github.com/jruby/jruby/issues/814
-https://github.com/jruby/jruby/pull/436
-https://github.com/json-c/json-c
-https://github.com/json-c/json-c/downloads
-https://github.com/json-c/json-c.git
-https://github.com/kbandla/pydeep
-https://github.com/keybase/warpwallet
-https://github.com/kr/okjson
-https://github.com/kyledrake/sinatra-synchrony
-https://github.com/kyrylo/pry-theme
-https://github.com/languages/Ruby
-https://github.com/lian/bitcoin-ruby
-https://github.com/lian/bitcoin-ruby.git
-https://github.com/logstash/logstash
-https://github.com/lsaffie
-https://github.com/lukaszsliwa/friendly_mime
-https://github.com/maik/xml-simple
-https://github.com/marcandre/backports
-https://github.com/matthew342/simplecov-badge
-https://github.com/mloughran/em-hiredis
-https://github.com/mockko/livereload
-https://github.com/mojombo/proxymachine
-https://github.com/mojombo/proxymachine/
-https://github.com/mojombo/tomdoc/blob/master/tomdoc.md
-https://github.com/mongoid/mongoid/issues/3582
-https://github.com/mperham/em_postgresql
-https://github.com/ms-ati/docile
-https://github.com/ms-ati/docile/blob/master/.travis.yml
-https://github.com/ms-ati/docile/commit/174e654a075c8350b3411b212cfb409bc605348a
-https://github.com/ms-ati/docile/commit/33834852c7849912b97e109e8c5c193579cc5e98
-https://github.com/ms-ati/docile/issues
-https://github.com/mwmitchell/rsolr-async
-https://github.com/nyarly/cadre
-https://github.com/oauth/oauth-ruby/blob/master/lib/oauth/request_proxy/em_http_request.rb
-https://github.com/ohler55/oj
-https://github.com/postrank-labs/goliath/
-https://github.com/pry/pry
-https://github.com/pry/pry/blob/master/CONTRIBUTORS
-https://github.com/pry/pry-coolline
-https://github.com/pry/pry/issues
-https://github.com/pry/pry/issues/1096
-https://github.com/pry/pry/issues/1158
-https://github.com/pry/pry/issues/1166
-https://github.com/pry/pry/issues/200
-https://github.com/pry/pry/issues/233
-https://github.com/pry/pry/issues/854
-https://github.com/pry/pry/pull/1209
-https://github.com/pry/pry/wiki
-https://github.com/pry/pry/wiki/Available-plugins
-https://github.com/pry/pry/wiki/Custom-commands
-https://github.com/pry/pry/wiki/Customization-and-configuration
-https://github.com/pry/pry/wiki/Editor-integration
-https://github.com/pry/pry/wiki/FAQ
-https://github.com/pry/pry/wiki/Setting-up-Rails-or-Heroku-to-use-Pry
-https://github.com/pry/pry/wiki/Source-browsing
-https://github.com/pry/pry/wiki/Special-Locals
-https://github.com/pry/pry/wiki/State-navigation
-https://github.com/pry/pry/wiki/User-Input
-https://github.com/puppetlabs/puppet/blob/bbe30e0a/lib/puppet/util/windows/root_certs.rb
-https://github.com/pypa/pip
-https://github.com/pypa/pip/
-https://github.com/pypa/pip/issues/
-https://github.com/pypa/pip/raw/master/contrib/get-pip.py
-https://github.com/pypa/pip/tarball/develop
-https://github.com/pypa/virtualenv
-https://github.com/pypa/virtualenv/raw/master/AUTHORS.txt
-https://github.com/pypa/virtualenv/raw/master/LICENSE.txt
-https://github.com/pypa/virtualenv/tarball/master
-https://github.com/rdoc/rdoc
-https://github.com/rdoc/rdoc/issues
-https://github.com/rest-client/rest-client
-https://github.com/rspec/rspec-autotest
-https://github.com/rspec/rspec-collection_matchers
-https://github.com/rspec/rspec-core/issues/295
-https://github.com/rspec/rspec-core/issues/322
-https://github.com/rspec/rspec-core/pull/837
-https://github.com/rspec/rspec-core/tree/master/features
-https://github.com/rspec/rspec-expectations/blob/master/Should.md
-https://github.com/rspec/rspec-expectations/commit/3d6fc82c
-https://github.com/rspec/rspec-expectations/issues/219
-https://github.com/rspec/rspec-expectations/pull/200
-https://github.com/rspec/rspec-expectations/pull/238
-https://github.com/rspec/rspec-expectations/pull/239
-https://github.com/rspec/rspec-mocks/blob/master/features/mutating_constants/README.md
-https://github.com/rspec/rspec-mocks/blob/master/features/verifying_doubles
-https://github.com/rspec/rspec-mocks/issues/127
-https://github.com/rspec/rspec-mocks/issues/132
-https://github.com/rspec/rspec-mocks/issues/513
-https://github.com/rspec/rspec-support
-https://github.com/rspec/rspec-support/compare/0dc12d1bdbbacc757a9989f8c09cd08ef3a4837e...v3.0.0.beta1
-https://github.com/rubinius/rubinius/commit/2e71722dba53d1a92c54d5e3968d64d1042486fe
-https://github.com/rubinius/rubinius/commit/4310f6b2ef3c8fc88135affe697db4e29e4621c4
-https://github.com/rubinius/rubinius/issues/2268
-https://github.com/rubinius/rubinius/issues/2430
-https://github.com/rubinius/rubinius/issues/953
-https://github.com/ruby-amqp/amq-client
-https://github.com/ruby-amqp/amqp
-https://github.com/rubygems/rubygems/commit/03dbac93a3396a80db258d9bc63500333c25bd2f
-https://github.com/rubygems/rubygems.git
-https://github.com/rubygems/rubygems/issues
-https://github.com/rubygems/rubygems/issues/784
-https://github.com/rubygems/rubygems/issues/813
-https://github.com/rubygems/rubygems/pull/57
-https://github.com/ruby/ruby/blob/89e70fe8e7/ext/openssl/ossl.c
-https://github.com/ruby/ruby/commit/699b209cf8cf11809620e12985ad33ae33b119ee
-https://github.com/rubyzip/rubyzip/issues/103
-https://github.com/rweng/pry-rails
-https://github.com/ry/http-parser/issues/47
-https://github.com/samuelkadolph
-https://github.com/seattlerb/hoe
-https://github.com/seattlerb/minitest
-https://github.com/seattlerb/minitest/blob/38f0a5fcbd9c37c3f80a3eaad4ba84d3fc9947a0/lib/minitest/assertions.rb
-https://github.com/sferik
-https://github.com/sferik/twitter/commit/3a0e41b9e4b0909201045fa47704b78c9d949b73
-https://github.com/sferik/twitter/commit/461ab89ce071c8c9fabfc183581e0ec523788b62
-https://github.com/sferik/twitter/commit/518c21ab299c500527491e6c049ab2229e22a805
-https://github.com/sipa/bitcoin/blob/2d40fe4da9ea82af4b652b691a4185431d6e47a8/key.h
-https://github.com/spesmilo/electrum/blob/master/lib/mnemonic.py
-https://github.com/sporkmonger/uuidtools
-https://github.com/styleguide/ruby
-https://github.com/svenfuchs/i18n
-https://github.com/svn2github/StageWebViewBridge/blob/master/StageWebViewBridge/src/es/xperiments/media/StageWebViewBridge.as
-https://github.com/technoweenie/faraday
-https://github.com/test-unit/test-unit/pull/12
-https://github.com/tmm1/http_parser.rb
-https://github.com/travis-ci/travis-ci/issues/2220
-https://github.com/twbs/bootstrap/blob/master/LICENSE
-https://github.com/tzinfo/tzinfo
-https://github.com/tzinfo/tzinfo/issues
-https://github.com/uwabami/rdtool/
-https://github.com/vicentllongo/simplecov-json
-https://github.com/xaviershay
-https://github.com/zerotao/libyaml
-https://groups.google.com/forum/
-https://groups.google.com/group/ruby-bundler
-http://shapelib.maptools.org/
-http://shellrevealed.com/blogs/shellblog/archive/2007/03/15/Shell-Namespace-Extension_3A00_-Creating-and-Using-the-System-Folder-View-Object.aspx
-https://help.github.com/articles/ignoring-files
-https://help.github.com/articles/set-up-git
-https://help.github.com/articles/using-pull-requests
-http://shootout.alioth.debian.org/
-http://showmedo.com/videos/video?name=2910000
-https://img.shields.io/codeclimate/github/bundler/bundler.svg
-https://img.shields.io/codeclimate/github/pry/pry.svg
-https://img.shields.io/gem/v/bundler.svg
-https://img.shields.io/travis/bundler/bundler/master.svg
-https://img.shields.io/travis/pry/pry.svg
-http://simonis.ca/
-http://sipdroid.googlecode.com/svn/trunk/src/org/sipdroid/sipua/ui/VideoCamera.java
-http://sirac.inrialpes.fr/
-https://issues.apache.org/jira/browse/DERBY-1721
-https://issues.apache.org/jira/browse/DERBY-1913
-https://issues.apache.org/jira/browse/DERBY-2687
-https://issues.apache.org/jira/browse/DERBY-3740
-https://issues.apache.org/jira/browse/DERBY-3808
-https://issues.apache.org/jira/browse/DERBY-3823
-https://issues.apache.org/jira/browse/DERBY-4201
-https://issues.apache.org/jira/browse/DERBY-4229
-https://issues.apache.org/jira/browse/DERBY-4279
-https://issues.apache.org/jira/browse/DERBY-4291
-https://issues.apache.org/jira/browse/DERBY-4631
-https://issues.apache.org/jira/browse/DERBY-5096
-https://issues.apache.org/jira/browse/DERBY-5240
-https://issues.apache.org/jira/browse/DERBY-5272
-https://issues.apache.org/jira/browse/DERBY-5305
-https://issues.apache.org/jira/browse/DERBY-5358
-https://issues.apache.org/jira/browse/DERBY-5369
-https://issues.apache.org/jira/browse/DERBY-5370
-https://issues.apache.org/jira/browse/DERBY-5377
-https://issues.apache.org/jira/browse/DERBY-5379
-https://issues.apache.org/jira/browse/DERBY-5406
-https://issues.apache.org/jira/browse/DERBY-5407
-https://issues.apache.org/jira/browse/DERBY-5425
-https://issues.apache.org/jira/browse/DERBY-5427
-https://issues.apache.org/jira/browse/DERBY-5440
-https://issues.apache.org/jira/browse/DERBY-5449
-https://issues.apache.org/jira/browse/DERBY-5454
-https://issues.apache.org/jira/browse/DERBY-5456
-https://issues.apache.org/jira/browse/DERBY-5465
-https://issues.apache.org/jira/browse/DERBY-5467
-https://issues.apache.org/jira/browse/DERBY-5508
-https://issues.apache.org/jira/browse/DERBY-5509
-https://issues.apache.org/jira/browse/DERBY-5517
-https://issues.apache.org/jira/browse/DERBY-5526
-https://issues.apache.org/jira/browse/DERBY-5527
-https://issues.apache.org/jira/browse/DERBY-5530
-https://issues.apache.org/jira/browse/DERBY-5531
-https://issues.apache.org/jira/browse/DERBY-5547
-https://issues.apache.org/jira/browse/DERBY-5552
-https://issues.apache.org/jira/browse/DERBY-5561
-https://issues.apache.org/jira/browse/DERBY-5562
-https://issues.apache.org/jira/browse/DERBY-5564
-https://issues.apache.org/jira/browse/DERBY-5567
-https://issues.apache.org/jira/browse/DERBY-5574
-https://issues.apache.org/jira/browse/DERBY-5582
-https://issues.apache.org/jira/browse/DERBY-5584
-https://issues.apache.org/jira/browse/DERBY-5586
-https://issues.apache.org/jira/browse/DERBY-5598
-https://issues.apache.org/jira/browse/DERBY-5599
-https://issues.apache.org/jira/browse/DERBY-5603
-https://issues.apache.org/jira/browse/DERBY-5608
-https://issues.apache.org/jira/browse/DERBY-5609
-https://issues.apache.org/jira/browse/DERBY-5614
-https://issues.apache.org/jira/browse/DERBY-5616
-https://issues.apache.org/jira/browse/DERBY-5617
-https://issues.apache.org/jira/browse/DERBY-5622
-https://issues.apache.org/jira/browse/DERBY-5624
-https://issues.apache.org/jira/browse/DERBY-5633
-https://issues.apache.org/jira/browse/DERBY-5638
-https://issues.apache.org/jira/browse/DERBY-5649
-https://issues.apache.org/jira/browse/DERBY-5663
-https://issues.apache.org/jira/browse/DERBY-5681
-https://issues.apache.org/jira/browse/DERBY-5691
-https://issues.apache.org/jira/browse/DERBY-5692
-https://issues.apache.org/jira/browse/DERBY-5727
-https://issues.apache.org/jira/browse/DERBY-5775
-https://issues.apache.org/jira/browse/DERBY-5799
-https://issues.apache.org/jira/browse/DERBY-5805
-https://issues.apache.org/jira/browse/DERBY-5822
-https://issues.apache.org/jira/browse/DERBY-5830
-https://issues.apache.org/jira/browse/DERBY-5838
-https://issues.apache.org/jira/browse/DERBY-5898
-https://issues.apache.org/jira/browse/DERBY-5900
-https://issues.apache.org/jira/browse/DERBY-5905
-https://issues.apache.org/jira/browse/DERBY-5906
-https://issues.apache.org/jira/browse/DERBY-5909
-https://issues.apache.org/jira/browse/DERBY-5910
-https://issues.apache.org/jira/browse/DERBY-5911
-https://issues.apache.org/jira/browse/DERBY-5912
-https://issues.apache.org/jira/browse/DERBY-5916
-https://issues.apache.org/jira/browse/DERBY-5918
-https://issues.apache.org/jira/browse/DERBY-5925
-https://issues.apache.org/jira/browse/DERBY-5937
-https://issues.apache.org/jira/browse/DERBY-5951
-http://site
-http://site.com
-http://site.com/
-http://site.com/index.htm
-http://site.com/script.php?param1=value1
-http://site-with-no-cookie.python.org
-http://sizzlejs.com/
-https://jira.codehaus.org/browse/JRUBY-5678
-https://jira.codehaus.org/browse/JRUBY-7100
-https://keybase.io/warp/
-https://knowledge.verisign.com/support/code-signing-support/index?page=content
-https://launchpad.net/subunit/
-https://lists.sourceforge.net/lists/listinfo/boost-
-https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
-https://localhost
-https://localhost/
-http://slow
-https://mahler
-https://mail.google.com
-https://maps.google.com/maps?q=
-https://market.android.com/details?id=com.adobe.air
-http://smithbergnaum.ca/
-https://moodle.polymtl.ca/file.php/1183/Autres_Documents/Derivation_for_Spherical_Co-ordinates.pdf
-https://ms-ati.github.io/docile/
-https://my.example.com
-https://newuser
-https://nometrics.java.com
-http://socal-raves.org/mailman/listinfo/scr
-http://socal-raves.org/mailman/private/scr/
-http://soci.sourceforge.net
-http://soci.sourceforge.net/
-http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
-https://oeis.org/A002210/constant
-https://oeis.org/A074962/constant
-http://software.freshmeat.net/projects/proguard/
-http://software.intel.com/en-us/articles/c0x-features-supported-by-intel-c-compiler/
-http://software.intel.com/en-us/articles/intel-digital-random-number
-http://software.intel.com/en-us/articles/non-commercial-software-download/
-http://some/index
-http://some/index?q=1
-http://some/redirect-1
-http://some/redirect-2
-http://some/resource
-http://some/resource?a=b
-http://something
-http://something.com
-http://something.com/
-http://something.com/a/b/c
-http://something.com/a/b/c/
-http://something.com/a/b/c/d
-http://something.com/a/b/d
-http://something.com/index.html
-http://something.com/path/to/another/file.html
-http://something.com/path/to/homepage/
-http://something.com/path/to/homepage/images/logo.gif
-http://something.com/path/to/my/page.html?form=yes
-http://something.com/path/to/some/file.html
-http://something.com/some/path/to/my/file.html
-http://somethinglocal/
-http://somewhere.com/blah
-http://somewhere.else.net/not-there
-https://othersource.org
-https://othersource.org/
-http://sourceforge.net
-http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=ArmPkg/Binaries
-http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=ArmPkg/Binaries.
-http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=Edk2-fat-driver
-http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=EmulatorPkg
-http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=How_to_build_OVMF
-http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=OVMF
-http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=Step-by-step_instructions
-http://sourceforge.net/apps/piwik/proguard/
-http://sourceforge.net/mailarchive/forum.php?forum_id=9097
-http://sourceforge.net/mailarchive/forum.php?thread_id=2008510
-http://sourceforge.net/p/edk2-buildtools/code/HEAD/tree/trunk/BaseTools/gcc
-http://sourceforge.net/project/?group_id=7586
-http://sourceforge.net/projects/acroformtool/
-http://sourceforge.net/projects/adodbapi
-http://sourceforge.net/projects/cx-freeze/
-http://sourceforge.net/projects/distexplorer
-http://sourceforge.net/projects/distexplorer/
-http://sourceforge.net/projects/docbook/files
-http://sourceforge.net/projects/docbook/files/
-http://sourceforge.net/project/showfiles.php?group_id=21935
-http://sourceforge.net/project/showfiles.php?group_id=43396
-http://sourceforge.net/project/showfiles.php?group_id=54750
-http://sourceforge.net/projects/javaguard/
-http://sourceforge.net/projects/opencore-amr/
-http://sourceforge.net/projects/proguard/
-http://sourceforge.net/projects/python
-http://sourceforge.net/projects/pywin32
-http://sourceforge.net/projects/pywin32/
-http://sourceforge.net/projects/sevenzip/
-http://sourceforge.net/sflogo.php?group_id=28447
-http://sourceforge.net/sflogo.php?group_id=54750
-http://sourceforge.net/tracker/?atid=436181
-http://sourceforge.net/tracker/?atid=436184
-http://sourceforge.net/tracker/?atid=474704
-http://sourceforge.net/tracker/?atid=474707
-http://sourceforge.net/tracker/?func=detail
-http://sourceforge.net/tracker/index.php
-http://sourceforge.net/tracker/index.php?func=detail
-http://sourceforge.net/users/glurk/
-http://sourceforge.net/users/hchacha/
-http://source.icu-project.org/repos/icu/data/
-http://sources.redhat.com/bugzilla/show_bug.cgi?id=10990
-http://sources.redhat.com/bugzilla/show_bug.cgi?id=5350
-http://sources.redhat.com/ml/cygwin/2000-06/msg01274.html
-http://sources.redhat.com/ml/cygwin/2001-12/msg00894.html
-http://sources.redhat.com/ml/newlib/2002/msg00369.html
-http://sourceware.org/bugzilla/
-http://sourceware.org/gdb/current/onlinedocs/gdb/Python-API.html
-http://sourceware.org/libffi/
-http://sourceware.org/libffi.html
-http://sourceware.org/pthreads-win32
-http://spam
-http://spam.example.com
-http://spam.example.com/
-http://spirit.sf.net
-http://spirit.sourceforge.net
-http://spirit.sourceforge.net/
-http://spirit.sourceforge.net/home/?p=371
-http://spirit.sourceforge.net/home/?p=400
-http://spirit.sourceforge.net/home/?page_id=567
-https://play.google.com
-https://play.google.com/
-https://play.google.com/apps
-https://play.google.com/apps/publish/?dev_acc=16575722910898404480
-https://play.google.com/books
-https://play.google.com/settings
-https://play.google.com/store
-https://play.google.com/store/music
-https://pledgie.com/campaigns/18379.png?skin_name=chrome
-http://sporer.ca/
-http://sporkmonger.com
-http://spreadsheets2.google.com/viewform?hl=en
-https://premier.intel.com/IssueDetail.aspx?IssueID=365073
-http://springerlink.metapress.com/link.asp?id=pcu07ew5rhexp9yt
-https://public.honeynet.org/mailman/listinfo/cuckoo
-https://pypi.python.org/packages/source/s/setuptools/
-http://sqlite.org/autoinc.html
-http://sqlite.org/lockingv3.html
-https://review.source.android.com/
-https://review.source.android.com/10014
-https://review.source.android.com/10015
-https://review.source.android.com/10016
-https://review.source.android.com/10017
-https://review.source.android.com/10018
-https://review.source.android.com/10297
-https://review.source.android.com/10301
-https://review.source.android.com/10302
-https://review.source.android.com/10303
-https://review.source.android.com/10510
-https://review.source.android.com/10904
-https://review.source.android.com/10905
-https://review.source.android.com/10906
-https://review.source.android.com/9668
-https://review.source.android.com/9683
-https://review.source.android.com/Gerrit
-https://rubygems.org
-https://rubygems.org/
-https://rubygems.org/api/v1/dependencies
-https://rubygems.org/gems/addressable
-https://rubygems.org/gems/bundler
-https://rubygems.org/gems/cassandra
-https://rubygems.org/gems/example
-https://rubygems.org/gems/method_source
-https://rubygems.org/gems/multi_json
-https://rubygems.org/gems/pry
-https://rubygems.org/profile/edit
-https://scontent-b.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10409298_1588556341373553_8673446508125364435_n.jpg?oh=122bdc630c330a300e034afee9ead8a0
-https://second-rubygems.org
-https://secure.example.com/some_path?query=string
-https://secure.travis-ci.org/colszowka/simplecov.png
-https://secure.travis-ci.org/durran/optionable.png?branch=master
-https://secure.travis-ci.org/mongodb/bson-ruby.png?branch=master
-https://secure.travis-ci.org/mongoid/origin.png?branch=master
-https://secure.travis-ci.org/rspec/rspec-core.png?branch=master
-https://secure.travis-ci.org/rspec/rspec-expectations.png?branch=master
-https://secure.travis-ci.org/rspec/rspec-mocks.png?branch=master
-https://secure.travis-ci.org/rubyzip/rubyzip.png
-https://secure.travis-ci.org/sporkmonger/addressable.png?branch=master
-https://secure.travis-ci.org/sporkmonger/uuidtools.png
-https://sf.net/mailarchive/forum.php?thread_id=2692308
-https://sha256.tbs-internet.com
-https://some/resource
-https://sourceforge.net/apps/mediawiki/tianocore/index.php?title=EmbeddedPkg/Fdt
-https://sourceforge.net/project/admin/editpackages.php?group_id=7586
-https://sourceforge.net/projects/proguard/files/
-https://sourceforge.net/projects/proguard/forums/forum/182455
-https://sourceforge.net/projects/proguard/forums/forum/182456
-https://sourceforge.net/tracker/?func=detail
-https://sourceforge.net/tracker/index.php
-https://ssl.gstatic.com/android/market_images/alert24.png
-https://ssl.gstatic.com/android/market_images/badges/topdev_ann.png
-https://ssl.gstatic.com/android/market_images/magazines/magazine_corpus_icon_001.png
-https://ssl.gstatic.com/android/market_images/magazines/mags_carousel_icon_001.png
-https://ssl.gstatic.com/android/market_images/web/background_stripes.gif
-https://ssl.gstatic.com/android/market_images/web/book_header_stripes.gif
-https://ssl.gstatic.com/android/market_images/web/carousel_arrow_left.png
-https://ssl.gstatic.com/android/market_images/web/carousel_arrow_right.png
-https://ssl.gstatic.com/android/market_images/web/checkmark.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_apps.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_apps_reversed.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_books.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_books_reversed.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_devices_002.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_devices_reversed_002.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_movies.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_movies_reversed.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_music.png
-https://ssl.gstatic.com/android/market_images/web/corpus_icon_music_reversed.png
-https://ssl.gstatic.com/android/market_images/web/dark_background_stripes.gif
-https://ssl.gstatic.com/android/market_images/web/device_header_stripes.png
-https://ssl.gstatic.com/android/market_images/web/dots.png
-https://ssl.gstatic.com/android/market_images/web/dropdown_triangle.png
-https://ssl.gstatic.com/android/market_images/web/google_translate_icon.png
-https://ssl.gstatic.com/android/market_images/web/green_close_x.png
-https://ssl.gstatic.com/android/market_images/web/little_book.png
-https://ssl.gstatic.com/android/market_images/web/little_droid.png
-https://ssl.gstatic.com/android/market_images/web/little_film.png
-https://ssl.gstatic.com/android/market_images/web/little_headphones.png
-https://ssl.gstatic.com/android/market_images/web/movie_header_stripes.gif
-https://ssl.gstatic.com/android/market_images/web/music_header_stripes.gif
-https://ssl.gstatic.com/android/market_images/web/music_laptop_listen_play.png
-https://ssl.gstatic.com/android/market_images/web/music_phone_listen_play.png
-https://ssl.gstatic.com/android/market_images/web/music_pre_purchase_promo_play.png
-https://ssl.gstatic.com/android/market_images/web/now_playing_normal.gif
-https://ssl.gstatic.com/android/market_images/web/ordered_list_circle.gif
-https://ssl.gstatic.com/android/market_images/web/play_trailer_small_hover.png
-https://ssl.gstatic.com/android/market_images/web/play_trailer_small.png
-https://ssl.gstatic.com/android/market_images/web/promo_background.png
-https://ssl.gstatic.com/android/market_images/web/promo_image_texture.gif
-https://ssl.gstatic.com/android/market_images/web/search_header.gif
-https://ssl.gstatic.com/android/market_images/web/spinner.gif
-https://ssl.gstatic.com/android/market_images/web/toggle_button.png
-https://ssl.gstatic.com/android/market_images/web/trashcan_white.png
-https://ssl.gstatic.com/android/market_images/web/twitter_button_new.png
-https://ssl.gstatic.com/android/market_images/web/warning_yield.png
-https://svn.boost.org/svn/boost/
-https://svn.boost.org/svn/boost/branches/build/Milestone_X
-https://svn.boost.org/svn/boost/branches/release/
-https://svn.boost.org/svn/boost/trunk/
-https://svn.boost.org/svn/boost/trunk/tools/build
-https://svn.boost.org/svn/boost/trunk/tools/jam
-https://svn.boost.org/svn/boost/trunk/tools/quickbook
-https://svn.boost.org/trac/boost/ticket/1252
-https://svn.boost.org/trac/boost/ticket/1517
-https://svn.boost.org/trac/boost/ticket/1861
-https://svn.boost.org/trac/boost/ticket/2034
-https://svn.boost.org/trac/boost/ticket/2213
-https://svn.boost.org/trac/boost/ticket/2523
-https://svn.boost.org/trac/boost/ticket/2526
-https://svn.boost.org/trac/boost/ticket/2656
-https://svn.boost.org/trac/boost/ticket/2688
-https://svn.boost.org/trac/boost/ticket/2698
-https://svn.boost.org/trac/boost/ticket/2733
-https://svn.boost.org/trac/boost/ticket/2782
-https://svn.boost.org/trac/boost/ticket/2809
-https://svn.boost.org/trac/boost/ticket/2824
-https://svn.boost.org/trac/boost/ticket/3015
-https://svn.boost.org/trac/boost/ticket/3076
-https://svn.boost.org/trac/boost/ticket/3105
-https://svn.boost.org/trac/boost/ticket/3215
-https://svn.boost.org/trac/boost/ticket/3308
-https://svn.boost.org/trac/boost/ticket/3317
-https://svn.boost.org/trac/boost/ticket/3349
-https://svn.boost.org/trac/boost/ticket/3375
-https://svn.boost.org/trac/boost/ticket/3548
-https://svn.boost.org/trac/boost/ticket/3876
-https://svn.boost.org/trac/boost/ticket/4346
-https://svn.boost.org/trac/boost/ticket/4453
-https://svn.boost.org/trac/boost/ticket/4602
-https://svn.boost.org/trac/boost/ticket/4812
-https://svn.boost.org/trac/boost/ticket/4910
-https://svn.boost.org/trac/boost/ticket/4960
-https://svn.boost.org/trac/boost/ticket/5049
-https://svn.boost.org/trac/boost/ticket/5053
-https://svn.boost.org/trac/boost/ticket/5103
-https://svn.boost.org/trac/boost/ticket/5113
-https://svn.boost.org/trac/boost/ticket/5141
-https://svn.boost.org/trac/boost/ticket/5467
-https://svn.boost.org/trac/boost/ticket/5521
-https://svn.boost.org/trac/boost/ticket/5560
-https://svn.boost.org/trac/boost/ticket/5803
-https://svn.boost.org/trac/boost/ticket/589
-https://svn.boost.org/trac/boost/ticket/5908
-https://svn.boost.org/trac/boost/ticket/5954
-https://svn.boost.org/trac/boost/ticket/6359
-https://svn.boost.org/trac/boost/ticket/7177
-https://svn.boost.org/trac/boost/ticket/7290
-https://svn.boost.org/trac/boost/ticket/7291
-https://svn.boost.org/trac/boost/ticket/7422
-https://svn.boost.org/trac/boost/ticket/7878
-https://svn.boost.org/trac/boost/wiki/CMake
-https://svn.code.sf.net/p/edk2-buildtools/code/trunk/BaseTools
-https://svn.code.sf.net/p/edk2-buildtools/code/trunk/BaseTools/gcc
-https://svn.code.sf.net/p/edk2/code/trunk/edk2
-https://svn.code.sf.net/p/edk2/code/trunk/edk2/BaseTools
-https://svn.code.sf.net/p/edk2/code/trunk/edk2/EdkCompatibilityPkg
-https://svn.code.sf.net/p/edk2/code/trunk/edk2/EdkShellPkg
-https://svn.code.sf.net/p/efi-shell/code/trunk/Shell
-https://svn.openplans.org/svn/fassembler/trunk/fassembler/create-venv-script.py
-https://svn.plone.org/svn/collective/inquant.contentmirror.plone/trunk
-https://synergy.as.cmu.edu/
-http://stackoverflow.com/questions/10069319/how-to-get-device-calendar-event-list-in-android-device
-http://stackoverflow.com/questions/10909683/launch
-http://stackoverflow.com/questions/1112545/
-http://stackoverflow.com/questions/1342535/how-can-i-tell-if-im-running-from-jruby-vs-ruby/1685970
-http://stackoverflow.com/questions/1396820/
-http://stackoverflow.com/questions/2097813/how-to-parse-the-androidmanifest-xml-file-inside-an-apk-package/4761689
-http://stackoverflow.com/questions/2785485/is-there-a-unique-android-device-id
-http://stackoverflow.com/questions/3012287/how-to-read-mms-data-in-android
-http://stackoverflow.com/questions/328496/when-would-you-use-the-builder-pattern
-http://stackoverflow.com/questions/3552108/finding-closest-object-to-cgpoint
-http://stackoverflow.com/questions/3868223/problem-with-
-http://stackoverflow.com/questions/4459330/how-do-i-temporarily-redirect-stderr-in-ruby
-http://stackoverflow.com/questions/4932947/sending-sms-problem-from-blackberry-device
-http://stackoverflow.com/questions/tagged/bundler
-http://staff.cs.utu.fi/BL/
-http://stalatest.googlecode.com/svn/trunk/Literatur/mockobjects.pdf
-http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html
-http://standards.freedesktop.org/startup-notification-spec/startup-notification-latest.txt
-http://stark.ca/
-http://starship.python.net/crew/kernr/mingw32/Notes.html
-http://starship.python.net/crew/mhammond/
-http://starship.python.net/crew/mhammond/win32
-http://starship.python.net/crew/mhammond/win32/PrivacyProblem.html
-http://starship.skyport.net/crew/mcfletch/
-http://static.px.yelp.com/bpthumb/1aK0JUrH9QLrmn76RnlxNA/ms
-http://static.px.yelp.com/bpthumb/1aK0JUrH9QLrmn76RnlxNA/ss
-http://static.px.yelp.com/bpthumb/ANbY5m01ROgbtzteMQNIxw/ms
-http://static.px.yelp.com/bpthumb/ANbY5m01ROgbtzteMQNIxw/ss
-http://static.px.yelp.com/bpthumb/anR-QVqjMYDupPLYJ5lqwQ/ms
-http://static.px.yelp.com/bpthumb/anR-QVqjMYDupPLYJ5lqwQ/ss
-http://static.px.yelp.com/bpthumb/e6tjIs4o7g4prs25U2nkxg/ms
-http://static.px.yelp.com/bpthumb/e6tjIs4o7g4prs25U2nkxg/ss
-http://static.px.yelp.com/bpthumb/eetod47ppa8zUbX8L80o_A/ms
-http://static.px.yelp.com/bpthumb/eetod47ppa8zUbX8L80o_A/ss
-http://static.px.yelp.com/bpthumb/gBxuzXOtKuRR9t29myOPYg/ms
-http://static.px.yelp.com/bpthumb/gBxuzXOtKuRR9t29myOPYg/ss
-http://static.px.yelp.com/bpthumb/i7c6kns-SbJj6xe6Uy_34A/ms
-http://static.px.yelp.com/bpthumb/i7c6kns-SbJj6xe6Uy_34A/ss
-http://static.px.yelp.com/bpthumb/IXDxbdklFZPJOHHM2rSzVw/ms
-http://static.px.yelp.com/bpthumb/IXDxbdklFZPJOHHM2rSzVw/ss
-http://static.px.yelp.com/bpthumb/K7_INof0EiUXR52hv5jfiQ/ms
-http://static.px.yelp.com/bpthumb/K7_INof0EiUXR52hv5jfiQ/ss
-http://static.px.yelp.com/bpthumb/nD2x6wclDBcaSd6ftQOl8A/ms
-http://static.px.yelp.com/bpthumb/nD2x6wclDBcaSd6ftQOl8A/ss
-http://static.px.yelp.com/bpthumb/_Q0KPbKmAgQeLrcOgajjwA/ms
-http://static.px.yelp.com/bpthumb/_Q0KPbKmAgQeLrcOgajjwA/ss
-http://static.px.yelp.com/bpthumb/Qi-qAAMOBSuXunNQMb2ttw/ms
-http://static.px.yelp.com/bpthumb/Qi-qAAMOBSuXunNQMb2ttw/ss
-http://static.px.yelp.com/bpthumb/QS62ET0YNIqDYzQlmeKtRQ/ms
-http://static.px.yelp.com/bpthumb/QS62ET0YNIqDYzQlmeKtRQ/ss
-http://static.px.yelp.com/bpthumb/TRFnGi4Dk5XYkX38KMQ_Uw/ms
-http://static.px.yelp.com/bpthumb/TRFnGi4Dk5XYkX38KMQ_Uw/ss
-http://static.px.yelp.com/bpthumb/TSwz87bjS4THX5X8W8kffA/ms
-http://static.px.yelp.com/bpthumb/TSwz87bjS4THX5X8W8kffA/ss
-http://static.px.yelp.com/bpthumb/uooIx_I_pm2PwbBOcDTRuw/ms
-http://static.px.yelp.com/bpthumb/uooIx_I_pm2PwbBOcDTRuw/ss
-http://static.px.yelp.com/bpthumb/U_PzfAHm5cyg7wOF2FjE-w/ms
-http://static.px.yelp.com/bpthumb/U_PzfAHm5cyg7wOF2FjE-w/ss
-http://static.px.yelp.com/bpthumb/vX704tjDFSzctwRTE5oaEA/ms
-http://static.px.yelp.com/bpthumb/vX704tjDFSzctwRTE5oaEA/ss
-http://static.px.yelp.com/bpthumb/xOFIYiRKU8NjyBsyGw5Rxg/ms
-http://static.px.yelp.com/bpthumb/xOFIYiRKU8NjyBsyGw5Rxg/ss
-http://static.px.yelp.com/bpthumb/zYyt2w6e_gBAOmIVBUqRPA/ms
-http://static.px.yelp.com/bpthumb/zYyt2w6e_gBAOmIVBUqRPA/ss
-http://static.px.yelp.com/static/20090416/i/new/gfx/blank_user_extra_small.gif
-http://static.px.yelp.com/static/20090416/i/new/gfx/blank_user_small.gif
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_1.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_2.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_3.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_4_half.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_4.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_5.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_1.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_2.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_3.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_4_half.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_4.png
-http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_5.png
-http://static.px.yelp.com/upthumb/2whWATS5zogQQcAX-gGRGQ/ms
-http://static.px.yelp.com/upthumb/2whWATS5zogQQcAX-gGRGQ/ss
-http://static.px.yelp.com/upthumb/-3EK3uAM0q8SkB9uJCKLtw/ms
-http://static.px.yelp.com/upthumb/-3EK3uAM0q8SkB9uJCKLtw/ss
-http://static.px.yelp.com/upthumb/3loDhmkFIGyUQDATuo6e1Q/ms
-http://static.px.yelp.com/upthumb/3loDhmkFIGyUQDATuo6e1Q/ss
-http://static.px.yelp.com/upthumb/5ZWqY4DRQ3X67uEbiFBv9Q/ms
-http://static.px.yelp.com/upthumb/5ZWqY4DRQ3X67uEbiFBv9Q/ss
-http://static.px.yelp.com/upthumb/8JO3AwYQADb4oEgywyiHkw/ms
-http://static.px.yelp.com/upthumb/8JO3AwYQADb4oEgywyiHkw/ss
-http://static.px.yelp.com/upthumb/-9iUpFLA7gUwU-xeVczgLA/ms
-http://static.px.yelp.com/upthumb/-9iUpFLA7gUwU-xeVczgLA/ss
-http://static.px.yelp.com/upthumb/9s2WKYMKnCM4FwBLNTifyA/ms
-http://static.px.yelp.com/upthumb/9s2WKYMKnCM4FwBLNTifyA/ss
-http://static.px.yelp.com/upthumb/afmXmGSDfksrEhrEJauNJw/ms
-http://static.px.yelp.com/upthumb/afmXmGSDfksrEhrEJauNJw/ss
-http://static.px.yelp.com/upthumb/AL3w82TCtSeJHHWon43RUw/ms
-http://static.px.yelp.com/upthumb/AL3w82TCtSeJHHWon43RUw/ss
-http://static.px.yelp.com/upthumb/bxtZFTMp6Lib0xWcVNywwQ/ms
-http://static.px.yelp.com/upthumb/bxtZFTMp6Lib0xWcVNywwQ/ss
-http://static.px.yelp.com/upthumb/CjwEJm0_LW7l3Gtc96Nq_A/ms
-http://static.px.yelp.com/upthumb/CjwEJm0_LW7l3Gtc96Nq_A/ss
-http://static.px.yelp.com/upthumb/fXjNyGsXPVjIHk46Y5dPrA/ms
-http://static.px.yelp.com/upthumb/fXjNyGsXPVjIHk46Y5dPrA/ss
-http://static.px.yelp.com/upthumb/Fz-tRBmSVG8i1Dm6s-Q0yA/ms
-http://static.px.yelp.com/upthumb/Fz-tRBmSVG8i1Dm6s-Q0yA/ss
-http://static.px.yelp.com/upthumb/g9ivlET2xM1MFi_C_Ktrbg/ms
-http://static.px.yelp.com/upthumb/g9ivlET2xM1MFi_C_Ktrbg/ss
-http://static.px.yelp.com/upthumb/gdb2pU0wnmsXjAlo_skMgg/ms
-http://static.px.yelp.com/upthumb/gdb2pU0wnmsXjAlo_skMgg/ss
-http://static.px.yelp.com/upthumb/gqiMnFeJ-Ddlw_4b0w1-VA/ms
-http://static.px.yelp.com/upthumb/gqiMnFeJ-Ddlw_4b0w1-VA/ss
-http://static.px.yelp.com/upthumb/gy2uwuDpWj8mnewYVCWVVw/ms
-http://static.px.yelp.com/upthumb/gy2uwuDpWj8mnewYVCWVVw/ss
-http://static.px.yelp.com/upthumb/hspGLwRANroWkFZutDcO4w/ms
-http://static.px.yelp.com/upthumb/hspGLwRANroWkFZutDcO4w/ss
-http://static.px.yelp.com/upthumb/hYTM9RV4e8642z2NCNty2A/ms
-http://static.px.yelp.com/upthumb/hYTM9RV4e8642z2NCNty2A/ss
-http://static.px.yelp.com/upthumb/iAufJ9qyXdH0n36yWkOCag/ms
-http://static.px.yelp.com/upthumb/iAufJ9qyXdH0n36yWkOCag/ss
-http://static.px.yelp.com/upthumb/Ig55RB3mMzhZoptC6kJtPA/ms
-http://static.px.yelp.com/upthumb/Ig55RB3mMzhZoptC6kJtPA/ss
-http://static.px.yelp.com/upthumb/JiWacKWw01QjoL3Kqz-gYQ/ms
-http://static.px.yelp.com/upthumb/JiWacKWw01QjoL3Kqz-gYQ/ss
-http://static.px.yelp.com/upthumb/l80OO5ruhFcYFiUjNX-Y9w/ms
-http://static.px.yelp.com/upthumb/l80OO5ruhFcYFiUjNX-Y9w/ss
-http://static.px.yelp.com/upthumb/-LlBQzy_lMDN8rqcZxxduQ/ms
-http://static.px.yelp.com/upthumb/-LlBQzy_lMDN8rqcZxxduQ/ss
-http://static.px.yelp.com/upthumb/lLF6FjlIh_9itgOeqvjW6w/ms
-http://static.px.yelp.com/upthumb/lLF6FjlIh_9itgOeqvjW6w/ss
-http://static.px.yelp.com/upthumb/_naF53nRZT9HYVeplcX5Hg/ms
-http://static.px.yelp.com/upthumb/_naF53nRZT9HYVeplcX5Hg/ss
-http://static.px.yelp.com/upthumb/NR3YhAUjzQ4SZgkg6vqheA/ms
-http://static.px.yelp.com/upthumb/NR3YhAUjzQ4SZgkg6vqheA/ss
-http://static.px.yelp.com/upthumb/nXk12V7x30v9LUoTye0gsw/ms
-http://static.px.yelp.com/upthumb/nXk12V7x30v9LUoTye0gsw/ss
-http://static.px.yelp.com/upthumb/O4cr5BaYOCApJIHhnqDEtw/ms
-http://static.px.yelp.com/upthumb/O4cr5BaYOCApJIHhnqDEtw/ss
-http://static.px.yelp.com/upthumb/OhMim2CBXFYiz7uOpGu2jQ/ms
-http://static.px.yelp.com/upthumb/OhMim2CBXFYiz7uOpGu2jQ/ss
-http://static.px.yelp.com/upthumb/PBwngRvnIdtYIy9iF3tbbQ/ms
-http://static.px.yelp.com/upthumb/PBwngRvnIdtYIy9iF3tbbQ/ss
-http://static.px.yelp.com/upthumb/PoGEmHpxRjKFiNOFz1a2jw/ms
-http://static.px.yelp.com/upthumb/PoGEmHpxRjKFiNOFz1a2jw/ss
-http://static.px.yelp.com/upthumb/QNtJA5nm_FuSnwTzVcXhag/ms
-http://static.px.yelp.com/upthumb/QNtJA5nm_FuSnwTzVcXhag/ss
-http://static.px.yelp.com/upthumb/QS-jEagZ4se63l9kV87XWA/ms
-http://static.px.yelp.com/upthumb/QS-jEagZ4se63l9kV87XWA/ss
-http://static.px.yelp.com/upthumb/S1x1MObQYQTRCrcxwal8Dw/ms
-http://static.px.yelp.com/upthumb/S1x1MObQYQTRCrcxwal8Dw/ss
-http://static.px.yelp.com/upthumb/t4zvXYHqYmm-QW0-Te2j1g/ms
-http://static.px.yelp.com/upthumb/t4zvXYHqYmm-QW0-Te2j1g/ss
-http://static.px.yelp.com/upthumb/U7VW_Q_ITvOx-_oV5ThIhg/ms
-http://static.px.yelp.com/upthumb/U7VW_Q_ITvOx-_oV5ThIhg/ss
-http://static.px.yelp.com/upthumb/UdPPgUlMb2DYpxQI3L-xAg/ms
-http://static.px.yelp.com/upthumb/UdPPgUlMb2DYpxQI3L-xAg/ss
-http://static.px.yelp.com/upthumb/vAKX9CLC4EJDm9X_YvP4WQ/ms
-http://static.px.yelp.com/upthumb/vAKX9CLC4EJDm9X_YvP4WQ/ss
-http://static.px.yelp.com/upthumb/-wkOaTBgkX78kgWd9qKLDg/ms
-http://static.px.yelp.com/upthumb/-wkOaTBgkX78kgWd9qKLDg/ss
-http://static.px.yelp.com/upthumb/wwoUpPp1AG2REqM-tONdYw/ms
-http://static.px.yelp.com/upthumb/wwoUpPp1AG2REqM-tONdYw/ss
-http://static.px.yelp.com/upthumb/wwRGU_D9-Ajfs1mwko-nlw/ms
-http://static.px.yelp.com/upthumb/wwRGU_D9-Ajfs1mwko-nlw/ss
-http://static.px.yelp.com/upthumb/Wzjwe41JVxcJ8S1T6FMJlQ/ms
-http://static.px.yelp.com/upthumb/Wzjwe41JVxcJ8S1T6FMJlQ/ss
-http://static.px.yelp.com/upthumb/x0-s9hvClAZWTTbvm-A_Hg/ms
-http://static.px.yelp.com/upthumb/x0-s9hvClAZWTTbvm-A_Hg/ss
-http://static.px.yelp.com/upthumb/XyhcfxLEyoEJl1jLB1gkLA/ms
-http://static.px.yelp.com/upthumb/XyhcfxLEyoEJl1jLB1gkLA/ss
-http://static.px.yelp.com/upthumb/yswMVVQ6HUVHHrs_5H5GPw/ms
-http://static.px.yelp.com/upthumb/yswMVVQ6HUVHHrs_5H5GPw/ss
-http://stattrek.com/Tables/Hypergeometric.aspx
-http://std.dkuug.dk/jtc1/sc22/wg21/docs/cwg_defects.html
-http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/1994/N0555.pdf
-http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/2002/n1377.htm
-http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/2002/n1385.htm
-http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/2003/n1548.htm
-http://steuber.us/
-https://third-rubygems.org
-http://stiedemann.name/
-http://stlab.adobe.com/gil
-http://stlport.sourceforge.net
-https://trac.lvk.cs.msu.su/boost.build
-https://trac.lvk.cs.msu.su/boost.build/roadmap
-https://trac.lvk.cs.msu.su/boost.build/wiki/PythonPort
-https://travis-ci.org/
-https://travis-ci.org/bundler/bundler
-https://travis-ci.org/ffi/ffi
-https://travis-ci.org/ffi/ffi.png?branch=master
-https://travis-ci.org/halostatue/diff-lcs
-https://travis-ci.org/halostatue/diff-lcs/jobs/6241195
-https://travis-ci.org/halostatue/diff-lcs.png
-https://travis-ci.org/halostatue/mime-types
-https://travis-ci.org/halostatue/mime-types.png
-https://travis-ci.org/headius/thread_safe
-https://travis-ci.org/headius/thread_safe.png
-https://travis-ci.org/leejarvis/slop.png?branch=master
-https://travis-ci.org/ms-ati/docile
-https://travis-ci.org/ms-ati/docile.png
-https://travis-ci.org/pry/pry
-https://travis-ci.org/rest-client/rest-client
-https://travis-ci.org/rest-client/rest-client.svg?branch=master
-https://travis-ci.org/rspec/rspec-expectations/jobs/27549635
-https://travis-ci.org/tzinfo/tzinfo
-https://travis-ci.org/tzinfo/tzinfo.svg?branch=master
-http://streich.name/
-http://stroman.name/
-http://stromanoberbrunner.com/
-http://students.infoiasi.ro/
-https://twitter.com
-https://twitter.com/
-https://twitter.com/banisterfiend
-http://subversion.tigris.org
-http://subversion.tigris.org/
-http://subversion.tigris.org/license-1.html.
-http://sunsolve6.sun.com/search/document.do?assetkey=1-21-113817
-http://support1.toshiba-tro.de/tools/updates/atheros-wlan/atheros-wlan-xp-7702331.zip
-http://supportforums.blackberry.com/t5/Java-Development/Compiling-obfuscated-jar-file-using-RAPC/td-p/285322
-http://supportforums.blackberry.com/t5/Java-Development/How-To-Get-Cell-Tower-Info-Cell-ID-LAC-from-CDMA-BB-phones/m-p/34538
-http://supportforums.blackberry.com/t5/Java-Development/Programmatically-rebooting-the-device/m-p/42049?view=by_date_ascending
-http://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/
-http://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/java_dev
-http://support.microsoft.com/default.aspx?kbid=157234
-http://support.microsoft.com/default.aspx?scid=http
-http://support.microsoft.com/default.aspx?scid=kb
-http://support.microsoft.com/gp/cp_dst
-http://support.microsoft.com/kb/118623
-http://support.microsoft.com/kb/274323
-http://support.microsoft.com/kb/316609
-http://support.microsoft.com/kb/321788
-http://support.microsoft.com/kb/329308
-http://support.microsoft.com/kb/47961
-http://support.microsoft.com/kb/816970
-http://support.microsoft.com/kb/834489
-http://support.microsoft.com/kb/888731
-http://support.microsoft.com/kb/896054
-http://support.microsoft.com/kb/974729
-http://support.microsoft.com/kb/974729/
-https://user
-https://vcenter5.hackingteam.local/sdk
-https://vcenter.hackingteam.local/sdk
-http://svn.activestate.com/activestate/checkout/komodo/trunk/mozilla/support/set-curr-python.py
-http://svn.apache.org/repos/asf/db/derby/code/trunk/KEYS
-http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types
-http://svn.boost.org
-http://svn.boost.org/svn/boost/
-http://svn.boost.org/svn/boost/branches/release
-http://svn.boost.org/svn/boost/branches/release/
-http://svn.boost.org/svn/boost/branches/release/boost/
-http://svn.boost.org/svn/boost/branches/release/libs/
-http://svn.boost.org/svn/boost/sandbox/pdf/type_traits/release/type_traits.pdf
-http://svn.boost.org/svn/boost/trunk/
-http://svn.boost.org/svn/boost/trunk/boost/
-http://svn.boost.org/svn/boost/trunk/doc/html/
-http://svn.boost.org/svn/boost/trunk/doc/src/images/
-http://svn.boost.org/svn/boost/trunk/doc/src/images/callouts/
-http://svn.boost.org/svn/boost/trunk/libs/
-http://svn.boost.org/svn/boost/trunk/tools/build/v2
-http://svn.boost.org/svn/boost/trunk/tools/build/v2/changes.txt
-http://svn.boost.org/svn/boost/trunk/tools/regression/src
-http://svn.boost.org/trac/boost/browser/trunk/
-http://svn.boost.org/trac/boost/ticket/1186
-http://svn.boost.org/trac/boost/ticket/2347
-http://svn.boost.org/trac/boost/ticket/2359
-http://svn.boost.org/trac/boost/ticket/979
-http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file
-http://svn.kfish.org/xsel/trunk/
-http://svn.openkomodo.com/openkomodo/view/openkomodo/trunk/mozilla/support/set-curr-python.py
-http://svn.python.org/projects/external/bzip2-1.0.5
-http://svn.python.org/projects/external/db-4.7.25.0
-http://svn.python.org/projects/external/openssl-0.9.8l
-http://svn.python.org/projects/external/sqlite-3.6.21
-http://svn.python.org/projects/external/tcl8.4.12
-http://svn.python.org/projects/external/tcl-8.5.2.1
-http://svn.python.org/projects/external/tk8.4.12
-http://svn.python.org/projects/external/tk-8.5.2.0
-http://svn.red-bean.com/bob/macholib/trunk/macholib/
-http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/branches/mvm/
-http://svn.tartarus.org/sgt/putty/contrib/kh2reg.py?view=markup
-https://wiki.github.com/ffi/ffi
-https://wiki.github.com/ffi/ffi/projects-using-ffi
-https://wiki.github.com/ffi/ffi/why-use-ffi
-https://www.
-https://www.blackberry.com/jira/browse/JAVAAPI-641
-https://www.example.com/
-https://www.example.com/echo/foo
-https://www.example.com/foo/bar
-https://www.facebook.com
-https://www.facebook.com/antroide.succhienmberg
-https://www.facebook.com/connect/ping?client_id=376604520810
-https://www.facebook.com/media/set/?set=a.1588543974708123.1073741826.100006576075695
-https://www.facebook.com/pages/Nurburgring-Nordschleife/231160113588411?ref=stream
-https://www.facebook.com/photo.php?fbid=1588556338040220
-https://www.facebook.com/profile.php?id=100006576075695
-https://www.gamepay.de/?lang=es
-https://www.gittip.com/sporkmonger/
-https://www.google.com
-https://www.google.com/a/blah
-https://www.google.com/settings/dashboard
-https://www.gstatic.com/android/market_images/plus/play_stream_logo.png
-https://www.iana.org/assignments/media-types/media-types.xhtml
-https://www.iana.org/assignments/media-types/media-types.xml
-https://www.isg.rhul.ac.uk/tls/
-https://www.jetbrains.com/ruby/
-https://www.mozilla.org
-https://www.rfc-editor.org/rfc/rfc6570.txt
-https://www.ruby-toolbox.com/
-https://www.ruby-toolbox.com/projects/docile
-https://www.virtualbox.org/wiki/Documentation
-https://www.virtualbox.org/wiki/Linux_Downloads
-https://www.virustotal.com/vtapi/v2/file/report
-http://syseng.nist.gov/b2bTestbed/projects/xmlvalidation/instance_validation.html
-https://zigzag.cs.msu.su
-https://zigzag.lvk.cs.msu.su
-http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-http://teaisaweso.me/blog/2013/05/27/rspecs-new-message-expectation-syntax/
-http://technet.microsoft.com/en-us/evalcenter/hh699156.aspx
-http://technet.microsoft.com/en-us/library/cc766489
-http://technet.microsoft.com/en-us/library/dn293200.aspx
-http://technet.microsoft.com/en-us/library/hh824972.aspx
-http://technet.microsoft.com/en-us/library/hh825109.aspx
-http://technet.microsoft.com/en-us/library/hh825110.aspx
-http://techspot.zzzeek.org/?p=19
-http://tenderlovemaking.com/2009/02/26/we-need-a-new-version-of-rake/
-http://term-ansicolor.rubyforge.org/
-http://test.com/about/company/
-http://test.host/posts/1
-http://Test.python.org
-http://Test.python.org/foo/
-http://test.webbtc.com/relay_tx
-http://test.webbtc.com/tx/
-http://the.earth.li/
-http://theshadow.uw.hu/iPhoneSDKdoc/Foundation.framework/NSDebug.h.html
-http://thiel.com/
-http://thisismedium.com/tech/extending-virtualenv/
-http://thompson.biz/
-http://thread.gmane.org/gmane.comp.lib.boost.build/13759
-http://thread.gmane.org/gmane.comp.lib.boost.build/19077
-http://thread.gmane.org/gmane.comp.lib.boost.devel/164902/.
-http://thread.gmane.org/gmane.comp.lib.boost.user/62985
-http://tidy.sf.net
-http://tidy.sourceforge.net
-http://tidy.sourceforge.net/src/old/tidy_src_020411.tgz
-http://tillmanvandervort.biz/
-http://timeago.yarp.com/
-http://timestamp.verisign.com/scripts/timestamp.dll
-http://time.xmlrpc.com/RPC2
-http://tiny.cc/
-http://tinyurl.com/2l7u33
-http://tinyurl.com/2mros
-http://tinyurl.com/3et69
-http://tinyurl.com/4ebd8
-http://tinyurl.com/create.php?url=
-http://tinyurl.com/ljdp8
-http://tinyurl.com/mn3jp
-http://tinyurl.com/os5jz
-http://tinyurl.com/vhpvo
-http://tinyurl.com/ycwdxco
-http://tinyurl.com/zbycz
-http://tinyurl.com/zuohe
-http://tip.tcl.tk/48
-http://tix.sourceforge.net
-http://tix.sourceforge.net/
-http://tix.sourceforge.net.
-http://tix.sourceforge.net/Tide.
-http://tix.sourceforge.net/Tixapps/
-http://tntnet.org
-http://tog.acm.org/resources/GraphicsGems/gemsiv/ptpoly_haines/ptinpoly.c
-http://tomcat.apache.org/
-http://tomdoc.org
-http://tomdoc.org/.
-http://tools.decisionsoft.com/schemaValidate.html
-http://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-75
-http://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76
-http://tools.ietf.org/html/draft-hoffman-ftp-uri-04
-http://tools.ietf.org/html/draft-ietf-httpbis-p1-messaging-19
-http://tools.ietf.org/html/draft-ietf-httpbis-p5-range-19
-http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-03
-http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-07
-http://tools.ietf.org/html/draft-ietf-pkix-rfc2560bis
-http://tools.ietf.org/html/rfc1630
-http://tools.ietf.org/html/rfc1738
-http://tools.ietf.org/html/rfc2255
-http://tools.ietf.org/html/rfc2347
-http://tools.ietf.org/html/rfc2348
-http://tools.ietf.org/html/rfc2349
-http://tools.ietf.org/html/rfc2368
-http://tools.ietf.org/html/rfc2373
-http://tools.ietf.org/html/rfc2396
-http://tools.ietf.org/html/rfc2732
-http://tools.ietf.org/html/rfc3692
-http://tools.ietf.org/html/rfc3986
-http://tools.ietf.org/html/rfc4287
-http://tools.ietf.org/html/rfc5321
-http://tools.ietf.org/html/rfc6455
-http://tools.ietf.org/html/rfc6570
-http://tools.ietf.org/html/rfc822
-http://tools.ietf.org/search/rfc2616
-http://torp.biz/
-http://tortoisesvn.tigris.org/
-http://toto
-http:///toto
-http://toy.ca/
-http://trac.osgeo.org/osgeo4w/
-http://trantow.uk/
-http://travis-ci.org.
-http://travis-ci.org/colszowka/simplecov
-http://travis-ci.org/durran/optionable
-http://travis-ci.org/intridea/multi_json
-http://travis-ci.org/intridea/multi_json.svg
-http://travis-ci.org/leejarvis/slop
-http://travis-ci.org/lian/bitcoin-ruby
-http://travis-ci.org/mongodb/bson-ruby
-http://travis-ci.org/mongoid/origin
-http://travis-ci.org/rspec/rspec-core
-http://travis-ci.org/rspec/rspec-expectations
-http://travis-ci.org/rspec/rspec-mocks
-http://travis-ci.org/rubychan/github
-http://travis-ci.org/rubyzip/rubyzip
-http://travis-ci.org/sporkmonger/addressable
-http://travis-ci.org/sporkmonger/uuidtools
-http://treutel.ca/
-http://treutel.name/
-http://troydhanson.github.com/uthash/
-http://trs-new.jpl.nasa.gov/dspace/bitstream/2014/40409/1/07-03.pdf
-http://trustedcomputinggroup.org
-http://tuxera.com
-http://tuxera.com/community/ntfs-3g-faq/
-http://twistedmatrix.com
-http://twistedmatrix.com/trac/browser/trunk/twisted/trial/runner.py
-http://twitter.com/ActiveState/status/19782350475
-http://twitter.com/zzzeek/status/9765871731867648
-http://tycho.usno.navy.mil/systime.html
-http://tzinfo.github.io
-http://tzinfo.github.io/datasourcenotfound
-http://ucsub.colorado.edu/
-http://under_score.example.com/
-http://unicode.org/charts/PDF/U0D80.pdf
-http://unicode.org/reports/tr15/
-http://unicode.org/reports/tr18/
-http://unicode.org/unicode/faq/utf_bom.html
-http://unlicense.org/
-http://upton.biz/
-http://upx.sourceforge.net/upx-license.html.
-http://upx.tsx.org
-http://url
-http://us.blackberry.com/support/software/g
-http://user
-http://User
-http://username
-http://userspace.selinuxproject.org/
-http://uthash.sourceforge.net
-http://uthash.sourceforge.net/utarray
-http://uthash.sourceforge.net/utstring
-http://valgrind.kde.org/
-http://valgrind.org/
-http://valgrind.org/docs/manual/manual-core.html
-http://validator.w3.org/check/referer
-http://validator.w3.org/check?uri=referer
-http://vandervort.name/
-http://vektor.theorem.ca/graphics/ycbcr/
-http://veumstrosin.name/
-http://vim.org
-http://virtualenv.openplans.org
-http://von.info/
-http://vonruedenpurdy.uk/
-http://vt100.net/charsets/technical.html
-http://vurl.me/PGOU
-http://w3m.sourceforge.net/
-http://wap.wappushexample.com
-http://ward.ca/
-http://watsicajacobi.info/
-http://web.archive.org/web/20011105084002/http
-http://web.archive.org/web/20111016032731/http
-http://webbtc.com
-http://webchat.freenode.net/?channels=
-http://Web.Golux.Com/coar/cgi/
-http://weblogs.java.net/blog/kellyohair/archive/2006/01/compilation_of_1.html
-http://web.mala.bc.ca/pughg/phdThesis/phdThesis.pdf
-http://web.resource.org/cc/
-http://web.resource.org/cc/DerivativeWorks
-http://web.resource.org/cc/Distribution
-http://web.resource.org/cc/PublicDomain
-http://web.resource.org/cc/Reproduction
-http://web.resource.org/rss/1.0/
-http://welch.name/
-http://wendhelofopportunity.info
-http://wibu.com/us/
-http://wiegand.biz/
-http://wiki.forum.nokia.com/index.php/AMR_format
-http://wiki.forum.nokia.com/index.php/How_to_check_if_the_phone_is_in_offline_mode
-http://wiki.forum.nokia.com/index.php/How_to_Detect_Offline_Mode_in_3rd_Edition
-http://wiki.forum.nokia.com/index.php/KIS000764_-_Incorrect_CPU_information_reported_by_HAL
-http://wiki.forum.nokia.com/index.php/KIS001547_-_Capturing_Send/End_key_events_fails_on_S60_3rd_Edition
-http://wiki.forum.nokia.com/index.php/Splitting_long_running_tasks_with_active_objects
-http://wiki.forum.nokia.com/index.php/Symbian_OS_Error_Codes
-http://wiki.github.com/ffi/ffi
-http://wiki.jruby.org/Persistence
-http://wiki.pylonshq.com/display/pylonscookbook/Using
-http://wiki.python.org/moin/PythonBooks
-http://wiki.qemu.org/Documentation/Networking
-http://wiki.qemu.org/Download
-http://wiki.wxwidgets.org/Installing_and_configuring_under_Ubuntu
-http://wilderman.uk/
-http://wildsau.idv.uni-linz.ac.at/mfx/upx.html
-http://wilkinson.co.uk/
-http://williams.best.vwh.net/avform.htm
-http://willmsmorar.uk/
-http://windowssdk.msdn.microsoft.com/en-us/library/ms647558.aspx
-http://wisoky.name/
-http://witting.info/
-http://witting.name/
-http://wiza.com/
-http://ws.serviceobjects.com/lv/LeadValidation.asmx/ValidateLead_V2
-http://wuckertlangworth.info/
-http://www.
-http://www.10gen.com/
-http://www21.brinkster.com/lonwolve/melt/index.htm
-http://www2a.biglobe.ne.jp/
-http://www-2.cs.cmu.edu/
-http://www2.dcs.hull.ac.uk/CISRG/projects/Royal-Inst/demos/dp.html
-http://www2.hursley.ibm.com/decimal
-http://www.2lkit.com/
-http://www.2lkit.com/products/2LKitObf/index.htm
-http://www-306.ibm.com/software/wireless/wsdd/
-http://www.3gpp.org
-http://www.4fang.net/
-http://www.4fang.net/jmix/
-http://www-4.ibm.com/software/developer/library/utf16.html?dwzone=unicode
-http://www4.informatik.uni-erlangen.de/
-http://www.4thpass.com/
-http://www.7-zip.org
-http://www.7-zip.org/7z.html
-http://www.7-zip.org/sdk.html
-http://www.7-zip.org/support.html
-http://www.a.acme.com
-http://www.a-a-p.org
-http://www.acme.com
-http://www.acme.com/
-http://www.acme.com/acme/ammo/...
-http://www.acme.com/acme/ammo/specific
-http://www.acme.com/acme/login
-http://www.acme.com/acme/parts/
-http://www.acme.com/acme/pickitem
-http://www.acme.com/acme/process
-http://www.acme.com/acme/shipping
-http://www.acme.com/ammo
-http://www.acme.com/blah
-http://www.acme.com/blah/
-http://www.acme.com/blah/rhubarb
-http://www.acme.com/blah/rhubarb/
-http://www.acme.com/foo
-http://www.acme.com/foo/
-http://www.acme.com/foo/bar
-http://www.acpica.org
-http://www.acpica.org/downloads/previous_releases.php
-http://www.acpi.info
-http://www.acpi.info/spec.htm
-http://www.activestate.com/activepython/license-agreement
-http://www.activestate.com/komodo/
-http://www.adobe.com/2006/mxml
-http://www.adobe.com/go/getflashplayer
-http://www.adsciengineering.com/bpdcalc/index.php
-http://www.adsciengineering.com/bpdcalc/index.php?n=20
-http://www.aei.mpg.de/
-http://www.agner.org/optimize/
-http://www.alastairs-place.net/cocoa/faq.txt
-http://www.aleax.it
-http://www.alistapart.com/articles/slidingdoors
-http://www.allatori.com/
-http://www.alldatasheet.com/datasheet-pdf/pdf/91600/ETC/AU9254A21.html
-http://www.alpertron.com.ar/ECM.HTM
-http://www.alphaworks.ibm.com/
-http://www.amazon.com/exec/obidos/tg/detail/-/3540665722/qid=1035535482/sr=8-7/ref=sr_8_7/104-3357872-6059916?v=glance
-http://www.ams.org/bull/1999-36-04/S0273-0979-99-00796-X/
-http://www.android.com/
-http://www.androidengineer.com/2010/06/using-ant-to-automate-building-android.html
-http://www.androidsnippets.com/executing-a-http-post-request-with-
-http://www.androidsnippets.com/how-to-capture-application-log
-http://www.androidsnippets.org/snippets/39/index.html
-http://www.antlr.org
-http://www.ants.com
-http://www.ants.com/
-http://www.apachefriends.org/en/xampp.html
-http://www.apache.org/
-http://www.apache.org/licenses/
-http://www.apache.org/licenses/LICENSE
-http://www.apache.org/licenses/LICENSE-2.0
-http://www.apache.org/licenses/LICENSE-2.0.html
-http://www.apache.org/licenses/LICENSE-2.0.txt
-http://www.apacheweek.com/features/put
-http://www.apple.com/DTDs/PropertyList-1.0.dtd
-http://www.apple.com/it/itunes/download/
-http://www.apple.com/safari/
-http://www.arctrix.com/nas/python/gc/
-http://www.aristeia.com/books.html
-http://www.aromatic.com/tools/jam.txt
-http://www.arxan.com/
-http://www.arxan.com/software-protection-products/java-GuardIt/index.php
-http://www.asp101.com/articles/john/connstring/default.asp
-http://www.atomicobject.com/
-http://www.ausvet.com.au/pprev/content.php?page=PPscript
-http://www.auth.foo.com/
-http://www.aviary.pl/
-http://www.aw.com/cseng/titles/0-201-89542-0/apsupp/events2-1.html
-http://www.awprofessional.com/bookstore/product.asp?isbn=0201704315
-http://www.basho.com/products_riak_overview.php
-http://www.bbc.co.uk/modules/sharetools/share?url=http
-http://www.bebbosoft.de/
-http://www.be.com/
-http://www.benhanson.net/
-http://www.benhanson.net/lexertl.html
-http://www.binary-soft.com
-http://www.bipm.fr/enus/5_Scientific/c_time/time_1.html
-http://www.bipm.fr/enus/5_Scientific/c_time/time_server.html
-http://www.birdlife.org/action/science/species/seabirds/tracking_ocean_wanderers.pdf
-http://www.bittorrent.com/protocol.html
-http://www.blackber
-http://www.blackberry.com/knowledgecenterpublic
-http://www.blackberry.com/knowledgecenterpublic/livelink.exe/fetch/2000/
-http://www.blackberry.com/support/appworl
-http://www.boist.org/LICENSE_1_0.txt
-http://www.bonjourmadame.fr/
-http://www.boost-consulting.com/mplbook
-http://www.boost.org
-http://www.boost.org/
-http://www.boost.org/.
-http://www.boost.org.
-http://www.boost.org/boost-build2/doc/html/bbv2/advanced/configuration.html
-http://www.boost.org/boost-build2/doc/html/bbv2/advanced/invocation.html
-http://www.boost.org/boost-build2/doc/html/bbv2/overview/configuration.html
-http://www.boost.org/boost-build2/doc/html/bbv2/overview/invocation.html
-http://www.boost.org/boost-build2/doc/html/bbv2/reference/tools.html
-http://www.boost.org/boost-build2/doc/html/index.html
-http://www.boost.org/boost.png
-http://www.boost.org/community/
-http://www.boost.org/community/moderators.html
-http://www.boost.org/community/policy.html
-http://www.boost.org/community/requests.html
-http://www.boost.org/community/review_schedule.html
-http://www.boost.org/community/reviews.html
-http://www.boost.org/development/header.html
-http://www.boost.org/development/int_const_guidelines.html
-http://www.boost.org/development/requirements.html
-http://www.boost.org/development/reuse.html
-http://www.boost.org/development/separate_compilation.html
-http://www.boost.org/development/submissions.html
-http://www.boost.org/development/test.html
-http://www.boost.org/development/testing.html
-http://www.boost.org/doc/html/array/reference.html
-http://www.boost.org/doc/html/boostbook.html
-http://www.boost.org/doc/html/hash.html
-http://www.boost.org/doc/html/threads/concepts.html
-http://www.boost.org/doc/libs/1_41_0/libs/spirit/doc/html/spirit/support/multi_pass.html
-http://www.boost.org/doc/libs/1_43_0/libs/graph/doc/bundles.html
-http://www.boost.org/doc/libs/1_44_0/libs/numeric/ublas/doc/index.htm
-http://www.boost.org/doc/libs/release/doc/html
-http://www.boost.org/doc/libs/release/libs/graph/doc/stoer_wagner_imgs/stoer_wagner.cpp.gif
-http://www.boost.org/doc/libs/release/tools/quickbook/index.html
-http://www.boost.org/lib/optional
-http://www.boost.org/libs/
-http://www.boost.org/libs/any
-http://www.boost.org/libs/array/
-http://www.boost.org/libs/assign/
-http://www.boost.org/libs/bind/bind.html
-http://www.boost.org/libs/bind/mem_fn.html
-http://www.boost.org/libs/bind/ref.html
-http://www.boost.org/libs/btree
-http://www.boost.org/libs/chrono
-http://www.boost.org/libs/circular_buffer/doc/circular_buffer.html
-http://www.boost.org/libs/circular_buffer/doc/space_optimized.html
-http://www.boost.org/libs/compatibility/index.html
-http://www.boost.org/libs/concept_check
-http://www.boost.org/libs/concept_check/concept_check.htm
-http://www.boost.org/libs/config
-http://www.boost.org/libs/config/
-http://www.boost.org/libs/config/config.htm
-http://www.boost.org/libs/config/test
-http://www.boost.org/libs/container
-http://www.boost.org/libs/conversion
-http://www.boost.org/libs/conversion/lexical_cast.htm
-http://www.boost.org/libs/crc/
-http://www.boost.org/libs/endian
-http://www.boost.org/libs/filesystem
-http://www.boost.org/libs/flyweight
-http://www.boost.org/libs/foreach
-http://www.boost.org/libs/format
-http://www.boost.org/libs/format/
-http://www.boost.org/libs/function
-http://www.boost.org/libs/functional
-http://www.boost.org/libs/functional/overloaded_function
-http://www.boost.org/libs/graph/doc/adjacency_list.html
-http://www.boost.org/libs/graph/doc/bundles.html
-http://www.boost.org/libs/graph/doc/history.html
-http://www.boost.org/libs/graph/doc/index.html
-http://www.boost.org/libs/graph/doc/read-graphviz.html
-http://www.boost.org/libs/graph/doc/table_of_contents.html
-http://www.boost.org/libs/graph/doc/using_adjacency_list.html
-http://www.boost.org/libs/graph/example/dijkstra-example.cpp
-http://www.boost.org/libs/graph/LICENCE
-http://www.boost.org/libs/graph/vector_property_map.html
-http://www.boost.org/libs/integer
-http://www.boost.org/libs/interprocess
-http://www.boost.org/libs/intrusive
-http://www.boost.org/libs/io
-http://www.boost.org/libs/io/
-http://www.boost.org/libs/iostreams
-http://www.boost.org/libs/iostreams/
-http://www.boost.org/libs/iostreams/doc/index.html?path=4.1.1.4
-http://www.boost.org/libs/iterator/doc/iterator_concepts.html
-http://www.boost.org/libs/iterator/doc/pointee.html
-http://www.boost.org/libs/libraries.htm
-http://www.boost.org/libs/local_function
-http://www.boost.org/libs/math
-http://www.boost.org/libs/move
-http://www.boost.org/libs/mpl
-http://www.boost.org/libs/multi_array
-http://www.boost.org/libs/multi_index
-http://www.boost.org/libs/numeric/conversion
-http://www.boost.org/libs/optional
-http://www.boost.org/libs/parameter/test/preprocessor.cpp
-http://www.boost.org/libs/parameter/test/timings.txt.
-http://www.boost.org/libs/pool/doc/copyright.html
-http://www.boost.org/libs/preprocessor
-http://www.boost.org/libs/property_map
-http://www.boost.org/libs/ptr_container/
-http://www.boost.org/libs/python
-http://www.boost.org/libs/random
-http://www.boost.org/libs/random/random-concepts.html
-http://www.boost.org/libs/range
-http://www.boost.org/libs/range/
-http://www.boost.org/libs/range/doc/range.html
-http://www.boost.org/libs/ratio
-http://www.boost.org/libs/rational
-http://www.boost.org/libs/regex
-http://www.boost.org/libs/scope_exit
-http://www.boost.org/libs/serialization
-http://www.boost.org/libs/serialization/doc/index.html
-http://www.boost.org/libs/serialization/doc/serialization.html
-http://www.boost.org/libs/signals
-http://www.boost.org/libs/signals2
-http://www.boost.org/libs/signals2/
-http://www.boost.org/libs/smart_ptr
-http://www.boost.org/libs/smart_ptr/enable_shared_from_this.html
-http://www.boost.org/libs/smart_ptr/intrusive_ptr.html
-http://www.boost.org/libs/smart_ptr/make_shared.html
-http://www.boost.org/libs/smart_ptr/pointer_to_other.html
-http://www.boost.org/libs/smart_ptr/scoped_array.htm
-http://www.boost.org/libs/smart_ptr/scoped_ptr.htm
-http://www.boost.org/libs/smart_ptr/shared_array.htm
-http://www.boost.org/libs/smart_ptr/shared_ptr.htm
-http://www.boost.org/libs/smart_ptr/smart_ptr.htm
-http://www.boost.org/libs/smart_ptr/weak_ptr.htm
-http://www.boost.org/libs/spirit
-http://www.boost.org/libs/spirit/doc/techniques.html
-http://www.boost.org/libs/statechart/doc/faq.html
-http://www.boost.org/libs/static_assert
-http://www.boost.org/libs/stm
-http://www.boost.org/libs/system
-http://www.boost.org/libs/test
-http://www.boost.org/libs/thread
-http://www.boost.org/libs/timer
-http://www.boost.org/libs/tokenizer
-http://www.boost.org/libs/tokenizer/
-http://www.boost.org/libs/type_traits
-http://www.boost.org/libs/type_traits/index.html
-http://www.boost.org/libs/unordered
-http://www.boost.org/libs/utility
-http://www.boost.org/libs/utility/
-http://www.boost.org/libs/utility/assert.html
-http://www.boost.org/libs/utility/call_traits.htm
-http://www.boost.org/libs/utility/checked_delete.html
-http://www.boost.org/libs/utility/cstdlib.html
-http://www.boost.org/libs/utility/current_function.html
-http://www.boost.org/libs/utility/identity_type
-http://www.boost.org/libs/utility/iterator_adaptors.htm
-http://www.boost.org/libs/utility/operators.htm
-http://www.boost.org/libs/utility/shared_container_iterator.html
-http://www.boost.org/libs/utility/throw_exception.html
-http://www.boost.org/libs/utility/value_init.htm
-http://www.boost.org/libs/variant
-http://www.boost.org/libs/wave
-http://www.boost.org/LICENCE_1_0.txt
-http://www.boost.org/LICENSE_1_
-http://www.boost.org/LICENSE_1_0.tx
-http://www.boost.org/LICENSE_1_0.txt
-http://www.boost.org/LICENSE_1_0.txt.
-http://www.boost.org/LICENSEmpl
-http://www.boost.org/more/error_handling.html
-http://www.boost.org/more/faq.htm
-http://www.boost.org/more/formal_review_process.htm
-http://www.boost.org/more/generic_programming.html
-http://www.boost.org/more/getting_started/index.html
-http://www.boost.org/more/getting_started/unix-variants.html
-http://www.boost.org/more/lib_guide.htm
-http://www.boost.org/more/license_info.html
-http://www.boost.org/more/mailing_lists.htm
-http://www.boost.org/more/regression.html
-http://www.boost.org/more/separate_compilation.html
-http://www.boost.org/people/aleksey_gurtovoy.htm
-http://www.boost.org/people/beman_dawes.html
-http://www.boost.org/people/daryle_walker.html
-http://www.boost.org/people/dave_abrahams.htm
-http://www.boost.org/people/dietmar_kuehl.htm
-http://www.boost.org/people/ed_brey.htm
-http://www.boost.org/people/greg_colvin.htm
-http://www.boost.org/people/jens_maurer.htm
-http://www.boost.org/people/jeremy_siek.htm
-http://www.boost.org/people/john_maddock.htm
-http://www.boost.org/people/kevlin_henney.htm
-http://www.boost.org/people/liequan_lee.htm
-http://www.boost.org/people/mark_rodgers.htm
-http://www.boost.org/people/paul_moore.htm
-http://www.boost.org/people/people.htm
-http://www.boost.org/regression-logs/cs-win32_metacomm/doc/html/boost_staticassert.html
-http://www.boost.org/status/compiler_status.html
-http://www.boost.org/support/bugs.html
-http://www.boost.org/tools/boostbook/dtd/
-http://www.boost.org/tools/boostbook/dtd/1.1/boostbook.dtd
-http://www.boost.org/tools/boostbook/dtd/boostbook.dtd
-http://www.boost.org/tools/inspect/
-http://www.boost.org/tools/inspect/index.html
-http://www.boost.org/tools/quickbook/test/doc-info-1.quickbook
-http://www.boost.org/tools/quickbook/test/doc-info-2.quickbook
-http://www.boost.org/tools/regression
-http://www.boost.org/tools/regression/
-http://www.boost.org/users/
-http://www.boost.org/users/bibliography.html
-http://www.boost.org/users/faq.html
-http://www.boost.org/users/history
-http://www.boost.org/users/history/version_1_53_0.html
-http://www.boost.org/users/license.html
-http://www.boost.org/users/news/
-http://www.boost.org/users/people.html
-http://www.boost.org/users/proposal.pdf
-http://www.boost.org/users/uses.html
-http://www.boostpro.com
-http://www.boostpro.com/products/free
-http://www.brandspankingnew.net/archive/2005/07/format_footnote.html
-http://www.break.com/
-http://www.bribes.org/perl/wANSIConsole.html
-http://www.bsonspec.org/
-http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf
-http://www.calc3d.com/ejavascriptcoordcalc.html
-http://www.calendarzone.com
-http://www.candleweb.no/
-http://www.cantrip.org/emptyopt.html
-http://www.cantrip.org/locale.html
-http://www.canyon-tech.com/archive/voip/webcams/CNR-WCAM53
-http://www-ccrma.stanford.edu/
-http://www.cecm.sfu.ca/personal/pborwein/PAPERS/P155.pdf
-http://www.celton.mobi/
-http://www.cendio.com/
-http://www.chainkey.com/
-http://www.chainkey.com/en/jcp/
-http://www.chez.com/vasile/
-http://www.chez.com/vasile/obfu/VasObfuLite.html
-http://www.chiark.greenend.org.uk/
-http://www.ciaocomeva.it/
-http://www.clarkware.com/software/JDepend.html
-http://www.cl.cam.ac.uk/
-http://www.clio.ne.jp/home/web-i31s/Flotuard/Ruby/PRC2K_seki/dRuby.en.html
-http://www.cnn.com
-http://www.cnn.com.
-http://www.cnri.reston.va.us
-http://www.cocoadev.com/index.pl?DeterminingOSVersion
-http://www.codeguru.com/cpp/controls/menu/bitmappedmenus/article.php/c165
-http://www.codeguru.com/Cpp/misc/misc/threadsprocesses/article.php/c6945__2/
-http://www.codeproject.com/cpp/dynamic_typing.asp.
-http://www.codeproject.com/internet/mapadmin.asp
-http://www.codeproject.com/KB/architecture/Detector.aspx
-http://www.codesourcery.com/pooma/download.html
-http://www.codesourcery.com/sgpp/lite/arm/portal/package7813/public/arm-none-eabi/arm-2010.09-51-arm-none-eabi-i686-pc-linux-gnu.tar.bz2
-http://www.codingart.com/
-http://www.codingart.com/codeshield.html
-http://www.columbia.edu/
-http://www.comeaucomputing.com/
-http://www.comeaucomputing.com/iso/lwg-defects.html
-http://www.condensity.com/
-http://www.connectionstrings.com
-http://www.contactor.se/
-http://www.contrib.andrew.cmu.edu/
-http://www.core-sdi.com
-http://www.coyote.com/
-http://www.cozmixng.org/
-http://www.cpan.org/modules/by-module/Compress/
-http://www.cplusplus.com/ref/ctime/index.html
-http://www.cppreference.com/wiki/keywords/start
-http://www.cracker.com/
-http://www.craphound.com/est/
-http://www.crystalclearsoftware.com
-http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?Boost.Build_V2
-http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?Boost_Documentation_Format
-http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?Effective_MPL
-http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?GDTL
-http://www.crystalclearsoftware.com/libraries/date_time/date_time.pdf
-http://www.crystalclearsoftware.com/libraries/date_time/index.html
-http://www.crystalclearsoftware.com/libraries/date_time/ref_guide/index.html
-http://www.crystax.net/android/ndk.php
-http://www.cs.cornell.edu/nystrom/
-http://www.csd.toshiba.com/cgi-bin/tais/support/js
-http://www.cs.panam.edu/
-http://www.cs.princeton.edu/
-http://www.cs.princeton.edu/research/techreps/TR-554-97
-http://www.cs.purdue.edu/homes/grothoff/
-http://www.cs.purdue.edu/homes/hosking/bloat/
-http://www.cs.queensu.ca/home/okhotin/whale/
-http://www.cs.rpi.edu/
-http://www.css3.info/preview/rounded-border/
-http://www.csse.monash.edu.au/
-http://www.cs.tau.ac.il/
-http://www.cs.ucdavis.edu/
-http://www.cs.utexas.edu/
-http://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
-http://www.ctan.org
-http://www.ctan.org/tex-archive/fonts/eurosym.
-http://www.cuckoosandbox.org
-http://www.cuckoosandbox.org/
-http://www.cuj.com/documents/s=7994/cujcexp1906alexandr/
-http://www.cuj.com/experts/1810/alexandr.html
-http://www.cuj.com/experts/1810/alexandr.htm?topic=experts
-http://www.cuj.com/experts/1812/alexandr.htm?topic=experts
-http://www.cuj.com/experts/2102/alexandr.htm
-http://www.cuj.com/reference/articles/2002/0212/0212_sutter.htm
-http://www.curious-creature.org/
-http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2004-0452
-http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-0448
-http://www.cwi.nl
-http://www.cwi.nl/
-http://www.cygwin.com
-http://www.darwinsys.com/file/
-http://www.ddj.com
-http://www.ddj.com/architect/201806315
-http://www.dell.com/support/drivers/us/en/19/DriverDetails/DriverFileFormats?DriverId=R104087
-http://www.demo2s.com/Tutorial/Cpp/0380__set-multiset/Catalog0380__set-multiset.htm
-http://www.devhelp.net/book
-http://www.devmaster.net/wiki/Transformation_matrices
-http://www.diceware.com/
-http://www.die.net/doc/linux/man/man1/lsb_release.1.html
-http://www.digicool.com/papers/ExtensionClass.html
-http://www.digicool.com/releases/ExtensionClass/
-http://www.digitalmars.com/
-http://www.dinkumware.com/vc_fixes.html.
-http://www.docbook.org/
-http://www.docbook.org/tdg/en/html/callout.html
-http://www.docbook.org/tdg/en/html/section.html.
-http://www.docbook.org/xml/4.2/docbook-xml-4.2.zip
-http://www.dogma.net/markn/articles/zlibtool/zlibtool.htm
-http://www.doughellmann.com/articles/CompletelyDifferent-2008-02-ipython-and-virtualenv/index.html
-http://www.doughellmann.com/articles/CompletelyDifferent-2008-05-virtualenvwrapper/index.html
-http://www.doughellmann.com/projects/virtualenvwrapper/
-http://www.doxygen.org/index.html
-http://www.drdobbs.com/184403758
-http://www.drdobbs.com/generic-min-and-max-redivivus/184403774
-http://www.drdobbs.com/windows/associate-mutexes-with-data-to-prevent-r/224701827?pgno=3
-http://www.drjava.de/
-http://www.drjava.de/obfuscator/
-http://www.duckware.com/
-http://www.duckware.com/jobfuscate/
-http://www.ecben.net/calendar.shtml
-http://www.eclipse.org
-http://www.eclipse.org/
-http://www.eclipse.org/legal/cpl-v10.html
-http://www.eclipse.org/legal/epl-v10.html
-http://www.eclipse.org/legal/epl-v10.html.
-http://www.eclipse.org/licenses/edl-v1.0.html
-http://www.eclipse.org/licenses/edl-v10.html
-http://www.eclipse.org/org/documents/epl-v10.php
-http://www.ecma-internationl.org/publications/files/ECMA-ST/ECMA-262.pdf
-http://www.egenix.com/
-http://www.egenix.com/files/python/platform.py
-http://www.elegant-software.com/
-http://www.elegant-software.com/software/jmangle/
-http://www.embedded.com/
-http://www.epi.ucdavis.edu/diagnostictests/betabuster.html
-http://www.e-t.com/
-http://www.e-t.com/jshrink.html
-http://www.example.com
-http://www.example.com/
-http://www.example.com//
-http://www.example.com///../
-http://www.example.com/bar
-http://www.example.com/cgi
-http://www.example.com/index.html
-http://www.example.com/index.html?foo=bar
-http://www.example.com/quotes/foo.html
-http://www.example.com/rheum/rhaponticum
-http://www.example.com/rheum/rhaponticum?
-http://www.example.com/sample.jpg
-http://www.example.com/search.cgi
-http://www.example.com/subscription_info.html
-http://www.example.com/todo.cgi
-http://www.example.net
-http://www.exif.org/Exif2-2.PDF
-http://www.facebook.com
-http://www.facebook.com/
-http://www.facebook.com/ajax/typeahead/first_degree.php?__a=1
-http://www.facebook.com/messages/jimmy.page
-http://www.famfamfam.com
-http://www.famfamfam.com/
-http://www.famfamfam.com/lab/icons/silk/
-http://www.fapws.org/
-http://www.faqs.org/rfcs/rfc1928.html
-http://www.faqs.org/rfcs/rfc1952.html
-http://www.faqs.org/rfcs/rfc2616.html
-http://www.faqs.org/rfcs/rfc2822.html
-http://www.faqs.org/rfcs/rfc3174.html
-http://www.faqs.org/rfcs/rfc822.html
-http://www.fastio.com/
-http://www.fileformat.info/info/unicode/char/0022/index.htm
-http://www.fileformat.info/info/unicode/char/0026/index.htm
-http://www.fileformat.info/info/unicode/char/0027/index.htm
-http://www.fileformat.info/info/unicode/char/002f/index.htm
-http://www.fileformat.info/info/unicode/char/003c/index.htm
-http://www.fileformat.info/info/unicode/char/003e/index.htm
-http://www.fileformat.info/info/unicode/char/00a0/index.htm
-http://www.fileformat.info/info/unicode/char/00a1/index.htm
-http://www.fileformat.info/info/unicode/char/00a2/index.htm
-http://www.fileformat.info/info/unicode/char/00a3/index.htm
-http://www.fileformat.info/info/unicode/char/00a4/index.htm
-http://www.fileformat.info/info/unicode/char/00a5/index.htm
-http://www.fileformat.info/info/unicode/char/00a6/index.htm
-http://www.fileformat.info/info/unicode/char/00a7/index.htm
-http://www.fileformat.info/info/unicode/char/00a8/index.htm
-http://www.fileformat.info/info/unicode/char/00a9/index.htm
-http://www.fileformat.info/info/unicode/char/00aa/index.htm
-http://www.fileformat.info/info/unicode/char/00ab/index.htm
-http://www.fileformat.info/info/unicode/char/00ac/index.htm
-http://www.fileformat.info/info/unicode/char/00ad/index.htm
-http://www.fileformat.info/info/unicode/char/00ae/index.htm
-http://www.fileformat.info/info/unicode/char/00af/index.htm
-http://www.fileformat.info/info/unicode/char/00b0/index.htm
-http://www.fileformat.info/info/unicode/char/00b1/index.htm
-http://www.fileformat.info/info/unicode/char/00b2/index.htm
-http://www.fileformat.info/info/unicode/char/00b3/index.htm
-http://www.fileformat.info/info/unicode/char/00b4/index.htm
-http://www.fileformat.info/info/unicode/char/00b5/index.htm
-http://www.fileformat.info/info/unicode/char/00b6/index.htm
-http://www.fileformat.info/info/unicode/char/00b7/index.htm
-http://www.fileformat.info/info/unicode/char/00b8/index.htm
-http://www.fileformat.info/info/unicode/char/00b9/index.htm
-http://www.fileformat.info/info/unicode/char/00ba/index.htm
-http://www.fileformat.info/info/unicode/char/00bb/index.htm
-http://www.fileformat.info/info/unicode/char/00bc/index.htm
-http://www.fileformat.info/info/unicode/char/00bd/index.htm
-http://www.fileformat.info/info/unicode/char/00be/index.htm
-http://www.fileformat.info/info/unicode/char/00bf/index.htm
-http://www.fileformat.info/info/unicode/char/00c0/index.htm
-http://www.fileformat.info/info/unicode/char/00c1/index.htm
-http://www.fileformat.info/info/unicode/char/00c2/index.htm
-http://www.fileformat.info/info/unicode/char/00c3/index.htm
-http://www.fileformat.info/info/unicode/char/00c4/index.htm
-http://www.fileformat.info/info/unicode/char/00c5/index.htm
-http://www.fileformat.info/info/unicode/char/00c6/index.htm
-http://www.fileformat.info/info/unicode/char/00c7/index.htm
-http://www.fileformat.info/info/unicode/char/00c8/index.htm
-http://www.fileformat.info/info/unicode/char/00c9/index.htm
-http://www.fileformat.info/info/unicode/char/00ca/index.htm
-http://www.fileformat.info/info/unicode/char/00cb/index.htm
-http://www.fileformat.info/info/unicode/char/00cc/index.htm
-http://www.fileformat.info/info/unicode/char/00cd/index.htm
-http://www.fileformat.info/info/unicode/char/00ce/index.htm
-http://www.fileformat.info/info/unicode/char/00cf/index.htm
-http://www.fileformat.info/info/unicode/char/00d0/index.htm
-http://www.fileformat.info/info/unicode/char/00d1/index.htm
-http://www.fileformat.info/info/unicode/char/00d2/index.htm
-http://www.fileformat.info/info/unicode/char/00d3/index.htm
-http://www.fileformat.info/info/unicode/char/00d4/index.htm
-http://www.fileformat.info/info/unicode/char/00d5/index.htm
-http://www.fileformat.info/info/unicode/char/00d6/index.htm
-http://www.fileformat.info/info/unicode/char/00d7/index.htm
-http://www.fileformat.info/info/unicode/char/00d8/index.htm
-http://www.fileformat.info/info/unicode/char/00d9/index.htm
-http://www.fileformat.info/info/unicode/char/00da/index.htm
-http://www.fileformat.info/info/unicode/char/00db/index.htm
-http://www.fileformat.info/info/unicode/char/00dc/index.htm
-http://www.fileformat.info/info/unicode/char/00dd/index.htm
-http://www.fileformat.info/info/unicode/char/00de/index.htm
-http://www.fileformat.info/info/unicode/char/00df/index.htm
-http://www.fileformat.info/info/unicode/char/00e0/index.htm
-http://www.fileformat.info/info/unicode/char/00e1/index.htm
-http://www.fileformat.info/info/unicode/char/00e2/index.htm
-http://www.fileformat.info/info/unicode/char/00e3/index.htm
-http://www.fileformat.info/info/unicode/char/00e4/index.htm
-http://www.fileformat.info/info/unicode/char/00e5/index.htm
-http://www.fileformat.info/info/unicode/char/00e6/index.htm
-http://www.fileformat.info/info/unicode/char/00e7/index.htm
-http://www.fileformat.info/info/unicode/char/00e8/index.htm
-http://www.fileformat.info/info/unicode/char/00e9/index.htm
-http://www.fileformat.info/info/unicode/char/00ea/index.htm
-http://www.fileformat.info/info/unicode/char/00eb/index.htm
-http://www.fileformat.info/info/unicode/char/00ec/index.htm
-http://www.fileformat.info/info/unicode/char/00ed/index.htm
-http://www.fileformat.info/info/unicode/char/00ee/index.htm
-http://www.fileformat.info/info/unicode/char/00ef/index.htm
-http://www.fileformat.info/info/unicode/char/00f0/index.htm
-http://www.fileformat.info/info/unicode/char/00f1/index.htm
-http://www.fileformat.info/info/unicode/char/00f2/index.htm
-http://www.fileformat.info/info/unicode/char/00f3/index.htm
-http://www.fileformat.info/info/unicode/char/00f4/index.htm
-http://www.fileformat.info/info/unicode/char/00f5/index.htm
-http://www.fileformat.info/info/unicode/char/00f6/index.htm
-http://www.fileformat.info/info/unicode/char/00f7/index.htm
-http://www.fileformat.info/info/unicode/char/00f8/index.htm
-http://www.fileformat.info/info/unicode/char/00f9/index.htm
-http://www.fileformat.info/info/unicode/char/00fa/index.htm
-http://www.fileformat.info/info/unicode/char/00fb/index.htm
-http://www.fileformat.info/info/unicode/char/00fc/index.htm
-http://www.fileformat.info/info/unicode/char/00fd/index.htm
-http://www.fileformat.info/info/unicode/char/00fe/index.htm
-http://www.fileformat.info/info/unicode/char/00ff/index.htm
-http://www.fileformat.info/info/unicode/char/0152/index.htm
-http://www.fileformat.info/info/unicode/char/0153/index.htm
-http://www.fileformat.info/info/unicode/char/0160/index.htm
-http://www.fileformat.info/info/unicode/char/0161/index.htm
-http://www.fileformat.info/info/unicode/char/0178/index.htm
-http://www.fileformat.info/info/unicode/char/0192/index.htm
-http://www.fileformat.info/info/unicode/char/02c6/index.htm
-http://www.fileformat.info/info/unicode/char/02dc/index.htm
-http://www.fileformat.info/info/unicode/char/0391/index.htm
-http://www.fileformat.info/info/unicode/char/0392/index.htm
-http://www.fileformat.info/info/unicode/char/0393/index.htm
-http://www.fileformat.info/info/unicode/char/0394/index.htm
-http://www.fileformat.info/info/unicode/char/0395/index.htm
-http://www.fileformat.info/info/unicode/char/0396/index.htm
-http://www.fileformat.info/info/unicode/char/0397/index.htm
-http://www.fileformat.info/info/unicode/char/0398/index.htm
-http://www.fileformat.info/info/unicode/char/0399/index.htm
-http://www.fileformat.info/info/unicode/char/039a/index.htm
-http://www.fileformat.info/info/unicode/char/039b/index.htm
-http://www.fileformat.info/info/unicode/char/039c/index.htm
-http://www.fileformat.info/info/unicode/char/039d/index.htm
-http://www.fileformat.info/info/unicode/char/039e/index.htm
-http://www.fileformat.info/info/unicode/char/039f/index.htm
-http://www.fileformat.info/info/unicode/char/03a0/index.htm
-http://www.fileformat.info/info/unicode/char/03a1/index.htm
-http://www.fileformat.info/info/unicode/char/03a3/index.htm
-http://www.fileformat.info/info/unicode/char/03a4/index.htm
-http://www.fileformat.info/info/unicode/char/03a5/index.htm
-http://www.fileformat.info/info/unicode/char/03a6/index.htm
-http://www.fileformat.info/info/unicode/char/03a7/index.htm
-http://www.fileformat.info/info/unicode/char/03a8/index.htm
-http://www.fileformat.info/info/unicode/char/03a9/index.htm
-http://www.fileformat.info/info/unicode/char/03b1/index.htm
-http://www.fileformat.info/info/unicode/char/03b2/index.htm
-http://www.fileformat.info/info/unicode/char/03b3/index.htm
-http://www.fileformat.info/info/unicode/char/03b4/index.htm
-http://www.fileformat.info/info/unicode/char/03b5/index.htm
-http://www.fileformat.info/info/unicode/char/03b6/index.htm
-http://www.fileformat.info/info/unicode/char/03b7/index.htm
-http://www.fileformat.info/info/unicode/char/03b8/index.htm
-http://www.fileformat.info/info/unicode/char/03b9/index.htm
-http://www.fileformat.info/info/unicode/char/03ba/index.htm
-http://www.fileformat.info/info/unicode/char/03bb/index.htm
-http://www.fileformat.info/info/unicode/char/03bc/index.htm
-http://www.fileformat.info/info/unicode/char/03bd/index.htm
-http://www.fileformat.info/info/unicode/char/03be/index.htm
-http://www.fileformat.info/info/unicode/char/03bf/index.htm
-http://www.fileformat.info/info/unicode/char/03c0/index.htm
-http://www.fileformat.info/info/unicode/char/03c1/index.htm
-http://www.fileformat.info/info/unicode/char/03c2/index.htm
-http://www.fileformat.info/info/unicode/char/03c3/index.htm
-http://www.fileformat.info/info/unicode/char/03c4/index.htm
-http://www.fileformat.info/info/unicode/char/03c5/index.htm
-http://www.fileformat.info/info/unicode/char/03c6/index.htm
-http://www.fileformat.info/info/unicode/char/03c7/index.htm
-http://www.fileformat.info/info/unicode/char/03c8/index.htm
-http://www.fileformat.info/info/unicode/char/03c9/index.htm
-http://www.fileformat.info/info/unicode/char/03d1/index.htm
-http://www.fileformat.info/info/unicode/char/03d2/index.htm
-http://www.fileformat.info/info/unicode/char/03d6/index.htm
-http://www.fileformat.info/info/unicode/char/2002/index.htm
-http://www.fileformat.info/info/unicode/char/2003/index.htm
-http://www.fileformat.info/info/unicode/char/2009/index.htm
-http://www.fileformat.info/info/unicode/char/200c/index.htm
-http://www.fileformat.info/info/unicode/char/200d/index.htm
-http://www.fileformat.info/info/unicode/char/200e/index.htm
-http://www.fileformat.info/info/unicode/char/200f/index.htm
-http://www.fileformat.info/info/unicode/char/2013/index.htm
-http://www.fileformat.info/info/unicode/char/2014/index.htm
-http://www.fileformat.info/info/unicode/char/2018/index.htm
-http://www.fileformat.info/info/unicode/char/2019/index.htm
-http://www.fileformat.info/info/unicode/char/201a/index.htm
-http://www.fileformat.info/info/unicode/char/201c/index.htm
-http://www.fileformat.info/info/unicode/char/201d/index.htm
-http://www.fileformat.info/info/unicode/char/201e/index.htm
-http://www.fileformat.info/info/unicode/char/2020/index.htm
-http://www.fileformat.info/info/unicode/char/2021/index.htm
-http://www.fileformat.info/info/unicode/char/2022/index.htm
-http://www.fileformat.info/info/unicode/char/2026/index.htm
-http://www.fileformat.info/info/unicode/char/2030/index.htm
-http://www.fileformat.info/info/unicode/char/2032/index.htm
-http://www.fileformat.info/info/unicode/char/2033/index.htm
-http://www.fileformat.info/info/unicode/char/2039/index.htm
-http://www.fileformat.info/info/unicode/char/203a/index.htm
-http://www.fileformat.info/info/unicode/char/203e/index.htm
-http://www.fileformat.info/info/unicode/char/20ac/index.htm
-http://www.fileformat.info/info/unicode/char/2122/index.htm
-http://www.fileformat.info/info/unicode/char/2190/index.htm
-http://www.fileformat.info/info/unicode/char/2191/index.htm
-http://www.fileformat.info/info/unicode/char/2192/index.htm
-http://www.fileformat.info/info/unicode/char/2193/index.htm
-http://www.fileformat.info/info/unicode/char/2194/index.htm
-http://www.fileformat.info/info/unicode/char/21b5/index.htm
-http://www.fileformat.info/info/unicode/char/2200/index.htm
-http://www.fileformat.info/info/unicode/char/2202/index.htm
-http://www.fileformat.info/info/unicode/char/2203/index.htm
-http://www.fileformat.info/info/unicode/char/2205/index.htm
-http://www.fileformat.info/info/unicode/char/2207/index.htm
-http://www.fileformat.info/info/unicode/char/2208/index.htm
-http://www.fileformat.info/info/unicode/char/2209/index.htm
-http://www.fileformat.info/info/unicode/char/220b/index.htm
-http://www.fileformat.info/info/unicode/char/220f/index.htm
-http://www.fileformat.info/info/unicode/char/2211/index.htm
-http://www.fileformat.info/info/unicode/char/2212/index.htm
-http://www.fileformat.info/info/unicode/char/2217/index.htm
-http://www.fileformat.info/info/unicode/char/221a/index.htm
-http://www.fileformat.info/info/unicode/char/221d/index.htm
-http://www.fileformat.info/info/unicode/char/221e/index.htm
-http://www.fileformat.info/info/unicode/char/2220/index.htm
-http://www.fileformat.info/info/unicode/char/2227/index.htm
-http://www.fileformat.info/info/unicode/char/2228/index.htm
-http://www.fileformat.info/info/unicode/char/2229/index.htm
-http://www.fileformat.info/info/unicode/char/222a/index.htm
-http://www.fileformat.info/info/unicode/char/222b/index.htm
-http://www.fileformat.info/info/unicode/char/2234/index.htm
-http://www.fileformat.info/info/unicode/char/223c/index.htm
-http://www.fileformat.info/info/unicode/char/2245/index.htm
-http://www.fileformat.info/info/unicode/char/2248/index.htm
-http://www.fileformat.info/info/unicode/char/2260/index.htm
-http://www.fileformat.info/info/unicode/char/2261/index.htm
-http://www.fileformat.info/info/unicode/char/2264/index.htm
-http://www.fileformat.info/info/unicode/char/2265/index.htm
-http://www.fileformat.info/info/unicode/char/2282/index.htm
-http://www.fileformat.info/info/unicode/char/2283/index.htm
-http://www.fileformat.info/info/unicode/char/2284/index.htm
-http://www.fileformat.info/info/unicode/char/2286/index.htm
-http://www.fileformat.info/info/unicode/char/2287/index.htm
-http://www.fileformat.info/info/unicode/char/2295/index.htm
-http://www.fileformat.info/info/unicode/char/2297/index.htm
-http://www.fileformat.info/info/unicode/char/22a5/index.htm
-http://www.fileformat.info/info/unicode/char/22c5/index.htm
-http://www.fileformat.info/info/unicode/char/2308/index.htm
-http://www.fileformat.info/info/unicode/char/2309/index.htm
-http://www.fileformat.info/info/unicode/char/230a/index.htm
-http://www.fileformat.info/info/unicode/char/230b/index.htm
-http://www.fileformat.info/info/unicode/char/25ca/index.htm
-http://www.fileformat.info/info/unicode/char/2660/index.htm
-http://www.fileformat.info/info/unicode/char/2663/index.htm
-http://www.fileformat.info/info/unicode/char/2665/index.htm
-http://www.fileformat.info/info/unicode/char/2666/index.htm
-http://www.fileformat.info/info/unicode/char/fffd/index.htm
-http://www.flickr.com/photos/solgrundy/924205581/
-http://www.fnal.gov/docs/working-groups/fpcltf/Pkg/ISOcxx/doc/0ISOcxx.html
-http://www.foo.com/
-http://www.foo.com/bar/
-http://www.foo.net/
-http://www.foo.net/foo/
-http://www.force5.com/
-http://www.force5.com/JCloak/ProductJCloak.html
-http://www.forum.nokia.com/info/sw.nokia.com/id/4ed27119-e08e-480e-b0b8-aeb48fe5c5e8/S60_Platform_Audio_Streaming_Example_v2_1_en.zip.html
-http://www.fossil-scm.org/
-http://www.fourmilab.ch/md5/
-http://www.freebsd.org/cgi/cvsweb.cgi/src/etc/services
-http://www.freedesktop.org/software/pkgconfig/
-http://www.fsf.org/
-http://www.fsf.org/licensing/essays/free-sw.html
-http://www.ft.uni-erlangen.de/
-http://www.gabi-soft.de
-http://www.gabi-soft.fr/codebase-en.html.
-http://www.garret.ru/
-http://www.garykessler.net/library/file_sigs.html
-http://www.gcmap.com/mapui?P=178E10S-178W10S-178W6S-178E6S-178E10S
-http://www.gcmap.com/mapui?P=1E45N-19E45N-19E55N-1E55N-1E45N
-http://www.gcmap.com/mapui?P=30N
-http://www.gcmap.com/mapui?P=50N
-http://www.gcmap.com/mapui?P=5E52N-9E53N-7E50N-5E52N
-http://www.generic-programming.org/
-http://www.generic-programming.org/languages/conceptcpp/
-http://www.generic-programming.org/languages/conceptcpp/specification/
-http://www.generic-programming.org/languages/conceptcpp/tutorial
-http://www.generic-programming.org/software/ConceptGCC/
-http://www.geocities.com/CapeCanaveral/Hall/2334/Programs/cafebabe.html
-http://www.geocities.com/CapeCanaveral/Hall/2334/resume.html
-http://www.geocities.com/rick_lively/MANUALS/ENV/MSWIN/PROCESSI.HTM
-http://www.germane-software.com/software/rexml
-http://www.germane-software.com/software/rexml_doc
-http://www.germane-software.com/software/rexml/docs/tutorial.html
-http://www.giss.nasa.gov/tools/mars24/help/notes.html
-http://www.github.com/atoulme/minitar
-http://www.gittip.com/djberg96/
-http://www.gnu.org/copyleft/gpl-faq.html
-http://www.gnu.org/copyleft/gpl.html
-http://www.gnu.org/copyleft/lesser.txt
-http://www.gnu.org/gethelp/
-http://www.gnu.org/licenses/
-http://www.gnu.org/licenses/gpl.html
-http://www.gnu.org/prep/standards/html_node/Style-of-Change-Logs.html
-http://www.gnu.org/software/autoconf-archive/ax_cc_maxopt.html
-http://www.gnu.org/software/autoconf-archive/ax_cflags_warn_all.html
-http://www.gnu.org/software/autoconf-archive/ax_check_compiler_flags.html
-http://www.gnu.org/software/autoconf-archive/ax_compiler_vendor.html
-http://www.gnu.org/software/autoconf-archive/ax_configure_args.html
-http://www.gnu.org/software/autoconf-archive/ax_enable_builddir.html
-http://www.gnu.org/software/autoconf-archive/ax_gcc_archflag.html
-http://www.gnu.org/software/autoconf-archive/ax_gcc_x86_cpuid.html
-http://www.gnu.org/software/coreutils/
-http://www.gnu.org/software/gettext/gettext.html
-http://www.gnu.org/software/global/global.html
-http://www.gnu.org/software/gnutls/manual/html_node/
-http://www.gnu.org/software/libiconv
-http://www.gnu.org/software/libiconv/
-http://www.gnu.org/software/libidn/draft-josefsson-idn-test-vectors.html
-http://www.gnu.org/software/libtool/
-http://www.gnu.org/software/libtool/manual/html_node/Updating-version-info.html
-http://www.gnu.org/software/pth
-http://www.gnu.org/software/shtool/
-http://www.gnu.org/software/smalltalk/manual-base/html_node/Bag.html
-http://www.gnu.org/software/texinfo/
-http://www.gnu.org/software/texinfo.
-http://www.gnu.org/software/textutils/textutils.html
-http://www.gnupg.org/
-http://www.googleadservices.com/pagead/conversion/1001680686/?label=4dahCKKczAYQrt7R3QM
-http://www.google-analytics.com/urchin.js
-http://www.google.ca/
-http://www.google.com
-http://www.google.com/
-http://www.google.com/file.txt
-http://www.google.com/images/logos/ps_logo2.png
-http://www.google.com/robots.txt
-http://www.google.com/search?q=
-http://www.google.com/search?q=docile
-http://www.google.com/support/webmasters/bin/answer.py?hl=en
-http://www.google.it/
-http://www.google-melange.com
-http://www.gotealeaf.com
-http://www.gotw.ca/gotw/004.htm
-http://www.gotw.ca/gotw/054.htm
-http://www.gotw.ca/gotw/056.htm
-http://www.graphpad.com/curvefit/goodness_of_fit.htm
-http://www.graphviz.org/cvs/doc/info/lang.html
-http://www.graphviz.org/doc/info/lang.html
-http://www.graphviz.org/pdf/dotguide.pdf
-http://www.gtk.org
-http://www.gtk.org/introspection/c/1.0
-http://www.gtk.org/introspection/core/1.0
-http://www.gtk.org/introspection/glib/1.0
-http://www.gutenberg.org/files/3200/old/mtent12.zip
-http://www.gzip.org/
-http://www.gzip.org/zlib/
-http://www.gzip.org/zlib/zlib_faq.html
-http://www.hackersdelight.org/index.htm.
-http://www.hackingteam.com
-http://www.hackingteam.com/
-http://www.hackingteam.it/img/logo.gif
-http://www.helseth.com/
-http://www.helseth.com/HJO.htm
-http://www.herongyang.com/
-http://www.honeynet.org
-http://www.horstmann.com/safestl.html
-http://www.housemarque.com
-http://www.howtomakeabomb.com
-http://www.hpl.hp.com/personal/Hans_Boehm/gc/gcinterface.html
-http://www-i2.informatik.rwth-aachen.de/
-http://www.iana.org/assignments
-http://www.iana.org/assignments/character-sets
-http://www.iana.org/assignments/contact-people.htm
-http://www.iana.org/assignments/lang-tag-apps.htm
-http://www.iana.org/assignments/media-types/
-http://www.iana.org/assignments/media-types/application/1d-interleaved-parityfec
-http://www.iana.org/assignments/media-types/application/3gpdash-qoe-report
-http://www.iana.org/assignments/media-types/application/3gpp-ims
-http://www.iana.org/assignments/media-types/application/activemessage
-http://www.iana.org/assignments/media-types/application/alto-costmap
-http://www.iana.org/assignments/media-types/application/alto-costmapfilter
-http://www.iana.org/assignments/media-types/application/alto-directory
-http://www.iana.org/assignments/media-types/application/alto-endpointcost
-http://www.iana.org/assignments/media-types/application/alto-endpointcostparams
-http://www.iana.org/assignments/media-types/application/alto-endpointprop
-http://www.iana.org/assignments/media-types/application/alto-endpointpropparams
-http://www.iana.org/assignments/media-types/application/alto-error
-http://www.iana.org/assignments/media-types/application/alto-networkmap
-http://www.iana.org/assignments/media-types/application/alto-networkmapfilter
-http://www.iana.org/assignments/media-types/application/andrew-inset
-http://www.iana.org/assignments/media-types/application/applefile
-http://www.iana.org/assignments/media-types/application/ATF
-http://www.iana.org/assignments/media-types/application/atom
-http://www.iana.org/assignments/media-types/application/atomcat
-http://www.iana.org/assignments/media-types/application/atomdeleted
-http://www.iana.org/assignments/media-types/application/atomicmail
-http://www.iana.org/assignments/media-types/application/atomsvc
-http://www.iana.org/assignments/media-types/application/auth-policy
-http://www.iana.org/assignments/media-types/application/bacnet-xdd
-http://www.iana.org/assignments/media-types/application/batch-SMTP
-http://www.iana.org/assignments/media-types/application/beep
-http://www.iana.org/assignments/media-types/application/calendar
-http://www.iana.org/assignments/media-types/application/call-completion
-http://www.iana.org/assignments/media-types/application/cals-1840
-http://www.iana.org/assignments/media-types/application/cbor
-http://www.iana.org/assignments/media-types/application/ccmp
-http://www.iana.org/assignments/media-types/application/ccxml
-http://www.iana.org/assignments/media-types/application/cdmi-capability
-http://www.iana.org/assignments/media-types/application/cdmi-container
-http://www.iana.org/assignments/media-types/application/cdmi-domain
-http://www.iana.org/assignments/media-types/application/cdmi-object
-http://www.iana.org/assignments/media-types/application/cdmi-queue
-http://www.iana.org/assignments/media-types/application/cea-2018
-http://www.iana.org/assignments/media-types/application/cellml
-http://www.iana.org/assignments/media-types/application/cfw
-http://www.iana.org/assignments/media-types/application/cms
-http://www.iana.org/assignments/media-types/application/cnrp
-http://www.iana.org/assignments/media-types/application/coap-group
-http://www.iana.org/assignments/media-types/application/commonground
-http://www.iana.org/assignments/media-types/application/conference-info
-http://www.iana.org/assignments/media-types/application/cpl
-http://www.iana.org/assignments/media-types/application/csrattrs
-http://www.iana.org/assignments/media-types/application/csta
-http://www.iana.org/assignments/media-types/application/CSTAdata
-http://www.iana.org/assignments/media-types/application/cybercash
-http://www.iana.org/assignments/media-types/application/dash
-http://www.iana.org/assignments/media-types/application/dashdelta
-http://www.iana.org/assignments/media-types/application/davmount
-http://www.iana.org/assignments/media-types/application/dca-rft
-http://www.iana.org/assignments/media-types/application/DCD
-http://www.iana.org/assignments/media-types/application/dec-dx
-http://www.iana.org/assignments/media-types/application/dialog-info
-http://www.iana.org/assignments/media-types/application/dicom
-http://www.iana.org/assignments/media-types/application/dns
-http://www.iana.org/assignments/media-types/application/dskpp
-http://www.iana.org/assignments/media-types/application/dssc
-http://www.iana.org/assignments/media-types/application/dvcs
-http://www.iana.org/assignments/media-types/application/ecmascript
-http://www.iana.org/assignments/media-types/application/EDI-consent
-http://www.iana.org/assignments/media-types/application/EDIFACT
-http://www.iana.org/assignments/media-types/application/EDI-X12
-http://www.iana.org/assignments/media-types/application/emotionml
-http://www.iana.org/assignments/media-types/application/encaprtp
-http://www.iana.org/assignments/media-types/application/epp
-http://www.iana.org/assignments/media-types/application/eshop
-http://www.iana.org/assignments/media-types/application/example
-http://www.iana.org/assignments/media-types/application/fastinfoset
-http://www.iana.org/assignments/media-types/application/fastsoap
-http://www.iana.org/assignments/media-types/application/fdt
-http://www.iana.org/assignments/media-types/application/fits
-http://www.iana.org/assignments/media-types/application/font-sfnt
-http://www.iana.org/assignments/media-types/application/font-tdpfr
-http://www.iana.org/assignments/media-types/application/font-woff
-http://www.iana.org/assignments/media-types/application/framework-attributes
-http://www.iana.org/assignments/media-types/application/gzip
-http://www.iana.org/assignments/media-types/application/H224
-http://www.iana.org/assignments/media-types/application/held
-http://www.iana.org/assignments/media-types/application/http
-http://www.iana.org/assignments/media-types/application/hyperstudio
-http://www.iana.org/assignments/media-types/application/ibe-key-request
-http://www.iana.org/assignments/media-types/application/ibe-pkg-reply
-http://www.iana.org/assignments/media-types/application/ibe-pp-data
-http://www.iana.org/assignments/media-types/application/iges
-http://www.iana.org/assignments/media-types/application/im-iscomposing
-http://www.iana.org/assignments/media-types/application/index
-http://www.iana.org/assignments/media-types/application/index.cmd
-http://www.iana.org/assignments/media-types/application/index.obj
-http://www.iana.org/assignments/media-types/application/index.response
-http://www.iana.org/assignments/media-types/application/index.vnd
-http://www.iana.org/assignments/media-types/application/inkml
-http://www.iana.org/assignments/media-types/application/IOTP
-http://www.iana.org/assignments/media-types/application/ipfix
-http://www.iana.org/assignments/media-types/application/ipp
-http://www.iana.org/assignments/media-types/application/ISUP
-http://www.iana.org/assignments/media-types/application/its
-http://www.iana.org/assignments/media-types/application/javascript
-http://www.iana.org/assignments/media-types/application/jrd
-http://www.iana.org/assignments/media-types/application/json
-http://www.iana.org/assignments/media-types/application/json-patch
-http://www.iana.org/assignments/media-types/application/kpml-request
-http://www.iana.org/assignments/media-types/application/kpml-response
-http://www.iana.org/assignments/media-types/application/ld
-http://www.iana.org/assignments/media-types/application/link-format
-http://www.iana.org/assignments/media-types/application/load-control
-http://www.iana.org/assignments/media-types/application/lost
-http://www.iana.org/assignments/media-types/application/lostsync
-http://www.iana.org/assignments/media-types/application/mac-binhex40
-http://www.iana.org/assignments/media-types/application/macwriteii
-http://www.iana.org/assignments/media-types/application/mads
-http://www.iana.org/assignments/media-types/application/marc
-http://www.iana.org/assignments/media-types/application/marcxml
-http://www.iana.org/assignments/media-types/application/mathematica
-http://www.iana.org/assignments/media-types/application/mbms-associated-procedure-description
-http://www.iana.org/assignments/media-types/application/mbms-deregister
-http://www.iana.org/assignments/media-types/application/mbms-envelope
-http://www.iana.org/assignments/media-types/application/mbms-msk
-http://www.iana.org/assignments/media-types/application/mbms-msk-response
-http://www.iana.org/assignments/media-types/application/mbms-protection-description
-http://www.iana.org/assignments/media-types/application/mbms-reception-report
-http://www.iana.org/assignments/media-types/application/mbms-register
-http://www.iana.org/assignments/media-types/application/mbms-register-response
-http://www.iana.org/assignments/media-types/application/mbms-schedule
-http://www.iana.org/assignments/media-types/application/mbms-user-service-description
-http://www.iana.org/assignments/media-types/application/mbox
-http://www.iana.org/assignments/media-types/application/media_control
-http://www.iana.org/assignments/media-types/application/media-policy-dataset
-http://www.iana.org/assignments/media-types/application/mediaservercontrol
-http://www.iana.org/assignments/media-types/application/merge-patch
-http://www.iana.org/assignments/media-types/application/metalink4
-http://www.iana.org/assignments/media-types/application/mets
-http://www.iana.org/assignments/media-types/application/mikey
-http://www.iana.org/assignments/media-types/application/mods
-http://www.iana.org/assignments/media-types/application/mosskey-data
-http://www.iana.org/assignments/media-types/application/mosskey-request
-http://www.iana.org/assignments/media-types/application/moss-keys
-http://www.iana.org/assignments/media-types/application/moss-signature
-http://www.iana.org/assignments/media-types/application/mp21
-http://www.iana.org/assignments/media-types/application/mp4
-http://www.iana.org/assignments/media-types/application/mpeg4-generic
-http://www.iana.org/assignments/media-types/application/mpeg4-iod
-http://www.iana.org/assignments/media-types/application/mpeg4-iod-xmt
-http://www.iana.org/assignments/media-types/application/mrb-consumer
-http://www.iana.org/assignments/media-types/application/mrb-publish
-http://www.iana.org/assignments/media-types/application/msc-ivr
-http://www.iana.org/assignments/media-types/application/msc-mixer
-http://www.iana.org/assignments/media-types/application/msword
-http://www.iana.org/assignments/media-types/application/mxf
-http://www.iana.org/assignments/media-types/application/nasdata
-http://www.iana.org/assignments/media-types/application/news-checkgroups
-http://www.iana.org/assignments/media-types/application/news-groupinfo
-http://www.iana.org/assignments/media-types/application/news-transmission
-http://www.iana.org/assignments/media-types/application/nlsml
-http://www.iana.org/assignments/media-types/application/nss
-http://www.iana.org/assignments/media-types/application/ocsp-request
-http://www.iana.org/assignments/media-types/application/octet-stream
-http://www.iana.org/assignments/media-types/application/ODA
-http://www.iana.org/assignments/media-types/application/ODX
-http://www.iana.org/assignments/media-types/application/oebps-package
-http://www.iana.org/assignments/media-types/application/ogg
-http://www.iana.org/assignments/media-types/application/oscp-response
-http://www.iana.org/assignments/media-types/application/oxps
-http://www.iana.org/assignments/media-types/application/p2p-overlay
-http://www.iana.org/assignments/media-types/application/patch-ops-error
-http://www.iana.org/assignments/media-types/application/pdf
-http://www.iana.org/assignments/media-types/application/PDX
-http://www.iana.org/assignments/media-types/application/pgp-encrypted
-http://www.iana.org/assignments/media-types/application/pgp-signature
-http://www.iana.org/assignments/media-types/application/pidf
-http://www.iana.org/assignments/media-types/application/pidf-diff
-http://www.iana.org/assignments/media-types/application/pkcs10
-http://www.iana.org/assignments/media-types/application/pkcs7-mime
-http://www.iana.org/assignments/media-types/application/pkcs7-signature
-http://www.iana.org/assignments/media-types/application/pkcs8
-http://www.iana.org/assignments/media-types/application/pkix-attr-cert
-http://www.iana.org/assignments/media-types/application/pkix-cert
-http://www.iana.org/assignments/media-types/application/pkixcmp
-http://www.iana.org/assignments/media-types/application/pkix-crl
-http://www.iana.org/assignments/media-types/application/pkix-pkipath
-http://www.iana.org/assignments/media-types/application/pls
-http://www.iana.org/assignments/media-types/application/poc-settings
-http://www.iana.org/assignments/media-types/application/postscript
-http://www.iana.org/assignments/media-types/application/provenance
-http://www.iana.org/assignments/media-types/application/prs.alvestrand.titrax-sheet
-http://www.iana.org/assignments/media-types/application/prs.cww
-http://www.iana.org/assignments/media-types/application/prs.hpub
-http://www.iana.org/assignments/media-types/application/prs.nprend
-http://www.iana.org/assignments/media-types/application/prs.plucker
-http://www.iana.org/assignments/media-types/application/prs.rdf-xml-crypt
-http://www.iana.org/assignments/media-types/application/prs.xsf
-http://www.iana.org/assignments/media-types/application/pskc
-http://www.iana.org/assignments/media-types/application/QSIG
-http://www.iana.org/assignments/media-types/application/raptorfec
-http://www.iana.org/assignments/media-types/application/rdf
-http://www.iana.org/assignments/media-types/application/reginfo
-http://www.iana.org/assignments/media-types/application/relax-ng-compact-syntax
-http://www.iana.org/assignments/media-types/application/remote-printing
-http://www.iana.org/assignments/media-types/application/reputon
-http://www.iana.org/assignments/media-types/application/resource-lists
-http://www.iana.org/assignments/media-types/application/resource-lists-diff
-http://www.iana.org/assignments/media-types/application/riscos
-http://www.iana.org/assignments/media-types/application/rlmi
-http://www.iana.org/assignments/media-types/application/rls-services
-http://www.iana.org/assignments/media-types/application/rpki-ghostbusters
-http://www.iana.org/assignments/media-types/application/rpki-manifest
-http://www.iana.org/assignments/media-types/application/rpki-roa
-http://www.iana.org/assignments/media-types/application/rpki-updown
-http://www.iana.org/assignments/media-types/application/rtf
-http://www.iana.org/assignments/media-types/application/rtploopback
-http://www.iana.org/assignments/media-types/application/rtx
-http://www.iana.org/assignments/media-types/application/samlassertion
-http://www.iana.org/assignments/media-types/application/samlmetadata
-http://www.iana.org/assignments/media-types/application/sbml
-http://www.iana.org/assignments/media-types/application/scaip
-http://www.iana.org/assignments/media-types/application/scvp-cv-request
-http://www.iana.org/assignments/media-types/application/scvp-cv-response
-http://www.iana.org/assignments/media-types/application/scvp-vp-request
-http://www.iana.org/assignments/media-types/application/scvp-vp-response
-http://www.iana.org/assignments/media-types/application/sdp
-http://www.iana.org/assignments/media-types/application/sep
-http://www.iana.org/assignments/media-types/application/sep-exi
-http://www.iana.org/assignments/media-types/application/session-info
-http://www.iana.org/assignments/media-types/application/set-payment
-http://www.iana.org/assignments/media-types/application/set-payment-initiation
-http://www.iana.org/assignments/media-types/application/set-registration
-http://www.iana.org/assignments/media-types/application/set-registration-initiation
-http://www.iana.org/assignments/media-types/application/SGML
-http://www.iana.org/assignments/media-types/application/sgml-open-catalog
-http://www.iana.org/assignments/media-types/application/shf
-http://www.iana.org/assignments/media-types/application/sieve
-http://www.iana.org/assignments/media-types/application/simple-filter
-http://www.iana.org/assignments/media-types/application/simple-message-summary
-http://www.iana.org/assignments/media-types/application/simpleSymbolContainer
-http://www.iana.org/assignments/media-types/application/slate
-http://www.iana.org/assignments/media-types/application/smil
-http://www.iana.org/assignments/media-types/application/smpte336m
-http://www.iana.org/assignments/media-types/application/soap
-http://www.iana.org/assignments/media-types/application/spirits-event
-http://www.iana.org/assignments/media-types/application/sql
-http://www.iana.org/assignments/media-types/application/srgs
-http://www.iana.org/assignments/media-types/application/sru
-http://www.iana.org/assignments/media-types/application/ssml
-http://www.iana.org/assignments/media-types/application/tamp-apex-update
-http://www.iana.org/assignments/media-types/application/tamp-apex-update-confirm
-http://www.iana.org/assignments/media-types/application/tamp-community-update
-http://www.iana.org/assignments/media-types/application/tamp-community-update-confirm
-http://www.iana.org/assignments/media-types/application/tamp-error
-http://www.iana.org/assignments/media-types/application/tamp-sequence-adjust
-http://www.iana.org/assignments/media-types/application/tamp-sequence-adjust-confirm
-http://www.iana.org/assignments/media-types/application/tamp-status-query
-http://www.iana.org/assignments/media-types/application/tamp-status-response
-http://www.iana.org/assignments/media-types/application/tamp-update
-http://www.iana.org/assignments/media-types/application/tamp-update-confirm
-http://www.iana.org/assignments/media-types/application/tei
-http://www.iana.org/assignments/media-types/application/thraud
-http://www.iana.org/assignments/media-types/application/timestamped-data
-http://www.iana.org/assignments/media-types/application/timestamp-query
-http://www.iana.org/assignments/media-types/application/timestamp-reply
-http://www.iana.org/assignments/media-types/application/ttml
-http://www.iana.org/assignments/media-types/application/tve-trigger
-http://www.iana.org/assignments/media-types/application/ulpfec
-http://www.iana.org/assignments/media-types/application/urc-grpsheet
-http://www.iana.org/assignments/media-types/application/urc-ressheet
-http://www.iana.org/assignments/media-types/application/urc-targetdesc
-http://www.iana.org/assignments/media-types/application/urc-uisocketdesc
-http://www.iana.org/assignments/media-types/application/vcard
-http://www.iana.org/assignments/media-types/application/vemmi
-http://www.iana.org/assignments/media-types/application/vnd.3gpp2.bcmcsinfo
-http://www.iana.org/assignments/media-types/application/vnd.3gpp2.sms
-http://www.iana.org/assignments/media-types/application/vnd.3gpp2.tcap
-http://www.iana.org/assignments/media-types/application/vnd.3gpp.bsf
-http://www.iana.org/assignments/media-types/application/vnd.3gpp.pic-bw-large
-http://www.iana.org/assignments/media-types/application/vnd.3gpp.pic-bw-small
-http://www.iana.org/assignments/media-types/application/vnd.3gpp.pic-bw-var
-http://www.iana.org/assignments/media-types/application/vnd.3gpp.sms
-http://www.iana.org/assignments/media-types/application/vnd.3M.Post-it-Notes
-http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.aso
-http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.imp
-http://www.iana.org/assignments/media-types/application/vnd-acucobol
-http://www.iana.org/assignments/media-types/application/vnd.acucorp
-http://www.iana.org/assignments/media-types/application/vnd.adobe.flash-movie
-http://www.iana.org/assignments/media-types/application/vnd.adobe.formscentral.fcdt
-http://www.iana.org/assignments/media-types/application/vnd.adobe.fxp
-http://www.iana.org/assignments/media-types/application/vnd.adobe.partial-upload
-http://www.iana.org/assignments/media-types/application/vnd.adobe.xdp
-http://www.iana.org/assignments/media-types/application/vnd.adobe.xfdf
-http://www.iana.org/assignments/media-types/application/vnd.aether.imp
-http://www.iana.org/assignments/media-types/application/vnd.ah-barcode
-http://www.iana.org/assignments/media-types/application/vnd.ahead.space
-http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azf
-http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azs
-http://www.iana.org/assignments/media-types/application/vnd.americandynamics.acc
-http://www.iana.org/assignments/media-types/application/vnd.amiga.ami
-http://www.iana.org/assignments/media-types/application/vnd.amundsen.maze
-http://www.iana.org/assignments/media-types/application/vnd.anser-web-certificate-issue-initiation
-http://www.iana.org/assignments/media-types/application/vnd.antix.game-component
-http://www.iana.org/assignments/media-types/application/vnd.apache.thrift.binary
-http://www.iana.org/assignments/media-types/application/vnd.api
-http://www.iana.org/assignments/media-types/application/vnd.apple.installer
-http://www.iana.org/assignments/media-types/application/vnd.apple.mpegurl
-http://www.iana.org/assignments/media-types/application/vnd.arastra.swi
-http://www.iana.org/assignments/media-types/application/vnd.aristanetworks.swi
-http://www.iana.org/assignments/media-types/application/vnd.artsquare
-http://www.iana.org/assignments/media-types/application/vnd.astraea-software.iota
-http://www.iana.org/assignments/media-types/application/vnd.audiograph
-http://www.iana.org/assignments/media-types/application/vnd.autopackage
-http://www.iana.org/assignments/media-types/application/vnd.avistar
-http://www.iana.org/assignments/media-types/application/vnd.balsamiq.bmml
-http://www.iana.org/assignments/media-types/application/vnd.bekitzur-stech
-http://www.iana.org/assignments/media-types/application/vnd.blueice.multipass
-http://www.iana.org/assignments/media-types/application/vnd.bluetooth.ep.oob
-http://www.iana.org/assignments/media-types/application/vnd.bluetooth.le.oob
-http://www.iana.org/assignments/media-types/application/vnd.bmi
-http://www.iana.org/assignments/media-types/application/vnd.businessobjects
-http://www.iana.org/assignments/media-types/application/vnd.cab-jscript
-http://www.iana.org/assignments/media-types/application/vnd.canon-cpdl
-http://www.iana.org/assignments/media-types/application/vnd.canon-lips
-http://www.iana.org/assignments/media-types/application/vnd.cendio.thinlinc.clientconf
-http://www.iana.org/assignments/media-types/application/vnd.century-systems.tcp_stream
-http://www.iana.org/assignments/media-types/application/vnd.chemdraw
-http://www.iana.org/assignments/media-types/application/vnd.chipnuts.karaoke-mmd
-http://www.iana.org/assignments/media-types/application/vnd.cinderella
-http://www.iana.org/assignments/media-types/application/vnd.cirpack.isdn-ext
-http://www.iana.org/assignments/media-types/application/vnd.claymore
-http://www.iana.org/assignments/media-types/application/vnd.cloanto.rp9
-http://www.iana.org/assignments/media-types/application/vnd.clonk.c4group
-http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config
-http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config-pkg
-http://www.iana.org/assignments/media-types/application/vnd.collection
-http://www.iana.org/assignments/media-types/application/vnd.collection.doc
-http://www.iana.org/assignments/media-types/application/vnd.collection.next
-http://www.iana.org/assignments/media-types/application/vnd.commerce-battelle
-http://www.iana.org/assignments/media-types/application/vnd.commonspace
-http://www.iana.org/assignments/media-types/application/vnd.contact.cmsg
-http://www.iana.org/assignments/media-types/application/vnd.cosmocaller
-http://www.iana.org/assignments/media-types/application/vnd.crick.clicker
-http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.keyboard
-http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.palette
-http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.template
-http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.wordbank
-http://www.iana.org/assignments/media-types/application/vnd.criticaltools.wbs
-http://www.iana.org/assignments/media-types/application/vnd.ctc-posml
-http://www.iana.org/assignments/media-types/application/vnd.ctct.ws
-http://www.iana.org/assignments/media-types/application/vnd.cups-pdf
-http://www.iana.org/assignments/media-types/application/vnd.cups-postscript
-http://www.iana.org/assignments/media-types/application/vnd.cups-ppd
-http://www.iana.org/assignments/media-types/application/vnd.cups-raster
-http://www.iana.org/assignments/media-types/application/vnd.cups-raw
-http://www.iana.org/assignments/media-types/application/vnd-curl
-http://www.iana.org/assignments/media-types/application/vnd.cyan.dean.root
-http://www.iana.org/assignments/media-types/application/vnd.cybank
-http://www.iana.org/assignments/media-types/application/vnd-dart
-http://www.iana.org/assignments/media-types/application/vnd.data-vision.rdz
-http://www.iana.org/assignments/media-types/application/vnd.debian.binary-package
-http://www.iana.org/assignments/media-types/application/vnd.dece.data
-http://www.iana.org/assignments/media-types/application/vnd.dece.ttml
-http://www.iana.org/assignments/media-types/application/vnd.dece.unspecified
-http://www.iana.org/assignments/media-types/application/vnd.dece-zip
-http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link
-http://www.iana.org/assignments/media-types/application/vnd.desmume-movie
-http://www.iana.org/assignments/media-types/application/vnd.dir-bi.plate-dl-nosuffix
-http://www.iana.org/assignments/media-types/application/vnd.dm.delegation
-http://www.iana.org/assignments/media-types/application/vnd.dna
-http://www.iana.org/assignments/media-types/application/vnd.document
-http://www.iana.org/assignments/media-types/application/vnd.dolby.mobile.1
-http://www.iana.org/assignments/media-types/application/vnd.dolby.mobile.2
-http://www.iana.org/assignments/media-types/application/vnd.doremir.scorecloud-binary-document
-http://www.iana.org/assignments/media-types/application/vnd.dpgraph
-http://www.iana.org/assignments/media-types/application/vnd.dreamfactory
-http://www.iana.org/assignments/media-types/application/vnd.dtg.local
-http://www.iana.org/assignments/media-types/application/vnd.dtg.local.flash
-http://www.iana.org/assignments/media-types/application/vnd.dtg.local.html
-http://www.iana.org/assignments/media-types/application/vnd.dvb.ait
-http://www.iana.org/assignments/media-types/application/vnd.dvb.dvbj
-http://www.iana.org/assignments/media-types/application/vnd.dvb.esgcontainer
-http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcdftnotifaccess
-http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcesgaccess
-http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcesgaccess2
-http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcesgpdd
-http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcroaming
-http://www.iana.org/assignments/media-types/application/vnd.dvb.iptv.alfec-base
-http://www.iana.org/assignments/media-types/application/vnd.dvb.iptv.alfec-enhancement
-http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-aggregate-root
-http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-container
-http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-generic
-http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-ia-msglist
-http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-ia-registration-request
-http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-ia-registration-response
-http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-init
-http://www.iana.org/assignments/media-types/application/vnd.dvb.pfr
-http://www.iana.org/assignments/media-types/application/vnd.dvb_service
-http://www.iana.org/assignments/media-types/application/vnd-dxr
-http://www.iana.org/assignments/media-types/application/vnd.dynageo
-http://www.iana.org/assignments/media-types/application/vnd.dzr
-http://www.iana.org/assignments/media-types/application/vnd.easykaraoke.cdgdownload
-http://www.iana.org/assignments/media-types/application/vnd.ecdis-update
-http://www.iana.org/assignments/media-types/application/vnd.ecowin.chart
-http://www.iana.org/assignments/media-types/application/vnd.ecowin.filerequest
-http://www.iana.org/assignments/media-types/application/vnd.ecowin.fileupdate
-http://www.iana.org/assignments/media-types/application/vnd.ecowin.series
-http://www.iana.org/assignments/media-types/application/vnd.ecowin.seriesrequest
-http://www.iana.org/assignments/media-types/application/vnd.ecowin.seriesupdate
-http://www.iana.org/assignments/media-types/application/vnd.emclient.accessrequest
-http://www.iana.org/assignments/media-types/application/vnd.enliven
-http://www.iana.org/assignments/media-types/application/vnd.eprints.data
-http://www.iana.org/assignments/media-types/application/vnd.epson.esf
-http://www.iana.org/assignments/media-types/application/vnd.epson.msf
-http://www.iana.org/assignments/media-types/application/vnd.epson.quickanime
-http://www.iana.org/assignments/media-types/application/vnd.epson.salt
-http://www.iana.org/assignments/media-types/application/vnd.epson.ssf
-http://www.iana.org/assignments/media-types/application/vnd.ericsson.quickcall
-http://www.iana.org/assignments/media-types/application/vnd.eszigno3
-http://www.iana.org/assignments/media-types/application/vnd.etsi.aoc
-http://www.iana.org/assignments/media-types/application/vnd.etsi.asic-e
-http://www.iana.org/assignments/media-types/application/vnd.etsi.asic-s
-http://www.iana.org/assignments/media-types/application/vnd.etsi.cug
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvcommand
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvdiscovery
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvprofile
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsad-bc
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsad-cod
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsad-npvr
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvservice
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsync
-http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvueprofile
-http://www.iana.org/assignments/media-types/application/vnd.etsi.mcid
-http://www.iana.org/assignments/media-types/application/vnd.etsi.mheg5
-http://www.iana.org/assignments/media-types/application/vnd.etsi.overload-control-policy-dataset
-http://www.iana.org/assignments/media-types/application/vnd.etsi.pstn
-http://www.iana.org/assignments/media-types/application/vnd.etsi.sci
-http://www.iana.org/assignments/media-types/application/vnd.etsi.simservs
-http://www.iana.org/assignments/media-types/application/vnd.etsi.timestamp-token
-http://www.iana.org/assignments/media-types/application/vnd.etsi.tsl
-http://www.iana.org/assignments/media-types/application/vnd.etsi.tsl.der
-http://www.iana.org/assignments/media-types/application/vnd.eudora.data
-http://www.iana.org/assignments/media-types/application/vnd.ezpix-album
-http://www.iana.org/assignments/media-types/application/vnd.ezpix-package
-http://www.iana.org/assignments/media-types/application/vnd-fdf
-http://www.iana.org/assignments/media-types/application/vnd.fdsn.mseed
-http://www.iana.org/assignments/media-types/application/vnd.fdsn.seed
-http://www.iana.org/assignments/media-types/application/vnd.ffsns
-http://www.iana.org/assignments/media-types/application/vnd.fints
-http://www.iana.org/assignments/media-types/application/vnd.FloGraphIt
-http://www.iana.org/assignments/media-types/application/vnd.fluxtime.clip
-http://www.iana.org/assignments/media-types/application/vnd.font-fontforge-sfd
-http://www.iana.org/assignments/media-types/application/vnd.framemaker
-http://www.iana.org/assignments/media-types/application/vnd.frogans.fnc
-http://www.iana.org/assignments/media-types/application/vnd.frogans.ltf
-http://www.iana.org/assignments/media-types/application/vnd.fsc.weblaunch
-http://www.iana.org/assignments/media-types/application/vnd.f-secure.mobile
-http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys
-http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys2
-http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys3
-http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysgp
-http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysprs
-http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ART4
-http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ART-EX
-http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ddd
-http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks
-http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks.binder
-http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks.container
-http://www.iana.org/assignments/media-types/application/vnd.fujixerox.HBPL
-http://www.iana.org/assignments/media-types/application/vnd.fut-misnet
-http://www.iana.org/assignments/media-types/application/vnd.fuzzysheet
-http://www.iana.org/assignments/media-types/application/vnd.genomatix.tuxedo
-http://www.iana.org/assignments/media-types/application/vnd.geo
-http://www.iana.org/assignments/media-types/application/vnd.geocube
-http://www.iana.org/assignments/media-types/application/vnd.geogebra.file
-http://www.iana.org/assignments/media-types/application/vnd.geogebra.tool
-http://www.iana.org/assignments/media-types/application/vnd.geometry-explorer
-http://www.iana.org/assignments/media-types/application/vnd.geonext
-http://www.iana.org/assignments/media-types/application/vnd.geoplan
-http://www.iana.org/assignments/media-types/application/vnd.geospace
-http://www.iana.org/assignments/media-types/application/vnd.globalplatform.card-content-mgt
-http://www.iana.org/assignments/media-types/application/vnd.globalplatform.card-content-mgt-response
-http://www.iana.org/assignments/media-types/application/vnd.gmx
-http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml
-http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz
-http://www.iana.org/assignments/media-types/application/vnd.grafeq
-http://www.iana.org/assignments/media-types/application/vnd.gridmp
-http://www.iana.org/assignments/media-types/application/vnd.groove-account
-http://www.iana.org/assignments/media-types/application/vnd.groove-help
-http://www.iana.org/assignments/media-types/application/vnd.groove-identity-message
-http://www.iana.org/assignments/media-types/application/vnd.groove-injector
-http://www.iana.org/assignments/media-types/application/vnd.groove-tool-message
-http://www.iana.org/assignments/media-types/application/vnd.groove-tool-template
-http://www.iana.org/assignments/media-types/application/vnd.groove-vcard
-http://www.iana.org/assignments/media-types/application/vnd.hal
-http://www.iana.org/assignments/media-types/application/vnd.HandHeld-Entertainment
-http://www.iana.org/assignments/media-types/application/vnd.hbci
-http://www.iana.org/assignments/media-types/application/vnd.hcl-bireports
-http://www.iana.org/assignments/media-types/application/vnd.heroku
-http://www.iana.org/assignments/media-types/application/vnd.hhe.lesson-player
-http://www.iana.org/assignments/media-types/application/vnd.hp-HPGL
-http://www.iana.org/assignments/media-types/application/vnd.hp-hpid
-http://www.iana.org/assignments/media-types/application/vnd.hp-hps
-http://www.iana.org/assignments/media-types/application/vnd.hp-jlyt
-http://www.iana.org/assignments/media-types/application/vnd.hp-PCL
-http://www.iana.org/assignments/media-types/application/vnd.hp-PCLXL
-http://www.iana.org/assignments/media-types/application/vnd.httphone
-http://www.iana.org/assignments/media-types/application/vnd.hydrostatix.sof-data
-http://www.iana.org/assignments/media-types/application/vnd.hzn-3d-crossword
-http://www.iana.org/assignments/media-types/application/vnd.ibm.afplinedata
-http://www.iana.org/assignments/media-types/application/vnd.ibm.electronic-media
-http://www.iana.org/assignments/media-types/application/vnd.ibm.MiniPay
-http://www.iana.org/assignments/media-types/application/vnd.ibm.modcap
-http://www.iana.org/assignments/media-types/application/vnd.ibm.rights-management
-http://www.iana.org/assignments/media-types/application/vnd.ibm.secure-container
-http://www.iana.org/assignments/media-types/application/vnd.iccprofile
-http://www.iana.org/assignments/media-types/application/vnd.ieee.1905
-http://www.iana.org/assignments/media-types/application/vnd.igloader
-http://www.iana.org/assignments/media-types/application/vnd.immervision-ivp
-http://www.iana.org/assignments/media-types/application/vnd.immervision-ivu
-http://www.iana.org/assignments/media-types/application/vnd.ims.lis.v2.result
-http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolconsumerprofile
-http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolproxy
-http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolproxy.id
-http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolsettings
-http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolsettings.simple
-http://www.iana.org/assignments/media-types/application/vnd.informedcontrol.rms
-http://www.iana.org/assignments/media-types/application/vnd.informix-visionary
-http://www.iana.org/assignments/media-types/application/vnd.infotech.project
-http://www.iana.org/assignments/media-types/application/vnd.innopath.wamp.notification
-http://www.iana.org/assignments/media-types/application/vnd.insors.igm
-http://www.iana.org/assignments/media-types/application/vnd.intercon.formnet
-http://www.iana.org/assignments/media-types/application/vnd.intergeo
-http://www.iana.org/assignments/media-types/application/vnd.intertrust.digibox
-http://www.iana.org/assignments/media-types/application/vnd.intertrust.nncp
-http://www.iana.org/assignments/media-types/application/vnd.intu.qbo
-http://www.iana.org/assignments/media-types/application/vnd.intu.qfx
-http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.catalogitem
-http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.conceptitem
-http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.knowledgeitem
-http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.newsitem
-http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.newsmessage
-http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.packageitem
-http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.planningitem
-http://www.iana.org/assignments/media-types/application/vnd.ipunplugged.rcprofile
-http://www.iana.org/assignments/media-types/application/vnd.irepository.package
-http://www.iana.org/assignments/media-types/application/vnd.isac.fcs
-http://www.iana.org/assignments/media-types/application/vnd.is-xpr
-http://www.iana.org/assignments/media-types/application/vnd.jam
-http://www.iana.org/assignments/media-types/application/vnd.japannet-directory-service
-http://www.iana.org/assignments/media-types/application/vnd.japannet-jpnstore-wakeup
-http://www.iana.org/assignments/media-types/application/vnd.japannet-payment-wakeup
-http://www.iana.org/assignments/media-types/application/vnd.japannet-registration
-http://www.iana.org/assignments/media-types/application/vnd.japannet-registration-wakeup
-http://www.iana.org/assignments/media-types/application/vnd.japannet-setstore-wakeup
-http://www.iana.org/assignments/media-types/application/vnd.japannet-verification
-http://www.iana.org/assignments/media-types/application/vnd.japannet-verification-wakeup
-http://www.iana.org/assignments/media-types/application/vnd.jcp.javame.midlet-rms
-http://www.iana.org/assignments/media-types/application/vnd.jisp
-http://www.iana.org/assignments/media-types/application/vnd.joost.joda-archive
-http://www.iana.org/assignments/media-types/application/vnd.jsk.isdn-ngn
-http://www.iana.org/assignments/media-types/application/vnd.kahootz
-http://www.iana.org/assignments/media-types/application/vnd.kde.karbon
-http://www.iana.org/assignments/media-types/application/vnd.kde.kchart
-http://www.iana.org/assignments/media-types/application/vnd.kde.kformula
-http://www.iana.org/assignments/media-types/application/vnd.kde.kivio
-http://www.iana.org/assignments/media-types/application/vnd.kde.kontour
-http://www.iana.org/assignments/media-types/application/vnd.kde.kpresenter
-http://www.iana.org/assignments/media-types/application/vnd.kde.kspread
-http://www.iana.org/assignments/media-types/application/vnd.kde.kword
-http://www.iana.org/assignments/media-types/application/vnd.kenameaapp
-http://www.iana.org/assignments/media-types/application/vnd.kidspiration
-http://www.iana.org/assignments/media-types/application/vnd.Kinar
-http://www.iana.org/assignments/media-types/application/vnd.koan
-http://www.iana.org/assignments/media-types/application/vnd.kodak-descriptor
-http://www.iana.org/assignments/media-types/application/vnd.las.las
-http://www.iana.org/assignments/media-types/application/vnd.liberty-request
-http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.desktop
-http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.exchange
-http://www.iana.org/assignments/media-types/application/vnd.lotus-1-2-3
-http://www.iana.org/assignments/media-types/application/vnd.lotus-approach
-http://www.iana.org/assignments/media-types/application/vnd.lotus-freelance
-http://www.iana.org/assignments/media-types/application/vnd.lotus-notes
-http://www.iana.org/assignments/media-types/application/vnd.lotus-organizer
-http://www.iana.org/assignments/media-types/application/vnd.lotus-screencam
-http://www.iana.org/assignments/media-types/application/vnd.lotus-wordpro
-http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg
-http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.actiontoken
-http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.conftoken
-http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.license
-http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.mdcf
-http://www.iana.org/assignments/media-types/application/vnd.mason
-http://www.iana.org/assignments/media-types/application/vnd.maxmind.maxmind-db
-http://www.iana.org/assignments/media-types/application/vnd.mcd
-http://www.iana.org/assignments/media-types/application/vnd.medcalcdata
-http://www.iana.org/assignments/media-types/application/vnd.mediastation.cdkey
-http://www.iana.org/assignments/media-types/application/vnd.meridian-slingshot
-http://www.iana.org/assignments/media-types/application/vnd.MFER
-http://www.iana.org/assignments/media-types/application/vnd.mfmp
-http://www.iana.org/assignments/media-types/application/vnd.micrografx.flo
-http://www.iana.org/assignments/media-types/application/vnd.micrografx-igx
-http://www.iana.org/assignments/media-types/application/vnd.miele
-http://www.iana.org/assignments/media-types/application/vnd-mif
-http://www.iana.org/assignments/media-types/application/vnd.minisoft-hp3000-save
-http://www.iana.org/assignments/media-types/application/vnd.mitsubishi.misty-guard.trustweb
-http://www.iana.org/assignments/media-types/application/vnd.Mobius.DAF
-http://www.iana.org/assignments/media-types/application/vnd.Mobius.DIS
-http://www.iana.org/assignments/media-types/application/vnd.Mobius.MBK
-http://www.iana.org/assignments/media-types/application/vnd.Mobius.MQY
-http://www.iana.org/assignments/media-types/application/vnd.Mobius.MSL
-http://www.iana.org/assignments/media-types/application/vnd.Mobius.PLC
-http://www.iana.org/assignments/media-types/application/vnd.Mobius.TXF
-http://www.iana.org/assignments/media-types/application/vnd.mophun.application
-http://www.iana.org/assignments/media-types/application/vnd.mophun.certificate
-http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite
-http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.adsi
-http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.fis
-http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.gotap
-http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.kmr
-http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.ttc
-http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.wem
-http://www.iana.org/assignments/media-types/application/vnd.motorola.iprm
-http://www.iana.org/assignments/media-types/application/vnd.mozilla.xul
-http://www.iana.org/assignments/media-types/application/vnd.ms-3mfdocument
-http://www.iana.org/assignments/media-types/application/vnd.ms-artgalry
-http://www.iana.org/assignments/media-types/application/vnd.ms-asf
-http://www.iana.org/assignments/media-types/application/vnd.ms-cab-compressed
-http://www.iana.org/assignments/media-types/application/vnd.mseq
-http://www.iana.org/assignments/media-types/application/vnd.ms-excel
-http://www.iana.org/assignments/media-types/application/vnd.ms-excel.addin.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.binary.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-excel.template.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-fontobject
-http://www.iana.org/assignments/media-types/application/vnd.ms-htmlhelp
-http://www.iana.org/assignments/media-types/application/vnd.msign
-http://www.iana.org/assignments/media-types/application/vnd.ms-ims
-http://www.iana.org/assignments/media-types/application/vnd.ms-lrm
-http://www.iana.org/assignments/media-types/application/vnd.ms-office.activeX
-http://www.iana.org/assignments/media-types/application/vnd.ms-officetheme
-http://www.iana.org/assignments/media-types/application/vnd.ms-playready.initiator
-http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint
-http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.addin.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.presentation.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slide.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slideshow.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.template.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-project
-http://www.iana.org/assignments/media-types/application/vnd.ms-tnef
-http://www.iana.org/assignments/media-types/application/vnd.ms-windows.printerpairing
-http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.lic-chlg-req
-http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.lic-resp
-http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.meter-chlg-req
-http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.meter-resp
-http://www.iana.org/assignments/media-types/application/vnd.ms-word.document.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-word.template.macroEnabled.12
-http://www.iana.org/assignments/media-types/application/vnd.ms-works
-http://www.iana.org/assignments/media-types/application/vnd.ms-wpl
-http://www.iana.org/assignments/media-types/application/vnd.ms-xpsdocument
-http://www.iana.org/assignments/media-types/application/vnd.multiad.creator
-http://www.iana.org/assignments/media-types/application/vnd.multiad.creator.cif
-http://www.iana.org/assignments/media-types/application/vnd.musician
-http://www.iana.org/assignments/media-types/application/vnd.music-niff
-http://www.iana.org/assignments/media-types/application/vnd.muvee.style
-http://www.iana.org/assignments/media-types/application/vnd.mynfc
-http://www.iana.org/assignments/media-types/application/vnd.ncd.control
-http://www.iana.org/assignments/media-types/application/vnd.ncd.reference
-http://www.iana.org/assignments/media-types/application/vnd.nervana
-http://www.iana.org/assignments/media-types/application/vnd.netfpx
-http://www.iana.org/assignments/media-types/application/vnd.neurolanguage.nlu
-http://www.iana.org/assignments/media-types/application/vnd.nintendo.nitro.rom
-http://www.iana.org/assignments/media-types/application/vnd.nintendo.snes.rom
-http://www.iana.org/assignments/media-types/application/vnd.nitf
-http://www.iana.org/assignments/media-types/application/vnd.noblenet-directory
-http://www.iana.org/assignments/media-types/application/vnd.noblenet-sealer
-http://www.iana.org/assignments/media-types/application/vnd.noblenet-web
-http://www.iana.org/assignments/media-types/application/vnd.nokia.catalogs
-http://www.iana.org/assignments/media-types/application/vnd.nokia.conml
-http://www.iana.org/assignments/media-types/application/vnd.nokia.iptv.config
-http://www.iana.org/assignments/media-types/application/vnd.nokia.iSDS-radio-presets
-http://www.iana.org/assignments/media-types/application/vnd.nokia.landmark
-http://www.iana.org/assignments/media-types/application/vnd.nokia.landmarkcollection
-http://www.iana.org/assignments/media-types/application/vnd.nokia.ncd
-http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.ac
-http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.data
-http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.symbian.install
-http://www.iana.org/assignments/media-types/application/vnd.nokia.pcd
-http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-preset
-http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-presets
-http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDM
-http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDX
-http://www.iana.org/assignments/media-types/application/vnd.novadigm.EXT
-http://www.iana.org/assignments/media-types/application/vnd.ntt-local.content-share
-http://www.iana.org/assignments/media-types/application/vnd.ntt-local.file-transfer
-http://www.iana.org/assignments/media-types/application/vnd.ntt-local.ogw_remote-access
-http://www.iana.org/assignments/media-types/application/vnd.ntt-local.sip-ta_remote
-http://www.iana.org/assignments/media-types/application/vnd.ntt-local.sip-ta_tcp_stream
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart-template
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.database
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula-template
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics-template
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image-template
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation-template
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet-template
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-master
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-template
-http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-web
-http://www.iana.org/assignments/media-types/application/vnd.obn
-http://www.iana.org/assignments/media-types/application/vnd.oftn.l10n
-http://www.iana.org/assignments/media-types/application/vnd.oipf.contentaccessdownload
-http://www.iana.org/assignments/media-types/application/vnd.oipf.contentaccessstreaming
-http://www.iana.org/assignments/media-types/application/vnd.oipf.cspg-hexbinary
-http://www.iana.org/assignments/media-types/application/vnd.oipf.dae.svg
-http://www.iana.org/assignments/media-types/application/vnd.oipf.dae.xhtml
-http://www.iana.org/assignments/media-types/application/vnd.oipf.mippvcontrolmessage
-http://www.iana.org/assignments/media-types/application/vnd.oipf.pae.gem
-http://www.iana.org/assignments/media-types/application/vnd.oipf.spdiscovery
-http://www.iana.org/assignments/media-types/application/vnd.oipf.spdlist
-http://www.iana.org/assignments/media-types/application/vnd.oipf.ueprofile
-http://www.iana.org/assignments/media-types/application/vnd.oipf.userprofile
-http://www.iana.org/assignments/media-types/application/vnd.olpc-sugar
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.associated-procedure-parameter
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.drm-trigger
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.imd
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.ltkm
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.notification
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.provisioningtrigger
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sgboot
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sgdd
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sgdu
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.simple-symbol-container
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.smartcard-trigger
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sprov
-http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.stkm
-http://www.iana.org/assignments/media-types/application/vnd.oma.cab-address-book
-http://www.iana.org/assignments/media-types/application/vnd.oma.cab-feature-handler
-http://www.iana.org/assignments/media-types/application/vnd.oma.cab-pcc
-http://www.iana.org/assignments/media-types/application/vnd.oma.cab-subs-invite
-http://www.iana.org/assignments/media-types/application/vnd.oma.cab-user-prefs
-http://www.iana.org/assignments/media-types/application/vnd.oma.dcd
-http://www.iana.org/assignments/media-types/application/vnd.oma.dcdc
-http://www.iana.org/assignments/media-types/application/vnd.oma.dd2
-http://www.iana.org/assignments/media-types/application/vnd.oma.drm.risd
-http://www.iana.org/assignments/media-types/application/vnd.omads-email
-http://www.iana.org/assignments/media-types/application/vnd.omads-file
-http://www.iana.org/assignments/media-types/application/vnd.omads-folder
-http://www.iana.org/assignments/media-types/application/vnd.oma.group-usage-list
-http://www.iana.org/assignments/media-types/application/vnd.omaloc-supl-init
-http://www.iana.org/assignments/media-types/application/vnd.oma.pal
-http://www.iana.org/assignments/media-types/application/vnd.oma.poc.detailed-progress-report
-http://www.iana.org/assignments/media-types/application/vnd.oma.poc.final-report
-http://www.iana.org/assignments/media-types/application/vnd.oma.poc.groups
-http://www.iana.org/assignments/media-types/application/vnd.oma.poc.invocation-descriptor
-http://www.iana.org/assignments/media-types/application/vnd.oma.poc.optimized-progress-report
-http://www.iana.org/assignments/media-types/application/vnd.oma.push
-http://www.iana.org/assignments/media-types/application/vnd.oma.scidm.messages
-http://www.iana.org/assignments/media-types/application/vnd.oma-scws-config
-http://www.iana.org/assignments/media-types/application/vnd.oma-scws-http-request
-http://www.iana.org/assignments/media-types/application/vnd.oma-scws-http-response
-http://www.iana.org/assignments/media-types/application/vnd.oma.xcap-directory
-http://www.iana.org/assignments/media-types/application/vnd.openeye.oeb
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.custom-properties
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.customXmlProperties
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawing
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.chart
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.chartshapes
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramColors
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramData
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramLayout
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramStyle
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.extended-properties
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.commentAuthors
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.comments
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.handoutMaster
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.notesMaster
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.notesSlide
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presentation
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presentation.main
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presProps
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slide
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideLayout
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideMaster
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideshow
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideshow.main
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.tableStyles
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.tags
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml-template
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.template.main
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.viewProps
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.comments
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.connections
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.externalLink
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.pivotTable
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.queryTable
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.revisionLog
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.styles
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.table
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml-template
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.template.main
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.userNames
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.theme
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.themeOverride
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.vmlDrawing
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.comments
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document.main
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.footer
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.numbering
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.settings
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.styles
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml-template
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.template.main
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-package.core-properties
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-package.digital-signature-xmlsignature
-http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-package.relationships
-http://www.iana.org/assignments/media-types/application/vnd.orange.indata
-http://www.iana.org/assignments/media-types/application/vnd.osa.netdeploy
-http://www.iana.org/assignments/media-types/application/vnd.osgeo.mapguide.package
-http://www.iana.org/assignments/media-types/application/vnd.osgi.bundle
-http://www.iana.org/assignments/media-types/application/vnd.osgi.dp
-http://www.iana.org/assignments/media-types/application/vnd.osgi.subsystem
-http://www.iana.org/assignments/media-types/application/vnd.otps.ct-kip
-http://www.iana.org/assignments/media-types/application/vnd.palm
-http://www.iana.org/assignments/media-types/application/vnd.panoply
-http://www.iana.org/assignments/media-types/application/vnd.paos
-http://www.iana.org/assignments/media-types/application/vnd.pawaafile
-http://www.iana.org/assignments/media-types/application/vnd.pcos
-http://www.iana.org/assignments/media-types/application/vnd.pg.format
-http://www.iana.org/assignments/media-types/application/vnd.pg.osasli
-http://www.iana.org/assignments/media-types/application/vnd.piaccess.application-licence
-http://www.iana.org/assignments/media-types/application/vnd.picsel
-http://www.iana.org/assignments/media-types/application/vnd.pmi.widget
-http://www.iana.org/assignments/media-types/application/vnd.poc.group-advertisement
-http://www.iana.org/assignments/media-types/application/vnd.pocketlearn
-http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6
-http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6-s
-http://www.iana.org/assignments/media-types/application/vnd.powerbuilder7
-http://www.iana.org/assignments/media-types/application/vnd.powerbuilder75
-http://www.iana.org/assignments/media-types/application/vnd.powerbuilder75-s
-http://www.iana.org/assignments/media-types/application/vnd.powerbuilder7-s
-http://www.iana.org/assignments/media-types/application/vnd.preminet
-http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box
-http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine
-http://www.iana.org/assignments/media-types/application/vnd.publishare-delta-tree
-http://www.iana.org/assignments/media-types/application/vnd.pvi.ptid1
-http://www.iana.org/assignments/media-types/application/vnd.pwg-xhtml-print
-http://www.iana.org/assignments/media-types/application/vnd.qualcomm.brew-app-res
-http://www.iana.org/assignments/media-types/application/vnd.Quark.QuarkXPress
-http://www.iana.org/assignments/media-types/application/vnd.quobject-quoxdocument
-http://www.iana.org/assignments/media-types/application/vnd.radisys.moml
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-conf
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-conn
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-dialog
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-stream
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-conf
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-base
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-fax-detect
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-fax-sendrecv
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-group
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-speech
-http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-transform
-http://www.iana.org/assignments/media-types/application/vnd.rainstor.data
-http://www.iana.org/assignments/media-types/application/vnd.rapid
-http://www.iana.org/assignments/media-types/application/vnd.realvnc.bed
-http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml
-http://www.iana.org/assignments/media-types/application/vnd.renlearn.rlprint
-http://www.iana.org/assignments/media-types/application/vnd.rig.cryptonote
-http://www.iana.org/assignments/media-types/application/vnd.route66.link66
-http://www.iana.org/assignments/media-types/application/vnd.rs-274x
-http://www.iana.org/assignments/media-types/application/vnd.ruckus.download
-http://www.iana.org/assignments/media-types/application/vnd.s3sms
-http://www.iana.org/assignments/media-types/application/vnd.sailingtracker.track
-http://www.iana.org/assignments/media-types/application/vnd.sbm.cid
-http://www.iana.org/assignments/media-types/application/vnd.sbm.mid2
-http://www.iana.org/assignments/media-types/application/vnd.scribus
-http://www.iana.org/assignments/media-types/application/vnd.sealed.3df
-http://www.iana.org/assignments/media-types/application/vnd.sealed.csf
-http://www.iana.org/assignments/media-types/application/vnd.sealed-doc
-http://www.iana.org/assignments/media-types/application/vnd.sealed-eml
-http://www.iana.org/assignments/media-types/application/vnd.sealedmedia.softseal-html
-http://www.iana.org/assignments/media-types/application/vnd.sealedmedia.softseal-pdf
-http://www.iana.org/assignments/media-types/application/vnd.sealed-mht
-http://www.iana.org/assignments/media-types/application/vnd.sealed.net
-http://www.iana.org/assignments/media-types/application/vnd.sealed-ppt
-http://www.iana.org/assignments/media-types/application/vnd.sealed-tiff
-http://www.iana.org/assignments/media-types/application/vnd.sealed-xls
-http://www.iana.org/assignments/media-types/application/vnd.seemail
-http://www.iana.org/assignments/media-types/application/vnd-sema
-http://www.iana.org/assignments/media-types/application/vnd.semd
-http://www.iana.org/assignments/media-types/application/vnd.semf
-http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formdata
-http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formtemplate
-http://www.iana.org/assignments/media-types/application/vnd.shana.informed.interchange
-http://www.iana.org/assignments/media-types/application/vnd.shana.informed.package
-http://www.iana.org/assignments/media-types/application/vnd.SimTech-MindMapper
-http://www.iana.org/assignments/media-types/application/vnd.siren
-http://www.iana.org/assignments/media-types/application/vnd.smaf
-http://www.iana.org/assignments/media-types/application/vnd.smart.notebook
-http://www.iana.org/assignments/media-types/application/vnd.smart.teacher
-http://www.iana.org/assignments/media-types/application/vnd.software602.filler.form
-http://www.iana.org/assignments/media-types/application/vnd.software602.filler.form-xml-zip
-http://www.iana.org/assignments/media-types/application/vnd.solent.sdkm
-http://www.iana.org/assignments/media-types/application/vnd.spotfire.dxp
-http://www.iana.org/assignments/media-types/application/vnd.spotfire.sfs
-http://www.iana.org/assignments/media-types/application/vnd.sss-cod
-http://www.iana.org/assignments/media-types/application/vnd.sss-dtf
-http://www.iana.org/assignments/media-types/application/vnd.sss-ntf
-http://www.iana.org/assignments/media-types/application/vnd.stepmania.package
-http://www.iana.org/assignments/media-types/application/vnd.stepmania.stepchart
-http://www.iana.org/assignments/media-types/application/vnd.street-stream
-http://www.iana.org/assignments/media-types/application/vnd.sun.wadl
-http://www.iana.org/assignments/media-types/application/vnd.sus-calendar
-http://www.iana.org/assignments/media-types/application/vnd.svd
-http://www.iana.org/assignments/media-types/application/vnd.swiftview-ics
-http://www.iana.org/assignments/media-types/application/vnd.syncml
-http://www.iana.org/assignments/media-types/application/vnd.syncml.dm
-http://www.iana.org/assignments/media-types/application/vnd.syncml.dmddf
-http://www.iana.org/assignments/media-types/application/vnd.syncml.dm.notification
-http://www.iana.org/assignments/media-types/application/vnd.syncml.dmtnds
-http://www.iana.org/assignments/media-types/application/vnd.syncml.ds.notification
-http://www.iana.org/assignments/media-types/application/vnd.tao.intent-module-archive
-http://www.iana.org/assignments/media-types/application/vnd.tcpdump.pcap
-http://www.iana.org/assignments/media-types/application/vnd.tmobile-livetv
-http://www.iana.org/assignments/media-types/application/vnd.trid.tpt
-http://www.iana.org/assignments/media-types/application/vnd.triscape.mxs
-http://www.iana.org/assignments/media-types/application/vnd.trueapp
-http://www.iana.org/assignments/media-types/application/vnd.truedoc
-http://www.iana.org/assignments/media-types/application/vnd.ubisoft.webplayer
-http://www.iana.org/assignments/media-types/application/vnd.ufdl
-http://www.iana.org/assignments/media-types/application/vnd.uiq.theme
-http://www.iana.org/assignments/media-types/application/vnd.umajin
-http://www.iana.org/assignments/media-types/application/vnd.unity
-http://www.iana.org/assignments/media-types/application/vnd.uoml
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.alert
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.alert-wbxml
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.bearer-choice
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.bearer-choice-wbxml
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.cacheop
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.cacheop-wbxml
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.channel
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.channel-wbxml
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.list
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.listcmd
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.listcmd-wbxml
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.list-wbxml
-http://www.iana.org/assignments/media-types/application/vnd.uplanet.signal
-http://www.iana.org/assignments/media-types/application/vnd.valve.source.material
-http://www.iana.org/assignments/media-types/application/vnd.vcx
-http://www.iana.org/assignments/media-types/application/vnd.vd-study
-http://www.iana.org/assignments/media-types/application/vnd.vectorworks
-http://www.iana.org/assignments/media-types/application/vnd.verimatrix.vcas
-http://www.iana.org/assignments/media-types/application/vnd.vidsoft.vidconference
-http://www.iana.org/assignments/media-types/application/vnd.visio
-http://www.iana.org/assignments/media-types/application/vnd.visionary
-http://www.iana.org/assignments/media-types/application/vnd.vividence.scriptfile
-http://www.iana.org/assignments/media-types/application/vnd.vsf
-http://www.iana.org/assignments/media-types/application/vnd.wap.sic
-http://www.iana.org/assignments/media-types/application/vnd.wap-slc
-http://www.iana.org/assignments/media-types/application/vnd.wap-wbxml
-http://www.iana.org/assignments/media-types/application/vnd-wap-wmlc
-http://www.iana.org/assignments/media-types/application/vnd.wap.wmlscriptc
-http://www.iana.org/assignments/media-types/application/vnd.webturbo
-http://www.iana.org/assignments/media-types/application/vnd.wfa.p2p
-http://www.iana.org/assignments/media-types/application/vnd.wfa.wsc
-http://www.iana.org/assignments/media-types/application/vnd.windows.devicepairing
-http://www.iana.org/assignments/media-types/application/vnd.wmc
-http://www.iana.org/assignments/media-types/application/vnd.wmf.bootstrap
-http://www.iana.org/assignments/media-types/application/vnd.wolfram.mathematica
-http://www.iana.org/assignments/media-types/application/vnd.wolfram.mathematica.package
-http://www.iana.org/assignments/media-types/application/vnd.wolfram.player
-http://www.iana.org/assignments/media-types/application/vnd.wordperfect
-http://www.iana.org/assignments/media-types/application/vnd.wqd
-http://www.iana.org/assignments/media-types/application/vnd.wrq-hp3000-labelled
-http://www.iana.org/assignments/media-types/application/vnd.wt.stf
-http://www.iana.org/assignments/media-types/application/vnd.wv.csp
-http://www.iana.org/assignments/media-types/application/vnd.wv.ssp
-http://www.iana.org/assignments/media-types/application/vnd.xacml
-http://www.iana.org/assignments/media-types/application/vnd.xara
-http://www.iana.org/assignments/media-types/application/vnd.xfdl
-http://www.iana.org/assignments/media-types/application/vnd.xfdl.webform
-http://www.iana.org/assignments/media-types/application/vnd.xmi
-http://www.iana.org/assignments/media-types/application/vnd.xmpie.cpkg
-http://www.iana.org/assignments/media-types/application/vnd.xmpie.dpkg
-http://www.iana.org/assignments/media-types/application/vnd.xmpie.plan
-http://www.iana.org/assignments/media-types/application/vnd.xmpie.ppkg
-http://www.iana.org/assignments/media-types/application/vnd.xmpie.xlim
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-dic
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-script
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-voice
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat.osfpvg
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.remote-setup
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-audio
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-phrase
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.through-ngn
-http://www.iana.org/assignments/media-types/application/vnd.yamaha.tunnel-udpencap
-http://www.iana.org/assignments/media-types/application/vnd.yaoweme
-http://www.iana.org/assignments/media-types/application/vnd.yellowriver-custom-menu
-http://www.iana.org/assignments/media-types/application/vnd.zul
-http://www.iana.org/assignments/media-types/application/vnd.zzazz.deck
-http://www.iana.org/assignments/media-types/application/voicexml
-http://www.iana.org/assignments/media-types/application/vq-rtcpxr
-http://www.iana.org/assignments/media-types/application/vwg-multiplexed
-http://www.iana.org/assignments/media-types/application/watcherinfo
-http://www.iana.org/assignments/media-types/application/whoispp-query
-http://www.iana.org/assignments/media-types/application/whoispp-response
-http://www.iana.org/assignments/media-types/application/wita
-http://www.iana.org/assignments/media-types/application/wordperfect5.1
-http://www.iana.org/assignments/media-types/application/wsdl
-http://www.iana.org/assignments/media-types/application/wspolicy
-http://www.iana.org/assignments/media-types/application/x400-bp
-http://www.iana.org/assignments/media-types/application/xacml
-http://www.iana.org/assignments/media-types/application/xcap-att
-http://www.iana.org/assignments/media-types/application/xcap-caps
-http://www.iana.org/assignments/media-types/application/xcap-diff
-http://www.iana.org/assignments/media-types/application/xcap-el
-http://www.iana.org/assignments/media-types/application/xcap-error
-http://www.iana.org/assignments/media-types/application/xcap-ns
-http://www.iana.org/assignments/media-types/application/xcon-conference-info
-http://www.iana.org/assignments/media-types/application/xcon-conference-info-diff
-http://www.iana.org/assignments/media-types/application/xenc
-http://www.iana.org/assignments/media-types/application/xhtml
-http://www.iana.org/assignments/media-types/application/xhtml-voice
-http://www.iana.org/assignments/media-types/application/xml
-http://www.iana.org/assignments/media-types/application/xml-dtd
-http://www.iana.org/assignments/media-types/application/xml-external-parsed-entity
-http://www.iana.org/assignments/media-types/application/xml-patch
-http://www.iana.org/assignments/media-types/application/xmpp
-http://www.iana.org/assignments/media-types/application/xop
-http://www.iana.org/assignments/media-types/application/xv
-http://www.iana.org/assignments/media-types/application/x-www-form-urlencoded
-http://www.iana.org/assignments/media-types/application/yang
-http://www.iana.org/assignments/media-types/application/yin
-http://www.iana.org/assignments/media-types/application/zip
-http://www.iana.org/assignments/media-types/application/zlib
-http://www.iana.org/assignments/media-types/audio/1d-interleaved-parityfec
-http://www.iana.org/assignments/media-types/audio/32kadpcm
-http://www.iana.org/assignments/media-types/audio/3gpp
-http://www.iana.org/assignments/media-types/audio/3gpp2
-http://www.iana.org/assignments/media-types/audio/ac3
-http://www.iana.org/assignments/media-types/audio/AMR
-http://www.iana.org/assignments/media-types/audio/amr-wb
-http://www.iana.org/assignments/media-types/audio/AMR-WB
-http://www.iana.org/assignments/media-types/audio/aptx
-http://www.iana.org/assignments/media-types/audio/asc
-http://www.iana.org/assignments/media-types/audio/ATRAC3
-http://www.iana.org/assignments/media-types/audio/ATRAC-ADVANCED-LOSSLESS
-http://www.iana.org/assignments/media-types/audio/ATRAC-X
-http://www.iana.org/assignments/media-types/audio/basic
-http://www.iana.org/assignments/media-types/audio/BV16
-http://www.iana.org/assignments/media-types/audio/BV32
-http://www.iana.org/assignments/media-types/audio/clearmode
-http://www.iana.org/assignments/media-types/audio/CN
-http://www.iana.org/assignments/media-types/audio/DAT12
-http://www.iana.org/assignments/media-types/audio/dls
-http://www.iana.org/assignments/media-types/audio/dsr-es201108
-http://www.iana.org/assignments/media-types/audio/dsr-es202050
-http://www.iana.org/assignments/media-types/audio/dsr-es202211
-http://www.iana.org/assignments/media-types/audio/dsr-es202212
-http://www.iana.org/assignments/media-types/audio/DV
-http://www.iana.org/assignments/media-types/audio/DVI4
-http://www.iana.org/assignments/media-types/audio/eac3
-http://www.iana.org/assignments/media-types/audio/encaprtp
-http://www.iana.org/assignments/media-types/audio/EVRC
-http://www.iana.org/assignments/media-types/audio/EVRC0
-http://www.iana.org/assignments/media-types/audio/EVRC1
-http://www.iana.org/assignments/media-types/audio/EVRCB
-http://www.iana.org/assignments/media-types/audio/EVRCB0
-http://www.iana.org/assignments/media-types/audio/EVRCB1
-http://www.iana.org/assignments/media-types/audio/EVRCNW
-http://www.iana.org/assignments/media-types/audio/EVRCNW0
-http://www.iana.org/assignments/media-types/audio/EVRCNW1
-http://www.iana.org/assignments/media-types/audio/EVRC-QCP
-http://www.iana.org/assignments/media-types/audio/EVRCWB
-http://www.iana.org/assignments/media-types/audio/EVRCWB0
-http://www.iana.org/assignments/media-types/audio/EVRCWB1
-http://www.iana.org/assignments/media-types/audio/example
-http://www.iana.org/assignments/media-types/audio/fwdred
-http://www.iana.org/assignments/media-types/audio/G719
-http://www.iana.org/assignments/media-types/audio/G721
-http://www.iana.org/assignments/media-types/audio/G722
-http://www.iana.org/assignments/media-types/audio/G723
-http://www.iana.org/assignments/media-types/audio/G726-16
-http://www.iana.org/assignments/media-types/audio/G726-24
-http://www.iana.org/assignments/media-types/audio/G726-32
-http://www.iana.org/assignments/media-types/audio/G726-40
-http://www.iana.org/assignments/media-types/audio/G728
-http://www.iana.org/assignments/media-types/audio/G729
-http://www.iana.org/assignments/media-types/audio/G729D
-http://www.iana.org/assignments/media-types/audio/G729E
-http://www.iana.org/assignments/media-types/audio/GSM
-http://www.iana.org/assignments/media-types/audio/GSM-EFR
-http://www.iana.org/assignments/media-types/audio/GSM-HR-08
-http://www.iana.org/assignments/media-types/audio/iLBC
-http://www.iana.org/assignments/media-types/audio/ip-mr_v2.5
-http://www.iana.org/assignments/media-types/audio/L16
-http://www.iana.org/assignments/media-types/audio/L20
-http://www.iana.org/assignments/media-types/audio/L24
-http://www.iana.org/assignments/media-types/audio/L8
-http://www.iana.org/assignments/media-types/audio/LPC
-http://www.iana.org/assignments/media-types/audio/mobile-xmf
-http://www.iana.org/assignments/media-types/audio/mp4
-http://www.iana.org/assignments/media-types/audio/MP4A-LATM
-http://www.iana.org/assignments/media-types/audio/MPA
-http://www.iana.org/assignments/media-types/audio/mpa-robust
-http://www.iana.org/assignments/media-types/audio/mpeg
-http://www.iana.org/assignments/media-types/audio/mpeg4-generic
-http://www.iana.org/assignments/media-types/audio/ogg
-http://www.iana.org/assignments/media-types/audio/PCMA
-http://www.iana.org/assignments/media-types/audio/PCMA-WB
-http://www.iana.org/assignments/media-types/audio/PCMU
-http://www.iana.org/assignments/media-types/audio/PCMU-WB
-http://www.iana.org/assignments/media-types/audio/prs.sid
-http://www.iana.org/assignments/media-types/audio/raptorfec
-http://www.iana.org/assignments/media-types/audio/RED
-http://www.iana.org/assignments/media-types/audio/rtp-enc-aescm128
-http://www.iana.org/assignments/media-types/audio/rtploopback
-http://www.iana.org/assignments/media-types/audio/rtp-midi
-http://www.iana.org/assignments/media-types/audio/rtx
-http://www.iana.org/assignments/media-types/audio/SMV
-http://www.iana.org/assignments/media-types/audio/SMV0
-http://www.iana.org/assignments/media-types/audio/SMV-QCP
-http://www.iana.org/assignments/media-types/audio/speex
-http://www.iana.org/assignments/media-types/audio/sp-midi
-http://www.iana.org/assignments/media-types/audio/t140c
-http://www.iana.org/assignments/media-types/audio/t38
-http://www.iana.org/assignments/media-types/audio/telephone-event
-http://www.iana.org/assignments/media-types/audio/tone
-http://www.iana.org/assignments/media-types/audio/UEMCLIP
-http://www.iana.org/assignments/media-types/audio/ulpfec
-http://www.iana.org/assignments/media-types/audio/VDVI
-http://www.iana.org/assignments/media-types/audio/VMR-WB
-http://www.iana.org/assignments/media-types/audio/vnd.3gpp.iufp
-http://www.iana.org/assignments/media-types/audio/vnd.4SB
-http://www.iana.org/assignments/media-types/audio/vnd.audiokoz
-http://www.iana.org/assignments/media-types/audio/vnd.CELP
-http://www.iana.org/assignments/media-types/audio/vnd.cisco.nse
-http://www.iana.org/assignments/media-types/audio/vnd.cmles.radio-events
-http://www.iana.org/assignments/media-types/audio/vnd.cns.anp1
-http://www.iana.org/assignments/media-types/audio/vnd.cns.inf1
-http://www.iana.org/assignments/media-types/audio/vnd.dece.audio
-http://www.iana.org/assignments/media-types/audio/vnd.digital-winds
-http://www.iana.org/assignments/media-types/audio/vnd.dlna.adts
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.heaac.1
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.heaac.2
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.mlp
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.mps
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.pl2
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.pl2x
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.pl2z
-http://www.iana.org/assignments/media-types/audio/vnd.dolby.pulse.1
-http://www.iana.org/assignments/media-types/audio/vnd.dra
-http://www.iana.org/assignments/media-types/audio/vnd.dts
-http://www.iana.org/assignments/media-types/audio/vnd.dts.hd
-http://www.iana.org/assignments/media-types/audio/vnd.dvb.file
-http://www.iana.org/assignments/media-types/audio/vnd.everad.plj
-http://www.iana.org/assignments/media-types/audio/vnd.hns.audio
-http://www.iana.org/assignments/media-types/audio/vnd.lucent.voice
-http://www.iana.org/assignments/media-types/audio/vnd.ms-playready.media.pya
-http://www.iana.org/assignments/media-types/audio/vnd.nokia.mobile-xmf
-http://www.iana.org/assignments/media-types/audio/vnd.nortel.vbk
-http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp4800
-http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp7470
-http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp9600
-http://www.iana.org/assignments/media-types/audio/vnd.octel.sbc
-http://www.iana.org/assignments/media-types/audio/vnd.qcelp
-http://www.iana.org/assignments/media-types/audio/vnd.rhetorex.32kadpcm
-http://www.iana.org/assignments/media-types/audio/vnd.rip
-http://www.iana.org/assignments/media-types/audio/vnd.sealedmedia.softseal-mpeg
-http://www.iana.org/assignments/media-types/audio/vnd.vmx.cvsd
-http://www.iana.org/assignments/media-types/audio/vorbis
-http://www.iana.org/assignments/media-types/audio/vorbis-config
-http://www.iana.org/assignments/media-types/image/cgm
-http://www.iana.org/assignments/media-types/image/example
-http://www.iana.org/assignments/media-types/image/fits
-http://www.iana.org/assignments/media-types/image/g3fax
-http://www.iana.org/assignments/media-types/image/jp2
-http://www.iana.org/assignments/media-types/image/jpm
-http://www.iana.org/assignments/media-types/image/jpx
-http://www.iana.org/assignments/media-types/image/naplps
-http://www.iana.org/assignments/media-types/image/png
-http://www.iana.org/assignments/media-types/image/prs.btif
-http://www.iana.org/assignments/media-types/image/prs.pti
-http://www.iana.org/assignments/media-types/image/pwg-raster
-http://www.iana.org/assignments/media-types/image/t38
-http://www.iana.org/assignments/media-types/image/tiff
-http://www.iana.org/assignments/media-types/image/tiff-fx
-http://www.iana.org/assignments/media-types/image/vnd.adobe.photoshop
-http://www.iana.org/assignments/media-types/image/vnd.airzip.accelerator.azv
-http://www.iana.org/assignments/media-types/image/vnd.cns.inf2
-http://www.iana.org/assignments/media-types/image/vnd.dece.graphic
-http://www.iana.org/assignments/media-types/image/vnd-djvu
-http://www.iana.org/assignments/media-types/image/vnd.dvb.subtitle
-http://www.iana.org/assignments/media-types/image/vnd.dwg
-http://www.iana.org/assignments/media-types/image/vnd.dxf
-http://www.iana.org/assignments/media-types/image/vnd.fastbidsheet
-http://www.iana.org/assignments/media-types/image/vnd.fpx
-http://www.iana.org/assignments/media-types/image/vnd.fst
-http://www.iana.org/assignments/media-types/image/vnd.fujixerox.edmics-mmr
-http://www.iana.org/assignments/media-types/image/vnd.fujixerox.edmics-rlc
-http://www.iana.org/assignments/media-types/image/vnd.globalgraphics.pgb
-http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon
-http://www.iana.org/assignments/media-types/image/vnd.mix
-http://www.iana.org/assignments/media-types/image/vnd.ms-modi
-http://www.iana.org/assignments/media-types/image/vnd.net-fpx
-http://www.iana.org/assignments/media-types/image/vnd.radiance
-http://www.iana.org/assignments/media-types/image/vnd.sealedmedia.softseal-gif
-http://www.iana.org/assignments/media-types/image/vnd.sealedmedia.softseal-jpg
-http://www.iana.org/assignments/media-types/image/vnd.sealed-png
-http://www.iana.org/assignments/media-types/image/vnd-svf
-http://www.iana.org/assignments/media-types/image/vnd.tencent.tap
-http://www.iana.org/assignments/media-types/image/vnd.valve.source.texture
-http://www.iana.org/assignments/media-types/image/vnd-wap-wbmp
-http://www.iana.org/assignments/media-types/image/vnd.xiff
-http://www.iana.org/assignments/media-types/media-types.xhtml
-http://www.iana.org/assignments/media-types/message/CPIM
-http://www.iana.org/assignments/media-types/message/delivery-status
-http://www.iana.org/assignments/media-types/message/disposition-notification
-http://www.iana.org/assignments/media-types/message/example
-http://www.iana.org/assignments/media-types/message/feedback-report
-http://www.iana.org/assignments/media-types/message/global
-http://www.iana.org/assignments/media-types/message/global-delivery-status
-http://www.iana.org/assignments/media-types/message/global-disposition-notification
-http://www.iana.org/assignments/media-types/message/global-headers
-http://www.iana.org/assignments/media-types/message/http
-http://www.iana.org/assignments/media-types/message/imdn
-http://www.iana.org/assignments/media-types/message/news
-http://www.iana.org/assignments/media-types/message/s-http
-http://www.iana.org/assignments/media-types/message/sip
-http://www.iana.org/assignments/media-types/message/sipfrag
-http://www.iana.org/assignments/media-types/message/tracking-status
-http://www.iana.org/assignments/media-types/message/vnd.si.simp
-http://www.iana.org/assignments/media-types/message/vnd.wfa.wsc
-http://www.iana.org/assignments/media-types/model/example
-http://www.iana.org/assignments/media-types/model/iges
-http://www.iana.org/assignments/media-types/model/vnd.collada
-http://www.iana.org/assignments/media-types/model/vnd-dwf
-http://www.iana.org/assignments/media-types/model/vnd.flatland.3dml
-http://www.iana.org/assignments/media-types/model/vnd.gdl
-http://www.iana.org/assignments/media-types/model/vnd.gs-gdl
-http://www.iana.org/assignments/media-types/model/vnd.gtw
-http://www.iana.org/assignments/media-types/model/vnd.moml
-http://www.iana.org/assignments/media-types/model/vnd.mts
-http://www.iana.org/assignments/media-types/model/vnd.opengex
-http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit-binary
-http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit-text
-http://www.iana.org/assignments/media-types/model/vnd.valve.source.compiled-map
-http://www.iana.org/assignments/media-types/model/vnd.vtu
-http://www.iana.org/assignments/media-types/model/x3d
-http://www.iana.org/assignments/media-types/model/x3d-vrml
-http://www.iana.org/assignments/media-types/multipart/appledouble
-http://www.iana.org/assignments/media-types/multipart/byteranges
-http://www.iana.org/assignments/media-types/multipart/encrypted
-http://www.iana.org/assignments/media-types/multipart/example
-http://www.iana.org/assignments/media-types/multipart/form-data
-http://www.iana.org/assignments/media-types/multipart/header-set
-http://www.iana.org/assignments/media-types/multipart/related
-http://www.iana.org/assignments/media-types/multipart/report
-http://www.iana.org/assignments/media-types/multipart/signed
-http://www.iana.org/assignments/media-types/multipart/voice-message
-http://www.iana.org/assignments/media-types/multipart/x-mixed-replace
-http://www.iana.org/assignments/media-types/text/1d-interleaved-parityfec
-http://www.iana.org/assignments/media-types/text/cache-manifest
-http://www.iana.org/assignments/media-types/text/calendar
-http://www.iana.org/assignments/media-types/text/css
-http://www.iana.org/assignments/media-types/text/csv
-http://www.iana.org/assignments/media-types/text/directory
-http://www.iana.org/assignments/media-types/text/dns
-http://www.iana.org/assignments/media-types/text/ecmascript
-http://www.iana.org/assignments/media-types/text/encaprtp
-http://www.iana.org/assignments/media-types/text/example
-http://www.iana.org/assignments/media-types/text/fwdred
-http://www.iana.org/assignments/media-types/text/grammar-ref-list
-http://www.iana.org/assignments/media-types/text/html
-http://www.iana.org/assignments/media-types/text/javascript
-http://www.iana.org/assignments/media-types/text/jcr-cnd
-http://www.iana.org/assignments/media-types/text/mizar
-http://www.iana.org/assignments/media-types/text/n3
-http://www.iana.org/assignments/media-types/text/parameters
-http://www.iana.org/assignments/media-types/text/provenance-notation
-http://www.iana.org/assignments/media-types/text/prs.fallenstein.rst
-http://www.iana.org/assignments/media-types/text/prs.lines.tag
-http://www.iana.org/assignments/media-types/text/raptorfec
-http://www.iana.org/assignments/media-types/text/RED
-http://www.iana.org/assignments/media-types/text/rfc822-headers
-http://www.iana.org/assignments/media-types/text/rtf
-http://www.iana.org/assignments/media-types/text/rtp-enc-aescm128
-http://www.iana.org/assignments/media-types/text/rtploopback
-http://www.iana.org/assignments/media-types/text/rtx
-http://www.iana.org/assignments/media-types/text/SGML
-http://www.iana.org/assignments/media-types/text/t140
-http://www.iana.org/assignments/media-types/text/tab-separated-values
-http://www.iana.org/assignments/media-types/text/troff
-http://www.iana.org/assignments/media-types/text/turtle
-http://www.iana.org/assignments/media-types/text/ulpfec
-http://www.iana.org/assignments/media-types/text/uri-list
-http://www.iana.org/assignments/media-types/text/vcard
-http://www.iana.org/assignments/media-types/text/vnd-a
-http://www.iana.org/assignments/media-types/text/vnd.abc
-http://www.iana.org/assignments/media-types/text/vnd-curl
-http://www.iana.org/assignments/media-types/text/vnd.debian.copyright
-http://www.iana.org/assignments/media-types/text/vnd.DMClientScript
-http://www.iana.org/assignments/media-types/text/vnd.dvb.subtitle
-http://www.iana.org/assignments/media-types/text/vnd.esmertec.theme-descriptor
-http://www.iana.org/assignments/media-types/text/vnd.fly
-http://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor
-http://www.iana.org/assignments/media-types/text/vnd.graphviz
-http://www.iana.org/assignments/media-types/text/vnd.in3d.3dml
-http://www.iana.org/assignments/media-types/text/vnd.in3d.spot
-http://www.iana.org/assignments/media-types/text/vnd.IPTC.NewsML
-http://www.iana.org/assignments/media-types/text/vnd.IPTC.NITF
-http://www.iana.org/assignments/media-types/text/vnd.latex-z
-http://www.iana.org/assignments/media-types/text/vnd.motorola.reflex
-http://www.iana.org/assignments/media-types/text/vnd.ms-mediapackage
-http://www.iana.org/assignments/media-types/text/vnd.net2phone.commcenter.command
-http://www.iana.org/assignments/media-types/text/vnd.radisys.msml-basic-layout
-http://www.iana.org/assignments/media-types/text/vnd.si.uricatalogue
-http://www.iana.org/assignments/media-types/text/vnd.sun.j2me.app-descriptor
-http://www.iana.org/assignments/media-types/text/vnd.trolltech.linguist
-http://www.iana.org/assignments/media-types/text/vnd.wap.si
-http://www.iana.org/assignments/media-types/text/vnd.wap.sl
-http://www.iana.org/assignments/media-types/text/vnd.wap-wml
-http://www.iana.org/assignments/media-types/text/vnd.wap.wmlscript
-http://www.iana.org/assignments/media-types/text/xml
-http://www.iana.org/assignments/media-types/text/xml-external-parsed-entity
-http://www.iana.org/assignments/media-types/text/yaml
-http://www.iana.org/assignments/media-types/video/1d-interleaved-parityfec
-http://www.iana.org/assignments/media-types/video/3gpp
-http://www.iana.org/assignments/media-types/video/3gpp2
-http://www.iana.org/assignments/media-types/video/3gpp-tt
-http://www.iana.org/assignments/media-types/video/BMPEG
-http://www.iana.org/assignments/media-types/video/BT656
-http://www.iana.org/assignments/media-types/video/CelB
-http://www.iana.org/assignments/media-types/video/DV
-http://www.iana.org/assignments/media-types/video/encaprtp
-http://www.iana.org/assignments/media-types/video/example
-http://www.iana.org/assignments/media-types/video/H261
-http://www.iana.org/assignments/media-types/video/H263
-http://www.iana.org/assignments/media-types/video/H263-1998
-http://www.iana.org/assignments/media-types/video/H263-2000
-http://www.iana.org/assignments/media-types/video/H264
-http://www.iana.org/assignments/media-types/video/H264-RCDO
-http://www.iana.org/assignments/media-types/video/H264-SVC
-http://www.iana.org/assignments/media-types/video/iso.segment
-http://www.iana.org/assignments/media-types/video/JPEG
-http://www.iana.org/assignments/media-types/video/jpeg2000
-http://www.iana.org/assignments/media-types/video/mj2
-http://www.iana.org/assignments/media-types/video/MP1S
-http://www.iana.org/assignments/media-types/video/MP2P
-http://www.iana.org/assignments/media-types/video/MP2T
-http://www.iana.org/assignments/media-types/video/mp4
-http://www.iana.org/assignments/media-types/video/MP4V-ES
-http://www.iana.org/assignments/media-types/video/mpeg4-generic
-http://www.iana.org/assignments/media-types/video/MPV
-http://www.iana.org/assignments/media-types/video/nv
-http://www.iana.org/assignments/media-types/video/ogg
-http://www.iana.org/assignments/media-types/video/pointer
-http://www.iana.org/assignments/media-types/video/quicktime
-http://www.iana.org/assignments/media-types/video/raptorfec
-http://www.iana.org/assignments/media-types/video/rtp-enc-aescm128
-http://www.iana.org/assignments/media-types/video/rtploopback
-http://www.iana.org/assignments/media-types/video/rtx
-http://www.iana.org/assignments/media-types/video/SMPTE292M
-http://www.iana.org/assignments/media-types/video/ulpfec
-http://www.iana.org/assignments/media-types/video/vc1
-http://www.iana.org/assignments/media-types/video/vnd.CCTV
-http://www.iana.org/assignments/media-types/video/vnd.dece.hd
-http://www.iana.org/assignments/media-types/video/vnd.dece.mobile
-http://www.iana.org/assignments/media-types/video/vnd.dece-mp4
-http://www.iana.org/assignments/media-types/video/vnd.dece.pd
-http://www.iana.org/assignments/media-types/video/vnd.dece.sd
-http://www.iana.org/assignments/media-types/video/vnd.dece.video
-http://www.iana.org/assignments/media-types/video/vnd.directv-mpeg
-http://www.iana.org/assignments/media-types/video/vnd.directv.mpeg-tts
-http://www.iana.org/assignments/media-types/video/vnd.dlna.mpeg-tts
-http://www.iana.org/assignments/media-types/video/vnd.dvb.file
-http://www.iana.org/assignments/media-types/video/vnd.fvt
-http://www.iana.org/assignments/media-types/video/vnd.hns.video
-http://www.iana.org/assignments/media-types/video/vnd.iptvforum.1dparityfec-1010
-http://www.iana.org/assignments/media-types/video/vnd.iptvforum.1dparityfec-2005
-http://www.iana.org/assignments/media-types/video/vnd.iptvforum.2dparityfec-1010
-http://www.iana.org/assignments/media-types/video/vnd.iptvforum.2dparityfec-2005
-http://www.iana.org/assignments/media-types/video/vnd.iptvforum.ttsavc
-http://www.iana.org/assignments/media-types/video/vnd.iptvforum.ttsmpeg2
-http://www.iana.org/assignments/media-types/video/vnd.motorola.video
-http://www.iana.org/assignments/media-types/video/vnd.motorola.videop
-http://www.iana.org/assignments/media-types/video/vnd-mpegurl
-http://www.iana.org/assignments/media-types/video/vnd.ms-playready.media.pyv
-http://www.iana.org/assignments/media-types/video/vnd.nokia.interleaved-multimedia
-http://www.iana.org/assignments/media-types/video/vnd.nokia.videovoip
-http://www.iana.org/assignments/media-types/video/vnd.objectvideo
-http://www.iana.org/assignments/media-types/video/vnd.radgamettools.bink
-http://www.iana.org/assignments/media-types/video/vnd.radgamettools.smacker
-http://www.iana.org/assignments/media-types/video/vnd.sealedmedia.softseal-mov
-http://www.iana.org/assignments/media-types/video/vnd.sealed.mpeg1
-http://www.iana.org/assignments/media-types/video/vnd.sealed.mpeg4
-http://www.iana.org/assignments/media-types/video/vnd.sealed-swf
-http://www.iana.org/assignments/media-types/video/vnd.uvvu-mp4
-http://www.iana.org/assignments/media-types/video/vnd-vivo
-http://www.iana.org/assignments/port-numbers
-http://www.iana.org/assignments/protocol-numbers
-http://www.iana.org/assignments/protocol-numbers/.
-http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xml
-http://www.iana.org/assignments/telnet-options
-http://www.iana.org/go/
-http://www.iana.org/go/draft-ietf-appsawg-json-merge-patch-07
-http://www.iana.org/go/rfc4239
-http://www.iana.org/time-zones
-http://www.ibiblio.org/xml/examples/shakespeare/hamlet.xml
-http://www.ibm.com/
-http://www.ibm.com.
-http://www.ibsensoftware.com/
-http://www.icann.org/tlds/
-http://www.ics.uci.edu/pub/ietf/http/draft-ietf-http-v10-spec-00.txt
-http://www.icu-project.org/userguide/posix.html
-http://www.ietf.org
-http://www.ietf.org/assignments/dhcpv6-parameters/dhcpv6-parameters.xml
-http://www.ietf.org/rfc.html
-http://www.ietf.org/rfc/rfc0822.txt
-http://www.ietf.org/rfc/rfc0850.txt
-http://www.ietf.org/rfc/rfc1036.txt
-http://www.ietf.org/rfc/rfc1123.txt
-http://www.ietf.org/rfc/rfc1321.txt
-http://www.ietf.org/rfc/rfc1738.txt
-http://www.ietf.org/rfc/rfc1867.txt
-http://www.ietf.org/rfc/rfc1939.txt
-http://www.ietf.org/rfc/rfc1950.txt
-http://www.ietf.org/rfc/rfc1951.txt
-http://www.ietf.org/rfc/rfc1952.txt
-http://www.ietf.org/rfc/rfc1961.txt
-http://www.ietf.org/rfc/rfc2045.txt
-http://www.ietf.org/rfc/rfc2068.txt
-http://www.ietf.org/rfc/rfc2109.txt
-http://www.ietf.org/rfc/rfc2326.txt
-http://www.ietf.org/rfc/rfc2373.txt
-http://www.ietf.org/rfc/rfc2388.txt
-http://www.ietf.org/rfc/rfc2396.txt
-http://www.ietf.org/rfc/rfc2478.txt
-http://www.ietf.org/rfc/rfc2616.txt
-http://www.ietf.org/rfc/rfc2617.txt
-http://www.ietf.org/rfc/rfc2817.txt
-http://www.ietf.org/rfc/rfc2821.txt
-http://www.ietf.org/rfc/rfc2822.txt
-http://www.ietf.org/rfc/rfc3066.txt
-http://www.ietf.org/rfc/rfc3986.txt
-http://www.ietf.org/rfc/rfc3987.txt
-http://www.ietf.org/rfc/rfc4122.txt
-http://www.ietf.org/rfc/rfc4180.txt
-http://www.ietf.org/rfc/rfc5054.txt
-http://www.ietf.org/rfc/rfc822.txt
-http://www.ietf.org/rfc/rfc867.txt
-http://www.ietf.org/rfc/rfc959.txt
-http://www-igm.univ-mlv.fr/
-http://www.igvita.com/
-http://www.igvita.com/2008/05/27/ruby-eventmachine-the-speed-demon/
-http://www.igvita.com/2009/12/22/ruby-websockets-tcp-for-the-browser/
-http://www.ijs.si/software/snprintf/
-http://www.indiana.edu/cgi-bin-local/mimetypes
-http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
-http://www.info.com.ph/
-http://www.informatik.uni-konstanz.de/
-http://www.informatik.uni-oldenburg.de/leute/hoenicke.html
-http://www.informit.com/articles/article.aspx?p=683059
-http://www.info-zip.org/
-http://www.initd.org/pub/software/pysqlite/doc/usage-guide.html
-http://www.initio.com/Html/inic-1608.html
-http://www.inkscape.org/
-http://www.inkscape.org/namespaces/inkscape
-http://www.innaworks.com/
-http://www.innaworks.com/mBooster
-http://www.inria.fr/koala/colas/mouse-wheel-scroll/
-http://www.instantcocoa.com/products/pTerm/
-http://www.intel.com/design/chipsets/manuals/29802801.p
-http://www.intel.com/technology/framework/
-http://www.intel.com/technology/framework/spec.htm
-http://www.isi.edu/in-notes/iana/assignments/media-types
-http://www.isogen.com/paul/post-processor
-http://www.iso.org/iso/date_and_time_format
-http://www.iso.org/iso/en/prods-services/iso3166ma/04background-on-iso-3166/iso3166-1-and-ccTLDs.html
-http://www.iso.org/iso/home/standards/country_codes/updates_on_iso_3166.htm
-http://www.isthe.com/chongo/tech/comp/fnv/
-http://www.itl.nist.gov.
-http://www.itl.nist.gov/div897/ctg/sql_form.htm
-http://www.itl.nist.gov/div897/pubs/fip180-1.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3531.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda353.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3581.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda358.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda359.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3664.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3668.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3669.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda366b.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda366g.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda366h.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda366i.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3673.htm
-http://www.itl.nist.gov/div898/handbook/eda/section3/eda3674.htm
-http://www.itl.nist.gov/div898/handbook/eda/section4/eda428.htm
-http://www.itl.nist.gov/div898/handbook/eda/section4/eda42a1.htm
-http://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm
-http://www.itl.nist.gov/div898/handbook/prc/section2/prc232.htm
-http://www.itl.nist.gov/div898/handbook/prc/section2/prc23.htm
-http://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm
-http://www.itl.nist.gov/div898/handbook/prc/section3/prc32.htm
-http://www.itu.int/ITU-T/studygroups/com17/oid/X.667-E.pdf
-http://www.itunes.com/dtds/podcast-1.0.dtd
-http://www.jammconsulting.com/
-http://www.jammconsulting.com/jamm/servlet/com.jammconsulting.servlet.JAMMServlet?pageId=ObfuscateProPage
-http://www.javadocking.com/
-http://www.javasoft.com/products/JDK/1.1/docs/api/Package-java.util.zip.html
-http://www.javaworld.com/javaworld/jw-12-2000/jw-1229-traps.html?page=4
-http://www.jboss.org/netty
-http://www.jclark.com/sp/catalog.htm
-http://www.jclark.com/xml/canonxml.html
-http://www.jdevelop.com/
-http://www.jdevelop.com/best-java-obfuscator.html
-http://www.jjj.de/pibook/pibook.html
-http://www.joachim-bauch.de/projects/pylzma/
-http://www.joachim-faulhaber.de/boost_itl/doc/libs/icl/doc/html/boost_itl/projects.html
-http://www.josh-davis.org
-http://www.josuttis.com
-http://www.josuttis.com/
-http://www.josuttis.com/cppcode/fdstream.html.
-http://www.jproof.com/
-http://www.jroller.com/gfx/entry/get_what_you_need_from
-http://www.jruby.org/
-http://www.json.org
-http://www.JSON.org/
-http://www.jstatsoft.org/v05/a05/paper
-http://www.jstatsoft.org/v08/i14/paper
-http://www.jstatsoft.org/v26/i04/paper
-http://www.jtc1sc34.org/repository/0661.pdf
-http://www.justsoftwaresolutions.co.uk
-http://www.kame.net/dev/cvsweb.cgi/kame/COVERAGE
-http://www.kangaroologic.com/interfaces/libs/interfaces/doc/index.html
-http://www.kannel.org
-http://www.kannel.org/
-http://www.kapit.fr/flex4/ui
-http://www.kernel.org/pub/linux/devel/binutils/
-http://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/
-http://www.lafortune.eu/
-http://www.leapsecond.com/java/gpsclock.htm
-http://www.leesw.com/
-http://www.lemburg.com/files/python/mxDateTime.html
-http://www.letters.com/file
-http://www.libgd.org
-http://www.libgd.org/
-http://www.libvirt.org
-http://www.lightlink.com/xine/bells/namedcolors.html
-http://www.links.org/files/openssl-ige.pdf
-http://www.linuxnet.com
-http://www.linux.org.uk/mailman/listinfo/linuxuser
-http://www.linux.org.uk/pipermail/linuxuser/
-http://www.literatecode.com
-http://www.longnow.org/10kclock/clock.htm
-http://www.lotus.com.
-http://www.lsc.nd.edu/
-http://www.lua.org/manual/5.2/manual.html
-http://www.lysator.liu.se/
-http://www.macromedia.com/go/getflashplayer
-http://www.macruby.org/
-http://www.mail-archive.com/openssl-dev
-http://www.mail-archive.com/openssl-users
-http://www.mail-archive.com/sqlite-users
-http://www.makotemplates.org
-http://www.malloc.de
-http://www.malwr.com
-http://www.mark.masmcode.com/
-http://www.martinfowler.com/articles/mocksArentStubs.html
-http://www.martinfowler.com/bliki/TestDouble.html
-http://www.math.keio.ac.jp/
-http://www.math.keio.ac.jp/matumoto/emt.html
-http://www.math.okstate.edu/mathdept/dynamics/lecnotes/node36.html
-http://www.math.sci.hiroshima-u.ac.jp/
-http://www.math.sfu.ca/
-http://www.math.uah.edu/stat/bernoulli/Introduction.xhtml
-http://www.math.utexas.edu/users/villegas/publications/conv-accel.pdf
-http://www.mcternan.me.uk/mscgen/
-http://www.megginson.com/SAX/.
-http://www.meta-comm.com
-http://www.metrowerks.com/
-http://www.microsoft.com/
-http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx.
-http://www.microsoft.com/management
-http://www.microsoft.com/mind/0499/faq/faq0499.asp
-http://www.microsoft.com/msdn/sdk/platforms/doc/sdk/win32/sys/src/conchar_34.htm
-http://www.microsoft.com/msdn/sdk/platforms/doc/sdk/win32/sys/src/conchar.htm
-http://www.microsoft.com/whdc/system/platform/server/spcr.mspx
-http://www.microsoft.com/windows95/downloads/contents/
-http://www.microsoft.com/windows95/downloads/contents/wuadmintools/s_wunetworkingtools/w95sockets2/
-http://www.mikeperham.com/2010/02/09/cassandra-and-eventmachine/
-http://www.mingw.org/wiki/MSYS
-http://www.mockobjects.com/
-http://www.mockobjects.com/files/endotesting.pdf
-http://www.mockobjects.com/files/mockrolesnotobjects.pdf
-http://www.modpython.org/
-http://www.modwsgi.org/
-http://www.mongodb.org/
-http://www.mongodb.org/display/DOCS/BSON
-http://www.moocat.org
-http://www.movable-type.co.uk/scripts/latlong.html
-http://www.movable-type.co.uk/scripts/latlong-vincenty.html
-http://www.movsd.com/bm.htm
-http://www.moxielogic.org/wiki/index.php?title=Libffi_3.0.10
-http://www.mozilla.org/MPL/
-http://www.mozilla.org/MPL/MPL-1.1.html
-http://www.mozilla.org/NPL/
-http://www.mozilla.org/products/firefox/
-http://www.mozilla.org/products/thunderbird/
-http://www.mpfr.org
-http://www.mpfr.org/algorithms.pdf
-http://www.mpfr.org/algorithms.pdf.
-http://www.msn.com
-http://www.mth.kcl.ac.uk/
-http://www.mulliner.org/android/
-http://www.mulliner.org/security/sms/
-http://www.muppetlabs.com/
-http://www.myhost.com/today
-http://www.nabble.com/SQLite-on-NFS-cache-coherency-td15655701.html
-http://www.nag.co.uk/numeric/cl/manual/pdf/G01/g01bjc.pdf
-http://www.Nash-Soft.com
-http://www.nasty.com/
-http://www.nd.edu/
-http://www.netbeans.org/download/dev/javadoc/OpenAPIs/org/openide/doc-files/upgrade.html
-http://www.netbeans.org/dtds/module-auto-deps-1_0.dtd
-http://www.netbeans.org/dtds/module-status-1_0.dtd
-http://www.netbeans.org/ns/editor-bookmarks/1
-http://www.netbeans.org/ns/make-project/1
-http://www.netbeans.org/ns/make-project-private/1
-http://www.netbeans.org/ns/project/1
-http://www.netbeans.org/ns/project-private/1
-http://www.netlib.org/f2c/libf2c.zip
-http://www.netlib.org/fp
-http://www.netlib.org/fp/dtoa.c
-http://www.netlib.org/utk/papers/templates/node90.html
-http://www.netrino.com/Connecting/2000-01/
-http://www.netscape.com/
-http://www.netscape.com/newsref/std/cookie_spec.html
-http://www.nexus.hu/upx
-http://www.nightmare.com/squirl/python-ext/misc/syslog.py
-http://www.nist.gov
-http://www.nongnu.org/sinhala/doc/transliteration/sinhala-transliteration_6.html
-http://www.novell.com/coolsolutions/feature/11251.html
-http://www.nq4.de/
-http://www.nr.com/webnotes/nr3web21.pdf
-http://www.ntcore.com/files/richsign.htm
-http://www.ntecs.de/projects/xmlrpc4r.
-http://www.ntg.nl/pipermail/ntg-pdftex/2004-July/000654.html
-http://www.ntp.org/
-http://www.nuhertz.com/statmat/distributions.html
-http://www.numericals.com/file
-http://www.nxp.com/documents/user_manual/UM10204.pdf
-http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd
-http://www.oasis-open.org/committees/entity/spec-2001-08-06.html
-http://www.oasis-open.org/committees/xml-conformance/xml-test-suite.shtml
-http://www.oasis-open.org/docbook/xml/
-http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd
-http://www.oasis-open.org/docbook/xml/4.2/
-http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd
-http://www.oasis-open.org/docbook/xml/4.2/index.shtml
-http://www.oche.de/
-http://www.omnifarious.org/
-http://www.onesite.com
-http://www.oonumerics.org/tmpw00/
-http://www.opencore.net/
-http://www.opendarwin.org/projects/dlcompat
-http://www.openevidence.org/
-http://www.opengroup.org/onlinepubs/007904975/basedefs/xbd_chap08.html
-http://www.opengroup.org/onlinepubs/007904975/functions/wcswidth.html
-http://www.opengroup.org/onlinepubs/007904975/functions/wcwidth.html
-http://www.opengroup.org/onlinepubs/007908799/xsh/asctime.html
-http://www.opengroup.org/openmotif/supporters/metrolink/license.html
-http://www.openmobilealliance.org/DTD/drmrel10.dtd
-http://www.openmobilealliance.org/DTD/WV-CSP
-http://www.openmobilealliance.org/DTD/WV-CSP.DTD
-http://www.openmobilealliance.org/DTD/WV-CSP.XML
-http://www.openmobilealliance.org/DTD/WV-PA
-http://www.openmobilealliance.org/DTD/WV-TRC
-http://www.openmobilealliance.org/tech/DTD/OMA-SyncML-Device_Information-DTD-1.2.dtd
-http://www.openmobilealliance.org/tech/DTD/OMA-TS-SyncML_MetaInfo_DTD-V1_2.dtd
-http://www.openmobilealliance.org/tech/DTD/OMA-TS-SyncML_RepPro_DTD-V1_2.dtd
-http://www.opensource.apple.com/source/PowerManagement/PowerManagement-137/pmconfigd/pmconfigd.c
-http://www.opensource.org
-http://www.opensource.org/
-http://www.opensource.org/licenses/bsd-license.html
-http://www.opensource.org/licenses/bsd-license.php
-http://www.opensource.org/licenses/lgpl-license.php
-http://www.opensource.org/licenses/mit-license.html
-http://www.opensource.org/licenses/mit-license.php
-http://www.opensource.org/licenses/PythonSoftFoundation.php
-http://www.openssl.org
-http://www.openssl.org/
-http://www.OpenSSL.org/
-http://www.openssl.org/docs/apps/ciphers.html
-http://www.openssl.org/docs/crypto/threads.html
-http://www.openssl.org/source/openssl-0.9.8w.tar.gz
-http://www.openssl.org/support/faq.html
-http://www.open-std.org/jtc1/sc22/wg14/docs/rr/dr_144.html.
-http://www.open-std.org/jtc1/sc22/wg21/
-http://www.open-std.org/jtc1/sc22/wg21/docs/cwg_defects.html
-http://www.open-std.org/JTC1/SC22/WG21/docs/cwg_defects.html
-http://www.open-std.org/jtc1/sc22/wg21/docs/lwg-defects.html
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1456.html
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1745.pdf
-http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2005/n1756.pdf
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1780.html
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1810.html
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1836.pdf
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1837.pdf
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2179.html
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2347.pdf
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2444.html
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2661.htm
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2798.pdf.
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2009/n2960.pdf
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2011/n3276.pdf
-http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2011/n3276.pdf
-http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3442.html
-http://www.opera.com/portal/startup/?fr=1
-http://www.opera.com/portal/startup/?fr=2
-http://www.opera.com/portal/startup/?fr=3
-http://www.oracle.com/hotspot/jdk/
-http://www.oracle.com/hotspot/jfr-info/
-http://www.oracle.com/hotspot/jvm/
-http://www.oracle.com/hotspot/jvm/enable-errors
-http://www.oracle.com/hotspot/jvm/enable-exceptions
-http://www.oracle.com/hotspot/jvm/file-io-threshold
-http://www.oracle.com/hotspot/jvm/socket-io-threshold
-http://www.oracle.com/missioncontrol
-http://www.oracle.com/pls/topic/lookup?ctx=acc
-http://www.oracle.com/products/export
-http://www.oracle.com/technetwork/java/javame/
-http://www.oracle.com/technetwork/java/javase/documentation/index.html
-http://www.oracle.com/technetwork/java/javase/documentation/index.html.
-http://www.oracle.com/technetwork/java/javase/overview/
-http://www.oracle.com/technetwork/java/javase/terms/license/index.html
-http://www.oracle.com/technology/documentation/berkeley-db/db/api_reference/C/frame_main.html
-http://www.oracle.com/us/legal/third-party-trademarks/index.html
-http://www.oreans.com
-http://www.orfanik.hu
-http://www.ornl.go
-http://www.ornl.gov/sgml/wg8/hytime/html/is10744r.html
-http://www.osgi.org/
-http://www.ovmj.org/jamit/
-http://www.parashift.com/c
-http://www.pathscale.com/docs.html
-http://www.paypal.com/
-http://www.pcidatabase.com/reports.php?type=csv
-http://www.pcidatabase.com/search.php?title=
-http://www.pcidatabase.com/vendors.php?sort=id
-http://www.pcisig.com.
-http://www.pcre.org
-http://www.pcre.org/
-http://www.pc-tools.net/win32/freeware/console/
-http://www.pdflib.com/
-http://www.pendrivelinux.com/xboot-multiboot-iso-usb-creator/
-http://www.pepesoft.tox.pl
-http://www.perl.com/CPAN/authors/id/STBEY/
-http://www.perlmeister.com/scripts
-http://www.perl.org/
-http://www.pgpi.org/
-http://www.pgroup.com/resources/docs.htm
-http://www.php.net/manual/en/reserved.keywords.php
-http://www.phys.uu.nl/
-http://www.pip-installer.org
-http://www.pip-installer.org/en/latest/how-to-contribute.html
-http://www.pivotaltracker.com/projects/28469
-http://www.pivotaltracker.com/story/show/1223138
-http://www.pkware.com/documents/casestudies/APPNOTE.TXT
-http://www.planetpublish.com/xmlarena/xap/Thursday/WordtoXML.pdf
-http://www.pledgie.com/campaigns/15899
-http://www.pledgie.com/campaigns/18379
-http://www.plumbdesign.com/
-http://www.pocketmagic.net/?p=1473
-http://www.pocketputty.net/
-http://www.polhode.com
-http://www.polhode.com/ansi_mr15.zip
-http://www.polhode.com/CHANGES_FROM_133_BEFORE_MR13.txt
-http://www.polhode.com/CHANGES_FROM_133.txt
-http://www.polhode.com/KNOWN_PROBLEMS.txt
-http://www.polhode.com/pccts133mr.zip
-http://www.polhode.com/pccts.html
-http://www.polhode.com/pccts.html.
-http://www.polhode.com/win32.zip
-http://www.polhode.com/win32.zip.
-http://www.postgresql.org/docs/current/static
-http://www.pps.jussieu.fr/
-http://www.preemptive.com/
-http://www.preemptive.com/products/dasho/index.html
-http://www.primenet.com/
-http://www.progressive-coding.com
-http://www.psyked.co.uk/actionscript/rotating-bitmapdata.htm
-http://www.pureatria.com/
-http://www.puttyworld.com
-http://www.python.
-http://www.pythoncom-test.com/bar
-http://www.pythoncom-test.com/foo
-http://www.python.doc/current/
-http://www.python-forum.de
-http://www.pythonlabs.com/logos.html
-http://www.python.org
-http://www.python.org/
-http://www.python.org/.
-http://www.python.org/2.2/descrintro.html
-http://www.python.org/2.4/license
-http://www.python.org/cgi-bin/faqw.py
-http://www.python.org/cgi-bin/faqw.py?req=show
-http://www.python.org/community/lists/
-http://www.python.org/community/logos/python-logo-master-v3-TM.png
-http://www.python.org/dev/
-http://www.python.org/dev/doc/devel/lib/module-decimal.html
-http://www.python.org/dev/patches/.
-http://www.python.org/dev/peps/.
-http://www.python.org/dev/peps/pep-
-http://www.python.org/dev/peps/pep-0008/
-http://www.python.org/dev/peps/pep-0205/
-http://www.python.org/dev/peps/pep-0249/
-http://www.python.org/dev/peps/pep-0257/
-http://www.python.org/dev/peps/pep-0381/
-http://www.python.org/doc/2.3/lib/module-unittest.html
-http://www.python.org/doc/2.4.1/lib/module-unittest.html
-http://www.python.org/doc/Copyright.html
-http://www.python.org/doc/essays/
-http://www.python.org/doc/faq/
-http://www.python.org/doc/lib/module-zlib.html
-http://www.python.org/download/mac/tcltk/
-http://www.python.org/download/releases/2.3/mro/.
-http://www.python.org/favicon.ico
-http://www.python.org/ftp/python/2.7.2/.
-http://www.python.org/getit/
-http://www.python.org?getspam
-http://www.python.org/idle/
-http://www.python.org/index.html
-http://www.python.org/mailman/listinfo/idle-dev
-http://www.python.org/missing-favicon.ico
-http://www.python.org/namespace
-http://www.python.org/peps/pep-0263.html
-http://www.python.org/pipermail/python-dev/2000-March/003869.html
-http://www.python.org/pipermail/python-dev/2000-March/004010.html
-http://www.python.org/pipermail/python-dev/2000-March/004022.html
-http://www.python.org/psa/
-http://www.python.org/psf/
-http://www.python.org/psf/license
-http://www.python.org/python/
-http://www.python.org/?qs=query
-http://www.python.org/robots.txt
-http://www.python.org/sax/properties/encoding
-http://www.python.org/sax/properties/interning-dict
-http://www.python.org/sf/1055820
-http://www.python.org/sf/1511497
-http://www.python.org/sf/1513611
-http://www.python.org/sf/1651235
-http://www.python.org/sf/1703286
-http://www.python.org/sf/511737
-http://www.python.org/sf/583248
-http://www.python.org/sf/586680
-http://www.python.org/sf/801631
-http://www.python.org/sf/853506
-http://www.python.org/sigs/distutils-sig/
-http://www.python.org/sigs/pythonmac-sig/
-http://www.python.org/test/test_urllib2/basic_auth
-http://www.python.org/topics/database/DatabaseAPI-2.0.html
-http://www.python.org/topics/tkinter/
-http://www.python.org/workshops/1997-10/proceedings/loewis.html
-http://www.python.org/xml-ns/saxtest/
-http://www.python.org/XXXinvalidXXX
-http://www.pythonware.com
-http://www.pythonware.com/products/pil/
-http://www.ragestorm.net/distorm/
-http://www.random.org/cgi-bin/randbyte?nbytes=10
-http://www.rapid7.com
-http://www.realestate3d.com/gps/latlong.htm
-http://www.realtek.com/downloads/downloadsView.aspx?Langid=1
-http://www.regxlib.com/
-http://www.research.att.com/
-http://www.research.ibm.com/jax/
-http://www.resophonic.com
-http://www.retrologic.com/
-http://www.rfc-editor.org/errata_search.php?eid=
-http://www.rfc-editor.org/errata_search.php?eid=3245
-http://www.rfc-editor.org/rfc/pdfrfc/rfc1350.txt.pdf
-http://www.rfc-editor.org/rfc/rfc
-http://www.rfc-editor.org/rfc/rfc1952.txt
-http://www.rfc-editor.org/rfc/rfc3629.txt
-http://www.rgagnon.com/javadetails/java-0021.html
-http://www.rgaros.nl/gestalt/
-http://www.rhubarb.net/
-http://www.riggshill.com/
-http://www.roadrunner.net/
-http://www.robotstxt.org/wc/norobots.html
-http://www.robotstxt.org/wc/norobots-rfc.html
-http://www.ross.net/crc/crcpaper.html
-http://www.rrsd.com
-http://www.rrsd.com.
-http://www.rsalabs.com/pkcs/pkcs-11/index.html
-http://www.rskey.org/gamma.htm
-http://www.rsok.com/
-http://www.rssboard.org/rss-0-9-1-netscape
-http://www.rssboard.org/rss-specification
-http://www.rubydoc.info/github/relevance/rcov/master/Rcov/RcovTask
-http://www.ruby-doc.org/core-2.0/Array.html
-http://www.ruby-doc.org/core-2.0/Object.html
-http://www.ruby-doc.org/core-2.0/String.html
-http://www.ruby-doc.org/core/classes/Object.html
-http://www.ruby-doc.org/docs/ProgrammingRuby/html/lib_patterns.html.
-http://www.ruby-doc.org/docs/ProgrammingRuby/html/ospace.html
-http://www.ruby-doc.org/stdlib-2.1.0/libdoc/coverage/rdoc/Coverage.html
-http://www.ruby-doc.org/stdlib/libdoc/optparse/rdoc/classes/OptionParser.html
-http://www.rubyenterpriseedition.com
-http://www.rubyforen.de
-http://www.rubyforge.org
-http://www.ruby-forum.com/topic/136825
-http://www.ruby-forum.com/topic/166423
-http://www.rubygems.org/read/chapter/20
-http://www.rubyinside.com/using-ripper-to-see-how-ruby-is-parsing-your-code-5270.html
-http://www.ruby-lang.org
-http://www.ruby-lang.org/
-http://www.ruby-lang.org/en
-http://www.ruby-lang.org/en/
-http://www.ruby-lang.org/en/feeds/news.rss
-http://www.ruby-lang.org/en/index.html
-http://www.ruby-lang.org/en/LICENSE.txt
-http://www.ruby-lang.org/en/news/2010/12/25/ruby-1-9-2-p136-is-released/
-http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/
-http://www.ruby-lang.org/en/raa-list.rhtml?name=REXML
-http://www.ruby-lang.org/ja/man/html/net_pop.html
-http://www.ruby-lang.org/ja/man/html/net_smtp.html
-http://www.s5systems.com/
-http://www.s5systems.com/jPresto.htm
-http://www.sable.mcgill.ca/
-http://www.sable.mcgill.ca/JBCO/
-http://www.sable.mcgill.ca/soot/
-http://www.sadflkjsasadf.com/
-http://www.sagehill.net/docbookxsl/ProgramListings.html
-http://www.sagehill.net/docbookxsl/UsingCSS.html
-http://www.saikoa.com/
-http://www.saikoa.com/dexguard
-http://www.saikoa.com/proguard/support
-http://www.sbktech.org/
-http://www.scintilla.org
-http://www.scintilla.org/SciTE.html
-http://www.sco.com/developers/gabi/latest/ch4.eheader.html
-http://www.scons.org
-http://www.s-cradle.com/english/index.html
-http://www.s-cradle.com/english/products/sophiacompress_java/index.html
-http://wwwsearch.sf.net/
-http://www.semdesigns.com/
-http://www.semdesigns.com/Products/Obfuscators/JavaObfuscator.html
-http://www.sgi.com/products/software/irix/tools/
-http://www.sgi.com/software/opensource/cid/license.html
-http://www.sgi.com/software/opensource/glx/license.html.
-http://www.sgi.com/tech/stl/
-http://www.sgi.com/tech/stl/AdaptableBinaryFunction.html
-http://www.sgi.com/tech/stl/AdaptableBinaryPredicate.html
-http://www.sgi.com/tech/stl/AdaptableGenerator.html
-http://www.sgi.com/tech/stl/AdaptablePredicate.html
-http://www.sgi.com/tech/stl/AdaptableUnaryFunction.html
-http://www.sgi.com/tech/stl/Assignable.html
-http://www.sgi.com/tech/stl/AssociativeContainer.html
-http://www.sgi.com/tech/stl/BackInsertionSequence.html
-http://www.sgi.com/tech/stl/basic_string.html
-http://www.sgi.com/tech/stl/BidirectionalIterator.html
-http://www.sgi.com/tech/stl/BinaryFunction.html
-http://www.sgi.com/tech/stl/BinaryPredicate.html
-http://www.sgi.com/tech/stl/bitset.html
-http://www.sgi.com/tech/stl/Container.html
-http://www.sgi.com/tech/stl/DefaultConstructible.html
-http://www.sgi.com/tech/stl/equal.html
-http://www.sgi.com/tech/stl/EqualityComparable.html
-http://www.sgi.com/tech/stl/ForwardContainer.html
-http://www.sgi.com/tech/stl/ForwardIterator.html
-http://www.sgi.com/tech/stl/FrontInsertionSequence.html
-http://www.sgi.com/tech/stl/front_insert_iterator.html
-http://www.sgi.com/tech/stl/generate_n.html
-http://www.sgi.com/tech/stl/Generator.html
-http://www.sgi.com/tech/stl/InputIterator.html
-http://www.sgi.com/tech/stl/LessThanComparable.html
-http://www.sgi.com/tech/stl/lexicographical_compare.html
-http://www.sgi.com/tech/stl/List.html
-http://www.sgi.com/tech/stl/max_element.html
-http://www.sgi.com/tech/stl/max.html
-http://www.sgi.com/tech/stl/min_element.html
-http://www.sgi.com/tech/stl/min.html
-http://www.sgi.com/tech/stl/MultipleAssociativeContainer.html
-http://www.sgi.com/tech/stl/nth_element.html
-http://www.sgi.com/tech/stl/OutputIterator.html
-http://www.sgi.com/tech/stl/PairAssociativeContainer.html
-http://www.sgi.com/tech/stl/pair.html
-http://www.sgi.com/tech/stl/Predicate.html
-http://www.sgi.com/tech/stl/RandomAccessContainer.html
-http://www.sgi.com/tech/stl/RandomAccessIterator.html
-http://www.sgi.com/tech/stl/ReversibleContainer.html
-http://www.sgi.com/tech/stl/rotate.html
-http://www.sgi.com/tech/stl/Sequence.html
-http://www.sgi.com/tech/stl/SimpleAssociativeContainer.html
-http://www.sgi.com/tech/stl/SortedAssociativeContainer.html
-http://www.sgi.com/tech/stl/sort.html
-http://www.sgi.com/tech/stl/stable_sort.html
-http://www.sgi.com/tech/stl/StrictWeakOrdering.html
-http://www.sgi.com/tech/stl/UnaryFunction.html
-http://www.sgi.com/tech/stl/UniqueAssociativeContainer.html
-http://www.sgi.com/tech/stl/Vector.html
-http://www.shadowserver.org
-http://www.siliconimaging.com/RGB
-http://www.sinatrarb.com
-http://www.site.com/
-http://www.site.net/
-http://www.skype.com
-http://www.skytopia.com/project/articles/compsci/clipping.html
-http://www.slashdot.org
-http://www.slavasoft.com/fsum/
-http://www.sleepycat.com/docs/api_c/db_get_flags.html
-http://www.sleepycat.com/docs/api_c/db_set_flags.html
-http://www.smardec.com/
-http://www.smc.com/index.cfm?event=downloads.doSearchCriteria
-http://www.socal-raves.org/
-http://www.soe.ucsc.edu/
-http://www.softtreetech.com/24x7/archive/51.htm
-http://www.software4j.com/
-http://www.software4j.com/obfuscate4j/
-http://www.solent.ac.uk/hydrography/notes/errorthe/accuracy.htm
-http://www.sol.no
-http://www.sol.no/
-http://www.sol.no/foo/
-http://www.sol.no/foo/bar
-http://www.solutia.ro/
-http://www.solutia.ro/pages/javadc/
-http://www.someproxy.com
-http://www.spaennare.se/SSPROG/ssnum.pdf
-http://www.speex.org/
-http://www.spenvis.oma.be/help/background/coortran/coortran.html
-http://www.spinwardstars.com/frontier/fal.html
-http://www.sqlalchemy.org/trac/wiki/UsageRecipes/NamingConventions
-http://www.sqlalchemy.org/trac/wiki/UsageRecipes/SessionAwareMapper
-http://www.sqlite.org.
-http://www.sqlite.org/cvstrac/tktview?tn=1884
-http://www.sqlite.org/src/info/6709574d2a
-http://www.sqlite.org/src/info/f2369304e4
-http://www.sra.co.jp/people/m-kasahr/ruby/getoptlong/
-http://www.stackoverflow.com
-http://www.statsci.org/s/inverse_gaussian.html
-http://www.statsci.org/s/inverse_gaussian.s
-http://www.stat.ucl.ac.be/ISdidactique/Rhelp/library/SuppDists/html/inverse_gaussian.html
-http://www.stat.wvu.edu/SRS/Modules/Binomial/test.html
-http://www.st.cs.uni-sb.de/
-http://www.steve.org.uk/Reference/Unix/faq_2.html
-http://www.stlport.com/dcforum/DCForumID6/1763.html
-http://www.stroustrup.com/wrapper.pdf
-http://www.stunnel.org/
-http://www.sun.com.
-http://www.sunfreeware.com
-http://www.syncml.org/docs/devinf_v11_20020215.dtd
-http://www.syncml.org/docs/syncml_devinf_v10_20001207.dtd
-http://www.syncml.org/docs/syncml_metinf_v10_20001207.dtd
-http://www.syncml.org/docs/syncml_metinf_v11_20020215.dtd
-http://www.syncml.org/docs/syncml_represent_v10_20001207.dtd
-http://www.syncml.org/docs/syncml_represent_v11_20020213.dtd
-http://www.t13.org/
-http://www.tbs-internet.com/CA/repository/OU=TBS
-http://www.tcpdump.org
-http://www.technogumbo.com/2011/12/Migrating-to-Javascript-from-the-Google-Maps-API-for-Flash-Using-Adobe-AIR/
-http://www.terralib.org
-http://www.textuality.com/boilerplate/OpenHatch.xml
-http://www.therealtimeweb.com/index.cfm/2009/10/22/flex-compile-locale
-http://www.tianocore.org
-http://www.TianoCore.org/2006/Edk2.1
-http://www.timeanddate.com/time/aboutdst.html
-http://www.timezonesforpcs.com
-http://www.tink.ws
-http://www.tondering.dk/claus/calendar.html
-http://www.topdesignmag.com/awesome-black-icon-sets/
-http://www.trolltech.com/products/qt3/index.html
-http://www.trolltech.com/products/qt/index.html
-http://www.trustedcomputinggroup.org/resources/tpm_library_specification
-http://www.tt.org/LICENSE_1_0.txt
-http://www.tuttobenegrazie.com/
-http://www.twinsun.com/tz/tz-link.htm
-http://www.ucdetector.org/
-http://www.ucs.louisiana.edu/
-http://www.uefidk.com/develop.
-http://www.uefi.org
-http://www.uefi.org/2008/2.1
-http://www.uefi.org/2011/1.1
-http://www.uefi.org/2012/1.0
-http://www.undocprint.org/winspool/getfontresourceinfo
-http://www.unicode.org
-http://www.unicode.org/cldr/data/.
-http://www.unicode.org/copyright.html.
-http://www.unicode.org/Public/
-http://www.unicode.org/Public/.
-http://www.unicode.org/Public/4.0-Update1/UCD-4.0.1.html
-http://www.unicode.org/Public/MAPPINGS/
-http://www.unicode.org/Public/MAPPINGS/ISO8859/8859-
-http://www.unicode.org/Public/MAPPINGS/OBSOLETE
-http://www.unicode.org/Public/MAPPINGS/OBSOLETE/
-http://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/
-http://www.unicode.org/Public/MAPPINGS/VENDORS/
-http://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/
-http://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/README.TXT
-http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT
-http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/
-http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/PC/CP
-http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP
-http://www.unicode.org/Public/MAPPINGS/VENDORS/MISC/KOI8-R.TXT
-http://www.unicode.org/Public/UNIDATA/UnicodeData.html
-http://www.unicode.org/Public/UNIDATA/UnicodeData.txt
-http://www.unicode.org/reports/
-http://www.unicode.org/reports/tr24/
-http://www.unicode.org/reports/tr44/
-http://www.unicode.org/reports/tr44/tr44-4.html
-http://www.unicode.org/reports/tr9/
-http://www.unicode.org/review/pr-29.html
-http://www.unicode.org/terms_of_use.html
-http://www.unicode.org/unicode/reports/tr11/
-http://www.unicode.org/unicode/reports/tr14/
-http://www.unicode.org/unicode/reports/tr28/
-http://www.unicode.org/versions/Unicode5.2.0/ch03.pdf
-http://www.uni-vologda.ac.ru/
-http://www.unix.org
-http://www.unix.org/single_unix_specification/
-http://www.uploadtothissite.com
-http://www.usenix.org/events/lisa03/tech/robertson.html
-http://www.usenix.org/publications/library/proceedings/c
-http://www.usertrust.com/CN=UTN
-http://www.usr.com/support/product-template.asp?prod=5660a
-http://www.utdallas.edu/
-http://www.vanis.cz/ondra
-http://www.vegatech.com/
-http://www.vegatech.com/jzipper/
-http://www.vergenet.net/
-http://www.verisign.com/support/verisign-intermediate-ca/code-signing-intermediate/index.html
-http://www.vias.org/comp_geometry/math_coord_convert_3d.htm
-http://www.vias.org/simulations/simusoft_distcalc.html
-http://www.vias.org/simulations/simu_stat.html
-http://www.videopedia.pl/avirecomp
-http://www.virtualbox.org
-http://www.virtualenv.org
-http://www.vmware.com/support/developer/vix-api/vix18_reference/
-http://www.vulnwatch.org/netcat/
-http://www.w3c.org/tr/xpath
-http://www.w3.org
-http://www.w3.org/
-http://www.w3.org/1999/02/22-rdf-syntax-ns
-http://www.w3.org/1999/xhtml
-http://www.w3.org/1999/xhtml/
-http://www.w3.org/1999/xlink
-http://www.w3.org/1999/XSL/Format
-http://www.w3.org/1999/XSL/Transform
-http://www.w3.org/2000/09/xmldsig
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/xmlns/
-http://www.w3.org/2001/XInclude
-http://www.w3.org/2001/XMLSchema
-http://www.w3.org/2001/XMLSchema-instance
-http://www.w3.org/2002/08/xquery-functions
-http://www.w3.org/2003/XInclude
-http://www.w3.org/2005/Atom
-http://www.w3.org/Addressing/rfc
-http://www.w3.org/Addressing/rfc1738.txt
-http://www.w3.org/Addressing/rfc1808.txt
-http://www.w3.org/CGI/
-http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231
-http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd
-http://www.w3.org/hypertext/WWW/MarkUp/html-spec/html-spec_toc.html
-http://www.w3.org/MarkUp/SGML/Activity
-http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-http://www.w3.org/Protocols/rfc2616/rfc2616-sec19.html
-http://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html
-http://www.w3.org/pub/WWW/Addressing/Overview.html
-http://www.w3.org/pub/WWW/Protocols/
-http://www.w3.org/pub/WWW/TheProject.html
-http://www.w3.org/Style/XSL/
-http://www.w3.org/TR
-http://www.w3.org/TR/1998/WD-xlink-19980303
-http://www.w3.org/TR/1999/REC-xpath-19991116
-http://www.w3.org/TR/2000/CR-xptr-20000607
-http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113
-http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113
-http://www.w3.org/TR/2002/PR-xptr-element-20021113/
-http://www.w3.org/TR/2003/WD-xinclude-20031110
-http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407
-http://www.w3.org/TR/2004/REC-DOM-Level-3-LS-20040407
-http://www.w3.org/TR/2004/REC-DOM-Level-3-LS-20040407/DOM3-LS.html
-http://www.w3.org/TR/2004/REC-xml-20040204/
-http://www.w3.org/TR/2007/CR-emma-20071211/
-http://www.w3.org/TR/2007/CR-rdf-sparql-query-20070614/
-http://www.w3.org/TR/2007/CR-rdf-sparql-XMLres-20070925/
-http://www.w3.org/TR/2007/REC-xslt20-20070123/
-http://www.w3.org/TR/2009/CR-exi-20091208/
-http://www.w3.org/TR/html401/interact/forms.html
-http://www.w3.org/TR/html401/strict.dtd
-http://www.w3.org/TR/html4/frameset.dtd
-http://www.w3.org/TR/html4/loose.dtd
-http://www.w3.org/TR/html4/strict.dtd
-http://www.w3.org/TR/html5/association-of-controls-and-forms.html
-http://www.w3.org/TR/html5/forms.html
-http://www.w3.org/TR/html5/syntax.html
-http://www.w3.org/TR/MathML3/appendixb.html
-http://www.w3.org/TR/NOTE-xlink-principles
-http://www.w3.org/TR/NOTE-xlink-req/
-http://www.w3.org/TR/REC-DOM-Level-1/
-http://www.w3.org/TR/REC-html32.html
-http://www.w3.org/TR/REC-html40
-http://www.w3.org/TR/REC-html40/appendix/notes.html
-http://www.w3.org/TR/REC-html40/HTMLlat1.ent
-http://www.w3.org/TR/REC-html40/loose.dtd
-http://www.w3.org/TR/REC-xml
-http://www.w3.org/TR/REC-xml/
-http://www.w3.org/TR/REC-xml-names/
-http://www.w3.org/TR/SVG/mimereg.html
-http://www.w3.org/TR/wbxml/
-http://www.w3.org/TR/wd-xlink
-http://www.w3.org/TR/wd-xlink/
-http://www.w3.org/TR/WD-xml-link-970630
-http://www.w3.org/TR/WD-xptr
-http://www.w3.org/TR/widgets/
-http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd
-http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
-http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
-http://www.w3.org/TR/xinclude/
-http://www.w3.org/TR/xml-c14n
-http://www.w3.org/TR/xml-exc-c14n
-http://www.w3.org/TR/xmlschema-1/
-http://www.w3.org/TR/xmlschema-2/
-http://www.w3.org/TR/xpath
-http://www.w3.org/TR/xpath-functions/
-http://www.w3.org/XML/
-http://www.w3.org/XML/1998/namespace
-http://www.w3.org/XML/1998/namespace.
-http://www.w3.org/XML/Activity
-http://www.w3.org/XML/Group/1999/05/WD-xlink-19990505
-http://www.w3.org/XML/Group/1999/05/WD-xlink-19990527
-http://www.w3.org/XML/Group/1999/05/WD-xlink-current
-http://www.w3schools.com/css/default.asp
-http://www.w3schools.com/tags/ref_entities.asp
-http://www.w3schools.com/tags/ref_symbols.asp
-http://www.wapforum.org/DTD/channel12.dtd
-http://www.wapforum.org/DTD/co_1.0.dtd
-http://www.wapforum.org/DTD/emn.dtd
-http://www.wapforum.org/DTD/prov.dtd
-http://www.wapforum.org/DTD/si.dtd
-http://www.wapforum.org/DTD/sl.dtd
-http://www.wapforum.org/DTD/wml_1_1.dtd
-http://www.wapforum.org/DTD/wml12.dtd
-http://www.wapforum.org/DTD/wml13.dtd
-http://www.wapforum.org/DTD/wml.xml
-http://www.wapforum.org/DTD/wta-wml12.dtd
-http://www.wapforum.org/wina
-http://www.webmasterworld.com/r.cgi?f=21
-http://www.webmproject.org/code/specs/container/
-http://www.webzdarma.cz/
-http://www.westend.com/
-http://www.wharton.co.uk/Support/sup_dst.htm
-http://www.winampfr.com/nsis.
-http://www.wingsoft.com/
-http://www.wingsoft.com/wingguard.html
-http://www.winimage.com/zLibDll
-http://www.winimage.com/zLibDll/unzip.html
-http://www.wireless-village.org/CSP
-http://www.wireless-village.org/CSP1.1
-http://www.wireless-village.org/PA
-http://www.wireless-village.org/TRC
-http://www.wolframalpha.com/input/?i=inverse
-http://www.wordsmith.org/anagram/anagram.cgi?anagram=ACDRMGU
-http://www.worldtimeserver.com
-http://www.worldtimezone.com/utc/utc
-http://www.xda-developers.com/android/automated-device-lets-you-automate-your-android-device-with-rules/
-http://www.xfree86.org/
-http://www.xiph.org/
-http://www.xmlrpc.com.
-http://www.xmlrpc.com/discuss/msgReader
-http://www.xn--8ws00zhy3a.com
-http://www.xn--8ws00zhy3a.com/
-http://www.xn--8ws00zhy3a.com/atomtests/iri/
-http://www.xn--n8jaaaaai5bhf7as8fsfk3jnknefdde3f
-http://www.yahoo.com/
-http://www.yahoogroups.com/list/boost
-http://www.yelp.com/biz/ace-cafe-san-francisco
-http://www.yelp.com/biz/broken-record-san-francisco
-http://www.yelp.com/biz/chug-pub-san-francisco
-http://www.yelp.com/biz/corkage-sake-and-wine-shop-san-francisco
-http://www.yelp.com/biz/crestas-twenty-two-eleven-club-san-francisco
-http://www.yelp.com/biz/durty-nellys-san-francisco
-http://www.yelp.com/biz/eagles-drift-in-lounge-san-francisco
-http://www.yelp.com/biz/geary-club-san-francisco
-http://www.yelp.com/biz/hotel-biron-san-francisco
-http://www.yelp.com/biz/koko-cocktails-san-francisco
-http://www.yelp.com/biz/okeeffes-bar-san-francisco
-http://www.yelp.com/biz/sweeties-san-francisco
-http://www.yelp.com/biz/swirl-on-castro-san-francisco
-http://www.yelp.com/biz/the-bar-at-the-four-seasons-san-francisco
-http://www.yelp.com/biz/the-black-horse-london-pub-san-francisco
-http://www.yelp.com/biz/the-city-beer-store-and-tasting-bar-san-francisco
-http://www.yelp.com/biz/the-hidden-vine-san-francisco
-http://www.yelp.com/biz/tosca-cafe-san-francisco
-http://www.yelp.com/biz/wild-side-west-san-francisco
-http://www.yelp.com/biz/yield-wine-bar-san-francisco
-http://www.yelp.com/search?find_loc=1060
-http://www.yelp.com/search?find_loc=1166
-http://www.yelp.com/search?find_loc=1168
-http://www.yelp.com/search?find_loc=1232
-http://www.yelp.com/search?find_loc=1304
-http://www.yelp.com/search?find_loc=1514
-http://www.yelp.com/search?find_loc=1799
-http://www.yelp.com/search?find_loc=1849
-http://www.yelp.com/search?find_loc=2211
-http://www.yelp.com/search?find_loc=2328
-http://www.yelp.com/search?find_loc=242
-http://www.yelp.com/search?find_loc=2490
-http://www.yelp.com/search?find_loc=424
-http://www.yelp.com/search?find_loc=45
-http://www.yelp.com/search?find_loc=475
-http://www.yelp.com/search?find_loc=572
-http://www.yelp.com/search?find_loc=598
-http://www.yelp.com/search?find_loc=620
-http://www.yelp.com/search?find_loc=757
-http://www.yelp.com/search?find_loc=768
-http://www.yelp.com/search?find_loc=Bernal
-http://www.yelp.com/search?find_loc=Castro
-http://www.yelp.com/search?find_loc=Civic
-http://www.yelp.com/search?find_loc=Dogpatch
-http://www.yelp.com/search?find_loc=Hayes
-http://www.yelp.com/search?find_loc=Inner
-http://www.yelp.com/search?find_loc=Marina
-http://www.yelp.com/search?find_loc=Mission
-http://www.yelp.com/search?find_loc=Nob
-http://www.yelp.com/search?find_loc=North
-http://www.yelp.com/search?find_loc=Outer
-http://www.yelp.com/search?find_loc=Potrero
-http://www.yelp.com/search?find_loc=Russian
-http://www.yelp.com/search?find_loc=SOMA
-http://www.yelp.com/search?find_loc=Union
-http://www.yelp.com/search?find_loc=Western
-http://www.yelp.com/user_details?userid=0sPPamYvk77rDOYECr_85A
-http://www.yelp.com/user_details?userid=17AUx3RVchxyaqk71ygWaw
-http://www.yelp.com/user_details?userid=1D5EQITb4hOzPMZT8gDPQQ
-http://www.yelp.com/user_details?userid=1O1MfZlHbQx_U5G47a90JA
-http://www.yelp.com/user_details?userid=21SRsnSJqvk3gWXY1iDRiQ
-http://www.yelp.com/user_details?userid=3xsmXxDysn5yqflq3AzWKQ
-http://www.yelp.com/user_details?userid=755f5UrhlcEiPjfLUcKdDw
-http://www.yelp.com/user_details?userid=9hJYqwXzjbLsw_WUqYyzMg
-http://www.yelp.com/user_details?userid=9-y579gMphAItFxc9XA8yQ
-http://www.yelp.com/user_details?userid=AzUISA7zjPXVzxOBuNVUBA
-http://www.yelp.com/user_details?userid=CqMlDAQW_5Rj7Nu2hIrwfw
-http://www.yelp.com/user_details?userid=d7RGLy5EPXEFpLAfh3uwvA
-http://www.yelp.com/user_details?userid=DcmI6NlZykgvvZ4SkYoTdA
-http://www.yelp.com/user_details?userid=dpEtyfB2o7MH1Mc_Ygoolg
-http://www.yelp.com/user_details?userid=_Dv1gLCvRlrLTxxP5TX8GA
-http://www.yelp.com/user_details?userid=e1FuiYSV1v29q2OTR9ojBA
-http://www.yelp.com/user_details?userid=emF8KqAfI2VL6Sfaek9gFg
-http://www.yelp.com/user_details?userid=fjNmLQcw2oSYhUASdlo27w
-http://www.yelp.com/user_details?userid=Fnw_f0X0-cBscRr4sX5JYg
-http://www.yelp.com/user_details?userid=fYWW7lFdHcvUJ-gsTRJttw
-http://www.yelp.com/user_details?userid=hE34xpG35WugHznWf79HfQ
-http://www.yelp.com/user_details?userid=ipleTHGh9KR8hO5U1yxzXw
-http://www.yelp.com/user_details?userid=IUEkE8T7SvEw4LXSWSOknw
-http://www.yelp.com/user_details?userid=iV_Hnp3sFxncd6MNhkndGA
-http://www.yelp.com/user_details?userid=IWal1ziP1AlfcgDJj5CKFw
-http://www.yelp.com/user_details?userid=JF-7fBtuA_l5R650Iqe7RQ
-http://www.yelp.com/user_details?userid=K1NLdTfT1IizE-6smhsSug
-http://www.yelp.com/user_details?userid=k4oMdCSDqa_1iP3hVaozZA
-http://www.yelp.com/user_details?userid=K6jTnDUtLuxyTFASgCS-gw
-http://www.yelp.com/user_details?userid=KpwPavO0PtuSTIaJ2Uslfg
-http://www.yelp.com/user_details?userid=kzkAXy9mJS6gMljzC4xGXw
-http://www.yelp.com/user_details?userid=LIr-srYm2nOmPlXQxaYELQ
-http://www.yelp.com/user_details?userid=LnZUtFx6qTWs8NV6lAARxQ
-http://www.yelp.com/user_details?userid=M_4EmxzznybTzMwT7FDg_g
-http://www.yelp.com/user_details?userid=mg4gZL6QRMSX-lnLFyEKAg
-http://www.yelp.com/user_details?userid=NRGUOpoK1RvIUWZPQ13QTg
-http://www.yelp.com/user_details?userid=P7_vx8jtm7tNz38N1H1NWw
-http://www.yelp.com/user_details?userid=qD51vvp5Zf5DgPEGy7yfDQ
-http://www.yelp.com/user_details?userid=QmmdnVRrxAZLm76-8OTD7Q
-http://www.yelp.com/user_details?userid=qxEwdvhxDw51cAEejXK83g
-http://www.yelp.com/user_details?userid=RbaIxpAbwl6JrIPgIX4XIw
-http://www.yelp.com/user_details?userid=rdSJ_jlij_2x5glkrEEZxg
-http://www.yelp.com/user_details?userid=RjQkoF8llTiXoO1bc4gOMQ
-http://www.yelp.com/user_details?userid=smx4hf_nkWhFklxLwfGLjw
-http://www.yelp.com/user_details?userid=Sw4e9geYXjwG8-JgsuZTSw
-http://www.yelp.com/user_details?userid=UBAfc-KuDXV8XLurou_i6g
-http://www.yelp.com/user_details?userid=uSCYNal_CJDPGBYUAenyoA
-http://www.yelp.com/user_details?userid=uTSGqJGFwngSLTSckILesw
-http://www.yelp.com/user_details?userid=V8t5zmkH-o5IHmKeds6DuA
-http://www.yelp.com/user_details?userid=Vnja4xoPVQ7BLXIsVy_cFw
-http://www.yelp.com/user_details?userid=xADAW32u15sgA18Hfy9PsQ
-http://www.yelp.com/user_details?userid=XDQCUG6dB_NntrZNsn5Frw
-http://www.yelp.com/user_details?userid=XnbGrJNw0wglmqXekW138Q
-http://www.yelp.com/user_details?userid=xZ1htr_9ZiOamddSoDWMqw
-http://www.yelp.com/user_details?userid=zlxg7BQ6StisAAC0cpUsZQ
-http://www.yelp.com/user_details?userid=zpXqbJQ2CT4PsUBTy30DbQ
-http://www.yelp.com/user_details?userid=zvAZsfg7Id2c9X5Vx8uMvQ
-http://www.yoshidam.net/Ruby.html
-http://www.yworks.com/
-http://www.yworks.com/en/products_yguard_about.htm
-http://www.zelix.com/
-http://www.zelix.com/klassmaster/index.html
-http://www.zikko.se/resources/lineIntersection.php
-http://www.zlatkovic.com/pub/libxml/
-http://www.zlib.org
-http://www.zlib.org/
-http://www.zlib.org.
-http://www.zlib.org/advisory-2002-03-11.txt
-http://www.zope.com
-http://www.zope.org/Members/fdrake/DateTimeWiki/FrontPage
-http://www.zope.org/Members/fdrake/DateTimeWiki/TestCases
-http://www.zzz.org/mailman/listinfo/ppp
-http://wyman.us/
-http://xerces.apache.org/xerces-c/program-sax2-3.html
-http://xkcd.com/353/
-http://xml.apache.org/xslt
-http://xml/metadataSharing.xsd
-http://xml.org/sax/features/external-general-entities
-http://xml.org/sax/features/external-parameter-entities
-http://xml.org/sax/features/namespace-prefixes
-http://xml.org/sax/features/namespaces
-http://xml.org/sax/features/string-interning
-http://xml.org/sax/features/validation
-http://xml.org/sax/properties/declaration-handler
-http://xml.org/sax/properties/dom-node
-http://xml.org/sax/properties/lexical-handler
-http://xml.org/sax/properties/xml-string
-http://xml.python.org/
-http://xml.python.org/e1
-http://xml.python.org/e2
-http://xml.python.org/entities/fragment-builder/internal
-http://xml.python.org/entities/my
-http://xml.python.org/entities/something.xml
-http://xml.python.org/entity
-http://xml.python.org/namespaces/a
-http://xml.python.org/notations/my
-http://xml.python.org/notations/python-module
-http://xml.python.org/ns
-http://xml.python.org/ns1
-http://xml.python.org/ns2
-http://xml.python.org/public
-http://xml.python.org/splat
-http://xml.python.org/system
-http://xmlrpc-c.sourceforge.net/api/sample.php
-http://xmlrpc-epi.sourceforge.net/specs/rfc.fault_codes.php
-http://xmlrpc.usefulinc.com/doc/reserved.html
-http://xmlrpc.usefulinc.com/doc/sysmethodsig.html
-http://xmlsoft.org/XSLT/.
-http://xmlvalidation.com/
-http://xorg.freedesktop.org/releases/individual/lib/
-http://xorg.freedesktop.org/releases/individual/proto/
-http://xunitpatterns.com/Test
-http://x.y.z.com/
-http://yaml.org
-http://yaml.org/spec/1.1/
-http://yaml.org/type/float.html
-http://yaml.org/type/int.html
-http://yaml.org/type/timestamp.html
-http://yost.co.uk/
-http://your.web.server/cgi-bin/faqw.py
-http://yugui.jp/articles/846
-http://zboncaklehner.ca/
-http://zero/
-http://zgp.org/pipermail/p2p-hackers/2001-September/000316.html
-http://ziememayert.com/
-http://zigzag.cs.msu.su/boost.build
-http://zooko.com/
+1.	http://0.0.0.0/
+2.	http://10.0.0.1/
+3.	http://10.0.2.2
+4.	http://1.1.1.1/
+5.	http://1.2.3.4
+6.	http://12.34.56.78
+7.	http://12.34.56.78/foo/
+8.	http://125.125.125.125
+9.	http://127.0.01
+10.	http://127.0.0.1
+11.	http://127.0.0.1/
+12.	http://127.0.0.1/10k.html
+13.	http://127.0.0.1/communication/jobs/12
+14.	http://127.0.0.1/communication/servers/127.0.0.1
+15.	http://127.0.0.1/spam
+16.	http://127.0.0.1/spammity/spam
+17.	http://127.0.0.1/spammity/spam?say=ni
+18.	http://127.1.1.1/
+19.	http://14.136.236.155/scout.dat
+20.	http://14.136.236.155/stage3.dat
+21.	http://172.16.42.100
+22.	http://172.20.20.168/testrail/index.php?/api
+23.	http://172.20.30.31/results/2013-09-04
+24.	http://172.20.30.31/updates/
+25.	http://192.0.2.16
+26.	http://192.168.0.1/Python/interrupt/test1.asp
+27.	http://192.168.0.1/Python/interrupt/test.asp
+28.	http://192.168.1.153
+29.	http://192.168.1.189/wc12/webclient
+30.	http://192.168.168.202/app.ipa
+31.	http://192.168.168.202/down.png
+32.	http://192.168.69.127/sploit.html
+33.	http://192.168.69.229/news/1316691816/page.cfm
+34.	http://192.168.69.229/news/3466125380/page.cfm
+35.	http://199.175.54.94/docs/cccccc/fwd
+36.	http://7-zip.org/
+37.	http://7-zip.org/sdk.html
+38.	http://88.80.197.161
+39.	http://89.96.137.6/a.jad
+40.	http://a
+41.	http://a/
+42.	http://aa.usno.navy.mil/faq/docs/UT.html
+43.	http://a/b/
+44.	http://a/b/c/
+45.	http://a/b/c/d
+46.	http://a/b/c/de
+47.	http://a/b/c/d?y
+48.	http://a/b/c/g
+49.	http://a/b/c/.g
+50.	http://a/b/c/..g
+51.	http://a/b/c/g/
+52.	http://a/b/c/g.
+53.	http://a/b/c/g..
+54.	http://a/b/c/g/h
+55.	http://a/b/c/g?y
+56.	http://a/b/c/g?y/./x
+57.	http://a/b/c/g?y/../x
+58.	http://a/b/c/h
+59.	http://a/b/c/y
+60.	http://abernathycummerata.uk/
+61.	http://a/b/g
+62.	http://about.travis-ci.org/docs/user/languages/ruby/
+63.	http://acme.com/
+64.	http://acme.example.com
+65.	http://acme.example.com/
+66.	http://acme.example.com/a
+67.	http://acme.example.com/protected
+68.	http://activestate.com/activepython
+69.	http://activestate.com/activepython/downloads
+70.	http://ad.doubleclick.net/pfadx/DARTSHELLCONFIGXML
+71.	http://addressable.rubyforge.org/
+72.	http://addressable.rubyforge.org/api/
+73.	http://adoxa.3eeweb.com/ansicon/
+74.	http://ads.gameforgeads.de/adframe.php?n=a44fb522
+75.	http://ad.wz.cz/openx/www/delivery/avw.php?zoneid=12
+76.	http://ad.wz.cz/openx/www/delivery/ck.php?n=a5977468
+77.	http://adywicaksono.wordpress.com/2008/05/11/sending-wap-push-service-indication/
+78.	http://a.example.com
+79.	http://a.example.com/
+80.	http://a/g
+81.	http://a/./g
+82.	http://a/../g
+83.	http://a/../../g
+84.	http://ahad-haam
+85.	http://analytics.postrank.com/
+86.	http://andre.arko.net/2010/08/16/using-passengerpane-with-gem_home-set/
+87.	http://android.git.kernel.org/?p=platform/packages/apps/Settings.git
+88.	http://ankundingsporer.co.uk/
+89.	http://another.pypi/
+90.	http://ant.apache.org
+91.	http://ant.apache.org/
+92.	http://ant.apache.org/manual/Types/classfileset.html
+93.	http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/cwg_active.html
+94.	http://anubis.dkuug.dk/JTC1/SC22/WG21/docs/cwg_defects.html
+95.	http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/lwg-defects.html
+96.	http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/papers/2000/n1232.pdf
+97.	http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/papers/2003/n1454.html
+98.	http://any.org/archive
+99.	http://apache.org/xml/features/calculate-src-ofs
+100.	http://apache.org/xml/features/continue-after-fatal-error
+101.	http://apache.org/xml/features/disable-default-entity-resolution
+102.	http://apache.org/xml/features/dom/byte-order-mark
+103.	http://apache.org/xml/features/dom-has-psvi-info
+104.	http://apache.org/xml/features/dom/user-adopts-DOMDocument
+105.	http://apache.org/xml/features/generate-synthetic-annotations
+106.	http://apache.org/xml/features/nonvalidating/load-external-dtd
+107.	http://apache.org/xml/features/pretty-print/space-first-level-elements
+108.	http://apache.org/xml/features/schema/ignore-annotations
+109.	http://apache.org/xml/features/standard-uri-conformant
+110.	http://apache.org/xml/features/validate-annotations
+111.	http://apache.org/xml/features/validating/load-schema
+112.	http://apache.org/xml/features/validation/cache-grammarFromParse
+113.	http://apache.org/xml/features/validation/dynamic
+114.	http://apache.org/xml/features/validation-error-as-fatal
+115.	http://apache.org/xml/features/validation/identity-constraint-checking
+116.	http://apache.org/xml/features/validation/ignoreCachedDTD
+117.	http://apache.org/xml/features/validation/reuse-grammar
+118.	http://apache.org/xml/features/validation/schema
+119.	http://apache.org/xml/features/validation/schema-full-checking
+120.	http://apache.org/xml/features/validation/schema/skip-dtd-validation
+121.	http://apache.org/xml/features/validation/use-cachedGrammarInParse
+122.	http://apache.org/xml/properties/entity-resolver
+123.	http://apache.org/xml/properties/parser-use-DOMDocument-from-Implementation
+124.	http://apache.org/xml/properties/scannerName
+125.	http://apache.org/xml/properties/schema/external-noNamespaceSchemaLocation
+126.	http://apache.org/xml/properties/schema/external-noNamespaceSchemaLocation.
+127.	http://apache.org/xml/properties/schema/external-schemaLocation
+128.	http://apache.org/xml/properties/security-manager
+129.	http://apenwarr.ca/log/?m=201111
+130.	http://api.twitter.com/1/statuses/home_timeline.json
+131.	http://apps.gotdotnet.com/xmltools/xsdvalidator/
+132.	http://apr.apache.org/
+133.	http://aprsworld.net/gisdata/world
+134.	http://archive.apache.org/dist/xmlgraphics/fop/binaries/
+135.	http://archives.free.net.ph/message/20070507.175609.4c4f503a.en.html
+136.	http://arglist.com/regex/
+137.	http://armstrong.info/
+138.	http://artax.karlin.mff.cuni.cz/
+139.	http://article.gmane.org/gmane.comp.lib.boost.build/3389/
+140.	http://article.gmane.org/gmane.comp.lib.boost.build/3906/
+141.	http://article.gmane.org/gmane.comp.lib.boost.build/4241
+142.	http://article.gmane.org/gmane.comp.lib.boost.build/5643/
+143.	http://article.gmane.org/gmane.comp.lib.boost.build/6353
+144.	http://article.gmane.org/gmane.comp.lib.boost.devel/103843
+145.	http://article.gmane.org/gmane.comp.lib.boost.devel/108959
+146.	http://article.gmane.org/gmane.comp.lib.boost.devel/146688
+147.	http://article.gmane.org/gmane.comp.lib.boost.devel/151065
+148.	http://article.gmane.org/gmane.comp.lib.boost.devel/173011
+149.	http://article.gmane.org/gmane.comp.lib.boost.testing/933
+150.	http://article.gmane.org/gmane.comp.lib.boost.user/3005
+151.	http://article.gmane.org/gmane.comp.parsers.spirit.devel/1891/
+152.	http://article.gmane.org/gmane.comp.parsers.spirit.general/3678
+153.	http://article.gmane.org/gmane.comp.parsers.spirit.general/4029
+154.	http://article.gmane.org/gmane.comp.parsers.spirit.general/4575
+155.	http://article.gmane.org/gmane.comp.parsers.spirit.general/8544
+156.	http://article.gmane.org/gmane.comp.parsers.spirit.general/8860
+157.	http://article.gmane.org/gmane.comp.parsers.spirit.general/8868
+158.	http://article.gmane.org/gmane.comp.parsers.spirit.general/9013
+159.	http://article.gmane.org/gmane.comp.python.general/544986
+160.	http://article.gmane.org/gmane.comp.time.tz/1008
+161.	http://article.gmane.org/gmane.comp.time.tz/1175
+162.	http://article.gmane.org/gmane.comp.time.tz/1288
+163.	http://article.gmane.org/gmane.comp.time.tz/1358
+164.	http://article.gmane.org/gmane.comp.time.tz/1810
+165.	http://article.gmane.org/gmane.comp.time.tz/1878
+166.	http://article.gmane.org/gmane.comp.time.tz/2029
+167.	http://article.gmane.org/gmane.comp.time.tz/2071
+168.	http://article.gmane.org/gmane.comp.time.tz/2149
+169.	http://article.gmane.org/gmane.comp.time.tz/2183
+170.	http://article.gmane.org/gmane.comp.time.tz/2293
+171.	http://article.gmane.org/gmane.comp.time.tz/2335
+172.	http://article.gmane.org/gmane.comp.time.tz/2440
+173.	http://article.gmane.org/gmane.comp.time.tz/2668
+174.	http://article.gmane.org/gmane.comp.time.tz/2818
+175.	http://article.gmane.org/gmane.comp.time.tz/2953
+176.	http://article.gmane.org/gmane.comp.time.tz/3053
+177.	http://article.gmane.org/gmane.comp.time.tz/3128
+178.	http://article.gmane.org/gmane.comp.time.tz/3172
+179.	http://article.gmane.org/gmane.comp.time.tz/3188
+180.	http://article.gmane.org/gmane.comp.time.tz/3202
+181.	http://article.gmane.org/gmane.comp.time.tz/3225
+182.	http://article.gmane.org/gmane.comp.time.tz/3354
+183.	http://article.gmane.org/gmane.comp.time.tz/3473
+184.	http://article.gmane.org/gmane.comp.time.tz/3662
+185.	http://article.gmane.org/gmane.comp.time.tz/3707
+186.	http://article.gmane.org/gmane.comp.time.tz/3758
+187.	http://article.gmane.org/gmane.comp.time.tz/3814
+188.	http://article.gmane.org/gmane.comp.time.tz/4084
+189.	http://article.gmane.org/gmane.comp.time.tz/4434
+190.	http://article.gmane.org/gmane.comp.time.tz/4756
+191.	http://article.gmane.org/gmane.comp.time.tz/4859
+192.	http://article.gmane.org/gmane.comp.time.tz/738
+193.	http://article.gmane.org/gmane.comp.time.tz/920
+194.	http://article.gmane.org/gmane.comp.time.tz/936
+195.	http://article.gmane.org/gmane.comp.version-control.git/146500
+196.	http://arxiv.org/abs/math.CA/9409227
+197.	http://asdl.sourceforge.net/
+198.	http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/393090
+199.	http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/416087
+200.	http://aspn.activestate.com/ASPN/Mail/Message/Attachments/boost/
+201.	http://aspn.activestate.com/ASPN/Mail/Message/boost/1614864
+202.	http://assarbad.net/contact/
+203.	http://a.tbcdn.cn/p/fp/2010c/??fp-header-min.css
+204.	http://aufderhar.info/
+205.	http://austingroupbugs.net/view.php?id=542
+206.	http://auth.foo.com/
+207.	http://autoconf-archive.cryp.to/acx_pthread.html
+208.	http://automation.whatismyip.com/n09230945.asp
+209.	http://avisynth.org/mediawiki/Filter_SDK/Assembler_optimizing
+210.	http://aws.amazon.com/apache2.0/
+211.	http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/com.apple.jingle.appserver.client.MZITunesClientCheck/version
+212.	http://azzalini.stat.unipd.it/SN/
+213.	http://badge.fury.io/rb/docile
+214.	http://badge.fury.io/rb/tzinfo
+215.	http://balistrerigerhold.co.uk/
+216.	http://banisterfiend.wordpress.com
+217.	http://bannalia.blogspot.com/2008/09/introducing-stablevector.html
+218.	http://barry.wooz.org
+219.	http://bartell.ca/
+220.	http://bashirian.ca/
+221.	http://baumbach.info/
+222.	http://behindfirewall
+223.	http://berge.info/
+224.	http://berge.name/
+225.	http://beta.boost.org/development/snapshot.php/
+226.	http://beta.boost.org/development/tests/
+227.	http://beta.boost.org/doc/libs
+228.	http://beta.zyprexia.com/docs/pgsql/user/datatype1130.htm
+229.	http://bitbucket.org/ged/ruby-pg
+230.	http://bitbucket.org/tarek/buildout-distribute
+231.	http://bitbucket.org/tarek/distribute
+232.	http://bitbucket.org/tarek/distribute/issue/1.
+233.	http://bitbucket.org/tarek/distribute/issue/10.
+234.	http://bitbucket.org/tarek/distribute/issue/12.
+235.	http://bitbucket.org/tarek/distribute/issue/13.
+236.	http://bitbucket.org/tarek/distribute/issue/16
+237.	http://bitbucket.org/tarek/distribute/issue/163/md5-validation-error
+238.	http://bitbucket.org/tarek/distribute/issue/18.
+239.	http://bitbucket.org/tarek/distribute/issue/3.
+240.	http://bitbucket.org/tarek/distribute/issue/31.
+241.	http://bitbucket.org/tarek/distribute/issue/40.
+242.	http://bitbucket.org/tarek/distribute/issue/49.
+243.	http://bitbucket.org/tarek/distribute/issue/5.
+244.	http://bitbucket.org/tarek/distribute/issue/50.
+245.	http://bitbucket.org/tarek/distribute/issue/52.
+246.	http://bitbucket.org/tarek/distribute/issue/56.
+247.	http://bitbucket.org/tarek/distribute/issue/6.
+248.	http://bitbucket.org/tarek/distribute/issue/7.
+249.	http://bitbucket.org/tarek/distribute/issue/8.
+250.	http://bitbucket.org/tarek/distribute/issue/9.
+251.	http://bitbucket.org/tarek/distribute/issues/
+252.	http://bitcoin.org/critfix
+253.	http://bit.ly/bundler-issues.
+254.	http://bit.ly/d2iiUL
+255.	http://bit.ly/j70E7T
+256.	http://bit.ly/jW3cR3
+257.	http://bit.ly/roflscalevideo
+258.	http://bit.ly/syck-defaultkey.
+259.	http://bit.ly/webscaletm
+260.	http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/37805
+261.	http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/193379
+262.	http://blah/
+263.	http://blahblah
+264.	http://blah.spam.org/
+265.	http://blicksmitham.biz/
+266.	http://block.ca/
+267.	http://blockexplorer.com/
+268.	http://blog.cuckoosandbox.org/
+269.	http://blog.davidchelimsky.net/2012/05/13/spec-smell-explicit-use-of-subject/
+270.	http://blog.emptyway.com/2009/11/03/proper-way-to-detect-windows-platform-in-ruby/
+271.	http://blog.flexuous.com/2010/09/08/flexflash-builder-localization-configuration/
+272.	http://blog.ianbicking.org/2007/10/10/workingenv-is-dead-long-live-virtualenv/
+273.	http://blog.laptopmag.com/how-to-add-another-90-days-to-your-windows-8-trial
+274.	http://blog.mmediasys.com/2010/11/24/we-all-love-colors/
+275.	http://blog.nikosd.com/2011/11/github-flavored-markdown-in-yard.html
+276.	http://blog.rubygems.org/2011/08/31/shaving-the-yaml-yacc.html
+277.	http://blogs.msdn.com/david.wang/archive/2006/03/26/HOWTO-Detect-Process-Bitness.aspx
+278.	http://blogs.msdn.com/michkap/archive/2006/12/22/1350684.aspx
+279.	http://blog.zenspider.com/2008/10/rubygems-howto-preventing-cata.html
+280.	http://blueprintcss.org
+281.	http://bogisichblick.co.uk/
+282.	http://bogisichborer.info/
+283.	http://boost.2283326.n4.nabble.com/type-traits-is-constructible-when-decltype-is-supported-td3575452.html
+284.	http://boost-consulting.com/boost/libs/multi_index/doc/compiler_specifics.html
+285.	http://boost.org/b2.
+286.	http://boost.org/boost-build2
+287.	http://boost.org/boost-build2/boost-build.tar.bz2
+288.	http://boost.org/boost-build2/boost-build.zip
+289.	http://boost.org/boost-build2/doc/html/bbv2/advanced/configuration.html
+290.	http://boost.org/boost-build2/doc/html/bbv2/advanced.html
+291.	http://boost.org/boost-build2/doc/html/bbv2/reference.html
+292.	http://boost.org/boost-build2/doc/html/bbv2/reference/tools.html
+293.	http://boost.org/doc/html/hash/portability.html
+294.	http://boost.org/libs/iostreams/doc/index.html?path=7
+295.	http://boost.org/libs/utility/shared_container_iterator.html
+296.	http://boost.org/LICENSE_1_0.txt
+297.	http://boost.org/more/getting_started/windows.html
+298.	http://boost.sf.net/boost-build2/boost.png
+299.	http://boost-spirit.com/home/2010/02/08/how-to-adapt-templates-as-a-fusion-sequence
+300.	http://boost-spirit.com/home/?page_id=659
+301.	http://bottlepy.org/
+302.	http://bot.whatismyipaddress.com
+303.	http://boyerbartoletti.com/
+304.	http://b.pypi.python.org
+305.	http://brainwallet.org/
+306.	http://break.com/
+307.	http://bruen.info/
+308.	http://bsonspec.org
+309.	http://bsonspec.org/
+310.	http://bsonspec.org.
+311.	http://buckridge.name/
+312.	http://bugs.activestate.com/ActivePython/show_bug.cgi?id=33311
+313.	http://bugs.activestate.com/show_bug.cgi?id=85099
+314.	http://bugs.activestate.com/show_bug.cgi?id=89657
+315.	http://bugs.adobe.com/jira/browse/SDK-21143
+316.	http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=618367
+317.	http://bugs.gentoo.org/show_bug.cgi?id=286911
+318.	http://bugs.jquery.com/ticket/12273
+319.	http://bugs.jython.org/issue1112
+320.	http://bugs.python.org
+321.	http://bugs.python.org/.
+322.	http://bugs.python.org.
+323.	http://bugs.python.org/546117
+324.	http://bugs.python.org/814976
+325.	http://bugs.python.org/file10357/msum4.py
+326.	http://bugs.python.org/issue10447
+327.	http://bugs.python.org/issue1202
+328.	http://bugs.python.org/issue1282647
+329.	http://bugs.python.org/issue1293.
+330.	http://bugs.python.org/issue1336
+331.	http://bugs.python.org/issue1533164
+332.	http://bugs.python.org/issue1640.
+333.	http://bugs.python.org/issue1747858
+334.	http://bugs.python.org/issue1881
+335.	http://bugs.python.org/issue2016
+336.	http://bugs.python.org/issue2254
+337.	http://bugs.python.org/issue2279
+338.	http://bugs.python.org/issue2550
+339.	http://bugs.python.org/issue2578
+340.	http://bugs.python.org/issue2578.
+341.	http://bugs.python.org/issue2646
+342.	http://bugs.python.org/issue2791.
+343.	http://bugs.python.org/issue3221.
+344.	http://bugs.python.org/issue3309
+345.	http://bugs.python.org/issue3386
+346.	http://bugs.python.org/issue3554
+347.	http://bugs.python.org/issue3677.
+348.	http://bugs.python.org/issue3708
+349.	http://bugs.python.org/issue3863.
+350.	http://bugs.python.org/issue4373
+351.	http://bugs.python.org/issue4524
+352.	http://bugs.python.org/issue5040
+353.	http://bugs.python.org/issue5042
+354.	http://bugs.python.org/issue561858.
+355.	http://bugs.python.org/issue6149
+356.	http://bugs.python.org/issue6196
+357.	http://bugs.python.org/issue6289
+358.	http://bugs.python.org/issue6333
+359.	http://bugs.python.org/issue6435
+360.	http://bugs.python.org/issue6510
+361.	http://bugs.python.org/issue6584
+362.	http://bugs.python.org/issue6609
+363.	http://bugs.python.org/issue6643.
+364.	http://bugs.python.org/issue6665
+365.	http://bugs.python.org/issue6704
+366.	http://bugs.python.org/issue6857.
+367.	http://bugs.python.org/issue6990
+368.	http://bugs.python.org/issue7005
+369.	http://bugs.python.org/issue7250
+370.	http://bugs.python.org/issue742342
+371.	http://bugs.python.org/issue7478
+372.	http://bugs.python.org/issue7632
+373.	http://bugs.python.org/issue7846
+374.	http://bugs.python.org/issue8032
+375.	http://bugs.python.org/issue8108
+376.	http://bugs.python.org/issue8279?
+377.	http://bugs.python.org/issue8330
+378.	http://bugs.python.org/issue8600
+379.	http://bugs.python.org/issue8732
+380.	http://bugs.python.org/issue874900
+381.	http://bugs.python.org/issue8772
+382.	http://bugs.python.org/issue9444
+383.	http://bugs.python.org/setuptools/issue2.
+384.	http://bugs.python.org/setuptools/issue20.
+385.	http://bugs.python.org/setuptools/issue33.
+386.	http://bugs.python.org/setuptools/issue39.
+387.	http://bugs.python.org/setuptools/issue40.
+388.	http://bugs.python.org/setuptools/issue41.
+389.	http://bugs.python.org/setuptools/issue44.
+390.	http://bugs.ruby-lang.org
+391.	http://bugs.ruby-lang.org.
+392.	http://bugs.ruby-lang.org/issues/8059
+393.	http://bugs.ruby-lang.org/wiki/ruby/Contributors
+394.	http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7027598
+395.	http://bugs.sun.com/view_bug.do?bug_id=4216736
+396.	http://bugs.sun.com/view_bug.do?bug_id=4362291
+397.	http://bugs.sun.com/view_bug.do?bug_id=4761949
+398.	http://bugs.sun.com/view_bug.do?bug_id=6782987
+399.	http://bugs.sun.com/view_bug.do?bug_id=7027598
+400.	http://bugzilla.gnome.org/.
+401.	http://bugzilla.gnome.org/enter_bug.cgi?product=glib
+402.	http://bugzilla.mindrot.org/show_bug.cgi?id=138
+403.	http://bugzilla.mindrot.org/show_bug.cgi?id=697
+404.	http://builder.rubyforge.org/
+405.	http://bundler.io
+406.	http://bundler.io/
+407.	http://bundler.io/compatibility.html
+408.	http://bundler.io/conduct.html
+409.	http://bundler.io/deploying.html
+410.	http://bundler.io/rationale.html
+411.	http://bundler.io/v1.3/man/bundle.1.html
+412.	http://bundler.io/v1.5/rationale.html
+413.	http://bundler.localgemserver.test
+414.	http://c2.com/cgi/wiki?TrivialDoWhileLoop
+415.	http://carroll.co.uk/
+416.	http://carroll.us/
+417.	http://cartogrammar.com/blog
+418.	http://cartwright.ca/
+419.	http://cava.unog.ch
+420.	http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+421.	http://c.example.com
+422.	http://c-faq.com/misc/hexio.html.
+423.	http://cheeseshop.python.org/pypi/workingenv.py
+424.	http://choosealicense.com/licenses/mit/
+425.	http://christiansen.biz/
+426.	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.6687
+427.	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.614
+428.	http://clover.slavic.pitt.edu/
+429.	http://code.activestate.com/pypm/
+430.	http://code.activestate.com/pypm/search
+431.	http://code.activestate.com/pypm/virtualenv
+432.	http://code.activestate.com/recipes/259174/
+433.	http://code.activestate.com/recipes/393090/
+434.	http://code.activestate.com/recipes/440694/
+435.	http://code.activestate.com/recipes/577621-manage-environment-variables-on-windows/
+436.	http://code.google.com/p/android/issues/detail?id=10603
+437.	http://code.google.com/p/android/issues/detail?id=2042
+438.	http://code.google.com/p/android/issues/detail?id=3031
+439.	http://code.google.com/p/android/issues/detail?id=39983
+440.	http://code.google.com/p/asmjit/
+441.	http://code.google.com/p/birdeye/wiki/RaVis
+442.	http://code.google.com/p/bitcoinj/source/browse/trunk/src/com/google/bitcoin/core/Script.java
+443.	http://code.google.com/p/cmdln/
+444.	http://code.google.com/p/dpkt/
+445.	http://code.google.com/p/flexlib/
+446.	http://code.google.com/p/flexpad/
+447.	http://code.google.com/p/grapefruit/issues/detail?id=3
+448.	http://code.google.com/p/gyp/
+449.	http://code.google.com/p/modwsgi/wiki/VirtualEnvironments
+450.	http://code.google.com/p/ouspg/
+451.	http://code.google.com/p/ouspg/downloads/list
+452.	http://code.google.com/p/simplejson/issues/detail?id=3
+453.	http://code.google.com/p/slowaes/
+454.	http://code.google.com/p/smali/
+455.	http://code.google.com/p/swfobject/
+456.	http://code.google.com/p/treeshaker/
+457.	http://code.google.com/p/unladen-swallow/source/detail?spec=svn875
+458.	http://code.google.com/p/yara-project/
+459.	http://code.macournoyer.com/thin/
+460.	http://coderay.rubychan.de
+461.	http://coderay.rubychan.de/doc/
+462.	http://code.shichiseki.jp/as3/ExifInfo/
+463.	http://code.sixapart.com/svn/memcached/trunk/server/doc/protocol.txt
+464.	http://coding.derkeiler.com/Archive/General/comp.theory/2007-05/msg00043.html
+465.	http://collinsheidenreich.uk/
+466.	http://collins.us/
+467.	http://colloquy.info
+468.	http://colszowka.github.com/simplecov/devise_result-0.5.3.png
+469.	http://colszowka.github.com/simplecov/devise_source_file-0.5.3.png
+470.	http://community.rapid7.com/community/open_source/magnificent7
+471.	http://connect.microsoft.com/VisualStudio/feedback/details/484295
+472.	http://conn.info/
+473.	http://conroy.co.uk/
+474.	http://conroy.info/
+475.	http://cool.haxx.se/mailman/listinfo/curl-library/
+476.	http://coolio.github.com/
+477.	http://corkami.blogspot.com/2010/01/hey-hey-hey-whats-in-your-head.html
+478.	http://corkami.blogspot.com/2010/01/parce-que-la-planche-aura-brule.html
+479.	http://corkerymurazik.ca/
+480.	http://cormier.ca/
+481.	http://cpe.mitre.org.
+482.	http://cpe.mitre.org/The
+483.	http://cran.r-project.org/src/contrib/Archive/ig/
+484.	http://creativecommons.org/licenses/by-sa/2.0/
+485.	http://creativecommons.org/licenses/publicdomain.
+486.	http://creativecommons.org/ns
+487.	http://creativecommons.org/publicdomain/zero/1.0/
+488.	http://cremin.uk/
+489.	http://cristmayer.uk/
+490.	http://crooks.biz/
+491.	http://crooks.co.uk/
+492.	http://crookslindgren.us/
+493.	http://cr.yp.to/libtai.html
+494.	http://cs.arizona.edu/
+495.	http://csrc.nist.gov/cryptval/shs.htm
+496.	http://csrc.nist.gov/cryptval/shs.html
+497.	http://csrc.nist.gov/cryptval/shs/shabytetestvectors.zip
+498.	http://csrc.nist.gov/publications/fips/fips180-2/fips180-2.pdf
+499.	http://cummings.co.uk/
+500.	http://cummingshagenes.uk/
+501.	http://curl.haxx.se
+502.	http://curl.haxx.se/
+503.	http://curl.haxx.se/docs/
+504.	http://curl.haxx.se/docs/copyright.html.
+505.	http://curl.haxx.se/docs/sslcerts.html
+506.	http://curl.haxx.se/libcurl/
+507.	http://curl.haxx.se/libcurl/c/curl_easy_cleanup.html
+508.	http://curl.haxx.se/libcurl/c/curl_easy_getinfo.html
+509.	http://curl.haxx.se/libcurl/c/curl_easy_init.html
+510.	http://curl.haxx.se/libcurl/c/curl_easy_perform.html
+511.	http://curl.haxx.se/libcurl/c/curl_easy_setopt.html
+512.	http://curl.haxx.se/rfc/cookie_spec.html
+513.	http://curl.haxx.se/rfc/rfc2396.txt
+514.	http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2959
+515.	http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-1350
+516.	http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-1352
+517.	http://cwe.mitre.org/
+518.	http://cyberscore.dev/api/users
+519.	http://cyberscore.dev/api/users?username=foobaz
+520.	http://cycnus.de/raindark/coderay/scheme.png
+521.	http://czyborra.com/
+522.	http://czyborra.com/charsets/dec-mcs.txt.gz
+523.	http://czyborra.com/charsets/hp-roman8.txt.gz
+524.	http://czyborra.com/charsets/viscii.txt.gz
+525.	http://d
+526.	http://d.android.com/tools/testing/testing_android.html
+527.	http://daniel.haxx.se/projects/roffit/
+528.	http://darcs.brianweb.net/
+529.	http://darcs.brianweb.net/gcclass/
+530.	http://dare.us/
+531.	http://daringfireball.net/projects/markdown/.
+532.	http://daringfireball.net/projects/markdown/dingus
+533.	http://daringfireball.net/projects/markdown/syntax
+534.	http://data.linux-ntfs.org/rpm/whichrpm
+535.	http://datatracker.ietf.org/public/idindex.cgi?command=id_details
+536.	http://david.tribble.com/text/c0xcalendar.html
+537.	http://davisschmitt.biz/
+538.	http://db.apache.org/derby/
+539.	http://db.apache.org/derby/derby_downloads.html
+540.	http://dbus.freedesktop.org/doc/dbus-specification.html
+541.	http://ddkwizard.assarbad.net
+542.	http://denesik.name/
+543.	http://dep.debian.net/deps/dep5
+544.	http://dev.cuckoosandbox.org
+545.	http://deveiate.org/projects/Darkfish-Rdoc/
+546.	http://developer.android.com
+547.	http://developer.android.com/guide/developing/tools/proguard.html
+548.	http://developer.android.com/guide/publishing/licensing.html
+549.	http://developer.android.com/guide/topics
+550.	http://developer.android.com/guide/topics/media/camera.html
+551.	http://developer.android.com/reference/android/media/MediaRecorder.html
+552.	http://developer.android.com/tools/sdk/ndk/index.html
+553.	http://developer.android.com/training/basics/fragments/communicating.html
+554.	http://developer.android.com/training/multiscreen/screensizes.html
+555.	http://developer.apple.com/documentation/MacOSX/Conceptual/BPFileSystem/index.html
+556.	http://developer.apple.com/IPhone/library/samplecode/SpeakHere/index.html
+557.	http://developer.apple.com/mac/library/documentation/MacOSX/Conceptual/BPInternational/Articles/FileEncodings.html
+558.	http://developer.apple.com/mac/library/documentation/Performance/Conceptual/ManagingMemory/Articles/MallocDebug.html
+559.	http://developer.apple.com/mac/library/qa/qa2001/qa1173.html
+560.	http://developer.apple.com/mac/library/technotes/tn2002/tn2059.html
+561.	http://developer.apple.com/mac/library/technotes/tn/tn1103.html
+562.	http://developer.apple.com/qa/qa2004/qa1361.html
+563.	http://developer.apple.com/samplecode/SonOfGrab/listing3.html
+564.	http://developer.apple.com/tools/creatingdocsetswithdoxygen.html
+565.	http://developer.intel.com/ial/wfm/wfmspecs.htm
+566.	http://developers.sun.com/
+567.	http://developer.symbian.org/wiki/index.php/Active_Objects_
+568.	http://dev.pocoo.org/projects/pygments/browser/pygments/lexers/agile.py.
+569.	http://dias.aueb.gr/
+570.	http://didierstevens.com/files/software/TestIntegrityCheckFlag.zip
+571.	http://diffhost.com/no/creds/
+572.	http://diff-lcs.rubyforge.org/
+573.	http://digg.com/news
+574.	http://directory.fedora.redhat.com/docs/mod_nss.html
+575.	http://directory.fsf.org/bras.html
+576.	http://directory.fsf.org/project/patch/
+577.	http://discussion.forum.nokia.com/forum/showthread.php?146721-how-to-get-FULL-message-body-for-SMS/page2
+578.	http://dlmf.nist.gov
+579.	http://dlmf.nist.gov/4.45
+580.	http://dn.codegear.com/article/36575
+581.	http://docbook.sourceforge.net/
+582.	http://docbook.sourceforge.net/release/xsl/current/
+583.	http://docbook.sourceforge.net/release/xsl/current/common/common.xsl
+584.	http://docbook.sourceforge.net/release/xsl/current/fo/docbook.xsl
+585.	http://docbook.sourceforge.net/release/xsl/current/html/admon.xsl
+586.	http://docbook.sourceforge.net/release/xsl/current/html/callout.xsl
+587.	http://docbook.sourceforge.net/release/xsl/current/html/chunk-common.xsl
+588.	http://docbook.sourceforge.net/release/xsl/current/html/chunker.xsl
+589.	http://docbook.sourceforge.net/release/xsl/current/html/chunkfast.xsl
+590.	http://docbook.sourceforge.net/release/xsl/current/html/chunk.xsl
+591.	http://docbook.sourceforge.net/release/xsl/current/html/docbook.xsl
+592.	http://docbook.sourceforge.net/release/xsl/current/html/formal.xsl
+593.	http://docbook.sourceforge.net/release/xsl/current/htmlhelp/htmlhelp.xsl
+594.	http://docbook.sourceforge.net/release/xsl/current/html/math.xsl
+595.	http://docbook.sourceforge.net/release/xsl/current/html/xref.xsl
+596.	http://docbook.sourceforge.net/release/xsl/current/lib/lib.xsl
+597.	http://docbook.sourceforge.net/release/xsl/current/manpages/docbook.xsl
+598.	http://docbook.sourceforge.net/release/xsl/current/xhtml/chunkfast.xsl
+599.	http://docbook.sourceforge.net/release/xsl/current/xhtml/chunk.xsl
+600.	http://docbook.sourceforge.net/release/xsl/current/xhtml/math.xsl
+601.	http://../doc/path.htm
+602.	http://docs.activestate.com/activepython/
+603.	http://docs.blackberry.com/en/developers/deliverables/606/BlackBerry_Device_Simulator_User_Guide.pdf
+604.	http://docs.codehaus.org/display/GEOTDOC/02
+605.	http://docs.codehaus.org/display/GEOTDOC/Point
+606.	http://docs.codehaus.org/display/STOMP/Protocol
+607.	http://docs.cray.com/books/S-2179-50/html-S-2179-50/S-2179-50-toc.html
+608.	http://docs.jquery.com/UI/Theming/API
+609.	http://docs.mandragor.org/files/Programming_languages/Cpp/libstdcpp_v3_Source_Documentation/classstd_1_1out__of__range.html
+610.	http://docs.oracle.com/javase/7/docs/technotes/guides/plugin/
+611.	http://docs.oracle.com/javase/8/docs/platform/serialization/spec/class.html
+612.	http://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html
+613.	http://docs.oracle.com/javase/8/docs/technotes/guides/jfr/
+614.	http://docs.oracle.com/javase/specs/jls/se5.0/html/binaryComp.html
+615.	http://docs.oracle.com/javase/specs/jls/se5.0/html/classes.html
+616.	http://docs.oracle.com/javase/specs/jls/se5.0/html/j3TOC.html
+617.	http://docs.oracle.com/javase/specs/jvms/se5.0/html/ClassFile.doc.html
+618.	http://docs.oracle.com/javase/specs/jvms/se5.0/html/VMSpecTOC.doc.html
+619.	http://docs.python.org/
+620.	http://docs.python.org/dev/whatsnew/2.6.html
+621.	http://docs.python.org/distutils/
+622.	http://docs.python.org/extending/windows.html
+623.	http://docs.python.org/glossary.html
+624.	http://docs.python.org/lib/decimal-recipes.html
+625.	http://docs.python.org/library
+626.	http://docs.python.org/library/
+627.	http://docs.python.org/library/unittest.html
+628.	http://docs.python.org/library/urllib2.html
+629.	http://docs.python.org/library/urllib.html
+630.	http://docs.python.org/library/warnings.html
+631.	http://docs.python.org/license.html
+632.	http://docs.python.org/ref/ref.html
+633.	http://docs.python.org/tutorial/.
+634.	http://docs.rubygems.org/
+635.	http://docs.rubygems.org/read/book/1
+636.	http://docs.rubygems.org/read/book/3
+637.	http://docs.rubygems.org/read/chapter/16
+638.	http://docs.rubygems.org/read/chapter/5
+639.	http://docs.rubyrake.org
+640.	http://docs.seattlerb.org/net-http-pipeline/Net/HTTP/Pipeline.html
+641.	http://docs.sun.com/source/806-3568/ncg_goldberg.html
+642.	http://doc.trolltech.com/qthelpproject.html
+643.	http://doc.trolltech.com/qt/resources.html
+644.	http://documents.wolfram.com/calculationcenter/v2/Functions/ListsMatrices/Statistics/PoissonDistribution.html
+645.	http://documents.wolfram.com/calculationcenter/v2/Functions/ListsMatrices/Statistics/UniformDistribution.html
+646.	http://documents.wolfram.com/teachersedition/Teacher/Statistics/DiscreteDistributions.html
+647.	http://documents.wolfram.com/v5/Add-onsLinks/StandardPackages/Statistics/DiscreteDistributions.html
+648.	http://docutils.sourceforge.net/
+649.	http://dog.borec.cz/down_apps/Adventures_in_Air.apk
+650.	http://dog.borec.cz/img/4895.png
+651.	http://dog.borec.cz/img/download.png
+652.	http://dog.borec.cz/img/hstar.png
+653.	http://dog.borec.cz/img/ystar.png
+654.	http://dog.borec.cz/style/desktop.css
+655.	http://dog.borec.cz/style/global.css
+656.	http://dog.borec.cz/style/mobile.css
+657.	http://dogma.net/markn/articles/zlibtool/zlibtool.htm
+658.	http://doi.acm.org/10.1145/1916461.1916469
+659.	http://doi.acm.org/10.1145/237814.237880
+660.	http://doi.acm.org/10.1145/355666.355670
+661.	http://doi.acm.org/10.1145/362342.362367
+662.	http://doi.acm.org/10.1145/362814.362819
+663.	http://doi.acm.org/10.1145/363219.363232
+664.	http://domain.com/
+665.	http://domain/repo
+666.	http://donquixote.cafebabe.jp/
+667.	http://doofus
+668.	http://dooleystreich.uk/
+669.	http://download.adobe.com/pub/adobe/acrobat/win/all/ifilter50.exe
+670.	http://download.boulder.ibm.com/ibmdl/pub/software/dw/aix/es-aix_ll.pdf
+671.	http://downloadcenter.intel.com/Detail_Desc.aspx?agr=Y
+672.	http://downloadcenter.intel.com/Detail_Desc.aspx?lang=eng
+673.	http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab
+674.	http://download.microsoft.com/download/2/c/1/2c16c7e0-96c1-40f5-81fc-3e4bf7b65496/microsoft_asl_compiler-v4-0-0.msi
+675.	http://downloadmirror.intel.com/8659/eng/LAN_ALLOS_11.2_PV
+676.	http://download.oracle.com/javadb/index.html
+677.	http://download.oracle.com/technology/products/missioncontrol/updatesites/emf-xsd-source-2.8.0.zip
+678.	http://download.oracle.com/technology/products/missioncontrol/updatesites/emf-xsd-source-2.8.3.zip
+679.	http://download.oracle.com/technology/products/missioncontrol/updatesites/org-eclipse-rcp-source-3.8.2.zip.
+680.	http://download.oracle.com/technology/products/missioncontrol/updatesites/tmf-xtext-SDK-2.3.0_source.zip.
+681.	http://download.osgeo.org/shapelib/
+682.	http://downloads.sourceforge.net/project/boost/boost/
+683.	http://doyle.name/
+684.	http://doyle.us/
+685.	http://d.pypi.python.org
+686.	http://dry.sailingissues.com/linux-equivalents-verdana-arial.html
+687.	http://ds.internic.net/rfc/rfc1521.txt
+688.	http://dumps.webbtc.com.
+689.	http://durgan.co.uk/
+690.	http://dx.doi.org/10.1016/j.socnet.2005.11.005
+691.	http://dx.doi.org/10.1016/j.tcs.2006.06.015
+692.	http://eclipse.org/equinox/p2/repository_packaging.html
+693.	http://edk2.tianocore.org/toolkit/python
+694.	http://edk.tianocore.org.
+695.	http://effbot.org/ns
+696.	http://effbot.org/zone/simple-iterator-parser.htm
+697.	http://effbot.org/zone/stringlib.htm
+698.	http://effertz.biz/
+699.	http://eigenclass.org/hiki/bounded
+700.	http://elsewhere.com/
+701.	http://elsewhere.com/path/to/
+702.	http://emmerich.ca/
+703.	http://emmerich.co.uk/
+704.	http://emr.cs.iit.edu/home/reingold/calendar-book/second-edition
+705.	http://emr.cs.iit.edu/home/reingold/calendar-book/second-edition/
+706.	http://emr.cs.uiuc.edu/home/reingold/calendar-book/index.shtml
+707.	http://en.citizendium.org/wiki/Spherical_polar_coordinates
+708.	http://english2american.com.
+709.	http://en.wikibooks.org/wiki/X86_Disassembly/Calling_Conventions
+710.	http://en.wikipedia.org/wiki/8.3_filename
+711.	http://en.wikipedia.org/wiki/Abstract_factory_pattern
+712.	http://en.wikipedia.org/wiki/Adobe_Flash_Player
+713.	http://en.wikipedia.org/wiki/Affine_transformation
+714.	http://en.wikipedia.org/wiki/ANSI_escape_code
+715.	http://en.wikipedia.org/wiki/Argument-dependent_name_lookup
+716.	http://en.wikipedia.org/wiki/Bayesian_inference
+717.	http://en.wikipedia.org/wiki/bernoulli_distribution
+718.	http://en.wikipedia.org/wiki/Bernoulli_distribution
+719.	http://en.wikipedia.org/wiki/Bernoulli_process
+720.	http://en.wikipedia.org/wiki/Bernoulli_trial
+721.	http://en.wikipedia.org/wiki/Beta_distribution
+722.	http://en.wikipedia.org/wiki/binomial_distribution
+723.	http://en.wikipedia.org/wiki/BLAS
+724.	http://en.wikipedia.org/wiki/Boyer
+725.	http://en.wikipedia.org/wiki/C
+726.	http://en.wikipedia.org/wiki/Cartesian_coordinate_system
+727.	http://en.wikipedia.org/wiki/Cash
+728.	http://en.wikipedia.org/wiki/Characteristic_function_
+729.	http://en.wikipedia.org/wiki/Coefficient_of_determination
+730.	http://en.wikipedia.org/wiki/Confidence_interval
+731.	http://en.wikipedia.org/wiki/Conjugate_prior
+732.	http://en.wikipedia.org/wiki/Cramer
+733.	http://en.wikipedia.org/wiki/CRAM-MD5
+734.	http://en.wikipedia.org/wiki/Cuboctahedron
+735.	http://en.wikipedia.org/wiki/Curtosis
+736.	http://en.wikipedia.org/wiki/Derivative
+737.	http://en.wikipedia.org/wiki/Energy_Policy_Act_of_2005
+738.	http://en.wikipedia.org/wiki/Ephemeral_port
+739.	http://en.wikipedia.org/wiki/Euler
+740.	http://en.wikipedia.org/wiki/Foo
+741.	http://en.wikipedia.org/wiki/Foobar
+742.	http://en.wikipedia.org/wiki/Free_throw
+743.	http://en.wikipedia.org/wiki/Frequentist_inference
+744.	http://en.wikipedia.org/wiki/Gamma_distribution
+745.	http://en.wikipedia.org/wiki/Geographic_coordinate_system
+746.	http://en.wikipedia.org/wiki/geometric
+747.	http://en.wikipedia.org/wiki/geometric_distribution
+748.	http://en.wikipedia.org/wiki/Graph_theory.
+749.	http://en.wikipedia.org/wiki/Great-circle_distance
+750.	http://en.wikipedia.org/wiki/Haversine_formula
+751.	http://en.wikipedia.org/wiki/Hermitian_matrix
+752.	http://en.wikipedia.org/wiki/HLS_color_space
+753.	http://en.wikipedia.org/wiki/Horner
+754.	http://en.wikipedia.org/wiki/HSV_color_space
+755.	http://en.wikipedia.org/wiki/HTTP_tunnel
+756.	http://en.wikipedia.org/wiki/IEEE_802.11i-2004
+757.	http://en.wikipedia.org/wiki/Immutable_object
+758.	http://en.wikipedia.org/wiki/Imperative_programming
+759.	http://en.wikipedia.org/wiki/Inotify
+760.	http://en.wikipedia.org/wiki/Inverse-chi-square_distribution
+761.	http://en.wikipedia.org/wiki/Inverse-gamma_distribution
+762.	http://en.wikipedia.org/wiki/Inverse_Gaussian_distribution.
+763.	http://en.wikipedia.org/wiki/IP_multicast
+764.	http://en.wikipedia.org/wiki/Knuth-Morris-Pratt_algorithm
+765.	http://en.wikipedia.org/wiki/Laplace_distribution
+766.	http://en.wikipedia.org/wiki/Linear_multistep_method
+767.	http://en.wikipedia.org/wiki/List_of_canonical_coordinate_transformations
+768.	http://en.wikipedia.org/wiki/Lognormal_distribution
+769.	http://en.wikipedia.org/wiki/Mathematical_constant
+770.	http://en.wikipedia.org/wiki/Mobile_country_code
+771.	http://en.wikipedia.org/wiki/Mobile_Network_Code
+772.	http://en.wikipedia.org/wiki/Monitor_
+773.	http://en.wikipedia.org/wiki/Multicast_address
+774.	http://en.wikipedia.org/wiki/Multiset
+775.	http://en.wikipedia.org/wiki/Name_mangling
+776.	http://en.wikipedia.org/wiki/Negative_binomial
+777.	http://en.wikipedia.org/wiki/negative_binomial_distribution
+778.	http://en.wikipedia.org/wiki/Negative_binomial_distribution
+779.	http://en.wikipedia.org/wiki/Newton
+780.	http://en.wikipedia.org/wiki/Normal_distribution
+781.	http://en.wikipedia.org/wiki/Normal-inverse_Gaussian_distribution
+782.	http://en.wikipedia.org/wiki/pareto_distribution
+783.	http://en.wikipedia.org/wiki/Pareto_distribution
+784.	http://en.wikipedia.org/wiki/Poisson_distribution
+785.	http://en.wikipedia.org/wiki/Polar_coordinates
+786.	http://en.wikipedia.org/wiki/Privacy_Enhanced_Mail
+787.	http://en.wikipedia.org/wiki/Qt_
+788.	http://en.wikipedia.org/wiki/Ramer-Douglas-Peucker_algorithm
+789.	http://en.wikipedia.org/wiki/Reactor_pattern
+790.	http://en.wikipedia.org/wiki/Rotation_
+791.	http://en.wikipedia.org/wiki/Runge
+792.	http://en.wikipedia.org/wiki/Sandbox_
+793.	http://en.wikipedia.org/wiki/Scaled-inverse-chi-square_distribution
+794.	http://en.wikipedia.org/wiki/Scaling_
+795.	http://en.wikipedia.org/wiki/Skew_normal_distribution
+796.	http://en.wikipedia.org/wiki/Skype
+797.	http://en.wikipedia.org/wiki/SLIME
+798.	http://en.wikipedia.org/wiki/SOCKS
+799.	http://en.wikipedia.org/wiki/Spherical_coordinates
+800.	http://en.wikipedia.org/wiki/Standard_deviation
+801.	http://en.wikipedia.org/wiki/Stdcall
+802.	http://en.wikipedia.org/wiki/Sticky_bit
+803.	http://en.wikipedia.org/wiki/Student
+804.	http://en.wikipedia.org/wiki/Symplectic_integrator
+805.	http://en.wikipedia.org/wiki/Talk
+806.	http://en.wikipedia.org/wiki/Taxicab_geometry
+807.	http://en.wikipedia.org/wiki/Tebibyte
+808.	http://en.wikipedia.org/wiki/Time_t
+809.	http://en.wikipedia.org/wiki/Translation_
+810.	http://en.wikipedia.org/wiki/Transport_Layer_Security
+811.	http://en.wikipedia.org/wiki/Triangular_distribution
+812.	http://en.wikipedia.org/wiki/Trie
+813.	http://en.wikipedia.org/wiki/Tuvalu
+814.	http://en.wikipedia.org/wiki/Uniform_distribution_
+815.	http://en.wikipedia.org/wiki/Uniform_Resource_Locator.
+816.	http://en.wikipedia.org/wiki/Uniform_spanning_tree
+817.	http://en.wikipedia.org/wiki/Weibull_distribution
+818.	http://en.wikipedia.org/wiki/X.509
+819.	http://en.wikipedia.org/wiki/YIQ
+820.	http://en.wiktionary.org/wiki/Wiktionary
+821.	http://ernserkeeling.us/
+822.	http://es.ogame.org/
+823.	http://espse.ed.psu.edu/edpsych/faculty/rhale/hale/507Mat/statlets/free/pdist.htm
+824.	http://esupport.sony.com/US/p/swu-matrix.pl?upd_id=2396
+825.	http://eternallyconfuzzled.com/tuts/algorithms/jsw_tut_hashing.aspx
+826.	http://etutorials.org/Networking/802.11
+827.	http://eventmachine.rubyforge.org
+828.	http://eventmachine.rubyforge.org/EventMachine/Connection.html
+829.	http://events.ccc.de/congress/2005/fahrplan/attachments/683-slides_fuzzing.pdf
+830.	http://everburning.com/news/eventmachine-introductions/
+831.	http://everburning.com/news/eventmachine-screencast-em-http-request/
+832.	http://everything2.com/title/loop-erased
+833.	http://evil
+834.	http://examle.com/ABCD
+835.	http://example/
+836.	http://example.
+837.	http:///example.com
+838.	http://example.com
+839.	http://example.com?
+840.	http://example.com/
+841.	http://example.com/?
+842.	http://example.com/..
+843.	http://example.com/../..
+844.	http://example.com./
+845.	http://Example.com/
+846.	http://EXAMPLE.com
+847.	http://EXAMPLE.COM/
+848.	http://example.com/1
+849.	http://example.com/1/
+850.	http://example.com/?a=
+851.	http://example.com/?a=1
+852.	http://example.com/a/b/c/
+853.	http://example.com/ABCD
+854.	http://example.com/a/b/c/?one=1
+855.	http://example.com/action_which_sets_session_id
+856.	http://example.com/a.html
+857.	http://example.com/awesome/web/service
+858.	http://example.com/bar
+859.	http://example.com/b.html
+860.	http://example.com?blahblah=/foo
+861.	http://example.com/C
+862.	http://example.com/cached_response
+863.	http://example.com/doc/
+864.	http://example.com/docs/
+865.	http://example.com/example.com/
+866.	http://example.com/examplepost.cgi
+867.	http://example.com/file.txt
+868.	http://example.com/foo
+869.	http://example.com/?foo=bar
+870.	http://example.com/foo/bar
+871.	http://example.com//foo/bar/baz.html
+872.	http://example.com/foo//bar/baz.html
+873.	http://example.com/foo/bar//baz.html
+874.	http://example.com/foo/bar/baz.html
+875.	http://example.com/home/
+876.	http://example.com/home/index
+877.	http://example.com/index.html
+878.	http://example.com/index.html?count=10
+879.	http://example.com/index.html?key=value
+880.	http://example.com/indirect/path/./to/../resource/
+881.	http://example.com/large_file
+882.	http://example.com/ni
+883.	http://example.com/ns
+884.	http://example.com/?one=1
+885.	http://example.com/orders
+886.	http://example.com/orders/1
+887.	http://example.com/orders/1/items
+888.	http://example.com/path
+889.	http://example.com/path/
+890.	http://example.com/path?a=1
+891.	http://example.com/path?query
+892.	http://example.com/path/segment/
+893.	http://example.com/path/to/
+894.	http://example.com/path/to/another
+895.	http://example.com/path/to/res
+896.	http://example.com/path/to/resource
+897.	http://example.com/path/to/resource/
+898.	http://example.com/path/to/resource?query=x
+899.	http://example.com/path/to/resource/sub
+900.	http://example.com/posts
+901.	http://example.com/?q
+902.	http://example.com/?q=
+903.	http://example.com/?q=a
+904.	http://example.com/?q=string
+905.	http://example.com/relative/path
+906.	http://example.com/resource
+907.	http://example.com/resource?foo=bar
+908.	http://example.com/resource.pdf
+909.	http://example.com/resource.xml
+910.	http://example.com/search/
+911.	http://example.com/search/an
+912.	http://example.com/search/an-example-search-query/
+913.	http://example.com/search?q=Q
+914.	http://example.com/some.jpg
+915.	http://example.com/some_path?query=string
+916.	http://example.com/sound
+917.	http://example.com/spam
+918.	http://example.com/?spam/eggs
+919.	http://example.com/spam/spam
+920.	http://example.com/to/resource/
+921.	http://example.com/?v=
+922.	http://example.com/x
+923.	http://example.com/?x=1
+924.	http://example.co.uk/
+925.	http://example.jp/
+926.	http://example.org
+927.	http://example.org/
+928.	http://exmple.org
+929.	http://exslt.org/common
+930.	http://exslt.org/dates-and-times
+931.	http://exslt.org/functions
+932.	http://exslt.org/sets
+933.	http://exslt.org/strings
+934.	http://faculty.vassar.edu/lowry/tsamp.html
+935.	http://faculty.vassar.edu/lowry/VassarStats.html
+936.	http://fadel.com/
+937.	http://ferrygrant.biz/
+938.	http://files2.europe.creative.com/manualdn/Drivers/AVP/10599/0x48689B99/SB51_XPDR
+939.	http://files.chumby.com/toolchain/arm-2008q3-72-arm-none-linux-gnueabi-i686-pc-linux-gnu.tar.bz2
+940.	http://firefly.activestate.com/sridharr/pypm/ticket/126
+941.	http://fishbowl.pastiche.org/2003/07/01/the_curse_of_apos
+942.	http://fishbowl.pastiche.org/2004/10/13/cargo_cult_programming
+943.	http://fishernolan.uk/
+944.	http://flatley.uk/
+945.	http://flattr.com/thing/394890/Cuckoo-Sandbox
+946.	http:///fo
+947.	http://foo
+948.	http://foo/
+949.	http://foo/bar
+950.	http://foo.bar.acme.com/foo
+951.	http://foo/bar/baz
+952.	http://foo/bar/baz?search=FooBar
+953.	http://foo.bar.com/
+954.	http://foo.bar.net/comment.html
+955.	http://foo.com
+956.	http://foo.com/
+957.	http://foo.com/a/b/c/d
+958.	http://foo.com/bar
+959.	http://foo.com/bar/
+960.	http://foo.com/bar/baz
+961.	http://foo.com/bar/baz/
+962.	http://foo.com/ignorable/path
+963.	http://foo.com/posts?id=30
+964.	http://foo.com?query
+965.	http://foo.co.uk
+966.	http://foo.co.uk/
+967.	http://foo.example.com/bla
+968.	http://foo.example.org/bla
+969.	http://foo.net/
+970.	http://foo.net/foo
+971.	http://foo.net/foo/
+972.	http://foo.net/foo/bar/
+973.	http://foo.org/
+974.	http://forums.adobe.com/message/3819357
+975.	http://forums.java.net/node/703624
+976.	http://forums.winamp.com/showthread.php?s=
+977.	http://forum.xda-developers.com/showpost.php?p=41461956
+978.	http://forum.xda-developers.com/showthread.php?t=2130276
+979.	http://forum.xda-developers.com/showthread.php?t=688095
+980.	http://franeckiwalter.co.uk/
+981.	http://freshmeat.net/rate/38012/
+982.	http://freshsources.com
+983.	http://fsf.org/
+984.	http://ftp.gnome.org/pub/GNOME/sources/glib/
+985.	http://ftp.gnome.org/pub/GNOME/sources/libgnome-keyring/
+986.	http://ftp.gnu.org/pub/gnu/gettext/gettext-
+987.	http://ftp.gnu.org/pub/gnu/libiconv/libiconv-
+988.	http://ftpmirror.gnu.org/gcc/
+989.	http://ftp.mozilla.org/pub/mozilla.org/nspr/
+990.	http://ftp.mozilla.org/pub/mozilla.org/security/nss/
+991.	http://ftp.sas.com/standards/large.file/x_open.20Mar96.html
+992.	http://ftp.x.org/pub/DOCS/registry
+993.	http://functions.wolfram.com/
+994.	http://functions.wolfram.com/BesselAiryStruveFunctions/BesselJ/06/02/02/0001/
+995.	http://functions.wolfram.com/Bessel-TypeFunctions/BesselJ/06/01/04/01/01/0003/
+996.	http://functions.wolfram.com/Bessel-TypeFunctions/BesselY/06/01/04/01/01/0003/
+997.	http://functions.wolfram.com/Bessel-TypeFunctions/BesselY/06/01/04/01/02/
+998.	http://functions.wolfram.com/Constants/E/02/
+999.	http://functions.wolfram.com/ElementaryFunctions/ArcCosh/02/
+1000.	http://functions.wolfram.com/ElementaryFunctions/ArcCosh/06/01/04/01/0001/
+1001.	http://functions.wolfram.com/ElementaryFunctions/ArcCosh/06/01/06/01/0001/
+1002.	http://functions.wolfram.com/ElementaryFunctions/ArcSin/26/01/01/
+1003.	http://functions.wolfram.com/ElementaryFunctions/ArcSinh/02/
+1004.	http://functions.wolfram.com/ElementaryFunctions/ArcSinh/06/01/03/01/0001/
+1005.	http://functions.wolfram.com/ElementaryFunctions/ArcSinh/06/01/06/01/0001/
+1006.	http://functions.wolfram.com/ElementaryFunctions/ArcTanh/
+1007.	http://functions.wolfram.com/ElementaryFunctions/ArcTanh/02/
+1008.	http://functions.wolfram.com/ElementaryFunctions/ArcTanh/06/01/03/01/
+1009.	http://functions.wolfram.com/GammaBetaErf/Binomial/
+1010.	http://functions.wolfram.com/HypergeometricFunctions/Hypergeometric0F0/06/01/
+1011.	http://functions.wolfram.com/HypergeometricFunctions/Hypergeometric0F1/06/01/01/
+1012.	http://functions.wolfram.com/HypergeometricFunctions/Hypergeometric1F0/06/01/01/
+1013.	http://functions.wolfram.com/webMathematica/FunctionEvaluation.jsp
+1014.	http://functions.wolfram.com/webMathematica/FunctionEvaluation.jsp?name=BetaRegularized
+1015.	http://functions.wolfram.com/webMathematica/FunctionEvaluation.jsp?name=GammaRegularized
+1016.	http://fuzzybunnies.example.com/
+1017.	http://g
+1018.	http://gaslight.co/home
+1019.	http://gaylordconsidine.ca/
+1020.	http://gcc.gnu.org/bugzilla/show_bug.cgi?8503
+1021.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=14176
+1022.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=17435
+1023.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=20439
+1024.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=24063
+1025.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=24915
+1026.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=28088
+1027.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=29328
+1028.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=30111
+1029.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=33916
+1030.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=37920
+1031.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=38064
+1032.	http://gcc.gnu.org/bugzilla/show_bug.cgi?id=9810
+1033.	http://gcc.gnu.org/ml/gcc/2004-06/msg00227.html
+1034.	http://gcc.gnu.org/ml/gcc-bugs/1999-03n/msg00884.html
+1035.	http://gcc.gnu.org/ml/gcc-bugs/2000-03/msg00805.html
+1036.	http://gcc.gnu.org/ml/gcc-patches/2003-12/msg02303.html
+1037.	http://gcc.gnu.org/ml/java/1999-q3/msg00138.html
+1038.	http://gcc.gnu.org/ml/java/1999-q3/msg00174.html
+1039.	http://gcc.gnu.org/ml/libstdc
+1040.	http://gcc.gnu.org/onlinedocs/gcc-4.1.1/gcc/Atomic-Builtins.html
+1041.	http://gcc.gnu.org/onlinedocs/gcc/Machine-Constraints.html
+1042.	http://gcc.gnu.org/onlinedocs/libstdc
+1043.	http://gcc.gnu.org/onlinedocs/porting/Thread-safety.html
+1044.	http://gee.cs.oswego.edu/cgi-bin/viewcvs.cgi/jsr166/src/jsr166e/ConcurrentHashMapV8.java?revision=1.59
+1045.	http://gee.cs.oswego.edu/cgi-bin/viewcvs.cgi/jsr166/src/jsr166e/LongAdder.java?revision=1.8
+1046.	http://gee.cs.oswego.edu/cgi-bin/viewcvs.cgi/jsr166/src/jsr166e/Striped64.java?revision=1.6
+1047.	http://gee.cs.oswego.edu/dl/classes/collections/RBCell.java
+1048.	http://gee.cs.oswego.edu/dl/html/malloc.html
+1049.	http://gembundler.com
+1050.	http://gembundler.com/
+1051.	http://gemcutter.org
+1052.	http://gem-mirror.example.org
+1053.	http://gem-mirror.example.org/
+1054.	http://gem_server_host
+1055.	http://gems.example.com/
+1056.	http://gems.example.com/yaml
+1057.	http://gems.example.org
+1058.	http://gems.example.org/
+1059.	http://gems.rubyforge.org/gems/yaml
+1060.	http://genius.ru/products.aspx?pnum=24948
+1061.	http://genjar.sourceforge.net/
+1062.	http://gennaro-prota.50webs.com/
+1063.	http://geojson.org/geojson-spec.html
+1064.	http://geometryalgorithms.com/Archive/algorithm_0102/algorithm_0102.htm
+1065.	http://getbootstrap.com
+1066.	http://getfirebug.com/
+1067.	http://g.example.com
+1068.	http://gibson.name/
+1069.	http://gis.hsr.ch/wiki/images/3/3d/9dem_springer.pdf
+1070.	http://gist.github.com/103208
+1071.	http://gist.github.com/155877
+1072.	http://gist.github.com/251244
+1073.	http://gist.github.com/265593
+1074.	http://gist.github.com/54177.
+1075.	http://git.gnome.org/browse/gimp/tree/devel-docs/xcf.txt
+1076.	http://github.com/
+1077.	http://github.com/a2800276/http-parser.java
+1078.	http://github.com/ActiveState/appdirs
+1079.	http://github.com/ActiveState/pythonselect
+1080.	http://github.com/archiloque/rest-client
+1081.	http://github.com/banister
+1082.	http://github.com/banister/method_source
+1083.	http://github.com/bdurand/ref
+1084.	http://github.com/benburkert
+1085.	http://github.com/besquared
+1086.	http://github.com/bleything/plist
+1087.	http://github.com/bpardee/gene_pool
+1088.	http://github.com/bpardee/persistent_http
+1089.	http://github.com/brianmario
+1090.	http://github.com/brianmario/freckle-api
+1091.	http://github.com/brianmario/yajl-ruby
+1092.	http://github.com/brianmario/yajl-ruby/tree/master/examples
+1093.	http://github.com/bundler/bundler
+1094.	http://github.com/bundler/bundler/issues
+1095.	http://github.com/capistrano/bundler
+1096.	http://github.com/colszowka/simplecov
+1097.	http://github.com/colszowka/simplecov/issues/179
+1098.	http://github.com/colszowka/simplecov/pull/192
+1099.	http://github.com/crohr/rest-client-components
+1100.	http://github.com/cuckoobox/
+1101.	http://github.com/cuckoobox/cuckoo
+1102.	http://github.com/cuckoobox/cuckoo/tree/development
+1103.	http://github.com/cuckoobox/cuckoo/tree/testing
+1104.	http://github.com/cypriss
+1105.	http://github.com/dwaite/cookiejar
+1106.	http://github.com/eventmachine/eventmachine
+1107.	http://github.com/ffi/ffi/wiki/Structs
+1108.	http://github.com/francois/rest-client
+1109.	http://github.com/hone
+1110.	http://github.com/http-parser/http-parser.java
+1111.	http://github.com/igrigorik/em-http-request
+1112.	http://github.com/igrigorik/em-socksify
+1113.	http://github.com/igrigorik/em-websocket
+1114.	http://github.com/indirect
+1115.	http://github.com/intridea/multi_json
+1116.	http://github.com/jdg
+1117.	http://github.com/jimweirich/rake
+1118.	http://github.com/jimweirich/rake.
+1119.	http://github.com/jlsuttles
+1120.	http://github.com/joyent/http-parser
+1121.	http://github.com/kevn
+1122.	http://github.com/leejarvis/slop
+1123.	http://github.com/lloyd
+1124.	http://github.com/lloyd/yajl.
+1125.	http://github.com/luislavena/win32console
+1126.	http://github.com/mhanne/bitcoin-ruby/tree/master/
+1127.	http://github.com/mongodb/bson-ruby/pull/13
+1128.	http://github.com/mongodb/bson-ruby/pull/14
+1129.	http://github.com/mongodb/bson-ruby/pull/15
+1130.	http://github.com/mongodb/bson-ruby/pull/16
+1131.	http://github.com/mongodb/bson-ruby/pull/17
+1132.	http://github.com/ms-ati/docile/compare/1b225c8a27...v1.0.0
+1133.	http://github.com/ms-ati/docile/compare/v1.0.0...v1.0.1
+1134.	http://github.com/ms-ati/docile/compare/v1.0.1...v1.0.2
+1135.	http://github.com/ms-ati/docile/compare/v1.0.2...v1.0.3
+1136.	http://github.com/ms-ati/docile/compare/v1.0.3...v1.0.4
+1137.	http://github.com/ms-ati/docile/compare/v1.0.4...v1.0.5
+1138.	http://github.com/ms-ati/docile/compare/v1.0.5...v1.1.0
+1139.	http://github.com/ms-ati/docile/compare/v1.1.0...v1.1.1
+1140.	http://github.com/ms-ati/docile/compare/v1.1.1...v1.1.2
+1141.	http://github.com/ms-ati/docile/compare/v1.1.2...v1.1.3
+1142.	http://github.com/ms-ati/docile/compare/v1.1.3...v1.1.4
+1143.	http://github.com/ms-ati/docile/compare/v1.1.4...v1.1.5
+1144.	http://github.com/ninjudd/tuple
+1145.	http://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+1146.	http://github.com/oortle
+1147.	http://github.com/pry/pry
+1148.	http://github.com/rails/rails/commit/63bb955a99eb46e257655c93dd64e86ebbf05651
+1149.	http://github.com/rails/rails/commit/a96bf4ab5e73fccdafb78b99e8a122cc2172b505
+1150.	http://github.com/rails/rails.git
+1151.	http://github.com/retoo/rvincenty
+1152.	http://github.com/rspec
+1153.	http://github.com/rspec/rspec
+1154.	http://github.com/rspec/rspec-collection_matchers
+1155.	http://github.com/rspec/rspec-core
+1156.	http://github.com/rspec/rspec-core/blob/master/features/example_groups/shared_example_group.feature
+1157.	http://github.com/rspec/rspec-core/compare/v2.0.0.beta.20...v2.0.0.beta.22
+1158.	http://github.com/rspec/rspec-core/compare/v2.0.0.beta.22...v2.0.0.rc
+1159.	http://github.com/rspec/rspec-core/compare/v2.0.0.rc...v2.0.0
+1160.	http://github.com/rspec/rspec-core/compare/v2.0.0...v2.0.1
+1161.	http://github.com/rspec/rspec-core/compare/v2.0.1...v2.1.0
+1162.	http://github.com/rspec/rspec-core/compare/v2.10.0...v2.10.1
+1163.	http://github.com/rspec/rspec-core/compare/v2.10.1...v2.11.0
+1164.	http://github.com/rspec/rspec-core/compare/v2.1.0...v2.2.0
+1165.	http://github.com/rspec/rspec-core/compare/v2.11.0...v2.11.1
+1166.	http://github.com/rspec/rspec-core/compare/v2.11.1...v2.12.0
+1167.	http://github.com/rspec/rspec-core/compare/v2.12.0...v2.12.1
+1168.	http://github.com/rspec/rspec-core/compare/v2.12.1...v2.12.2
+1169.	http://github.com/rspec/rspec-core/compare/v2.12.2...v2.13.0
+1170.	http://github.com/rspec/rspec-core/compare/v2.13.0...v2.13.1
+1171.	http://github.com/rspec/rspec-core/compare/v2.13.1...v2.14.0.rc1
+1172.	http://github.com/rspec/rspec-core/compare/v2.14.0.rc1...v2.14.0
+1173.	http://github.com/rspec/rspec-core/compare/v2.14.0...v2.14.1
+1174.	http://github.com/rspec/rspec-core/compare/v2.14.1...v2.14.2
+1175.	http://github.com/rspec/rspec-core/compare/v2.14.2...v2.14.3
+1176.	http://github.com/rspec/rspec-core/compare/v2.14.3...v2.14.4
+1177.	http://github.com/rspec/rspec-core/compare/v2.14.4...v2.14.5
+1178.	http://github.com/rspec/rspec-core/compare/v2.14.5...v2.14.6
+1179.	http://github.com/rspec/rspec-core/compare/v2.14.6...v2.14.7
+1180.	http://github.com/rspec/rspec-core/compare/v2.14.7...v2.14.8
+1181.	http://github.com/rspec/rspec-core/compare/v2.14.7...v2.99.0.beta1
+1182.	http://github.com/rspec/rspec-core/compare/v2.2.0...v2.2.1
+1183.	http://github.com/rspec/rspec-core/compare/v2.2.1...v2.3.0
+1184.	http://github.com/rspec/rspec-core/compare/v2.3.0...v2.3.1
+1185.	http://github.com/rspec/rspec-core/compare/v2.3.1...v2.4.0
+1186.	http://github.com/rspec/rspec-core/compare/v2.4.0...v2.5.0
+1187.	http://github.com/rspec/rspec-core/compare/v2.5.0...v2.5.1
+1188.	http://github.com/rspec/rspec-core/compare/v2.5.1...v2.6.0
+1189.	http://github.com/rspec/rspec-core/compare/v2.6.0...v2.6.1
+1190.	http://github.com/rspec/rspec-core/compare/v2.6.1...v2.6.2
+1191.	http://github.com/rspec/rspec-core/compare/v2.6.2...v2.6.3
+1192.	http://github.com/rspec/rspec-core/compare/v2.6.3...v2.6.4
+1193.	http://github.com/rspec/rspec-core/compare/v2.6.4...v2.7.0
+1194.	http://github.com/rspec/rspec-core/compare/v2.7.0...v2.7.1
+1195.	http://github.com/rspec/rspec-core/compare/v2.7.1...v2.8.0.rc1
+1196.	http://github.com/rspec/rspec-core/compare/v2.8.0.rc1...v2.8.0.rc2
+1197.	http://github.com/rspec/rspec-core/compare/v2.8.0.rc2...v2.8.0
+1198.	http://github.com/rspec/rspec-core/compare/v2.8.0...v2.9.0
+1199.	http://github.com/rspec/rspec-core/compare/v2.9.0...v2.10.0
+1200.	http://github.com/rspec/rspec-core/compare/v2.99.0.beta1...v2.99.0.beta2
+1201.	http://github.com/rspec/rspec-core/compare/v2.99.0.beta2...v2.99.0.rc1
+1202.	http://github.com/rspec/rspec-core/compare/v2.99.0.rc1...v2.99.0
+1203.	http://github.com/rspec/rspec-core/compare/v2.99.0...v2.99.1
+1204.	http://github.com/rspec/rspec-core/compare/v2.99.1...v2.99.2
+1205.	http://github.com/rspec/rspec-core/compare/v2.99.1...v3.0.0.beta1
+1206.	http://github.com/rspec/rspec-core/compare/v3.0.0.beta1...v3.0.0.beta2
+1207.	http://github.com/rspec/rspec-core/compare/v3.0.0.beta2...v3.0.0.rc1
+1208.	http://github.com/rspec/rspec-core/compare/v3.0.0.rc1...v3.0.0
+1209.	http://github.com/rspec/rspec-core/compare/v3.0.0...v3.0.1
+1210.	http://github.com/rspec/rspec-core/compare/v3.0.1...v3.0.2
+1211.	http://github.com/rspec/rspec-core/compare/v3.0.2...v3.0.3
+1212.	http://github.com/rspec/rspec-core/compare/v3.0.3...v3.0.4
+1213.	http://github.com/rspec/rspec-core/compare/v3.0.4...v3.1.0
+1214.	http://github.com/rspec/rspec-core/compare/v3.1.0...v3.1.1
+1215.	http://github.com/rspec/rspec-core/compare/v3.1.1...v3.1.2
+1216.	http://github.com/rspec/rspec-core/compare/v3.1.2...v3.1.3
+1217.	http://github.com/rspec/rspec-core/compare/v3.1.3...v3.1.4
+1218.	http://github.com/rspec/rspec-core/compare/v3.1.4...v3.1.5
+1219.	http://github.com/rspec/rspec-core/compare/v3.1.5...v3.1.6
+1220.	http://github.com/rspec/rspec-core/compare/v3.1.6...v3.1.7
+1221.	http://github.com/rspec/rspec-core/issues
+1222.	http://github.com/rspec/rspec-dev
+1223.	http://github.com/rspec/rspec-expectations
+1224.	http://github.com/rspec/rspec-expectations/compare/v2.0.0.beta.20...v2.0.0.beta.22
+1225.	http://github.com/rspec/rspec-expectations/compare/v2.0.0.beta.22...v2.0.0.rc
+1226.	http://github.com/rspec/rspec-expectations/compare/v2.0.0.rc...v2.0.0
+1227.	http://github.com/rspec/rspec-expectations/compare/v2.0.1...v2.1.0
+1228.	http://github.com/rspec/rspec-expectations/compare/v2.10.0...v2.11.0
+1229.	http://github.com/rspec/rspec-expectations/compare/v2.1.0...v2.2.0
+1230.	http://github.com/rspec/rspec-expectations/compare/v2.11.0...v2.11.1
+1231.	http://github.com/rspec/rspec-expectations/compare/v2.11.1...v2.11.2
+1232.	http://github.com/rspec/rspec-expectations/compare/v2.11.2...v2.11.3
+1233.	http://github.com/rspec/rspec-expectations/compare/v2.11.3...v2.12.0
+1234.	http://github.com/rspec/rspec-expectations/compare/v2.12.0...v2.12.1
+1235.	http://github.com/rspec/rspec-expectations/compare/v2.12.1...v2.13.0
+1236.	http://github.com/rspec/rspec-expectations/compare/v2.13.0...v2.14.0.rc1
+1237.	http://github.com/rspec/rspec-expectations/compare/v2.14.0...2.14.1
+1238.	http://github.com/rspec/rspec-expectations/compare/v2.14.0.rc1...v2.14.0
+1239.	http://github.com/rspec/rspec-expectations/compare/v2.14.1...v2.14.2
+1240.	http://github.com/rspec/rspec-expectations/compare/v2.14.2...v2.14.3
+1241.	http://github.com/rspec/rspec-expectations/compare/v2.14.3...v2.14.4
+1242.	http://github.com/rspec/rspec-expectations/compare/v2.14.4...v2.14.5
+1243.	http://github.com/rspec/rspec-expectations/compare/v2.14.4...v2.99.0.beta1
+1244.	http://github.com/rspec/rspec-expectations/compare/v2.2.1...v2.3.0
+1245.	http://github.com/rspec/rspec-expectations/compare/v2.3.0...v2.4.0
+1246.	http://github.com/rspec/rspec-expectations/compare/v2.4.0...v2.5.0
+1247.	http://github.com/rspec/rspec-expectations/compare/v2.5.0...v2.6.0
+1248.	http://github.com/rspec/rspec-expectations/compare/v2.6.0...v2.7.0
+1249.	http://github.com/rspec/rspec-expectations/compare/v2.7.0...v2.8.0.rc1
+1250.	http://github.com/rspec/rspec-expectations/compare/v2.8.0.rc1...v2.8.0.rc2
+1251.	http://github.com/rspec/rspec-expectations/compare/v2.8.0.rc2...v2.8.0
+1252.	http://github.com/rspec/rspec-expectations/compare/v2.8.0...v2.9.0
+1253.	http://github.com/rspec/rspec-expectations/compare/v2.9.0...v2.9.1
+1254.	http://github.com/rspec/rspec-expectations/compare/v2.9.1...v2.10.0
+1255.	http://github.com/rspec/rspec-expectations/compare/v2.99.0.beta1...v2.99.0.beta2
+1256.	http://github.com/rspec/rspec-expectations/compare/v2.99.0.beta2...2.99.0.rc1
+1257.	http://github.com/rspec/rspec-expectations/compare/v2.99.0.rc1...v2.99.0
+1258.	http://github.com/rspec/rspec-expectations/compare/v2.99.0...v2.99.1
+1259.	http://github.com/rspec/rspec-expectations/compare/v2.99.1...v2.99.2
+1260.	http://github.com/rspec/rspec-expectations/compare/v2.99.2...v3.0.0.beta1
+1261.	http://github.com/rspec/rspec-expectations/compare/v3.0.0.beta1...v3.0.0.beta2
+1262.	http://github.com/rspec/rspec-expectations/compare/v3.0.0.beta2...v3.0.0.rc1
+1263.	http://github.com/rspec/rspec-expectations/compare/v3.0.0.rc1...v3.0.0
+1264.	http://github.com/rspec/rspec-expectations/compare/v3.0.0...v3.0.1
+1265.	http://github.com/rspec/rspec-expectations/compare/v3.0.1...v3.0.2
+1266.	http://github.com/rspec/rspec-expectations/compare/v3.0.2...v3.0.3
+1267.	http://github.com/rspec/rspec-expectations/compare/v3.0.3...v3.0.4
+1268.	http://github.com/rspec/rspec-expectations/compare/v3.0.4...v3.1.0
+1269.	http://github.com/rspec/rspec-expectations/compare/v3.1.0...v3.1.1
+1270.	http://github.com/rspec/rspec-expectations/compare/v3.1.1...v3.1.2
+1271.	http://github.com/rspec/rspec-expectations/issues
+1272.	http://github.com/rspec/rspec-mocks
+1273.	http://github.com/rspec/rspec-mocks/compare/v2.0.0.beta.20...v2.0.0.beta.22
+1274.	http://github.com/rspec/rspec-mocks/compare/v2.0.0.beta.22...v2.0.0
+1275.	http://github.com/rspec/rspec-mocks/compare/v2.0.0.beta.22...v2.0.0.rc
+1276.	http://github.com/rspec/rspec-mocks/compare/v2.0.1...v2.1.0
+1277.	http://github.com/rspec/rspec-mocks/compare/v2.10.0...v2.10.1
+1278.	http://github.com/rspec/rspec-mocks/compare/v2.10.1...v2.11.0
+1279.	http://github.com/rspec/rspec-mocks/compare/v2.1.0...v2.2.0
+1280.	http://github.com/rspec/rspec-mocks/compare/v2.11.0...v2.11.1
+1281.	http://github.com/rspec/rspec-mocks/compare/v2.11.1...v2.11.2
+1282.	http://github.com/rspec/rspec-mocks/compare/v2.11.2...v2.11.3
+1283.	http://github.com/rspec/rspec-mocks/compare/v2.11.3...v2.12.0
+1284.	http://github.com/rspec/rspec-mocks/compare/v2.12.0...v2.12.1
+1285.	http://github.com/rspec/rspec-mocks/compare/v2.12.1...v.2.12.2
+1286.	http://github.com/rspec/rspec-mocks/compare/v2.12.2...v2.13.0
+1287.	http://github.com/rspec/rspec-mocks/compare/v2.13.0...v2.13.1
+1288.	http://github.com/rspec/rspec-mocks/compare/v2.13.0...v2.14.0.rc1
+1289.	http://github.com/rspec/rspec-mocks/compare/v2.14.0.rc1...v2.14.0
+1290.	http://github.com/rspec/rspec-mocks/compare/v2.14.0...v2.14.1
+1291.	http://github.com/rspec/rspec-mocks/compare/v2.14.1...v2.14.2
+1292.	http://github.com/rspec/rspec-mocks/compare/v2.14.2...v2.14.3
+1293.	http://github.com/rspec/rspec-mocks/compare/v2.14.3...v2.14.4
+1294.	http://github.com/rspec/rspec-mocks/compare/v2.14.4...v2.14.5
+1295.	http://github.com/rspec/rspec-mocks/compare/v2.14.4...v2.99.0.beta1
+1296.	http://github.com/rspec/rspec-mocks/compare/v2.14.5...v2.14.6
+1297.	http://github.com/rspec/rspec-mocks/compare/v2.2.0...v2.3.0
+1298.	http://github.com/rspec/rspec-mocks/compare/v2.3.0...v2.4.0
+1299.	http://github.com/rspec/rspec-mocks/compare/v2.4.0...v2.5.0
+1300.	http://github.com/rspec/rspec-mocks/compare/v2.5.0...v2.6.0
+1301.	http://github.com/rspec/rspec-mocks/compare/v2.6.0...v2.7.0
+1302.	http://github.com/rspec/rspec-mocks/compare/v2.7.0...v2.8.0.rc1
+1303.	http://github.com/rspec/rspec-mocks/compare/v2.8.0.rc1...v2.8.0.rc2
+1304.	http://github.com/rspec/rspec-mocks/compare/v2.8.0.rc2...v2.8.0
+1305.	http://github.com/rspec/rspec-mocks/compare/v2.8.0...v2.9.0
+1306.	http://github.com/rspec/rspec-mocks/compare/v2.9.0...v2.10.0
+1307.	http://github.com/rspec/rspec-mocks/compare/v2.99.0.beta1...v2.99.0.beta2
+1308.	http://github.com/rspec/rspec-mocks/compare/v2.99.0.beta2...v2.99.0.rc1
+1309.	http://github.com/rspec/rspec-mocks/compare/v2.99.0.rc1...v2.99.0
+1310.	http://github.com/rspec/rspec-mocks/compare/v2.99.0...v2.99.1
+1311.	http://github.com/rspec/rspec-mocks/compare/v2.99.1...v2.99.2
+1312.	http://github.com/rspec/rspec-mocks/compare/v2.99.2...v3.0.0.beta1
+1313.	http://github.com/rspec/rspec-mocks/compare/v3.0.0.beta1...v3.0.0.beta2
+1314.	http://github.com/rspec/rspec-mocks/compare/v3.0.0.beta2...v3.0.0.rc1
+1315.	http://github.com/rspec/rspec-mocks/compare/v3.0.0.rc1...v3.0.0
+1316.	http://github.com/rspec/rspec-mocks/compare/v3.0.0...v3.0.1
+1317.	http://github.com/rspec/rspec-mocks/compare/v3.0.1...v3.0.2
+1318.	http://github.com/rspec/rspec-mocks/compare/v3.0.2...v3.0.3
+1319.	http://github.com/rspec/rspec-mocks/compare/v3.0.3...v3.0.4
+1320.	http://github.com/rspec/rspec-mocks/compare/v3.0.4...v3.1.0
+1321.	http://github.com/rspec/rspec-mocks/compare/v3.1.0...v3.1.1
+1322.	http://github.com/rspec/rspec-mocks/compare/v3.1.1...v3.1.2
+1323.	http://github.com/rspec/rspec-mocks/compare/v3.1.2...v3.1.3
+1324.	http://github.com/rspec/rspec-mocks/issues
+1325.	http://github.com/rspec/rspec-support/compare/v3.0.0.beta1...v3.0.0.beta2
+1326.	http://github.com/rspec/rspec-support/compare/v3.0.0.beta2...v3.0.0.rc1
+1327.	http://github.com/rspec/rspec-support/compare/v3.0.0.rc1...v3.0.0
+1328.	http://github.com/rspec/rspec-support/compare/v3.0.0...v3.0.1
+1329.	http://github.com/rspec/rspec-support/compare/v3.0.1...v3.0.2
+1330.	http://github.com/rspec/rspec-support/compare/v3.0.2...v3.0.3
+1331.	http://github.com/rspec/rspec-support/compare/v3.0.3...v3.0.4
+1332.	http://github.com/rspec/rspec-support/compare/v3.0.4...v3.1.0
+1333.	http://github.com/rspec/rspec-support/compare/v3.1.0...v3.1.1
+1334.	http://github.com/rspec/rspec-support/compare/v3.1.1...v3.1.2
+1335.	http://github.com/rtomsmith
+1336.	http://github.com/rubenfonseca/twitter-amqp-websocket-example
+1337.	http://github.com/ruby-bdb
+1338.	http://github.com/ruby-bdb/bdb
+1339.	http://github.com/ruby-bdb/sbdb
+1340.	http://github.com/ruby-bdb/tuple
+1341.	http://github.com/rubyzip/rubyzip
+1342.	http://github.com/ry/http-parser
+1343.	http://github.com/ry/http-parser/blob/37a0ff8928fb0d83cec0d0d8909c5a4abcd221af/test.c
+1344.	http://github.com/ry/node/blob/842eaf446d2fdcb33b296c67c911c32a0dabc747/src/http.js
+1345.	http://github.com/secobarbital
+1346.	http://github.com/smtlaissezfaire/project_path
+1347.	http://github.com/sporkmonger/addressable
+1348.	http://github.com/sporkmonger/uuidtools/tree/
+1349.	http://github.com/staugaard/idn_actionmailer
+1350.	http://github.com/technoweenie
+1351.	http://github.com/technoweenie/yajl-rails
+1352.	http://github.com/tenderlove/psych
+1353.	http://github.com/tmm1
+1354.	http://github.com/tmm1/http_parser.rb
+1355.	http://github.com/tsuna/boost.m4
+1356.	http://github.com/tsuna/boost.m4/raw/master/build-aux/boost.m4
+1357.	http://github.com/v6ak
+1358.	http://github.com/v6ak/Preverifier/
+1359.	http://github.com/wycats
+1360.	http://github.github.com/github-flavored-markdown/
+1361.	http://git.savannah.gnu.org/gitweb/?p=config.git
+1362.	http://gleichnerbergstrom.uk/
+1363.	http://gleichner.biz/
+1364.	http://gnuwin32.sourceforge.net/packages/patch.htm
+1365.	http://golang.org/ref/spec
+1366.	http://golang.org/src/pkg/json/decode.go
+1367.	http://golang.org/src/pkg/utf8/utf8.go
+1368.	http://go.microsoft.com/fwlink/?LinkId=131000
+1369.	http://go.microsoft.com/fwlink/?LinkId=262072.
+1370.	http://google.ca
+1371.	http://google.com
+1372.	http://google.com/
+1373.	http://google.com.
+1374.	http://gottlieb.name/
+1375.	http://gottlieb.uk/
+1376.	http://graphml.graphdrawing.org/xmlns
+1377.	http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd
+1378.	http://greenholt.uk/
+1379.	http://gri3ly.kiev.ua
+1380.	http://grimes.uk/
+1381.	http://grosser.it
+1382.	http://groups.google.com/
+1383.	http://groups.google.com/.
+1384.	http://groups.google.com/group/comp.databases.berkeley-db/browse_frm/thread/4f70a9999b64ce6a/c06b94692e3cbc41?tvc=1
+1385.	http://groups.google.com/group/comp.std.c
+1386.	http://groups.google.com/group/eventmachine
+1387.	http://groups.google.com/group/eventmachine/browse_thread/thread/fc60d9bb738ffc71
+1388.	http://groups.google.com/group/json-c
+1389.	http://groups.google.com/group/mongoid
+1390.	http://groups.google.com/group/python-virtualenv/
+1391.	http://groups.google.com/group/python-virtualenv?hl=en
+1392.	http://groups.google.com/group/ruby-bundler
+1393.	http://groups.google.com/groups?
+1394.	http://groups.google.com/groups?hl=en
+1395.	http://groups.google.com/group/sqlalchemy/browse_thread/thread/7c1eb642435adde7
+1396.	http://groups.google.com/groups?q=syscall
+1397.	http://groups.google.com/groups?selm=df893da6.0207110613.75b2fe90
+1398.	http://groups.google.com/groups?selm=df893da6.0301280859.522081f7
+1399.	http://groups.yahoo.com/group/boost/message/5441
+1400.	http://gs.apple.com.akadns.net/TSS/controller?action=2
+1401.	http://guides.rubygems.org
+1402.	http://guides.rubygems.org/gems-with-extensions/
+1403.	http://guides.rubygems.org/make-your-own-gem/
+1404.	http://guides.rubygems.org/rubygems-basics/
+1405.	http://guides.rubygems.org/security/
+1406.	http://gulgowski.ca/
+1407.	http://gunicorn.org/configure.html
+1408.	http://gutmann.us/
+1409.	http://gyp.googlecode.com/svn/trunk
+1410.	http://h30097.www3.hp.com/cplus/?jumpid=reg_R1002_USEN
+1411.	http://h71000.www7.hp.com/doc/82final/5601/5601pro_004.html
+1412.	http://haagzboncak.ca/
+1413.	http://hackersdelight.org/
+1414.	http://hackettolson.info/
+1415.	http://hal.cs.berkeley.edu/cil/cil016.html
+1416.	http://haltp.org/git/owl-lisp.git
+1417.	http://handflatley.com/
+1418.	http://hane.co.uk/
+1419.	http://hansenabernathy.uk/
+1420.	http://hashrocket.com/
+1421.	http://havenith-verlinden.nl/hannibal/
+1422.	http://hayeskoch.info/
+1423.	http://hdl.handle.net/1895.22/1013
+1424.	http://hegmann.us/
+1425.	http://help.adobe.com/en_US/air/build/WS13ACB483-1711-43c0-9049-0A7251630A7D.html
+1426.	http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/utils/ByteArray.html
+1427.	http://help.github.com/fork-a-repo/
+1428.	http://help.github.com/send-pull-requests/
+1429.	http://h.example.com
+1430.	http://hg.python.org/cpython/file/6b9f0a6efaeb/Lib/textwrap.py
+1431.	http://hilpert.info/
+1432.	http://hintz.biz/
+1433.	http://hirthe.ca/
+1434.	http://hirthemertz.ca/
+1435.	http://hirthe.uk/
+1436.	http://home.earthlink.net/
+1437.	http://home.netscape.com/eng/mozilla/2.0/relnotes/demo/content-length.html
+1438.	http://homenick.uk/
+1439.	http://homepage2.nifty.com/sakazuki/rde_e.html
+1440.	http://homepages.inf.ed.ac.uk/wadler/topics/language-design.html
+1441.	http://home.twcny.rr.com/hinnant/cpp_extensions/threads_move.html
+1442.	http://hoohoo.ncsa.uiuc.edu/cgi/env.html
+1443.	http://host
+1444.	http://host=ame/fo
+1445.	http://host.com
+1446.	http://hostname
+1447.	http://hostname/
+1448.	http://HOSTNAME/APPNAME
+1449.	http://howell.co.uk/
+1450.	http://html5shim.googlecode.com/svn/trunk/html5.js
+1451.	http://htmlentities.rubyforge.org/
+1452.	http://http
+1453.	http://httpd.apache.org/docs/2.4/
+1454.	http://httpd.apache.org/docs/2.4/mod/core.html
+1455.	http://httpd.apache.org/docs/2.4/mod/directives.html
+1456.	http://httpd.apache.org/docs/mod/mod_log_config.html
+1457.	http://hudson.info/
+1458.	http://huelhoeger.us/
+1459.	http://huels.us/
+1460.	http://hypnotoad.org
+1461.	http://hypnotoad.org?hail=all
+1462.	http://icu.sourceforge.net/userguide/dateCalendar.html
+1463.	http://icu.sourceforge.net/userguide/dateTime.html
+1464.	http://idlefork.sourceforge.net
+1465.	http://i.example.com
+1466.	http://igvita.com/
+1467.	http://iharder.net/xmlizable
+1468.	http://iharder.sourceforge.net/base64/
+1469.	http://iknowthis.googlecode.com
+1470.	http://i.loveruby.net
+1471.	http://img.shields.io/codeclimate/github/intridea/multi_json.svg
+1472.	http://img.shields.io/gemnasium/intridea/multi_json.svg
+1473.	http://img.shields.io/gem/v/multi_json.svg
+1474.	http://img.shields.io/gittip/sporkmonger.png
+1475.	http://inch-ci.org/github/colszowka/simplecov
+1476.	http://inch-ci.org/github/colszowka/simplecov.png
+1477.	http://inch-ci.org/github/ms-ati/docile
+1478.	http://inch-ci.org/github/ms-ati/docile.png
+1479.	http://inch-ci.org/github/pry/pry
+1480.	http://inch-ci.org/github/pry/pry.svg
+1481.	http://info.cern.ch/hypertext/DataSources/News/Groups/Overview.html
+1482.	http://info.webcrawler.com/mak/projects/robots/norobots-rfc.html
+1483.	http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd
+1484.	http://intertwingly.net/blog/2004/07/31/URI-Equivalence
+1485.	http://intertwingly.net/stories/2004/04/14/i18n.html
+1486.	http://intertwingly.net/stories/2005/09/28/xchar.rb
+1487.	http://intranet/delete-stuff.cgi
+1488.	http://intridea.com/
+1489.	http://ionelmc.wordpress.com/
+1490.	http://ipython.scipy.org/.
+1491.	http://i.wz.cz/banner/nudle03.gif
+1492.	http://jacklmoore.com/colorbox
+1493.	http://jacklmoore.com/notes/click-events/
+1494.	http://jacobs.ca/
+1495.	http://jacobson.com/
+1496.	http://jakarta.apache.org/log4j/
+1497.	http://jakarta.apache.org/log4j/docs/index.html
+1498.	http://jarg.sourceforge.net/
+1499.	http://jaskolskiweber.uk/
+1500.	http://jastpagac.name/
+1501.	http://javaboutique.internet.com/prime_numb/
+1502.	http://java.com/infourl
+1503.	http://java.com/license
+1504.	http://java.com/licensereadme
+1505.	http://javancss.codehaus.org/
+1506.	http://java.net/projects/dcd/
+1507.	http://javascript.crockford.com/tdop/tdop.html
+1508.	http://java.sun.com/docs/books/jls/second_edition/html/binaryComp.doc.html
+1509.	http://java.sun.com/docs/books/jls/second_edition/html/classes.doc.html
+1510.	http://java.sun.com/docs/books/jls/second_edition/html/j.title.doc.html
+1511.	http://java.sun.com/docs/books/jls/third_edition/html/interfaces.html
+1512.	http://java.sun.com/docs/books/tutorial/java/nutsandbolts/_keywords.html
+1513.	http://java.sun.com/docs/books/vmspec/2nd-edition/html/ClassFile.doc.html
+1514.	http://java.sun.com/docs/books/vmspec/2nd-edition/html/VMSpecTOC.doc.html
+1515.	http://java.sun.com/docs/books/vmspec/index.html.
+1516.	http://java.sun.com/j2se/1.4.2/docs/api/java/util/Properties.html
+1517.	http://java.sun.com/j2se/1.4.2/docs/api/java/util/zip/package-summary.html
+1518.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/Calendar.html
+1519.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/DateFormat.html
+1520.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/DateFormatSymbols.html
+1521.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/Date.html
+1522.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/GregorianCalendar.html
+1523.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/SimpleDateFormat.html
+1524.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/SimpleTimeZone.html
+1525.	http://java.sun.com/j2se/1.5.0/docs/api/java/util/Time.html
+1526.	http://java.sun.com/j2se/1.5/docs/guide/jpda/jdwp-spec.html
+1527.	http://java.sun.com/javase/6/
+1528.	http://java.sun.com/javase/6/docs/platform/serialization/spec/class.html
+1529.	http://java.sun.com/javase/6/docs/platform/serialization/spec/serialTOC.html
+1530.	http://java.sun.com/products/autodl/j2se
+1531.	http://j.example.com
+1532.	http://jgarber.lighthouseapp.com/projects/13054/tickets/124-code-markup-does-not-allow-brackets.
+1533.	http://jimblackler.net/blog/?p=151
+1534.	http://jira.codehaus.org/browse/JRUBY-4576
+1535.	http://jira.codehaus.org/browse/JRUBY-5194
+1536.	http://jira.codehaus.org/browse/JRUBY-5637
+1537.	http://jira.codehaus.org/browse/JRUBY-6753
+1538.	http://jira.codehaus.org/browse/JRUBY-7114
+1539.	http://jira.mongodb.org/browse/RUBY-714
+1540.	http://jmock.org/oopsla2004.pdf
+1541.	http://jode.sourceforge.net/
+1542.	http://joe
+1543.	http://john
+1544.	http://jonesrobel.biz/
+1545.	http://jon.oberheide.org
+1546.	http://jove.prohosting.com/
+1547.	http://jquery.com/
+1548.	http://jquery.org/license
+1549.	http://jqueryui.com/about
+1550.	http://jqueryui.com/themeroller/?ffDefault=Verdana
+1551.	http://jrc.krdl.org.sg/
+1552.	http://jrc.krdl.org.sg/decaf/
+1553.	http://jruby.org
+1554.	http://jschmoe
+1555.	http://jsonformatter.curiousconcept.com/
+1556.	http://jsonip.com/
+1557.	http://json.org
+1558.	http://json.org/
+1559.	http://json.org/JSON_checker/test/fail10.json
+1560.	http://json.org/JSON_checker/test/fail11.json
+1561.	http://json.org/JSON_checker/test/fail12.json
+1562.	http://json.org/JSON_checker/test/fail13.json
+1563.	http://json.org/JSON_checker/test/fail14.json
+1564.	http://json.org/JSON_checker/test/fail15.json
+1565.	http://json.org/JSON_checker/test/fail16.json
+1566.	http://json.org/JSON_checker/test/fail17.json
+1567.	http://json.org/JSON_checker/test/fail18.json
+1568.	http://json.org/JSON_checker/test/fail19.json
+1569.	http://json.org/JSON_checker/test/fail1.json
+1570.	http://json.org/JSON_checker/test/fail20.json
+1571.	http://json.org/JSON_checker/test/fail21.json
+1572.	http://json.org/JSON_checker/test/fail22.json
+1573.	http://json.org/JSON_checker/test/fail23.json
+1574.	http://json.org/JSON_checker/test/fail24.json
+1575.	http://json.org/JSON_checker/test/fail2.json
+1576.	http://json.org/JSON_checker/test/fail3.json
+1577.	http://json.org/JSON_checker/test/fail4.json
+1578.	http://json.org/JSON_checker/test/fail5.json
+1579.	http://json.org/JSON_checker/test/fail6.json
+1580.	http://json.org/JSON_checker/test/fail7.json
+1581.	http://json.org/JSON_checker/test/fail8.json
+1582.	http://json.org/JSON_checker/test/fail9.json
+1583.	http://json.org/JSON_checker/test/pass1.json
+1584.	http://json.org/JSON_checker/test/pass2.json
+1585.	http://json.org/JSON_checker/test/pass3.json
+1586.	http://kannel.3glab.org/
+1587.	http://kertzmannfay.uk/
+1588.	http://king.uk/
+1589.	http://kirlinfahey.name/
+1590.	http://klocko.biz/
+1591.	http://kochreynolds.us/
+1592.	http://kozey.uk/
+1593.	http://krajcik.co.uk/
+1594.	http://kshlerin.co.uk/
+1595.	http://kuhic.info/
+1596.	http://kuhlman.co.uk/
+1597.	http://kuhnsmith.us/
+1598.	http://kunze.com/
+1599.	http://kunzegraham.info/
+1600.	http://kxml.sourceforge.net.
+1601.	http://lab.msdn.microsoft.com/ProductFeedback/viewfeedback.aspx?feedbackid=22b0a6b7-120f-4ca0-9136-fa1b25b26efe
+1602.	http://lambda.cs.utu.fi
+1603.	http://lang.nas.activestate.com/pypm/sites/rex/be
+1604.	http://lang.nas.activestate.com/pypm/sites/rex/dev
+1605.	http://lang.nas.activestate.com/pypm/sites/rex/free
+1606.	http://lang.nas.activestate.com/pypm/sites/rex/rc
+1607.	http://langosh.ca/
+1608.	http://langosh.com/
+1609.	http://launchpad.net/linaro-image-tools/trunk/0.4.8/
+1610.	http://launchpad.net/python-mode/.
+1611.	http://learn.github.com/p/branching.html
+1612.	http://lebsack.uk/
+1613.	http://leejarvis.github.com/rdoc/slop/
+1614.	http://leejarvis.github.io/slop/
+1615.	http://leetupload.com/dbindex2/index.php?dir=Linux/
+1616.	http://library.forum.nokia.com/topic/S60_3rd_Edition_Cpp_Developers_Library/GUID-759FBC7F-5384-4487-8457-A8D4B76F6AA6/html/rconnmon_8h.html?resultof=
+1617.	http://libs.netbeans.org/
+1618.	http://libtomcrypt.org
+1619.	http://libwbxml.aymerick.com
+1620.	http://lindgrenbogan.uk/
+1621.	http://lind.name/
+1622.	http://link.nokia.com/support
+1623.	http://linuxmafia.com/faq/Admin/release-files.html
+1624.	http://lists.apple.com/archives/applescript-users/2002/Sep/msg00319.html
+1625.	http://lists.apple.com/archives/unix-porting/2007/Sep/msg00023.html
+1626.	http://lists.boost.org/Archives/boost/2006/02/101122.php
+1627.	http://lists.boost.org/Archives/boost/2006/04/102740.php
+1628.	http://lists.boost.org/Archives/boost/2006/04/103065.php
+1629.	http://lists.boost.org/Archives/boost/2006/05/105286.php
+1630.	http://lists.boost.org/Archives/boost/2006/07/108355.php
+1631.	http://lists.boost.org/Archives/boost/2007/05/121430.php
+1632.	http://lists.boost.org/Archives/boost/2008/11/144465.php
+1633.	http://lists.boost.org/Archives/boost/2009/04/150743.php
+1634.	http://lists.boost.org/Archives/boost/2012/03/191744.php
+1635.	http://lists.boost.org/Archives/boost/2012/06/194312.php
+1636.	http://lists.boost.org/boost-users/2005/11/15454.php
+1637.	http://lists.boost.org/boost-users/2006/02/17230.php
+1638.	http://lists.boost.org/boost-users/2006/05/19362.php
+1639.	http://lists.boost.org/boost-users/2006/05/19723.php
+1640.	http://lists.boost.org/boost-users/2006/09/22604.php
+1641.	http://lists.boost.org/boost-users/2006/12/24215.php
+1642.	http://lists.boost.org/boost-users/2007/07/29866.php
+1643.	http://lists.boost.org/MailArchives/boost/msg00886.php
+1644.	http://lists.boost.org/MailArchives/boost/msg47184.php
+1645.	http://lists.boost.org/MailArchives/boost/msg47220.php
+1646.	http://lists.boost.org/MailArchives/boost/msg48752.php
+1647.	http://lists.boost.org/MailArchives/boost-users/msg06567.php
+1648.	http://lists.boost.org/mailman/listinfo.cgi/boost-build
+1649.	http://lists.cs.uiuc.edu/pipermail/cfe-dev/2011-May/015178.html
+1650.	http://lists.gnu.org/archive/html/automake/2012-07/msg00001.html
+1651.	http://lists.gnu.org/archive/html/automake/2012-07/msg00014.html
+1652.	http://lists.gnu.org/archive/html/bug-coreutils/2005-11/msg00161.html
+1653.	http://lists.gnu.org/archive/html/bug-guile/2004-01/msg00013.html
+1654.	http://lists.osgeo.org/pipermail/ggl/2011-September/001533.html
+1655.	http://lists.slug.org.au/archives/slug-chat/2001/July/msg00054.html
+1656.	http://lists.sourceforge.net/lists/listinfo/optik-users
+1657.	http://littel.biz/
+1658.	http://livedocs.adobe.com/flash/9.0/ActionScriptLangRefV3/flash/geom/Matrix.html
+1659.	http://lkml.org/lkml/2005/9/10/129
+1660.	http://lloyd.github.com/yajl
+1661.	http://llvm.org
+1662.	http://llvm.org/bugs/show_bug.cgi?id=6907
+1663.	http://llvm.org/bugs/show_bug.cgi?id=7139
+1664.	http://localgemserver.test
+1665.	http://localgemserver.test/
+1666.	http://localgemserver.test/..
+1667.	http://localgemserver.test/api/v1/dependencies
+1668.	http://localgemserver.test/extra
+1669.	http://localgemserver.test/gems/rcov-1.0-x86-mswin32.gem
+1670.	http://localhost
+1671.	http://localhost/
+1672.	http://localhost/ammo
+1673.	http://localhost/bar/
+1674.	http://localhost/communication/capabilities
+1675.	http://localhost/fonts/folder/fontFolder
+1676.	http://localhost/foo
+1677.	http://localhost/foo/bar/
+1678.	http://localhost/fuzzers/native.py
+1679.	http://localhost/localstart.asp
+1680.	http://localhost/main.rbx
+1681.	http://localhost/pyisapi_test/test1
+1682.	http://localhost/yajl-ruby.git/benchmark/subjects/contacts.json
+1683.	http://localtestserver.gem
+1684.	http://log4r.rubyforge.org
+1685.	http://log4r.rubyforge.org/manual.html
+1686.	http://log4r.rubyforge.org/rdoc/Log4r/PatternFormatter.html
+1687.	http://logging.apache.org/log4j
+1688.	http://login.live.com
+1689.	http://lowecole.co.uk/
+1690.	http://ls7-www.cs.uni-dortmund.de/students/projectgroups/acit/lineclip.shtml
+1691.	http://ls.selice.cz
+1692.	http://lua.org
+1693.	http://luettgen.com/
+1694.	http://lunchroom.lunchboxsoftware.com/pages/tzinfo_rails
+1695.	http://lxr.mozilla.org/seamonkey/source/modules/libimg/png/mozpngconf.h
+1696.	http://lynx.browser.org/
+1697.	http://lynx.isc.org/
+1698.	http://macromates.com
+1699.	http://madskills.com/public/xml/rss/module/trackback/
+1700.	http://maec.mitre.org/XMLSchema/maec-core-1
+1701.	http://maigret.cog.brown.edu/pyutil/
+1702.	http://mail.example.com/delete-stuff.cgi
+1703.	http://mail.gnome.org/archives/xml/2007-April/thread.html
+1704.	http://mail.python.org/mailman/listinfo/distutils-sig
+1705.	http://mail.python.org/mailman/listinfo/idle-dev
+1706.	http://mail.python.org/pipermail/distutils-sig/2008-April/009283.html
+1707.	http://mail.python.org/pipermail/idle-dev/2004-December/002307.html
+1708.	http://mail.python.org/pipermail/python-bugs-list/2001-January/003752.html
+1709.	http://mail.python.org/pipermail/python-dev/2001-June/015239.html
+1710.	http://mail.python.org/pipermail/python-dev/2002-July/026512.html
+1711.	http://mail.python.org/pipermail/python-dev/2006-July/067774.html
+1712.	http://mail.python.org/pipermail/python-dev/2008-June/080579.html
+1713.	http://mail.python.org/pipermail/python-dev/2010-January/095637.html
+1714.	http://mail.python.org/pipermail/python-list/1999-July/007758.html
+1715.	http://mail.python.org/pipermail/python-list/2001-October/109973.html
+1716.	http://mail.python.org/pipermail/xml-sig/2001-April/005202.html
+1717.	http://make.rubyforge.org
+1718.	http://malwarecookbook.googlecode.com/svn/trunk/3/8/pescanner.py
+1719.	http://malwarecookbook.googlecode.com/svn/trunk/3/8/pescanner.py.
+1720.	http://malwr.com
+1721.	http://man7.org/linux/man-pages/man2/fchmodat.2.html
+1722.	http://man7.org/linux/man-pages/man7/symlink.7.html
+1723.	http://mannschamberger.co.uk/
+1724.	http://mante.info/
+1725.	http://mante.us/
+1726.	http://maps.ge.com/
+1727.	http://maps.googleapis.com/maps/api/js?key=AIzaSyAmG3O2wuA9Hj2L5an-ofRndUwVSrqElLM
+1728.	http://marakana.com/s/post/1291/android_device_policy_administration_tutorial
+1729.	http://market.android.com/details?id=
+1730.	http://market.android.com/publish/editProfile
+1731.	http://market.android.com/support/bin/answer.py?answer=1050566
+1732.	http://marknelson.us/2007/08/22/convex
+1733.	http://marquardtturner.co.uk/
+1734.	http://martinfowler.com/ap2/timeNarrative.html
+1735.	http://martinfowler.com/articles/rake.html
+1736.	http://marvin.name/
+1737.	http://math.berkeley.edu/
+1738.	http://math.libtomcrypt.com
+1739.	http://math.nist.gov/javanumerics/jama/
+1740.	http://mathworld.wolfram.com/AperysConstant.html
+1741.	http://mathworld.wolfram.com/BernoulliDistribution.html
+1742.	http://mathworld.wolfram.com/BetaDistribution.html
+1743.	http://mathworld.wolfram.com/BinomialCoefficient.html
+1744.	http://mathworld.wolfram.com/CauchyDistribution.html
+1745.	http://mathworld.wolfram.com/CoinTossing.html
+1746.	http://mathworld.wolfram.com/Dice.html
+1747.	http://mathworld.wolfram.com/ExtremeValueDistribution.html
+1748.	http://mathworld.wolfram.com/F-Distribution.html
+1749.	http://mathworld.wolfram.com/GammaDistribution.html
+1750.	http://mathworld.wolfram.com/GeometricDistribution.html
+1751.	http://mathworld.wolfram.com/GreatCircle.html
+1752.	http://mathworld.wolfram.com/InverseChi-SquaredDistribution.html
+1753.	http://mathworld.wolfram.com/InverseGaussianDistribution.html
+1754.	http://mathworld.wolfram.com/InverseHyperbolicTangent.html
+1755.	http://mathworld.wolfram.com/Kurtosis.html
+1756.	http://mathworld.wolfram.com/LambdaFunction.html
+1757.	http://mathworld.wolfram.com/LaplaceDistribution.html
+1758.	http://mathworld.wolfram.com/LeastSquaresFittingExponential.html
+1759.	http://mathworld.wolfram.com/LeastSquaresFitting.html
+1760.	http://mathworld.wolfram.com/LeastSquaresFittingPowerLaw.html
+1761.	http://mathworld.wolfram.com/Line-LineIntersection.html
+1762.	http://mathworld.wolfram.com/LogNormalDistribution.html
+1763.	http://mathworld.wolfram.com/NegativeBinomialDistribution.html
+1764.	http://mathworld.wolfram.com/NoncentralChi-SquaredDistribution.html
+1765.	http://mathworld.wolfram.com/NoncentralStudentst-Distribution.html
+1766.	http://mathworld.wolfram.com/NormalDistribution.html
+1767.	http://mathworld.wolfram.com/paretoDistribution.html
+1768.	http://mathworld.wolfram.com/ParetoDistribution.html
+1769.	http://mathworld.wolfram.com/RiemannZetaFunction.html
+1770.	http://mathworld.wolfram.com/RiemannZetaFunction.html.
+1771.	http://mathworld.wolfram.com/skewness.html
+1772.	http://mathworld.wolfram.com/Studentst-Distribution.html
+1773.	http://mathworld.wolfram.com/TriangularDistribution.html
+1774.	http://mathworld.wolfram.com/UniformDistribution.html
+1775.	http://mathworld.wolfram.com/WeibullDistribution.html
+1776.	http://matias.capeletto.googlepages.com/boost.bimap.reference.logo.png
+1777.	http://matias.capeletto.googlepages.com/boost_hs.zip
+1778.	http://mattahan.deviantart.com/
+1779.	http://maven.apache.org/maven-v4_0_0.xsd
+1780.	http://maven.apache.org/plugins/maven=-assembly-plugin/assembly/1.1.0
+1781.	http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0
+1782.	http://maven.apache.org/POM/4.0.0
+1783.	http://maven.apache.org/xsd/assembly-1.1.0.xsd
+1784.	http://mcclure.uk/
+1785.	http://mcclurezulauf.info/
+1786.	http://mckenziestroman.info/
+1787.	http://medhurst.ca/
+1788.	http://mediatae.3x.ro
+1789.	http://members.aol.com/iandjmsmith/BETAEX.HTM
+1790.	http://mertzcartwright.uk/
+1791.	http://mertz.name/
+1792.	http://mertzrogahn.co.uk/
+1793.	http://metasploit.com
+1794.	http://metrologyforum.tm.agilent.com/specs.shtml
+1795.	http://metz.uk/
+1796.	http://mexicodiario.com/touch.public.json.php
+1797.	http://mhanne.github.com/bitcoin-ruby/
+1798.	http://michelf.com/projects/php-markdown/extra/
+1799.	http://miller.us/
+1800.	http://mime-types.rubyforge.org/
+1801.	http://m.imgur.com
+1802.	http://mina.apache.org/
+1803.	http://mingw.org
+1804.	http://mingw-w64.svn.sourceforge.net/viewvc/mingw-w64/trunk/mingw-w64-doc/
+1805.	http://mirror.linux.org.au/pub/linux.conf.au/2007/video/talks/278.pdf
+1806.	http://mirrors.dotsrc.org/cran/src/contrib/mnormt_1.4-5.tar.gz
+1807.	http://mirrors.dotsrc.org/cran/src/contrib/sn_0.4-17.tar.gz
+1808.	http://mirrors.ibiblio.org/pub/mirrors/apache/xmlgraphics/fop/binaries
+1809.	http://mjpa.in/json
+1810.	http://mm.icann.org/pipermail/tz-announce/2012-November/000007.html
+1811.	http://mm.icann.org/pipermail/tz-announce/2012-October/000006.html
+1812.	http://mm.icann.org/pipermail/tz-announce/2013-March/000009.html
+1813.	http://mm.icann.org/pipermail/tz-announce/2013-March/000010.html
+1814.	http://mm.icann.org/pipermail/tz-announce/2013-October/000015.html
+1815.	http://mm.icann.org/pipermail/tz-announce/2014-March/000018.html
+1816.	http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg
+1817.	http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg?srid=qfBP6DYib_Jq97XZdSKqRg
+1818.	http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg?srid=sZcTfRdns9N9o6rsCbmEqA
+1819.	http://mobile.yelp.com/biz/3K82F5PA3OSU8-LzWDfgHg?srid=t6CLo9DTqlAB1WQ0xGBwKw
+1820.	http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg
+1821.	http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg?srid=Bzq9fk2KAlSDNJYoYZwzSA
+1822.	http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg?srid=EsRVbt4a0PVZLVQJcqslwg
+1823.	http://mobile.yelp.com/biz/5Ebc8-ecaLuaLDjKnmY7eg?srid=PLzThYFVEqlMWIp1j8FVjA
+1824.	http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA
+1825.	http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA?srid=6AEH1ho2sFA6SuzGoEDWMg
+1826.	http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA?srid=6RoFwO-RdkMW6YqeORQFPw
+1827.	http://mobile.yelp.com/biz/7-dAb6BdjgJE_KHTX9CNGA?srid=8_kbZ8PfEEzREMiYqv6iyQ
+1828.	http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ
+1829.	http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ?srid=5U87A3dHbLN55unJLj0VjQ
+1830.	http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ?srid=OhJUOg-CPz6JPs9l6p8xZg
+1831.	http://mobile.yelp.com/biz/7vqUGG9ZBZKOjOFPs8lEgQ?srid=prmIARCGNmaIKQj-szj0FQ
+1832.	http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w
+1833.	http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w?srid=bDXqtUlB4_xbAXhPG_eslw
+1834.	http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w?srid=JqOunqnq9xLTYW1LfVjsfA
+1835.	http://mobile.yelp.com/biz/bcXY_zGB4zWQuNnxfR7Z3w?srid=YaZ8zIeIhOGE0Q90hyaHxQ
+1836.	http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg
+1837.	http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg?srid=0SEtOwc5fxrk9E4BzOX3Lg
+1838.	http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg?srid=A3dtzAGxYjRb5lh1mUSOhg
+1839.	http://mobile.yelp.com/biz/bJm7lxFjXPTg1yJ3WBikMg?srid=EHIPPWgySoXzd_YJpkjqyA
+1840.	http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA
+1841.	http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA?srid=6GvHJ_XmbQNd74VihlIDdA
+1842.	http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA?srid=7Dh2kxj3f8r_kgRdZPUvvQ
+1843.	http://mobile.yelp.com/biz/BOQOJXezjYZWolsmTcF2UA?srid=Vo3lgIL74UZSi5J7iPw1oQ
+1844.	http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q
+1845.	http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q?srid=f2EFPOtE2cWlwKwOyyUZuQ
+1846.	http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q?srid=FR6vaLqh-MvXUAO1AHGHXQ
+1847.	http://mobile.yelp.com/biz/c7BkLCKjHjIg7oS63LsI1Q?srid=V0CDM76r13GbsFBujh5tSg
+1848.	http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ
+1849.	http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ?srid=tWELGmx8xmZv9fUENn7jIA
+1850.	http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ?srid=u3pvhJyoOZ0Q602Xjc-7kA
+1851.	http://mobile.yelp.com/biz/_cJARVZ55acNpNeCRmHTmQ?srid=zlYWR5eGTcK3UbCD_URGHQ
+1852.	http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ
+1853.	http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ?srid=3BF5IQWRCa5kE4CG66O7lg
+1854.	http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ?srid=7WfO0LKgRp0Tl_C-Zf-D4Q
+1855.	http://mobile.yelp.com/biz/GTy7Up0mCTDoYpu0gLsUOQ?srid=fwBDJyffi2muLlxF5gRgFQ
+1856.	http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg
+1857.	http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg?srid=bwfzeVc_6gto9kFN_dXwZw
+1858.	http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg?srid=henYRKh-HFv-f0q25OrK-A
+1859.	http://mobile.yelp.com/biz/kM64kcWiK3TqhB0HeAUGeg?srid=Zau3gO0fZmnLrwf_MeDDVQ
+1860.	http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ
+1861.	http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ?srid=6kA_HdUvQuOPZGiYaRoMOw
+1862.	http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ?srid=rZvHiZioZHzbK9SGEsAfhA
+1863.	http://mobile.yelp.com/biz/owj5tzY8w8zXSXza_LS8NQ?srid=vabDEJCITNijgdNAU0nugQ
+1864.	http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A
+1865.	http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A?srid=0xMF-emnZXwMxpLdx7AmeQ
+1866.	http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A?srid=KA6C2DQShJhY4TQIT9Whbw
+1867.	http://mobile.yelp.com/biz/QCQ3WN7hd9xMPs2_ycHa_A?srid=VZ50hhJuPJwjHF2t9UZ0HA
+1868.	http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA
+1869.	http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA?srid=5ti4DbCQHC0Jv0BICzMqoA
+1870.	http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA?srid=E_DBJLUf03v8nzUDML-vIQ
+1871.	http://mobile.yelp.com/biz/qxaYckrMuYu1PugSY1njzA?srid=ukTS7oSTJ9jLZwX32JBVpA
+1872.	http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA
+1873.	http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA?srid=3w_awDdrGBWsJVpu8Cg8Kg
+1874.	http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA?srid=CNIUSa4Os71fVYOk8Tu0lA
+1875.	http://mobile.yelp.com/biz/rDlZHmGNnbBQWf-Ujfc2KA?srid=zAr0i4_-Yvx3bMhAHxtRww
+1876.	http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ
+1877.	http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ?srid=jLYJ2se_DN73QiAogNfnJQ
+1878.	http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ?srid=kZgc0_KkkGy0cmi2C7fEHA
+1879.	http://mobile.yelp.com/biz/rPwB56EQ9JfEo2mN24fqOQ?srid=o45vWqKfPlGTSaYwK7Ziug
+1880.	http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw
+1881.	http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw?srid=qR9gfXBG2bAI--ffudbb8g
+1882.	http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw?srid=v-TypFJpjx3sI5imG3muHg
+1883.	http://mobile.yelp.com/biz/vDdJPPRT4_6TociAEHJvgw?srid=zS2Q_jRPYnSvApjcJnERbg
+1884.	http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw
+1885.	http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw?srid=2e-Y3tM2mbL8XmNSrKvOFg
+1886.	http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw?srid=I53XvaUKFN8CirxYnFLPdQ
+1887.	http://mobile.yelp.com/biz/vqIWlQ0AHMFBOiagpB9sGw?srid=nRaORNVURLfU32LijX-fOg
+1888.	http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw
+1889.	http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw?srid=6tuZws8FKafDWTwV8gPiAg
+1890.	http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw?srid=GgR8AfSlTQWN0kF-lKk-zw
+1891.	http://mobile.yelp.com/biz/WS9QI7amntnRUu-cgewQAw?srid=NJfFkIR1k1SFkACtePHnWA
+1892.	http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw
+1893.	http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw?srid=1IlPciKzq2Z0SZrsLSANsA
+1894.	http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw?srid=Ez_hn7-Kor2EZ38lO37jMQ
+1895.	http://mobile.yelp.com/biz/z_kf-vKkCLI1WTnEBSPudw?srid=oia-XcRxPrqwx11GtCuw8Q
+1896.	http://moen.us/
+1897.	http://mojo.codehaus.org/
+1898.	http://mojo.codehaus.org/minijar-maven-plugin/
+1899.	http://mongodb.onconfluence.com/display/DOCS/Mongo
+1900.	http://mongoid.org
+1901.	http://mongoid.org/en/origin/
+1902.	http://morar.ca/
+1903.	http://morar.com/
+1904.	http://more.sourceforge.net/
+1905.	http://mozilla.org/MPL/2.0/.
+1906.	http://mozilla.org.tr
+1907.	http://mpa.itc.it/radim/g50history/CMP/4.2.1-CERL-beta-libes/file475.txt
+1908.	http://mpmath.googlecode.com/svn/data/glaisher.txt
+1909.	http://msdn2.microsoft.com/en-us/library/aa363858.aspx
+1910.	http://msdn2.microsoft.com/en-us/library/aa365247.aspx
+1911.	http://msdn2.microsoft.com/en-us/library/aa969271.aspx
+1912.	http://msdn2.microsoft.com/en-us/library/bf1dw62z.aspx
+1913.	http://msdn2.microsoft.com/en-us/library/h66s5s0e
+1914.	http://msdn2.microsoft.com/en-us/library/ms235591
+1915.	http://msdn2.microsoft.com/en-us/library/ms675318.aspx
+1916.	http://msdn2.microsoft.com/en-us/library/ms725481.aspx
+1917.	http://msdn2.microsoft.com/en-us/library/ms740621
+1918.	http://msdn2.microsoft.com/en-us/library/ttcz0bys
+1919.	http://msdn2.microsoft.com/en-us/library/x4d2c09s
+1920.	http://msdn.microsoft.com
+1921.	http://msdn.microsoft.com/en-gb/library/ff565436.aspx
+1922.	http://msdn.microsoft.com/en-us/library/17w5ykft.aspx
+1923.	http://msdn.microsoft.com/en-us/library/833073z4
+1924.	http://msdn.microsoft.com/en-us/library/9b372w95.aspx
+1925.	http://msdn.microsoft.com/en-us/library/9yb4317s.aspx
+1926.	http://msdn.microsoft.com/en-us/library/a442x3ye
+1927.	http://msdn.microsoft.com/en-us/library/aa365247
+1928.	http://msdn.microsoft.com/en-us/library/aa369212
+1929.	http://msdn.microsoft.com/en-us/library/aa390423
+1930.	http://msdn.microsoft.com/en-us/library/ee872121
+1931.	http://msdn.microsoft.com/en-us/library/ms678353
+1932.	http://msdn.microsoft.com/en-us/library/ms685049
+1933.	http://msdn.microsoft.com/en-us/library/ms740548
+1934.	http://msdn.microsoft.com/en-us/library/ms791514.aspx
+1935.	http://msdn.microsoft.com/en-us/library/se0409db
+1936.	http://msdn.microsoft.com/en-us/library/syyszzf8
+1937.	http://msdn.microsoft.com/en-us/library/t3ayayh1.aspx
+1938.	http://msdn.microsoft.com/en-us/library/windows/hardware/jj131711
+1939.	http://msdn.microsoft.com/en-us/library/yt4xw8fh.aspx
+1940.	http://msdn.microsoft.com/en-us/library/zxk0tw93
+1941.	http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnexcl2k2/html/odc_xlrtdfaq.asp
+1942.	http://msdn.microsoft.com/library/default.asp?url=/library/en-us/intl/nls_238z.asp
+1943.	http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vcmasm/html/vclrfml.asp
+1944.	http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winui/menus_0hdi.asp
+1945.	http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winui/WinUI/WindowsUserInterface/Resources/Menus/MenuReference/MenuStructures/MENUITEMINFO.asp
+1946.	http://msdn.microsoft.com/library/en-us/dnperfmo/html/msdn_pdhlib.asp
+1947.	http://msdn.microsoft.com/library/en-us/dnperfmo/html/perfmonpt2.asp
+1948.	http://msdn.microsoft.com/library/en-us/perfmon/base/using_the_pdh_interface.asp
+1949.	http://msdn.microsoft.com/library/en-us/sysinfo/base/expandenvironmentstrings.asp
+1950.	http://msdn.microsoft.com/library/en-us/sysinfo/base/osversioninfo_str.asp
+1951.	http://msdn.microsoft.com/library/en-us/sysinfo/base/predefined_keys.asp
+1952.	http://msdn.microsoft.com/library/en-us/sysinfo/base/registry.asp
+1953.	http://msdn.microsoft.com/library/en-us/sysinfo/base/regopenkeyex.asp
+1954.	http://msdn.microsoft.com/library/en-us/sysinfo/base/regqueryinfokey.asp
+1955.	http://msdn.microsoft.com/library/en-us/vccelng/htm/progs_12.asp
+1956.	http://msdn.microsoft.com/msdnmag/issues/05/05/SafeCandC/default.aspx
+1957.	http://msn.live.it
+1958.	http://mueblesmoraleda.com
+1959.	http://mulliner.org/android/
+1960.	http://murfy.de/ruby-constants.
+1961.	http://murraysipes.us/
+1962.	http://mwobfu.sourceforge.net/
+1963.	http://my.example.com
+1964.	http://my.example.com/faq/
+1965.	http://my.example.com/?id=1
+1966.	http://my.example.com/?id=25
+1967.	http://my.example.com/main.rbx?page=1
+1968.	http://my.example.com/pub/files
+1969.	http://my.fit.edu/
+1970.	http://my.netscape.com/publish/
+1971.	http://myrepo/svn/MyApp
+1972.	http://my-rest-service.com/resource
+1973.	http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax
+1974.	http://myronmars.to/n/dev-blog/2014/05/notable-changes-in-rspec-3
+1975.	http://myuser
+1976.	http://namespace.invalid/does/not/exist/
+1977.	http://new/resource
+1978.	http://news.bbcimg.co.uk/media/images/59290000/jpg/_59290153_mmf1perezbadlapv1.jpg
+1979.	http://news.bbcimg.co.uk/media/images/59292000/jpg/_59292981_59292980.jpg
+1980.	http://news.bbcimg.co.uk/media/images/59294000/jpg/_59294155_59294154.jpg
+1981.	http://news.bbcimg.co.uk/media/images/59294000/jpg/_59294159_59294158.jpg
+1982.	http://news.ycombinator.com/
+1983.	http://newuser
+1984.	http://nex-3.com
+1985.	http://nfs.sourceforge.net/
+1986.	http://nienow.uk/
+1987.	http://nikolaus.biz/
+1988.	http://nist.time.gov/exhibits.html
+1989.	http://nodejs.org
+1990.	http://non-existing.domain/
+1991.	http://nose.readthedocs.org/en/latest/
+1992.	http://nowhereatall.com/
+1993.	http://ns.adobe.com/air/application/15.0
+1994.	http://ns.adobe.com/air/application/2.0
+1995.	http://ns.adobe.com/air/application/2.6
+1996.	http://ns.adobe.com/Fiber/1.0
+1997.	http://ns.adobe.com/flashbuilder/2009
+1998.	http://ns.adobe.com/iX/1.0/
+1999.	http://ns.adobe.com/mxml/2009
+2000.	http://ns.adobe.com/pdf/1.3/
+2001.	http://ns.adobe.com/xap/1.0/
+2002.	http://ns.adobe.com/xap/1.0/mm/
+2003.	http://nsis.sourceforge.net/vb6runtime.zip
+2004.	http://nsis.sourceforge.net/wiki/SetSectionInInstType
+2005.	http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html
+2006.	http://nssdc.gsfc.nasa.gov/planetary/mars_mileage_guide.html
+2007.	http://nwalsh.com/xslt/ext/com.nwalsh.saxon.UnwrapLinks
+2008.	http://nwalsh.com/xslt/ext/com.nwalsh.saxon.Verbatim
+2009.	http://oconnerbins.uk/
+2010.	http://ocsp.example.net
+2011.	http://odrl.net/1.1/ODRL-DD
+2012.	http://odrl.net/1.1/ODRL-EX
+2013.	http://oeis.org/A002117/constant
+2014.	http://oeis.org/A006752/constant
+2015.	http://ogame182.de/epicblue/formate.css
+2016.	http://ogame182.de/epicblue/images/deuterium.gif
+2017.	http://ogame182.de/epicblue/images/energie.gif
+2018.	http://ogame182.de/epicblue/images/kristall.gif
+2019.	http://ogame182.de/epicblue/images/metall.gif
+2020.	http://ogame182.de/epicblue/planeten/small/s_dschjungelplanet04.jpg
+2021.	http://ohara.com/
+2022.	http://okuneva.uk/
+2023.	http://olson.us/
+2024.	http://onestepback.org
+2025.	http://onestepback.org/articles/buildingwithrake/
+2026.	http://onestepback.org/redmine/account/register
+2027.	http://onestepback.org/redmine/issues/show/44
+2028.	http://onestepback.org/redmine/issues/show/47
+2029.	http://onestepback.org/redmine/projects/show/rake
+2030.	http://openide.netbeans.org/proposals/arch/modularize.html
+2031.	http://openplans.org
+2032.	http://opensource.adobe.com
+2033.	http://opensource.adobe.com/gil
+2034.	http://opensource.adobe.com/gil/download.html
+2035.	http://opensource.adobe.com/project4/project.shtml
+2036.	http://opensource.apple.com/source/Libc/Libc-583/i386/sys/_sigtramp.s
+2037.	http://opensource.org/lic
+2038.	http://opensource.org/licenses/apache2.0.php
+2039.	http://opensource.org/licenses/bsd-license
+2040.	http://opensource.org/licenses/bsd-license.
+2041.	http://opensource.org/licenses/bsd-license.ph
+2042.	http://opensource.org/licenses/bsd-license.php
+2043.	http://opensource.org/licenses/bsd-license.php.
+2044.	http://opensource.org/licenses/mit-license.php
+2045.	http://oreillykutch.co.uk/
+2046.	http://osdir.com/ml/android-porting/2011-08/msg00182.html
+2047.	http://osinski.ca/
+2048.	http://osinski.name/
+2049.	http://oss.metaparadigm.com/json-c/
+2050.	http://oss.oracle.com/projects/gstreamer-mods/
+2051.	http://oss.oracle.com/projects/webkit-java-mods/
+2052.	http://oss.software.ibm.com/developerworks/opensource/license10.html
+2053.	http://oss.software.ibm.com/userguide/dateTimezone.html
+2054.	http://oss.software.ibm.com/userguide/formatDateTime.html
+2055.	http://pablotron.org/
+2056.	http://packages.python.org/
+2057.	http://packages.python.org.
+2058.	http://packages.python.org/distribute
+2059.	http://packages.python.org/distribute.
+2060.	http://packages.python.org/distribute/easy_install.html
+2061.	http://packages.python.org/distribute/roadmap
+2062.	http://packetstormsecurity.org/papers/attack/osx1061sysent.txt
+2063.	http://pages.cpsc.ucalgary.ca/
+2064.	http://palmzlib.sourceforge.net/
+2065.	http://pastebin.com/
+2066.	http://pastebin.com/bQtdDzHx
+2067.	http://pastie.org/
+2068.	http://paucek.uk/
+2069.	http://pauillac.inria.fr/
+2070.	http://pds-rings.seti.org/toolkits/julian_133_html/aareadme.html
+2071.	http://peak.telecommunity.com/DevCenter/EasyInstall
+2072.	http://peak.telecommunity.com/DevCenter/setuptools
+2073.	http://pelican.cl.cam.ac.uk/icons/page.xbm
+2074.	http://pelican.cl.cam.ac.uk/newspage/root.html
+2075.	http://pelican.cl.cam.ac.uk/people/qs101/me.html
+2076.	http://people.freebsd.org/
+2077.	http://people.xiph.org/
+2078.	http://pfeffer.us/
+2079.	http://phed.org/2012/Peach
+2080.	http://photon.poly.edu/
+2081.	http://php.net/quickref.php
+2082.	http://physics.nist.gov/cuu/Units/binary.html
+2083.	http://pip.openplans.org/requirement-format.html
+2084.	http://planetarynames.wr.usgs.gov/Page/MARS/system
+2085.	http://pleac.sourceforge.net/
+2086.	http://plist.rubyforge.org
+2087.	http://posthere.com/
+2088.	http://postit.example.com/moo.cgi
+2089.	http://ppt.perl.org/commands/make/index.html
+2090.	http://pragprog.com/book/sidruby/the-druby-book
+2091.	http://prdownloads.sourceforge.net/boost/boost-build-2.0-m12.tar.bz2
+2092.	http://prdownloads.sourceforge.net/boost/boost-build-2.0-m12.zip
+2093.	http://premium.microsoft.com/isapi/devonly/prodinfo/msdnprod/msdnlib.idc?theURL=/msdn/library/sdkdoc/perfdata_4982.htm
+2094.	http://price.info/
+2095.	http://profile.ak.fbcdn.net/hprofile-ak-prn1/572903_100003663718866_654642800_q.jpg
+2096.	http://profile.ak.fbcdn.net/hprofile-ak-prn1/c113.33.414.414/s320x320/563238_117488358383287_1706099789_n.jpg
+2097.	http://proguard.sourceforge.net/
+2098.	http://proguard.sourceforge.net/downloads.html
+2099.	http://proguard.sourceforge.net/quality/
+2100.	http://prohaskasteuber.name/
+2101.	http://promo.net/pg/
+2102.	http://prosaccobalistreri.info/
+2103.	http://protected/resource
+2104.	http://proxy
+2105.	http://proxy.example
+2106.	http://proxy.example.com
+2107.	http://proxy.example.com/
+2108.	http://proxy.example.org
+2109.	http://proxy.foo.com
+2110.	http://proxyservername.mycompany.com
+2111.	http://pry.github.com
+2112.	http://pry.github.com/
+2113.	http://pryrepl.org
+2114.	http://pryrepl.org/
+2115.	http://pubs.opengroup.org/onlinepubs/009695399/toc.htm
+2116.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/accept.htm
+2117.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/accept.html
+2118.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/bind.html
+2119.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/connect.html
+2120.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/getpeername.html
+2121.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/getsockname.html
+2122.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/getsockopt.html
+2123.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/listen.htm
+2124.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/listen.html
+2125.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/poll.html
+2126.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/recv.html
+2127.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/send.html
+2128.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/setsockopt.html
+2129.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/shutdown.html
+2130.	http://pubs.opengroup.org/onlinepubs/9699919799/functions/socket.html
+2131.	http://pulseaudio.org/wiki/DownloadPulseAudio
+2132.	http://purdy.biz/
+2133.	http://purl.org/dc/dcmitype/StillImage
+2134.	http://purl.org/dc/elements/1.1/
+2135.	http://purl.org/rss/1.0/
+2136.	http://purl.org/rss/1.0/modules/content/
+2137.	http://purl.org/rss/1.0/modules/image/
+2138.	http://purl.org/rss/1.0/modules/slash/
+2139.	http://purl.org/rss/1.0/modules/syndication/
+2140.	http://purl.org/rss/1.0/modules/taxonomy/
+2141.	http://purl.org/thecliff/tcl/wiki/858.html
+2142.	http://pusher.com
+2143.	http://pybsddb.sf.net/
+2144.	http://pypi.python.org
+2145.	http://pypi.python.org/mirrors
+2146.	http://pypi.python.org/packages/source/d/distribute/distribute-0.6.19.tar.gz
+2147.	http://pypi.python.org/pypi
+2148.	http://pypi.python.org/pypi/
+2149.	http://pypi.python.org/pypi/DeferArgs/0.4
+2150.	http://pypi.python.org/pypi/distribute
+2151.	http://pypi.python.org/pypi/gp.recipe.pip
+2152.	http://pypi.python.org/pypi/pip
+2153.	http://pypi.python.org/pypi/pylzma/
+2154.	http://pypi.python.org/pypi/pymongo/
+2155.	http://pypi.python.org/pypi/virtualenv
+2156.	http://pypi.python.org/pypi/zc.buildout
+2157.	http://pypi.python.org/simple
+2158.	http://pypi.python.org/simple/
+2159.	http://pypm-be.activestate.com
+2160.	http://pypm-be.as.com
+2161.	http://pypm-free.activestate.com
+2162.	http://pypm-free.as.com
+2163.	http://pypm-staging.as.com
+2164.	http://pypy.org
+2165.	http://pypy.python.org/pypi/pip
+2166.	http://python-distribute.org/bootstrap.py
+2167.	http://python-distribute.org/distribute_setup.py
+2168.	http://python.org
+2169.	http://python.org/
+2170.	http://python.org/p
+2171.	http://python.org/p?q
+2172.	http://python.org/?q
+2173.	http://python.org/sf/1174712
+2174.	http://python.org/sf/126863
+2175.	http://python.org/sf/1296433
+2176.	http://python.org/sf/1333982
+2177.	http://python.org/sf/1479302
+2178.	http://python.org/sf/14797027
+2179.	http://python.org/sf/1541697
+2180.	http://python.org/sf/742342
+2181.	http://pythonpaste.org
+2182.	http://pyxml.sf.net/minidom
+2183.	http://pyyaml.org/wiki/LibYAML
+2184.	http://qc.borland.com/wc/qcmain.aspx?d=32020.
+2185.	http://qc.codegear.com/wc/qcmain.aspx?d=10267
+2186.	http://qc.codegear.com/wc/qcmain.aspx?d=51854
+2187.	http://qc.codegear.com/wc/qcmain.aspx?d=68959
+2188.	http://qc.codegear.com/wc/qcmain.aspx?d=69196
+2189.	http://qc.embarcadero.com/wc/qcmain.aspx?d=51854
+2190.	http://qc.embarcadero.com/wc/qcmain.aspx?d=83751
+2191.	http://qc.embarcadero.com/wc/qcmain.aspx?d=83851
+2192.	http://qc.embarcadero.com/wc/qcmain.aspx?d=84279
+2193.	http://qt.nokia.com
+2194.	http://qt-project.org/doc/qt-4.8/moc.html
+2195.	http://qt-project.org/doc/qt-4.8/rcc.html
+2196.	http://qt-project.org/doc/qt-5.0/moc.html
+2197.	http://qt-project.org/doc/qt-5.0/rcc.html
+2198.	http://quequero.org/rcs.exe
+2199.	http://quinthar.com/qwikiwiki/index.php?page=Home
+2200.	http://raa.ruby-lang.org
+2201.	http://ragestorm.net/distorm/
+2202.	http://rake.rubyforge.org
+2203.	http://rake.rubyforge.org/
+2204.	http://rake.rubyforge.org.
+2205.	http://rathbode.ca/
+2206.	http://raynor.ca/
+2207.	http://rcs-dev.hackingteam.it/trac/wiki/Experimental
+2208.	http://rcs-dev/trac/wiki/RCS_Sync_Proto_Rest
+2209.	http://rdoc.info/gems/mime-types/
+2210.	http://rdoc.info/github/banister/method_source/master/file/README.markdown
+2211.	http://rdoc.info/github/durran/optionable/master/frames
+2212.	http://rdoc.info/github/mongodb/bson-ruby/master/frames
+2213.	http://rdoc.info/github/pry/pry/master/file/README.markdown
+2214.	http://rdoc.info/github/rubyzip/rubyzip/master/frames
+2215.	http://rdoc.info/projects/luislavena/win32console
+2216.	http://rdoc.rubyforge.org
+2217.	http://reader.google.com
+2218.	http://redir.opera.com/www.opera.com/firstrun/
+2219.	http://redmine.org/
+2220.	http://redmine.ruby-lang.org/issues/4522
+2221.	http://redmine.ruby-lang.org/issues/5341
+2222.	http://reference.wolfram.com/mathematica/ref/InverseChiSquareDistribution.html
+2223.	http://refspecs.linuxfoundation.org/elf/x86_64-abi-0.95.pdf
+2224.	http://register.dot-bit.org
+2225.	http://reichel.com/
+2226.	http://reingerroob.ca/
+2227.	http://relaxngcc.sf.net/
+2228.	http://releases.linaro.org/platform/linaro-m/headless/release-candidate/linaro-m-headless-tar-20101101-0.tar.gz
+2229.	http://releases.linaro.org/platform/linaro-m/hwpacks/final/hwpack_linaro-omap3_20101109-1_armel_supported.tar.gz
+2230.	http://relishapp.com/rspec/rspec-core
+2231.	http://relishapp.com/rspec/rspec-expectations
+2232.	http://relishapp.com/rspec/rspec-mocks
+2233.	http://rentzsch.com
+2234.	http://research.microsoft.com/projects/greta
+2235.	http://rest-test.heroku.com
+2236.	http://rest-test.heroku.com/resource
+2237.	http://rfc-editor.org/rfc/rfc
+2238.	http://rfc-editor.org/rfc/rfc123.txt
+2239.	http://ricerath.info/
+2240.	http://richarddingwall.name/2008/06/01/using-the-boost-unit-test-framework-with-xcode-3/
+2241.	http://rippindeckow.co.uk/
+2242.	http://ritchie.biz/
+2243.	http://rm-f.net/
+2244.	http://robaldred.co.uk
+2245.	http://rosenbaum.name/
+2246.	http://rpm.org
+2247.	http://rps-svcs.sun.com/services/countrylookup
+2248.	http://rss.acs.unt.edu/Rdoc/library/pscl/html/igamma.html
+2249.	http://rubini.us
+2250.	http://rubini.us/
+2251.	http://rubular.com/r/85ag5AZ2jP
+2252.	http://rubular.com/r/AOXNVDrZpx
+2253.	http://rubular.com/r/duOrD4i3wb
+2254.	http://rubular.com/r/fT0gmX6VJX
+2255.	http://rubular.com/r/kqeUIZOfPG
+2256.	http://rubular.com/r/sbAMHFrOx1
+2257.	http://rubular.com/r/zDD7DdWyzF
+2258.	http://ruby.brian-schroeder.de/priority_queue
+2259.	http://rubydoc.info/gems/addressable
+2260.	http://rubydoc.info/gems/docile
+2261.	http://rubydoc.info/gems/rspec-core/frames
+2262.	http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
+2263.	http://rubydoc.info/gems/rspec-core/RSpec/Core/ExampleGroup
+2264.	http://rubydoc.info/gems/rspec-expectations/frames
+2265.	http://rubydoc.info/gems/rspec-mocks/frames
+2266.	http://rubydoc.info/gems/simplecov/frames
+2267.	http://rubydoc.info/gems/simplecov/SimpleCov/Configuration
+2268.	http://rubydoc.info/gems/tzinfo/frames
+2269.	http://rubydoc.info/github/halostatue/diff-lcs
+2270.	http://rubydoc.info/github/pry/pry/master/Pry/Hooks
+2271.	http://rubyeventmachine.com
+2272.	http://rubyforge.org
+2273.	http://rubyforge.org/frs/?group_id=2550
+2274.	http://rubyforge.org/projects/addressable/
+2275.	http://rubyforge.org/project/showfiles.php?group_id=50
+2276.	http://rubyforge.org/projects/log4r/
+2277.	http://rubyforge.org/projects/rake
+2278.	http://rubyforge.org/projects/rake.
+2279.	http://rubyforge.org/projects/rubylexer
+2280.	http://rubyforge.org/projects/ruwiki
+2281.	http://rubyforge.org/projects/ruwiki/
+2282.	http://rubyforge.org/projects/syntax
+2283.	http://rubyforge.org/projects/uuidtools/
+2284.	http://rubyforge.org/projects/win32console
+2285.	http://rubyforge.org/projects/winconsole
+2286.	http://rubyforge.org/tracker/?func=detail
+2287.	http://rubyforge.org/tracker/index.php?func=detail
+2288.	http://rubygems-mirror.org
+2289.	http://rubygems.org
+2290.	http://rubygems.org/
+2291.	http://rubygems.org/gems/em-websocket
+2292.	http://rubygems.org/gems/mime-types
+2293.	http://rubygems.org/gems/netrc
+2294.	http://rubygems.org/gems/rdoc
+2295.	http://rubygems.org/gems/simplecov
+2296.	http://rubygems.rubyforge.org/rdoc
+2297.	http://rubygems.rubyforge.org/wiki/wiki.pl?RubyGems
+2298.	http://rubyinstaller.org/downloads
+2299.	http://ruby-lang.org
+2300.	http://ruby-lang.org/
+2301.	http://rubystuff.org/romp/
+2302.	http://rubyzip.sourceforge.net.
+2303.	http://runolfsdottir.name/
+2304.	http://runolfsdottirnitzsche.co.uk/
+2305.	http://runolfssonstroman.info/
+2306.	http://rvm.io/packages/openssl.
+2307.	http://rwiki.jin.gr.jp/cgi-bin/rw-cgi.rb?cmd=view
+2308.	http://s
+2309.	https://
+2310.	https://...
+2311.	https://127.0.0.1
+2312.	https://127.0.0.1/
+2313.	https://172.20.20.121/sdk
+2314.	https://192.168.168.202/app.plist
+2315.	https://account.activestate.com/
+2316.	https://accounts.google.com
+2317.	https://accounts.google.com/b/0/VerifiedPhoneInterstitial?continue=https
+2318.	https://addons.mozilla.org/en-US/firefox/addon/font-finder/
+2319.	https://addons.mozilla.org/en-US/firefox/addon/web-developer/developers
+2320.	http://sadflkjsasf.i.nvali.d/
+2321.	http://sadflkjsasf.i.nvali.d./
+2322.	http://sadun-util.sourceforge.net/
+2323.	http://sadun-util.sourceforge.net/pack.html
+2324.	https://ajax.googleapis.com/ajax/services/search/images?
+2325.	https://alkaline-solutions.com
+2326.	http://sam
+2327.	http://samtools.sourceforge.net/tabix.shtml
+2328.	http://sandmark.cs.arizona.edu/
+2329.	https://android.clients.google.com/fdfe/
+2330.	https://android.googlesource.com/platform/external/libnfc-nxp/
+2331.	https://api.travis-ci.org/lian/bitcoin-ruby.svg?branch=master
+2332.	http://savannah.gnu.org/cgi-bin/viewcvs/
+2333.	http://savannah.gnu.org/projects/rubypki
+2334.	https://badge.fury.io/rb/addressable.png
+2335.	https://badge.fury.io/rb/docile.png
+2336.	https://badge.fury.io/rb/em-websocket.png
+2337.	https://badge.fury.io/rb/tzinfo.svg
+2338.	https://bitbucket.org/pierrejoye/gd-libgd/downloads
+2339.	https://bitbucket.org/pypa/setuptools/pull-request/7/
+2340.	https://bitcointalk.org/index.php?topic=11665.0.
+2341.	https://bitcointalk.org/index.php?topic=260595.0
+2342.	https://bitcointalk.org/index.php?topic=46370.0
+2343.	https://bitdeli.com/free
+2344.	https://bugs.freedesktop.org//show_bug.cgi?id=34240
+2345.	https://bugs.launchpad.net/virtualenv/
+2346.	https://bugs.ruby-lang.org/issues/6492
+2347.	https://bugs.ruby-lang.org/issues/8556
+2348.	https://bugs.ruby-lang.org/issues/8686
+2349.	https://bugs.ruby-lang.org/issues/9967
+2350.	https://bugzilla.gnome.org/show_bug.cgi?id=647577
+2351.	https://bugzilla.gnome.org/show_bug.cgi?id=657100
+2352.	https://bugzilla.redhat.com/show_bug.cgi?id=556975
+2353.	https://ccrma.stanford.edu/courses/422/projects/WaveFormat/
+2354.	http://schadenspinka.ca/
+2355.	http://schema.org/AggregateRating
+2356.	http://schema.org/MobileApplication
+2357.	http://schema.org/Offer
+2358.	http://schema.org/Organization
+2359.	http://schemas.android.com/apk/res/android
+2360.	http://schemas.android.com/apk/res-auto
+2361.	http://schemas.android.com/tools
+2362.	http://schemas.micros
+2363.	http://schemas.microsoft.com/client/2007/deployment
+2364.	http://schemas.microsoft.com/developer/msbuild/2003
+2365.	http://schemas.microsoft.com/expression/blend/2008
+2366.	http://schemas.microsoft.com/intellisense/ie5
+2367.	http://schemas.microsoft.com/office/2006/activeX
+2368.	http://schemas.microsoft.com/office/2006/relationships/activeXControlBinary
+2369.	http://schemas.microsoft.com/office/drawing/2010/main
+2370.	http://schemas.microsoft.com/office/wo
+2371.	http://schemas.microsoft.com/office/word/2003/wor
+2372.	http://schemas.microsoft.com/office/word/2003/word
+2373.	http://schemas.microsoft.com/office/word/2003/wordml
+2374.	http://schemas.microsoft.com/SMI/2005/WindowsSettings
+2375.	http://schemas.microsoft.com/VisualStudio/2004/01/settings
+2376.	http://schemas.microsoft.com/windowsphone/2012/deployment
+2377.	http://schemas.microsoft.com/winfx/2006/xaml
+2378.	http://schemas.microsoft.com/winfx/2006/xaml/presentation
+2379.	http://schemas.openxmlformats.org/markup-compatibility/2006
+2380.	http://schemas.openxmlformats.org/officeDocument/2006/relationships
+2381.	http://schemas.openxmlformats.org/officeDocument/2006/relationships/control
+2382.	http://schemas.openxmlformats.org/officeDocument/2006/relationships/image
+2383.	http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing
+2384.	http://schemas.openxmlformats.org/package/2006/relationships
+2385.	http://schemas.xmlsoap.org/soap/envelope
+2386.	http://schemas.xmlsoap.org/soap/envelope/
+2387.	http://schemas.xmlsoap.org/wsdl/
+2388.	http://schimmel.us/
+2389.	http://schinner.name/
+2390.	http://schowalter.uk/
+2391.	https://chromium.googlesource.com/chromium/src/
+2392.	http://schulistcronin.uk/
+2393.	http://schulist.info/
+2394.	http://schuster.ca/
+2395.	http://schusterwintheiser.uk/
+2396.	https://codeclimate.com/github/bundler/bundler
+2397.	https://codeclimate.com/github/colszowka/simplecov
+2398.	https://codeclimate.com/github/colszowka/simplecov.png
+2399.	https://codeclimate.com/github/durran/optionable
+2400.	https://codeclimate.com/github/durran/optionable.png
+2401.	https://codeclimate.com/github/halostatue/mime-types
+2402.	https://codeclimate.com/github/intridea/multi_json
+2403.	https://codeclimate.com/github/mongodb/bson-ruby
+2404.	https://codeclimate.com/github/mongodb/bson-ruby.png
+2405.	https://codeclimate.com/github/mongoid/origin
+2406.	https://codeclimate.com/github/mongoid/origin.png
+2407.	https://codeclimate.com/github/ms-ati/docile
+2408.	https://codeclimate.com/github/ms-ati/docile.png
+2409.	https://codeclimate.com/github/pry/pry
+2410.	https://codeclimate.com/github/rspec/rspec-core
+2411.	https://codeclimate.com/github/rspec/rspec-core.png
+2412.	https://codeclimate.com/github/rspec/rspec-expectations
+2413.	https://codeclimate.com/github/rspec/rspec-expectations.png
+2414.	https://codeclimate.com/github/rspec/rspec-mocks
+2415.	https://codeclimate.com/github/rspec/rspec-mocks.png
+2416.	https://codeclimate.com/github/rubyzip/rubyzip
+2417.	https://codeclimate.com/github/rubyzip/rubyzip.png
+2418.	https://code.google.com/p/android/issues/detail?id=42540
+2419.	https://code.google.com/p/android/issues/detail?id=42735
+2420.	https://code.google.com/p/gmaps-api-as3/
+2421.	https://coinbase.com/network/tx/
+2422.	https://connect.microsoft.com/VisualStudio/feedback/details/100744
+2423.	https://connect.microsoft.com/VisualStudio/feedback/details/484295
+2424.	https://connect.microsoft.com/VisualStudio/feedback/details/499606
+2425.	https://connect.microsoft.com/VisualStudio/feedback/details/754684/premature-decay-of-function-types-in-overloaded-assignment-operator
+2426.	https://connect.microsoft.com/VisualStudio/feedback/details/765392/decltype-of-a-pointer-to-member-operator-gets-ref-qualification-wrong
+2427.	https://connect.microsoft.com/VisualStudio/feedback/details/765449/codegen-stack-corruption-using-runtime-checks-when-aggregate-initializing-struct
+2428.	https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=100744
+2429.	https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=240227
+2430.	https://coveralls.io/r/durran/optionable?branch=master
+2431.	https://coveralls.io/repos/durran/optionable/badge.png?branch=master
+2432.	https://coveralls.io/repos/halostatue/mime-types/badge.png
+2433.	https://coveralls.io/repos/mongodb/bson-ruby/badge.png?branch=master
+2434.	https://coveralls.io/repos/mongoid/origin/badge.png?branch=master
+2435.	https://coveralls.io/repos/ms-ati/docile/badge.png
+2436.	https://coveralls.io/repos/rubyzip/rubyzip/badge.png?branch=master
+2437.	https://coveralls.io/repos/sporkmonger/addressable/badge.png?branch=master
+2438.	https://coveralls.io/r/halostatue/mime-types
+2439.	https://coveralls.io/r/mongodb/bson-ruby?branch=master
+2440.	https://coveralls.io/r/mongoid/origin?branch=master
+2441.	https://coveralls.io/r/ms-ati/docile
+2442.	https://coveralls.io/r/rubyzip/rubyzip?branch=master
+2443.	https://coveralls.io/r/sporkmonger/addressable
+2444.	https://d2weczhvl823v0.cloudfront.net/ms-ati/docile/trend.png
+2445.	https://datatracker.ietf.org/public/idindex.cgi?
+2446.	https://developer.apple.com/icloud/documentation/data-storage/
+2447.	https://developer.apple.com/library/ios/
+2448.	https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/PassKit_PG/Chapters/Introduction.html
+2449.	https://developer.mozilla.org/en/PKCS11_Module_Specs.
+2450.	https://developers.google.com/maps/documentation/flash/overlays
+2451.	https://developers.google.com/speed/webp/
+2452.	https://dl.dropbox.com/u/26521875/pry
+2453.	https://drive.google.com
+2454.	https://drive.google.com/?authuser=0
+2455.	https://drive.google.com/drive/
+2456.	https://drive.google.com/drive?authuser
+2457.	https://duplicate-rubygems.org
+2458.	http://search.cpan.org/
+2459.	http://search.cpan.org/doc/MORTY/DateConvert-0.16/Convert.pm
+2460.	http://search.cpan.org/search?query=PerlBuildSystem
+2461.	http://search-dev.develooper.com/
+2462.	http://search-dev.develooper.com/search?m=module
+2463.	http://search.gmane.org/
+2464.	http://search.msn.com/docs/siteowner.aspx.
+2465.	http://search.twitter.com/search.json?q=
+2466.	http://search.twitter.com/search.json?q=engineyard
+2467.	http://search.twitter.com/search.json?q=github
+2468.	https://edk2-fatdriver2.svn.sourceforge.net/svnroot/edk2-fatdriver2/trunk/FatPkg
+2469.	https://edk2.svn.sourceforge.net/svnroot/edk2/branches/EADK/
+2470.	https://edk2.svn.sourceforge.net/svnroot/edk2/trunk/edk2
+2471.	https://edk2.svn.sourceforge.net/svnroot/edk2/trunk/edk2/EmulatorPkg/
+2472.	https://edk2.svn.sourceforge.net/svnroot/edk2/trunk/edk2/EmulatorPkg/EmulatorPkg.dsc
+2473.	https://edk2.tianocore.org/files/documents/64/494/EDKII_UserManual.pdf
+2474.	https://edk2.tianocore.org/source/browse/edk2/trunk/edk2/IntelFrameworkPkg
+2475.	https://edk2.tianocore.org/step-by-step-instructions.html
+2476.	https://edk2.tianocore.org/unix-getting-started.html
+2477.	https://edk.tianocore.org/files/documents/16/526/Edk-Dev-Snapshot-20090527.zip
+2478.	https://edk.tianocore.org/files/documents/16/558/Edk-Dev-Snapshot-20090812.zip
+2479.	https://efi-shell.tianocore.org/servlets/ProjectDocumentList?folderID=46
+2480.	http://semver.org
+2481.	http://semver.org/
+2482.	https://en.bitcoin.it/wiki/Base58Check_encoding
+2483.	https://en.bitcoin.it/wiki/BIP_0011
+2484.	https://en.bitcoin.it/wiki/BIP_0012
+2485.	https://en.bitcoin.it/wiki/BIP_0016
+2486.	https://en.bitcoin.it/wiki/BIP_0035
+2487.	https://en.bitcoin.it/wiki/Electrum
+2488.	https://en.bitcoin.it/wiki/OP_CHECKSIG
+2489.	https://en.bitcoin.it/wiki/Private_key
+2490.	https://en.bitcoin.it/wiki/Proof_of_work
+2491.	https://en.bitcoin.it/wiki/Protocol_specification
+2492.	https://example.com
+2493.	https://example.com/
+2494.	https://example.com/private/resource
+2495.	https://existing-rubygems.org
+2496.	https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c0.20.800.800/s200x200/734834_10152513415670114_1465039918_n.jpg
+2497.	https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c0.20.800.800/s720x720/734834_10152513415670114_1465039918_n.jpg
+2498.	https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c0.4.123.123/s100x100/734834_10152513415670114_1465039918_s.jpg
+2499.	https://fifth-rubygems.org
+2500.	https://first-rubygems.org
+2501.	http://sf.net/mailarchive/forum.php?thread_id=1963157
+2502.	http://sf.net/mailarchive/forum.php?thread_id=1966224
+2503.	http://sf.net/project/showfiles.php?group_id=7586
+2504.	http://sf.net/projects/mimelib
+2505.	http://sf.net/tracker/
+2506.	http://sf.net/tracker/?func=detail
+2507.	http://sf.net/tracker/index.php?func=detail
+2508.	https://forums13.itrc.hp.com/service/forums/questionanswer.do?threadId=1443331
+2509.	https://forums13.itrc.hp.com/service/forums/questionanswer.do?threadId=1443436
+2510.	https://forums.adobe.com/thread/1298374
+2511.	https://fourth-rubygems.org
+2512.	https://ga-beacon.appspot.com/UA-71196-10/em-websocket/readme
+2513.	https://gbandroid.googlecode.com/svn-history/r46/trunk/MobileSpy/src/org/ddth/android/monitor/observer/AndroidSmsWatcher.java
+2514.	https://gemnasium.com/colszowka/simplecov
+2515.	https://gemnasium.com/colszowka/simplecov.png
+2516.	https://gemnasium.com/intridea/multi_json
+2517.	https://gemnasium.com/ms-ati/docile
+2518.	https://gemnasium.com/ms-ati/docile.png
+2519.	https://gemnasium.com/sporkmonger/addressable
+2520.	https://gemnasium.com/sporkmonger/addressable.png?travis
+2521.	https://gemnasium.com/sporkmonger/uuidtools
+2522.	https://gemnasium.com/sporkmonger/uuidtools.png
+2523.	https://gems.example.com
+2524.	https://gems.example.com/
+2525.	https://gems.longerous.com/
+2526.	https://gist.github.com
+2527.	https://gist.github.com/
+2528.	https://gist.github.com/.
+2529.	https://gist.github.com/2859988.git
+2530.	https://gist.github.com/5332c38afc46d902ce46
+2531.	https://gist.github.com/802391
+2532.	https://gist.github.com/802395
+2533.	https://gist.github.com/802553
+2534.	https://gist.github.com/845896
+2535.	https://gist.github.com/c0fc686ef923c8b87715
+2536.	https://gist.github.com/cae143e4533416529726
+2537.	https://gist.github.com/xaviershay/6207550
+2538.	https://gist.github.com/xaviershay/6295889
+2539.	https://github.com/
+2540.	https://github.com/adamsanderson
+2541.	https://github.com/adoxa/ansicon
+2542.	https://github.com/AF83/em-eventsource
+2543.	https://github.com/alor/em-http-server
+2544.	https://github.com/antirez/hiredis
+2545.	https://github.com/astro/socksify-ruby
+2546.	https://github.com/avsej/gson.rb
+2547.	https://github.com/avsej/gson.rb/issues/3
+2548.	https://github.com/bblimke/webmock
+2549.	https://github.com/bcg/em-mongo
+2550.	https://github.com/bf4
+2551.	https://github.com/bitcoin/bips/blob/master/bip-0038.mediawiki
+2552.	https://github.com/bitcoin/bitcoin/blob/c2e8c8acd8ae0c94c70b59f55169841ad195bb99/src/script.cpp
+2553.	https://github.com/bitcoin/bitcoin/blob/e071a3f6c06f41068ad17134189a4ac3073ef76b/script.cpp
+2554.	https://github.com/bitcoin/bitcoin/blob/master/src/script.cpp
+2555.	https://github.com/bitcoin/bitcoin/blob/master/src/test/base58_tests.cpp
+2556.	https://github.com/brianmario/yajl-ruby
+2557.	https://github.com/bundler/bundler/blob/master/CHANGELOG.md
+2558.	https://github.com/bundler/bundler/blob/master/DEVELOPMENT.md
+2559.	https://github.com/bundler/bundler/blob/master/ISSUES.md
+2560.	https://github.com/bundler/bundler-features
+2561.	https://github.com/bundler/bundler-features/issues?labels=small
+2562.	https://github.com/bundler/bundler-features/issues/new
+2563.	https://github.com/bundler/bundler/issues
+2564.	https://github.com/bundler/bundler/issues/1202
+2565.	https://github.com/bundler/bundler/issues/1486
+2566.	https://github.com/bundler/bundler/issues/1500
+2567.	https://github.com/bundler/bundler/issues?labels=small
+2568.	https://github.com/bundler/bundler/issues/new
+2569.	https://github.com/bundler/bundler-site
+2570.	https://github.com/chipsec/chipsec
+2571.	https://github.com/cloudfoundry
+2572.	https://github.com/colszowka/simplecov
+2573.	https://github.com/colszowka/simplecov/blob/master/CHANGELOG.md
+2574.	https://github.com/colszowka/simplecov/blob/master/CONTRIBUTING.md
+2575.	https://github.com/colszowka/simplecov/blob/master/features/config_nocov_token.feature
+2576.	https://github.com/colszowka/simplecov/commit/37afca54ef503c33d888e910f950b3b943cb9a6c
+2577.	https://github.com/colszowka/simplecov/commit/63cfa99f8658fa5cc66a38c83b3195fdf71b9e93
+2578.	https://github.com/colszowka/simplecov/compare/v0.4.2...v0.5.4
+2579.	https://github.com/colszowka/simplecov/compare/v0.5.0...v0.5.1
+2580.	https://github.com/colszowka/simplecov/compare/v0.5.1...v0.5.2
+2581.	https://github.com/colszowka/simplecov/compare/v0.5.2...v0.5.3
+2582.	https://github.com/colszowka/simplecov/compare/v0.5.3...v0.5.4
+2583.	https://github.com/colszowka/simplecov/compare/v0.5.4...v0.6.0
+2584.	https://github.com/colszowka/simplecov/compare/v0.6.0...v0.6.1
+2585.	https://github.com/colszowka/simplecov/compare/v0.6.1...v0.6.2
+2586.	https://github.com/colszowka/simplecov/compare/v0.6.2...v0.6.3
+2587.	https://github.com/colszowka/simplecov/compare/v0.6.3...v0.6.4
+2588.	https://github.com/colszowka/simplecov/compare/v0.6.4...v0.7.0
+2589.	https://github.com/colszowka/simplecov/compare/v0.7.0...v0.7.1
+2590.	https://github.com/colszowka/simplecov/compare/v0.7.1...v0.8.0
+2591.	https://github.com/colszowka/simplecov/compare/v0.8.0...v0.8.1
+2592.	https://github.com/colszowka/simplecov/compare/v0.8.1...v0.8.2
+2593.	https://github.com/colszowka/simplecov/compare/v0.8.2...v0.9.0
+2594.	https://github.com/colszowka/simplecov/compare/v0.9.0...v0.9.1
+2595.	https://github.com/colszowka/simplecov/compare/v0.9.1...master
+2596.	https://github.com/colszowka/simplecov.git
+2597.	https://github.com/colszowka/simplecov-html
+2598.	https://github.com/colszowka/simplecov-html/pull/14
+2599.	https://github.com/colszowka/simplecov-html/pull/15
+2600.	https://github.com/colszowka/simplecov/issues
+2601.	https://github.com/colszowka/simplecov/issues/106
+2602.	https://github.com/colszowka/simplecov/issues/11
+2603.	https://github.com/colszowka/simplecov/issues/110
+2604.	https://github.com/colszowka/simplecov/issues/113
+2605.	https://github.com/colszowka/simplecov/issues/127
+2606.	https://github.com/colszowka/simplecov/issues/132
+2607.	https://github.com/colszowka/simplecov/issues/140
+2608.	https://github.com/colszowka/simplecov/issues/171
+2609.	https://github.com/colszowka/simplecov/issues/204
+2610.	https://github.com/colszowka/simplecov/issues/221
+2611.	https://github.com/colszowka/simplecov/issues/258
+2612.	https://github.com/colszowka/simplecov/issues/281
+2613.	https://github.com/colszowka/simplecov/issues/285
+2614.	https://github.com/colszowka/simplecov/issues/304
+2615.	https://github.com/colszowka/simplecov/issues/333
+2616.	https://github.com/colszowka/simplecov/issues/41
+2617.	https://github.com/colszowka/simplecov/issues/42
+2618.	https://github.com/colszowka/simplecov/issues/45
+2619.	https://github.com/colszowka/simplecov/issues/64
+2620.	https://github.com/colszowka/simplecov/issues/71
+2621.	https://github.com/colszowka/simplecov/issues/72
+2622.	https://github.com/colszowka/simplecov/issues/79
+2623.	https://github.com/colszowka/simplecov/issues/80
+2624.	https://github.com/colszowka/simplecov/issues/85
+2625.	https://github.com/colszowka/simplecov/issues/86
+2626.	https://github.com/colszowka/simplecov/issues/90
+2627.	https://github.com/colszowka/simplecov/issues/95
+2628.	https://github.com/colszowka/simplecov/issues/96
+2629.	https://github.com/colszowka/simplecov/pull/103
+2630.	https://github.com/colszowka/simplecov/pull/117.
+2631.	https://github.com/colszowka/simplecov/pull/119.
+2632.	https://github.com/colszowka/simplecov/pull/122
+2633.	https://github.com/colszowka/simplecov/pull/128.
+2634.	https://github.com/colszowka/simplecov/pull/139.
+2635.	https://github.com/colszowka/simplecov/pull/151
+2636.	https://github.com/colszowka/simplecov/pull/158
+2637.	https://github.com/colszowka/simplecov/pull/174
+2638.	https://github.com/colszowka/simplecov/pull/175
+2639.	https://github.com/colszowka/simplecov/pull/181
+2640.	https://github.com/colszowka/simplecov/pull/185
+2641.	https://github.com/colszowka/simplecov/pull/190
+2642.	https://github.com/colszowka/simplecov/pull/194
+2643.	https://github.com/colszowka/simplecov/pull/195
+2644.	https://github.com/colszowka/simplecov/pull/203
+2645.	https://github.com/colszowka/simplecov/pull/206
+2646.	https://github.com/colszowka/simplecov/pull/207
+2647.	https://github.com/colszowka/simplecov/pull/209
+2648.	https://github.com/colszowka/simplecov/pull/212
+2649.	https://github.com/colszowka/simplecov/pull/213
+2650.	https://github.com/colszowka/simplecov/pull/215
+2651.	https://github.com/colszowka/simplecov/pull/223
+2652.	https://github.com/colszowka/simplecov/pull/237
+2653.	https://github.com/colszowka/simplecov/pull/238
+2654.	https://github.com/colszowka/simplecov/pull/242
+2655.	https://github.com/colszowka/simplecov/pull/244
+2656.	https://github.com/colszowka/simplecov/pull/245
+2657.	https://github.com/colszowka/simplecov/pull/256
+2658.	https://github.com/colszowka/simplecov/pull/272
+2659.	https://github.com/colszowka/simplecov/pull/276
+2660.	https://github.com/colszowka/simplecov/pull/278
+2661.	https://github.com/colszowka/simplecov/pull/279
+2662.	https://github.com/colszowka/simplecov/pull/280
+2663.	https://github.com/colszowka/simplecov/pull/287
+2664.	https://github.com/colszowka/simplecov/pull/302
+2665.	https://github.com/colszowka/simplecov/pull/303
+2666.	https://github.com/colszowka/simplecov/pull/311
+2667.	https://github.com/colszowka/simplecov/pull/317
+2668.	https://github.com/colszowka/simplecov/pull/70
+2669.	https://github.com/colszowka/simplecov/pull/74
+2670.	https://github.com/colszowka/simplecov/pull/75
+2671.	https://github.com/colszowka/simplecov/pull/83
+2672.	https://github.com/ConradIrwin
+2673.	https://github.com/conradirwin/ruby18_source_location
+2674.	https://github.com/cucumber/aruba/issues/134
+2675.	https://github.com/cucumber/aruba/pull/125
+2676.	https://github.com/danmayer/coverband
+2677.	https://github.com/djberg96/sys-cpu
+2678.	https://github.com/djberg96/sys-filesystem
+2679.	https://github.com/dmitryelastic
+2680.	https://github.com/dtmilano/AndroidViewClient/issues
+2681.	https://github.com/eliben/pyelftools
+2682.	https://github.com/EmmanuelOga/firering
+2683.	https://github.com/eventmachine/em-mysql
+2684.	https://github.com/eventmachine/eventmachine/wiki
+2685.	https://github.com/fguillen/simplecov-csv
+2686.	https://github.com/fguillen/simplecov-rcov
+2687.	https://github.com/fintler/xnufuzz/tree/
+2688.	https://github.com/flori/json
+2689.	https://github.com/gimite/web-socket-js
+2690.	https://github.com/github/gitignore
+2691.	https://github.com/grosser/simplecov-single_file_reporter
+2692.	https://github.com/guard/guard
+2693.	https://github.com/guard/guard/wiki/Add-proper-Readline-support-to-Ruby-on-Mac-OS-X
+2694.	https://github.com/guyboertje/jrjackson
+2695.	https://github.com/guyboertje/jrjackson/issues/21
+2696.	https://github.com/hackedteam/core-android
+2697.	https://github.com/hackedteam/core-android-audiocapture
+2698.	https://github.com/hackedteam/core-android-market
+2699.	https://github.com/hackedteam/core-android-native
+2700.	https://github.com/hackedteam/core-blackberry
+2701.	https://github.com/hackedteam/core-ios
+2702.	https://github.com/hackedteam/core-linux
+2703.	https://github.com/hackedteam/core-macos
+2704.	https://github.com/hackedteam/core-packer
+2705.	https://github.com/hackedteam/core-symbian
+2706.	https://github.com/hackedteam/core-win32
+2707.	https://github.com/hackedteam/core-win64
+2708.	https://github.com/hackedteam/core-winmobile
+2709.	https://github.com/hackedteam/core-winphone
+2710.	https://github.com/hackedteam/driver-macos
+2711.	https://github.com/hackedteam/driver-win32
+2712.	https://github.com/hackedteam/driver-win64
+2713.	https://github.com/hackedteam/fuzzer-android
+2714.	https://github.com/hackedteam/fuzzer-windows
+2715.	https://github.com/hackedteam/GeoTrust
+2716.	https://github.com/hackedteam/gitosis-admin
+2717.	https://github.com/hackedteam/libmelter
+2718.	https://github.com/hackedteam/libpemelter
+2719.	https://github.com/hackedteam/melter
+2720.	https://github.com/hackedteam/poc-x
+2721.	https://github.com/hackedteam/rcs-anonymizer
+2722.	https://github.com/hackedteam/rcs-anonymizer-old
+2723.	https://github.com/hackedteam/rcs-backdoor
+2724.	https://github.com/hackedteam/rcs-collector
+2725.	https://github.com/hackedteam/rcs-common
+2726.	https://github.com/hackedteam/rcs-console
+2727.	https://github.com/hackedteam/rcs-console-library
+2728.	https://github.com/hackedteam/rcs-console-mobile
+2729.	https://github.com/hackedteam/rcs-db-ext
+2730.	https://github.com/hackedteam/scout-win
+2731.	https://github.com/hackedteam/shshget
+2732.	https://github.com/hackedteam/soldier-win
+2733.	https://github.com/hackedteam/test-av
+2734.	https://github.com/hackedteam/test-av2
+2735.	https://github.com/hackedteam/vector-applet
+2736.	https://github.com/hackedteam/vector-default
+2737.	https://github.com/hackedteam/vector-dropper
+2738.	https://github.com/hackedteam/vector-edk
+2739.	https://github.com/hackedteam/vector-exploit
+2740.	https://github.com/hackedteam/vector-ipa
+2741.	https://github.com/hackedteam/vector-macos-root
+2742.	https://github.com/hackedteam/vector-offline
+2743.	https://github.com/hackedteam/vector-offline2
+2744.	https://github.com/hackedteam/vector-recover
+2745.	https://github.com/hackedteam/vector-rmi
+2746.	https://github.com/hackedteam/vector-silent
+2747.	https://github.com/halorgium/rack-client
+2748.	https://github.com/halostatue/diff-lcs
+2749.	https://github.com/halostatue/diff-lcs/issues
+2750.	https://github.com/halostatue/diff-lcs/issues/1
+2751.	https://github.com/halostatue/diff-lcs/issues/10
+2752.	https://github.com/halostatue/diff-lcs/issues/12
+2753.	https://github.com/halostatue/diff-lcs/issues/13
+2754.	https://github.com/halostatue/diff-lcs/issues/2
+2755.	https://github.com/halostatue/diff-lcs/issues/3
+2756.	https://github.com/halostatue/diff-lcs/issues/4
+2757.	https://github.com/halostatue/diff-lcs/issues/8
+2758.	https://github.com/halostatue/diff-lcs/issues/9
+2759.	https://github.com/halostatue/diff-lcs/pull/15
+2760.	https://github.com/halostatue/diff-lcs/pull/18
+2761.	https://github.com/halostatue/diff-lcs/pull/23
+2762.	https://github.com/halostatue/mime-types/
+2763.	https://github.com/halostatue/mime-types/issue/13
+2764.	https://github.com/halostatue/mime-types/issue/16.
+2765.	https://github.com/halostatue/mime-types/issue/17
+2766.	https://github.com/halostatue/mime-types/issue/20
+2767.	https://github.com/halostatue/mime-types/issue/21
+2768.	https://github.com/halostatue/mime-types/issue/22
+2769.	https://github.com/halostatue/mime-types/issue/23
+2770.	https://github.com/halostatue/mime-types/issues
+2771.	https://github.com/halostatue/mime-types/issues/1
+2772.	https://github.com/halostatue/mime-types/issues/10
+2773.	https://github.com/halostatue/mime-types/issues/11.
+2774.	https://github.com/halostatue/mime-types/issues/12
+2775.	https://github.com/halostatue/mime-types/issues/2
+2776.	https://github.com/halostatue/mime-types/issues/3
+2777.	https://github.com/halostatue/mime-types/issues/32
+2778.	https://github.com/halostatue/mime-types/issues/39
+2779.	https://github.com/halostatue/mime-types/issues/57
+2780.	https://github.com/halostatue/mime-types/issues/59
+2781.	https://github.com/halostatue/mime-types/issues/6
+2782.	https://github.com/halostatue/mime-types/issues/60
+2783.	https://github.com/halostatue/mime-types/issues/71
+2784.	https://github.com/halostatue/mime-types/issues/77
+2785.	https://github.com/halostatue/mime-types/issues/8
+2786.	https://github.com/halostatue/mime-types/issues/8.
+2787.	https://github.com/halostatue/mime-types/pull/24
+2788.	https://github.com/halostatue/mime-types/pull/27
+2789.	https://github.com/halostatue/mime-types/pull/28
+2790.	https://github.com/halostatue/mime-types/pull/30
+2791.	https://github.com/halostatue/mime-types/pull/36
+2792.	https://github.com/halostatue/mime-types/pull/37
+2793.	https://github.com/halostatue/mime-types/pull/42
+2794.	https://github.com/halostatue/mime-types/pull/43
+2795.	https://github.com/halostatue/mime-types/pull/44
+2796.	https://github.com/halostatue/mime-types/pull/58
+2797.	https://github.com/halostatue/mime-types/pull/60
+2798.	https://github.com/halostatue/mime-types/pull/72
+2799.	https://github.com/halostatue/mime-types/pull/74
+2800.	https://github.com/halostatue/mime-types/pull/75
+2801.	https://github.com/hasmanydevelopers/RDaneel
+2802.	https://github.com/headius/thread_safe
+2803.	https://github.com/headius/thread_safe/issues/19
+2804.	https://github.com/headius/thread_safe/issues/40
+2805.	https://github.com/igrigorik
+2806.	https://github.com/igrigorik/em-http-request
+2807.	https://github.com/igrigorik/em-http-request/commit/1ca5b608e876c18fa6cfa318d0685dcf5b974e09
+2808.	https://github.com/igrigorik/em-http-request/commits/master
+2809.	https://github.com/igrigorik/em-http-request/issues/168
+2810.	https://github.com/igrigorik/em-http-request/wiki/Basic-Auth-and-OAuth
+2811.	https://github.com/igrigorik/em-http-request/wiki/Compression
+2812.	https://github.com/igrigorik/em-http-request/wiki/Issuing-Requests
+2813.	https://github.com/igrigorik/em-http-request/wiki/Keep-Alive-and-HTTP-Pipelining
+2814.	https://github.com/igrigorik/em-http-request/wiki/Middleware
+2815.	https://github.com/igrigorik/em-http-request/wiki/Parallel-Requests
+2816.	https://github.com/igrigorik/em-http-request/wiki/Proxy
+2817.	https://github.com/igrigorik/em-http-request/wiki/Redirects-and-Timeouts
+2818.	https://github.com/igrigorik/em-http-request/wiki/Streaming
+2819.	https://github.com/igrigorik/em-synchrony
+2820.	https://github.com/igrigorik/em-websocket/issues/61
+2821.	https://github.com/igrigorik/em-websocket/issues/98
+2822.	https://github.com/igrigorik/ga-beacon
+2823.	https://github.com/igrigorik/PubSubHubbub
+2824.	https://github.com/intridea/multi_json/commit/078de7ba8b6035343c3e96b4767549e9ec43369a
+2825.	https://github.com/intridea/multi_json/commit/0c8f75f03020c53bcf4c6be258faf433d24b2c2b
+2826.	https://github.com/intridea/multi_json/commit/106bbec469d5d0a832bfa31fffcb8c0f0cdc9bd3
+2827.	https://github.com/intridea/multi_json/commit/1706b11568db7f50af451fce5f4d679aeb3bbe8f
+2828.	https://github.com/intridea/multi_json/commit/193e28cf4dc61b6e7b7b7d80f06f74c76df65c41
+2829.	https://github.com/intridea/multi_json/commit/19ddafd44029c6681f66fae2a0f6eabfd0f85176
+2830.	https://github.com/intridea/multi_json/commit/1fd4e6635c436515b7d7d5a0bee4548de8571520
+2831.	https://github.com/intridea/multi_json/commit/30a3f474e17dd86a697c3fab04f468d1a4fd69d7
+2832.	https://github.com/intridea/multi_json/commit/315b6e460b6e4dcdb6c82e04e4be8ee975d395da
+2833.	https://github.com/intridea/multi_json/commit/31b990c2725e6673bf8ce57540fe66b57a751a72
+2834.	https://github.com/intridea/multi_json/commit/36b524e71544eb0186826a891bcc03b2820a008f
+2835.	https://github.com/intridea/multi_json/commit/36f7906c66477eb4b55b7afeaa3684b6db69eff2
+2836.	https://github.com/intridea/multi_json/commit/391d00b5e85294d42d41347605d8d46b4a7f66cc
+2837.	https://github.com/intridea/multi_json/commit/39abdf50199828c50e85b2ce8f8ba31fcbbc9332
+2838.	https://github.com/intridea/multi_json/commit/3b978a8995721a8dffedc3b75a7f49e5494ec553
+2839.	https://github.com/intridea/multi_json/commit/4abb98fe3a90b2a7b3d1594515c8a06042b4a27d
+2840.	https://github.com/intridea/multi_json/commit/4da612b617bd932bb6fa1cc4c43210327f98f271
+2841.	https://github.com/intridea/multi_json/commit/4dd86fa96300aaaf6d762578b9b31ea82adb056d
+2842.	https://github.com/intridea/multi_json/commit/526f5f29a42131574a088ad9bbb43d7f48439b2c
+2843.	https://github.com/intridea/multi_json/commit/5373a5e38c647f02427a0477cb8e0e0dafad1b8d
+2844.	https://github.com/intridea/multi_json/commit/58525b01c4c2f6635ba2ac13d6fd987b79f3962f
+2845.	https://github.com/intridea/multi_json/commit/58724acfed31866d079eaafb1cd824e341ade287
+2846.	https://github.com/intridea/multi_json/commit/59fad014e8fe41dbc6f09485ea0dc21fc42fd7a7
+2847.	https://github.com/intridea/multi_json/commit/5bd1afc977a8208ddb0443e1d57cb79665c019f1
+2848.	https://github.com/intridea/multi_json/commit/623ec8142d4a212fa0db763bb71295789a119929
+2849.	https://github.com/intridea/multi_json/commit/644d1c5c7c7f6a27663b11668527b346094e38b9
+2850.	https://github.com/intridea/multi_json/commit/65dedd84d59baeefc25c477fedf0bbe85e7ce2cd
+2851.	https://github.com/intridea/multi_json/commit/660101b70e962b3c007d0b90d45944fa47d13ec4
+2852.	https://github.com/intridea/multi_json/commit/6af2bf87b89f44eabf2ae9ca96779febc65ea94b
+2853.	https://github.com/intridea/multi_json/commit/707aae7d48d39c85b38febbd2c210ba87f6e4a36
+2854.	https://github.com/intridea/multi_json/commit/73998074058e1e58c557ffa7b9541d486d6041fa
+2855.	https://github.com/intridea/multi_json/commit/76a4aaf697b10bbabd5d535d83cf1149efcfe5c7
+2856.	https://github.com/intridea/multi_json/commit/7d9045338cc9029401c16f3c409d54ce97f275e2
+2857.	https://github.com/intridea/multi_json/commit/826fc5535b863b74fc9f981dfdda3e26f1ee4e5b
+2858.	https://github.com/intridea/multi_json/commit/8a26ee93140c4bed36194ed9fb887a1b6919257b
+2859.	https://github.com/intridea/multi_json/commit/911a3756bdff2cb5ac06497da3fa3e72199cb7ad
+2860.	https://github.com/intridea/multi_json/commit/942686f7e8597418c6f90ee69e1d45242fac07b1
+2861.	https://github.com/intridea/multi_json/commit/99a6b662f6ef4036e3ee94d7eb547fa72fb2ab50
+2862.	https://github.com/intridea/multi_json/commit/a153956be6b0df06ea1705ce3c1ff0b5b0e27ea5
+2863.	https://github.com/intridea/multi_json/commit/a3f14c3661688c5927638fa6088c7b46a67e875e
+2864.	https://github.com/intridea/multi_json/commit/a6dc935df08e7b3d5d701fbb9298384c96df0fde
+2865.	https://github.com/intridea/multi_json/commit/a9e587d5a63eafb4baee9fb211265e4dd96a26bc
+2866.	https://github.com/intridea/multi_json/commit/aa50ab8b7bb646b8b75d5d65dfeadae8248a4f10
+2867.	https://github.com/intridea/multi_json/commit/acd06b233edabe6c44f226873db7b49dab560c60
+2868.	https://github.com/intridea/multi_json/commit/ae7fd144a7949a9c221dcaa446196ec23db908df
+2869.	https://github.com/intridea/multi_json/commit/af8bd9799a66855f04b3aff1c488485950cec7bf
+2870.	https://github.com/intridea/multi_json/commit/b36dc915fc0e6548cbad06b5db6f520e040c9c8b
+2871.	https://github.com/intridea/multi_json/commit/b58b498747ff6e94f41488c971b2a30a98760ef2
+2872.	https://github.com/intridea/multi_json/commit/b698962c7f64430222a1f06430669706a47aff89
+2873.	https://github.com/intridea/multi_json/commit/b8e15a032247a63f1410d21a18add05035f3fa66
+2874.	https://github.com/intridea/multi_json/commit/ba1451c4c48baa297e049889be241a424cb05980
+2875.	https://github.com/intridea/multi_json/commit/c157240b1193b283d06d1bd4d4b5b06bcf3761f8
+2876.	https://github.com/intridea/multi_json/commit/c1cf075453ce0110f7decc4f906444b1233bb67c
+2877.	https://github.com/intridea/multi_json/commit/c2f4140141d785a24b3f56e58811b0e561b37f6a
+2878.	https://github.com/intridea/multi_json/commit/c44f9c928bb25fe672246ad394b3e5b991be32e6
+2879.	https://github.com/intridea/multi_json/commit/c885377d47a2aa39cb0d971fea78db2d2fa479a7
+2880.	https://github.com/intridea/multi_json/commit/caced0c4e8c795922a109ebc00c3c4fa8635bed8
+2881.	https://github.com/intridea/multi_json/commit/d06eec6b7996ac8b4ff0e2229efd835379b0c30f
+2882.	https://github.com/intridea/multi_json/commit/d0e5feeebcba0bc69400dd203a295f5c30971223
+2883.	https://github.com/intridea/multi_json/commit/d14c5d28cae96557a0421298621b9499e1f28104
+2884.	https://github.com/intridea/multi_json/commit/d1cde7de97cb0f6152aef8daf14037521cdce8c6
+2885.	https://github.com/intridea/multi_json/commit/d33c141619c54cccd770199694da8fd1bd8f449d
+2886.	https://github.com/intridea/multi_json/commit/dd4b68810c84f826fb98f9713bfb29ab96888d57
+2887.	https://github.com/intridea/multi_json/commit/dea9a1aef6dd1212aa1e5a37ab1669f9b045b732
+2888.	https://github.com/intridea/multi_json/commit/e0a7ff5d5ff621ffccc61617ed8aeec5816e81f7
+2889.	https://github.com/intridea/multi_json/commit/e1f162d5b668e5e4db5afa175361a601a8aa2b05
+2890.	https://github.com/intridea/multi_json/commit/e21d6eb7da74b3f283995c1d27d5880e75f0ae84
+2891.	https://github.com/intridea/multi_json/commit/e7438e7ba2be0236cfa24c2bb9ad40ee821286d1
+2892.	https://github.com/intridea/multi_json/commit/e90fd6cb1b0293eb0c73c2f4eb0f7a1764370216
+2893.	https://github.com/intridea/multi_json/commit/f862e2fc966cac8867fe7da3997fc76e8a6cf5d4
+2894.	https://github.com/intridea/multi_json/commit/fc3df0c7a3e2ab9ce0c2c7e7617a4da97dd13f6e
+2895.	https://github.com/intridea/multi_json/issues
+2896.	https://github.com/intridea/multi_json/issues/73
+2897.	https://github.com/intridea/multi_json/issues/86
+2898.	https://github.com/intridea/multi_json/pull/66
+2899.	https://github.com/intridea/multi_json/pull/67
+2900.	https://github.com/intridea/multi_json/pull/70
+2901.	https://github.com/intridea/multi_json/pull/71
+2902.	https://github.com/intridea/multi_json/pull/79
+2903.	https://github.com/ivmai/bdwgc/commit/83231d0ab5ed60015797c3d1ad9056295ac3b2bb
+2904.	https://github.com/jfairbairn/em-net-http
+2905.	https://github.com/jgm/peg-markdown
+2906.	https://github.com/jimweirich/builder/issues?state=open
+2907.	https://github.com/jimweirich/rake/blob/master/doc/command_line_usage.rdoc
+2908.	https://github.com/jimweirich/rake/blob/master/doc/glossary.rdoc
+2909.	https://github.com/jimweirich/rake/blob/master/doc/rakefile.rdoc
+2910.	https://github.com/jimweirich/rake/blob/master/doc/rational.rdoc
+2911.	https://github.com/jimweirich/rake/issues
+2912.	https://github.com/jonashaag/bjoern
+2913.	https://github.com/jordansissel/eventmachine-tail
+2914.	https://github.com/joshbuddy/chirpstream
+2915.	https://github.com/jruby/jruby/blob/master/src/org/jruby/javasupport/JavaClass.java
+2916.	https://github.com/jruby/jruby/commit/99a0613fe29935150d76a9a1ee4cf2b4f63f4a27
+2917.	https://github.com/jruby/jruby/commit/d365ebd309cf9df3dde28f5eb36ea97056e0c039
+2918.	https://github.com/jruby/jruby/issues/1311
+2919.	https://github.com/jruby/jruby/issues/1398
+2920.	https://github.com/jruby/jruby/issues/525
+2921.	https://github.com/jruby/jruby/issues/597
+2922.	https://github.com/jruby/jruby/issues/814
+2923.	https://github.com/jruby/jruby/pull/436
+2924.	https://github.com/json-c/json-c
+2925.	https://github.com/json-c/json-c/downloads
+2926.	https://github.com/json-c/json-c.git
+2927.	https://github.com/kbandla/pydeep
+2928.	https://github.com/keybase/warpwallet
+2929.	https://github.com/kr/okjson
+2930.	https://github.com/kyledrake/sinatra-synchrony
+2931.	https://github.com/kyrylo/pry-theme
+2932.	https://github.com/languages/Ruby
+2933.	https://github.com/lian/bitcoin-ruby
+2934.	https://github.com/lian/bitcoin-ruby.git
+2935.	https://github.com/logstash/logstash
+2936.	https://github.com/lsaffie
+2937.	https://github.com/lukaszsliwa/friendly_mime
+2938.	https://github.com/maik/xml-simple
+2939.	https://github.com/marcandre/backports
+2940.	https://github.com/matthew342/simplecov-badge
+2941.	https://github.com/mloughran/em-hiredis
+2942.	https://github.com/mockko/livereload
+2943.	https://github.com/mojombo/proxymachine
+2944.	https://github.com/mojombo/proxymachine/
+2945.	https://github.com/mojombo/tomdoc/blob/master/tomdoc.md
+2946.	https://github.com/mongoid/mongoid/issues/3582
+2947.	https://github.com/mperham/em_postgresql
+2948.	https://github.com/ms-ati/docile
+2949.	https://github.com/ms-ati/docile/blob/master/.travis.yml
+2950.	https://github.com/ms-ati/docile/commit/174e654a075c8350b3411b212cfb409bc605348a
+2951.	https://github.com/ms-ati/docile/commit/33834852c7849912b97e109e8c5c193579cc5e98
+2952.	https://github.com/ms-ati/docile/issues
+2953.	https://github.com/mwmitchell/rsolr-async
+2954.	https://github.com/nyarly/cadre
+2955.	https://github.com/oauth/oauth-ruby/blob/master/lib/oauth/request_proxy/em_http_request.rb
+2956.	https://github.com/ohler55/oj
+2957.	https://github.com/postrank-labs/goliath/
+2958.	https://github.com/pry/pry
+2959.	https://github.com/pry/pry/blob/master/CONTRIBUTORS
+2960.	https://github.com/pry/pry-coolline
+2961.	https://github.com/pry/pry/issues
+2962.	https://github.com/pry/pry/issues/1096
+2963.	https://github.com/pry/pry/issues/1158
+2964.	https://github.com/pry/pry/issues/1166
+2965.	https://github.com/pry/pry/issues/200
+2966.	https://github.com/pry/pry/issues/233
+2967.	https://github.com/pry/pry/issues/854
+2968.	https://github.com/pry/pry/pull/1209
+2969.	https://github.com/pry/pry/wiki
+2970.	https://github.com/pry/pry/wiki/Available-plugins
+2971.	https://github.com/pry/pry/wiki/Custom-commands
+2972.	https://github.com/pry/pry/wiki/Customization-and-configuration
+2973.	https://github.com/pry/pry/wiki/Editor-integration
+2974.	https://github.com/pry/pry/wiki/FAQ
+2975.	https://github.com/pry/pry/wiki/Setting-up-Rails-or-Heroku-to-use-Pry
+2976.	https://github.com/pry/pry/wiki/Source-browsing
+2977.	https://github.com/pry/pry/wiki/Special-Locals
+2978.	https://github.com/pry/pry/wiki/State-navigation
+2979.	https://github.com/pry/pry/wiki/User-Input
+2980.	https://github.com/puppetlabs/puppet/blob/bbe30e0a/lib/puppet/util/windows/root_certs.rb
+2981.	https://github.com/pypa/pip
+2982.	https://github.com/pypa/pip/
+2983.	https://github.com/pypa/pip/issues/
+2984.	https://github.com/pypa/pip/raw/master/contrib/get-pip.py
+2985.	https://github.com/pypa/pip/tarball/develop
+2986.	https://github.com/pypa/virtualenv
+2987.	https://github.com/pypa/virtualenv/raw/master/AUTHORS.txt
+2988.	https://github.com/pypa/virtualenv/raw/master/LICENSE.txt
+2989.	https://github.com/pypa/virtualenv/tarball/master
+2990.	https://github.com/rdoc/rdoc
+2991.	https://github.com/rdoc/rdoc/issues
+2992.	https://github.com/rest-client/rest-client
+2993.	https://github.com/rspec/rspec-autotest
+2994.	https://github.com/rspec/rspec-collection_matchers
+2995.	https://github.com/rspec/rspec-core/issues/295
+2996.	https://github.com/rspec/rspec-core/issues/322
+2997.	https://github.com/rspec/rspec-core/pull/837
+2998.	https://github.com/rspec/rspec-core/tree/master/features
+2999.	https://github.com/rspec/rspec-expectations/blob/master/Should.md
+3000.	https://github.com/rspec/rspec-expectations/commit/3d6fc82c
+3001.	https://github.com/rspec/rspec-expectations/issues/219
+3002.	https://github.com/rspec/rspec-expectations/pull/200
+3003.	https://github.com/rspec/rspec-expectations/pull/238
+3004.	https://github.com/rspec/rspec-expectations/pull/239
+3005.	https://github.com/rspec/rspec-mocks/blob/master/features/mutating_constants/README.md
+3006.	https://github.com/rspec/rspec-mocks/blob/master/features/verifying_doubles
+3007.	https://github.com/rspec/rspec-mocks/issues/127
+3008.	https://github.com/rspec/rspec-mocks/issues/132
+3009.	https://github.com/rspec/rspec-mocks/issues/513
+3010.	https://github.com/rspec/rspec-support
+3011.	https://github.com/rspec/rspec-support/compare/0dc12d1bdbbacc757a9989f8c09cd08ef3a4837e...v3.0.0.beta1
+3012.	https://github.com/rubinius/rubinius/commit/2e71722dba53d1a92c54d5e3968d64d1042486fe
+3013.	https://github.com/rubinius/rubinius/commit/4310f6b2ef3c8fc88135affe697db4e29e4621c4
+3014.	https://github.com/rubinius/rubinius/issues/2268
+3015.	https://github.com/rubinius/rubinius/issues/2430
+3016.	https://github.com/rubinius/rubinius/issues/953
+3017.	https://github.com/ruby-amqp/amq-client
+3018.	https://github.com/ruby-amqp/amqp
+3019.	https://github.com/rubygems/rubygems/commit/03dbac93a3396a80db258d9bc63500333c25bd2f
+3020.	https://github.com/rubygems/rubygems.git
+3021.	https://github.com/rubygems/rubygems/issues
+3022.	https://github.com/rubygems/rubygems/issues/784
+3023.	https://github.com/rubygems/rubygems/issues/813
+3024.	https://github.com/rubygems/rubygems/pull/57
+3025.	https://github.com/ruby/ruby/blob/89e70fe8e7/ext/openssl/ossl.c
+3026.	https://github.com/ruby/ruby/commit/699b209cf8cf11809620e12985ad33ae33b119ee
+3027.	https://github.com/rubyzip/rubyzip/issues/103
+3028.	https://github.com/rweng/pry-rails
+3029.	https://github.com/ry/http-parser/issues/47
+3030.	https://github.com/samuelkadolph
+3031.	https://github.com/seattlerb/hoe
+3032.	https://github.com/seattlerb/minitest
+3033.	https://github.com/seattlerb/minitest/blob/38f0a5fcbd9c37c3f80a3eaad4ba84d3fc9947a0/lib/minitest/assertions.rb
+3034.	https://github.com/sferik
+3035.	https://github.com/sferik/twitter/commit/3a0e41b9e4b0909201045fa47704b78c9d949b73
+3036.	https://github.com/sferik/twitter/commit/461ab89ce071c8c9fabfc183581e0ec523788b62
+3037.	https://github.com/sferik/twitter/commit/518c21ab299c500527491e6c049ab2229e22a805
+3038.	https://github.com/sipa/bitcoin/blob/2d40fe4da9ea82af4b652b691a4185431d6e47a8/key.h
+3039.	https://github.com/spesmilo/electrum/blob/master/lib/mnemonic.py
+3040.	https://github.com/sporkmonger/uuidtools
+3041.	https://github.com/styleguide/ruby
+3042.	https://github.com/svenfuchs/i18n
+3043.	https://github.com/svn2github/StageWebViewBridge/blob/master/StageWebViewBridge/src/es/xperiments/media/StageWebViewBridge.as
+3044.	https://github.com/technoweenie/faraday
+3045.	https://github.com/test-unit/test-unit/pull/12
+3046.	https://github.com/tmm1/http_parser.rb
+3047.	https://github.com/travis-ci/travis-ci/issues/2220
+3048.	https://github.com/twbs/bootstrap/blob/master/LICENSE
+3049.	https://github.com/tzinfo/tzinfo
+3050.	https://github.com/tzinfo/tzinfo/issues
+3051.	https://github.com/uwabami/rdtool/
+3052.	https://github.com/vicentllongo/simplecov-json
+3053.	https://github.com/xaviershay
+3054.	https://github.com/zerotao/libyaml
+3055.	https://groups.google.com/forum/
+3056.	https://groups.google.com/group/ruby-bundler
+3057.	http://shapelib.maptools.org/
+3058.	http://shellrevealed.com/blogs/shellblog/archive/2007/03/15/Shell-Namespace-Extension_3A00_-Creating-and-Using-the-System-Folder-View-Object.aspx
+3059.	https://help.github.com/articles/ignoring-files
+3060.	https://help.github.com/articles/set-up-git
+3061.	https://help.github.com/articles/using-pull-requests
+3062.	http://shootout.alioth.debian.org/
+3063.	http://showmedo.com/videos/video?name=2910000
+3064.	https://img.shields.io/codeclimate/github/bundler/bundler.svg
+3065.	https://img.shields.io/codeclimate/github/pry/pry.svg
+3066.	https://img.shields.io/gem/v/bundler.svg
+3067.	https://img.shields.io/travis/bundler/bundler/master.svg
+3068.	https://img.shields.io/travis/pry/pry.svg
+3069.	http://simonis.ca/
+3070.	http://sipdroid.googlecode.com/svn/trunk/src/org/sipdroid/sipua/ui/VideoCamera.java
+3071.	http://sirac.inrialpes.fr/
+3072.	https://issues.apache.org/jira/browse/DERBY-1721
+3073.	https://issues.apache.org/jira/browse/DERBY-1913
+3074.	https://issues.apache.org/jira/browse/DERBY-2687
+3075.	https://issues.apache.org/jira/browse/DERBY-3740
+3076.	https://issues.apache.org/jira/browse/DERBY-3808
+3077.	https://issues.apache.org/jira/browse/DERBY-3823
+3078.	https://issues.apache.org/jira/browse/DERBY-4201
+3079.	https://issues.apache.org/jira/browse/DERBY-4229
+3080.	https://issues.apache.org/jira/browse/DERBY-4279
+3081.	https://issues.apache.org/jira/browse/DERBY-4291
+3082.	https://issues.apache.org/jira/browse/DERBY-4631
+3083.	https://issues.apache.org/jira/browse/DERBY-5096
+3084.	https://issues.apache.org/jira/browse/DERBY-5240
+3085.	https://issues.apache.org/jira/browse/DERBY-5272
+3086.	https://issues.apache.org/jira/browse/DERBY-5305
+3087.	https://issues.apache.org/jira/browse/DERBY-5358
+3088.	https://issues.apache.org/jira/browse/DERBY-5369
+3089.	https://issues.apache.org/jira/browse/DERBY-5370
+3090.	https://issues.apache.org/jira/browse/DERBY-5377
+3091.	https://issues.apache.org/jira/browse/DERBY-5379
+3092.	https://issues.apache.org/jira/browse/DERBY-5406
+3093.	https://issues.apache.org/jira/browse/DERBY-5407
+3094.	https://issues.apache.org/jira/browse/DERBY-5425
+3095.	https://issues.apache.org/jira/browse/DERBY-5427
+3096.	https://issues.apache.org/jira/browse/DERBY-5440
+3097.	https://issues.apache.org/jira/browse/DERBY-5449
+3098.	https://issues.apache.org/jira/browse/DERBY-5454
+3099.	https://issues.apache.org/jira/browse/DERBY-5456
+3100.	https://issues.apache.org/jira/browse/DERBY-5465
+3101.	https://issues.apache.org/jira/browse/DERBY-5467
+3102.	https://issues.apache.org/jira/browse/DERBY-5508
+3103.	https://issues.apache.org/jira/browse/DERBY-5509
+3104.	https://issues.apache.org/jira/browse/DERBY-5517
+3105.	https://issues.apache.org/jira/browse/DERBY-5526
+3106.	https://issues.apache.org/jira/browse/DERBY-5527
+3107.	https://issues.apache.org/jira/browse/DERBY-5530
+3108.	https://issues.apache.org/jira/browse/DERBY-5531
+3109.	https://issues.apache.org/jira/browse/DERBY-5547
+3110.	https://issues.apache.org/jira/browse/DERBY-5552
+3111.	https://issues.apache.org/jira/browse/DERBY-5561
+3112.	https://issues.apache.org/jira/browse/DERBY-5562
+3113.	https://issues.apache.org/jira/browse/DERBY-5564
+3114.	https://issues.apache.org/jira/browse/DERBY-5567
+3115.	https://issues.apache.org/jira/browse/DERBY-5574
+3116.	https://issues.apache.org/jira/browse/DERBY-5582
+3117.	https://issues.apache.org/jira/browse/DERBY-5584
+3118.	https://issues.apache.org/jira/browse/DERBY-5586
+3119.	https://issues.apache.org/jira/browse/DERBY-5598
+3120.	https://issues.apache.org/jira/browse/DERBY-5599
+3121.	https://issues.apache.org/jira/browse/DERBY-5603
+3122.	https://issues.apache.org/jira/browse/DERBY-5608
+3123.	https://issues.apache.org/jira/browse/DERBY-5609
+3124.	https://issues.apache.org/jira/browse/DERBY-5614
+3125.	https://issues.apache.org/jira/browse/DERBY-5616
+3126.	https://issues.apache.org/jira/browse/DERBY-5617
+3127.	https://issues.apache.org/jira/browse/DERBY-5622
+3128.	https://issues.apache.org/jira/browse/DERBY-5624
+3129.	https://issues.apache.org/jira/browse/DERBY-5633
+3130.	https://issues.apache.org/jira/browse/DERBY-5638
+3131.	https://issues.apache.org/jira/browse/DERBY-5649
+3132.	https://issues.apache.org/jira/browse/DERBY-5663
+3133.	https://issues.apache.org/jira/browse/DERBY-5681
+3134.	https://issues.apache.org/jira/browse/DERBY-5691
+3135.	https://issues.apache.org/jira/browse/DERBY-5692
+3136.	https://issues.apache.org/jira/browse/DERBY-5727
+3137.	https://issues.apache.org/jira/browse/DERBY-5775
+3138.	https://issues.apache.org/jira/browse/DERBY-5799
+3139.	https://issues.apache.org/jira/browse/DERBY-5805
+3140.	https://issues.apache.org/jira/browse/DERBY-5822
+3141.	https://issues.apache.org/jira/browse/DERBY-5830
+3142.	https://issues.apache.org/jira/browse/DERBY-5838
+3143.	https://issues.apache.org/jira/browse/DERBY-5898
+3144.	https://issues.apache.org/jira/browse/DERBY-5900
+3145.	https://issues.apache.org/jira/browse/DERBY-5905
+3146.	https://issues.apache.org/jira/browse/DERBY-5906
+3147.	https://issues.apache.org/jira/browse/DERBY-5909
+3148.	https://issues.apache.org/jira/browse/DERBY-5910
+3149.	https://issues.apache.org/jira/browse/DERBY-5911
+3150.	https://issues.apache.org/jira/browse/DERBY-5912
+3151.	https://issues.apache.org/jira/browse/DERBY-5916
+3152.	https://issues.apache.org/jira/browse/DERBY-5918
+3153.	https://issues.apache.org/jira/browse/DERBY-5925
+3154.	https://issues.apache.org/jira/browse/DERBY-5937
+3155.	https://issues.apache.org/jira/browse/DERBY-5951
+3156.	http://site
+3157.	http://site.com
+3158.	http://site.com/
+3159.	http://site.com/index.htm
+3160.	http://site.com/script.php?param1=value1
+3161.	http://site-with-no-cookie.python.org
+3162.	http://sizzlejs.com/
+3163.	https://jira.codehaus.org/browse/JRUBY-5678
+3164.	https://jira.codehaus.org/browse/JRUBY-7100
+3165.	https://keybase.io/warp/
+3166.	https://knowledge.verisign.com/support/code-signing-support/index?page=content
+3167.	https://launchpad.net/subunit/
+3168.	https://lists.sourceforge.net/lists/listinfo/boost-
+3169.	https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+3170.	https://localhost
+3171.	https://localhost/
+3172.	http://slow
+3173.	https://mahler
+3174.	https://mail.google.com
+3175.	https://maps.google.com/maps?q=
+3176.	https://market.android.com/details?id=com.adobe.air
+3177.	http://smithbergnaum.ca/
+3178.	https://moodle.polymtl.ca/file.php/1183/Autres_Documents/Derivation_for_Spherical_Co-ordinates.pdf
+3179.	https://ms-ati.github.io/docile/
+3180.	https://my.example.com
+3181.	https://newuser
+3182.	https://nometrics.java.com
+3183.	http://socal-raves.org/mailman/listinfo/scr
+3184.	http://socal-raves.org/mailman/private/scr/
+3185.	http://soci.sourceforge.net
+3186.	http://soci.sourceforge.net/
+3187.	http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+3188.	https://oeis.org/A002210/constant
+3189.	https://oeis.org/A074962/constant
+3190.	http://software.freshmeat.net/projects/proguard/
+3191.	http://software.intel.com/en-us/articles/c0x-features-supported-by-intel-c-compiler/
+3192.	http://software.intel.com/en-us/articles/intel-digital-random-number
+3193.	http://software.intel.com/en-us/articles/non-commercial-software-download/
+3194.	http://some/index
+3195.	http://some/index?q=1
+3196.	http://some/redirect-1
+3197.	http://some/redirect-2
+3198.	http://some/resource
+3199.	http://some/resource?a=b
+3200.	http://something
+3201.	http://something.com
+3202.	http://something.com/
+3203.	http://something.com/a/b/c
+3204.	http://something.com/a/b/c/
+3205.	http://something.com/a/b/c/d
+3206.	http://something.com/a/b/d
+3207.	http://something.com/index.html
+3208.	http://something.com/path/to/another/file.html
+3209.	http://something.com/path/to/homepage/
+3210.	http://something.com/path/to/homepage/images/logo.gif
+3211.	http://something.com/path/to/my/page.html?form=yes
+3212.	http://something.com/path/to/some/file.html
+3213.	http://something.com/some/path/to/my/file.html
+3214.	http://somethinglocal/
+3215.	http://somewhere.com/blah
+3216.	http://somewhere.else.net/not-there
+3217.	https://othersource.org
+3218.	https://othersource.org/
+3219.	http://sourceforge.net
+3220.	http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=ArmPkg/Binaries
+3221.	http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=ArmPkg/Binaries.
+3222.	http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=Edk2-fat-driver
+3223.	http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=EmulatorPkg
+3224.	http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=How_to_build_OVMF
+3225.	http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=OVMF
+3226.	http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=Step-by-step_instructions
+3227.	http://sourceforge.net/apps/piwik/proguard/
+3228.	http://sourceforge.net/mailarchive/forum.php?forum_id=9097
+3229.	http://sourceforge.net/mailarchive/forum.php?thread_id=2008510
+3230.	http://sourceforge.net/p/edk2-buildtools/code/HEAD/tree/trunk/BaseTools/gcc
+3231.	http://sourceforge.net/project/?group_id=7586
+3232.	http://sourceforge.net/projects/acroformtool/
+3233.	http://sourceforge.net/projects/adodbapi
+3234.	http://sourceforge.net/projects/cx-freeze/
+3235.	http://sourceforge.net/projects/distexplorer
+3236.	http://sourceforge.net/projects/distexplorer/
+3237.	http://sourceforge.net/projects/docbook/files
+3238.	http://sourceforge.net/projects/docbook/files/
+3239.	http://sourceforge.net/project/showfiles.php?group_id=21935
+3240.	http://sourceforge.net/project/showfiles.php?group_id=43396
+3241.	http://sourceforge.net/project/showfiles.php?group_id=54750
+3242.	http://sourceforge.net/projects/javaguard/
+3243.	http://sourceforge.net/projects/opencore-amr/
+3244.	http://sourceforge.net/projects/proguard/
+3245.	http://sourceforge.net/projects/python
+3246.	http://sourceforge.net/projects/pywin32
+3247.	http://sourceforge.net/projects/pywin32/
+3248.	http://sourceforge.net/projects/sevenzip/
+3249.	http://sourceforge.net/sflogo.php?group_id=28447
+3250.	http://sourceforge.net/sflogo.php?group_id=54750
+3251.	http://sourceforge.net/tracker/?atid=436181
+3252.	http://sourceforge.net/tracker/?atid=436184
+3253.	http://sourceforge.net/tracker/?atid=474704
+3254.	http://sourceforge.net/tracker/?atid=474707
+3255.	http://sourceforge.net/tracker/?func=detail
+3256.	http://sourceforge.net/tracker/index.php
+3257.	http://sourceforge.net/tracker/index.php?func=detail
+3258.	http://sourceforge.net/users/glurk/
+3259.	http://sourceforge.net/users/hchacha/
+3260.	http://source.icu-project.org/repos/icu/data/
+3261.	http://sources.redhat.com/bugzilla/show_bug.cgi?id=10990
+3262.	http://sources.redhat.com/bugzilla/show_bug.cgi?id=5350
+3263.	http://sources.redhat.com/ml/cygwin/2000-06/msg01274.html
+3264.	http://sources.redhat.com/ml/cygwin/2001-12/msg00894.html
+3265.	http://sources.redhat.com/ml/newlib/2002/msg00369.html
+3266.	http://sourceware.org/bugzilla/
+3267.	http://sourceware.org/gdb/current/onlinedocs/gdb/Python-API.html
+3268.	http://sourceware.org/libffi/
+3269.	http://sourceware.org/libffi.html
+3270.	http://sourceware.org/pthreads-win32
+3271.	http://spam
+3272.	http://spam.example.com
+3273.	http://spam.example.com/
+3274.	http://spirit.sf.net
+3275.	http://spirit.sourceforge.net
+3276.	http://spirit.sourceforge.net/
+3277.	http://spirit.sourceforge.net/home/?p=371
+3278.	http://spirit.sourceforge.net/home/?p=400
+3279.	http://spirit.sourceforge.net/home/?page_id=567
+3280.	https://play.google.com
+3281.	https://play.google.com/
+3282.	https://play.google.com/apps
+3283.	https://play.google.com/apps/publish/?dev_acc=16575722910898404480
+3284.	https://play.google.com/books
+3285.	https://play.google.com/settings
+3286.	https://play.google.com/store
+3287.	https://play.google.com/store/music
+3288.	https://pledgie.com/campaigns/18379.png?skin_name=chrome
+3289.	http://sporer.ca/
+3290.	http://sporkmonger.com
+3291.	http://spreadsheets2.google.com/viewform?hl=en
+3292.	https://premier.intel.com/IssueDetail.aspx?IssueID=365073
+3293.	http://springerlink.metapress.com/link.asp?id=pcu07ew5rhexp9yt
+3294.	https://public.honeynet.org/mailman/listinfo/cuckoo
+3295.	https://pypi.python.org/packages/source/s/setuptools/
+3296.	http://sqlite.org/autoinc.html
+3297.	http://sqlite.org/lockingv3.html
+3298.	https://review.source.android.com/
+3299.	https://review.source.android.com/10014
+3300.	https://review.source.android.com/10015
+3301.	https://review.source.android.com/10016
+3302.	https://review.source.android.com/10017
+3303.	https://review.source.android.com/10018
+3304.	https://review.source.android.com/10297
+3305.	https://review.source.android.com/10301
+3306.	https://review.source.android.com/10302
+3307.	https://review.source.android.com/10303
+3308.	https://review.source.android.com/10510
+3309.	https://review.source.android.com/10904
+3310.	https://review.source.android.com/10905
+3311.	https://review.source.android.com/10906
+3312.	https://review.source.android.com/9668
+3313.	https://review.source.android.com/9683
+3314.	https://review.source.android.com/Gerrit
+3315.	https://rubygems.org
+3316.	https://rubygems.org/
+3317.	https://rubygems.org/api/v1/dependencies
+3318.	https://rubygems.org/gems/addressable
+3319.	https://rubygems.org/gems/bundler
+3320.	https://rubygems.org/gems/cassandra
+3321.	https://rubygems.org/gems/example
+3322.	https://rubygems.org/gems/method_source
+3323.	https://rubygems.org/gems/multi_json
+3324.	https://rubygems.org/gems/pry
+3325.	https://rubygems.org/profile/edit
+3326.	https://scontent-b.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10409298_1588556341373553_8673446508125364435_n.jpg?oh=122bdc630c330a300e034afee9ead8a0
+3327.	https://second-rubygems.org
+3328.	https://secure.example.com/some_path?query=string
+3329.	https://secure.travis-ci.org/colszowka/simplecov.png
+3330.	https://secure.travis-ci.org/durran/optionable.png?branch=master
+3331.	https://secure.travis-ci.org/mongodb/bson-ruby.png?branch=master
+3332.	https://secure.travis-ci.org/mongoid/origin.png?branch=master
+3333.	https://secure.travis-ci.org/rspec/rspec-core.png?branch=master
+3334.	https://secure.travis-ci.org/rspec/rspec-expectations.png?branch=master
+3335.	https://secure.travis-ci.org/rspec/rspec-mocks.png?branch=master
+3336.	https://secure.travis-ci.org/rubyzip/rubyzip.png
+3337.	https://secure.travis-ci.org/sporkmonger/addressable.png?branch=master
+3338.	https://secure.travis-ci.org/sporkmonger/uuidtools.png
+3339.	https://sf.net/mailarchive/forum.php?thread_id=2692308
+3340.	https://sha256.tbs-internet.com
+3341.	https://some/resource
+3342.	https://sourceforge.net/apps/mediawiki/tianocore/index.php?title=EmbeddedPkg/Fdt
+3343.	https://sourceforge.net/project/admin/editpackages.php?group_id=7586
+3344.	https://sourceforge.net/projects/proguard/files/
+3345.	https://sourceforge.net/projects/proguard/forums/forum/182455
+3346.	https://sourceforge.net/projects/proguard/forums/forum/182456
+3347.	https://sourceforge.net/tracker/?func=detail
+3348.	https://sourceforge.net/tracker/index.php
+3349.	https://ssl.gstatic.com/android/market_images/alert24.png
+3350.	https://ssl.gstatic.com/android/market_images/badges/topdev_ann.png
+3351.	https://ssl.gstatic.com/android/market_images/magazines/magazine_corpus_icon_001.png
+3352.	https://ssl.gstatic.com/android/market_images/magazines/mags_carousel_icon_001.png
+3353.	https://ssl.gstatic.com/android/market_images/web/background_stripes.gif
+3354.	https://ssl.gstatic.com/android/market_images/web/book_header_stripes.gif
+3355.	https://ssl.gstatic.com/android/market_images/web/carousel_arrow_left.png
+3356.	https://ssl.gstatic.com/android/market_images/web/carousel_arrow_right.png
+3357.	https://ssl.gstatic.com/android/market_images/web/checkmark.png
+3358.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_apps.png
+3359.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_apps_reversed.png
+3360.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_books.png
+3361.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_books_reversed.png
+3362.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_devices_002.png
+3363.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_devices_reversed_002.png
+3364.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_movies.png
+3365.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_movies_reversed.png
+3366.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_music.png
+3367.	https://ssl.gstatic.com/android/market_images/web/corpus_icon_music_reversed.png
+3368.	https://ssl.gstatic.com/android/market_images/web/dark_background_stripes.gif
+3369.	https://ssl.gstatic.com/android/market_images/web/device_header_stripes.png
+3370.	https://ssl.gstatic.com/android/market_images/web/dots.png
+3371.	https://ssl.gstatic.com/android/market_images/web/dropdown_triangle.png
+3372.	https://ssl.gstatic.com/android/market_images/web/google_translate_icon.png
+3373.	https://ssl.gstatic.com/android/market_images/web/green_close_x.png
+3374.	https://ssl.gstatic.com/android/market_images/web/little_book.png
+3375.	https://ssl.gstatic.com/android/market_images/web/little_droid.png
+3376.	https://ssl.gstatic.com/android/market_images/web/little_film.png
+3377.	https://ssl.gstatic.com/android/market_images/web/little_headphones.png
+3378.	https://ssl.gstatic.com/android/market_images/web/movie_header_stripes.gif
+3379.	https://ssl.gstatic.com/android/market_images/web/music_header_stripes.gif
+3380.	https://ssl.gstatic.com/android/market_images/web/music_laptop_listen_play.png
+3381.	https://ssl.gstatic.com/android/market_images/web/music_phone_listen_play.png
+3382.	https://ssl.gstatic.com/android/market_images/web/music_pre_purchase_promo_play.png
+3383.	https://ssl.gstatic.com/android/market_images/web/now_playing_normal.gif
+3384.	https://ssl.gstatic.com/android/market_images/web/ordered_list_circle.gif
+3385.	https://ssl.gstatic.com/android/market_images/web/play_trailer_small_hover.png
+3386.	https://ssl.gstatic.com/android/market_images/web/play_trailer_small.png
+3387.	https://ssl.gstatic.com/android/market_images/web/promo_background.png
+3388.	https://ssl.gstatic.com/android/market_images/web/promo_image_texture.gif
+3389.	https://ssl.gstatic.com/android/market_images/web/search_header.gif
+3390.	https://ssl.gstatic.com/android/market_images/web/spinner.gif
+3391.	https://ssl.gstatic.com/android/market_images/web/toggle_button.png
+3392.	https://ssl.gstatic.com/android/market_images/web/trashcan_white.png
+3393.	https://ssl.gstatic.com/android/market_images/web/twitter_button_new.png
+3394.	https://ssl.gstatic.com/android/market_images/web/warning_yield.png
+3395.	https://svn.boost.org/svn/boost/
+3396.	https://svn.boost.org/svn/boost/branches/build/Milestone_X
+3397.	https://svn.boost.org/svn/boost/branches/release/
+3398.	https://svn.boost.org/svn/boost/trunk/
+3399.	https://svn.boost.org/svn/boost/trunk/tools/build
+3400.	https://svn.boost.org/svn/boost/trunk/tools/jam
+3401.	https://svn.boost.org/svn/boost/trunk/tools/quickbook
+3402.	https://svn.boost.org/trac/boost/ticket/1252
+3403.	https://svn.boost.org/trac/boost/ticket/1517
+3404.	https://svn.boost.org/trac/boost/ticket/1861
+3405.	https://svn.boost.org/trac/boost/ticket/2034
+3406.	https://svn.boost.org/trac/boost/ticket/2213
+3407.	https://svn.boost.org/trac/boost/ticket/2523
+3408.	https://svn.boost.org/trac/boost/ticket/2526
+3409.	https://svn.boost.org/trac/boost/ticket/2656
+3410.	https://svn.boost.org/trac/boost/ticket/2688
+3411.	https://svn.boost.org/trac/boost/ticket/2698
+3412.	https://svn.boost.org/trac/boost/ticket/2733
+3413.	https://svn.boost.org/trac/boost/ticket/2782
+3414.	https://svn.boost.org/trac/boost/ticket/2809
+3415.	https://svn.boost.org/trac/boost/ticket/2824
+3416.	https://svn.boost.org/trac/boost/ticket/3015
+3417.	https://svn.boost.org/trac/boost/ticket/3076
+3418.	https://svn.boost.org/trac/boost/ticket/3105
+3419.	https://svn.boost.org/trac/boost/ticket/3215
+3420.	https://svn.boost.org/trac/boost/ticket/3308
+3421.	https://svn.boost.org/trac/boost/ticket/3317
+3422.	https://svn.boost.org/trac/boost/ticket/3349
+3423.	https://svn.boost.org/trac/boost/ticket/3375
+3424.	https://svn.boost.org/trac/boost/ticket/3548
+3425.	https://svn.boost.org/trac/boost/ticket/3876
+3426.	https://svn.boost.org/trac/boost/ticket/4346
+3427.	https://svn.boost.org/trac/boost/ticket/4453
+3428.	https://svn.boost.org/trac/boost/ticket/4602
+3429.	https://svn.boost.org/trac/boost/ticket/4812
+3430.	https://svn.boost.org/trac/boost/ticket/4910
+3431.	https://svn.boost.org/trac/boost/ticket/4960
+3432.	https://svn.boost.org/trac/boost/ticket/5049
+3433.	https://svn.boost.org/trac/boost/ticket/5053
+3434.	https://svn.boost.org/trac/boost/ticket/5103
+3435.	https://svn.boost.org/trac/boost/ticket/5113
+3436.	https://svn.boost.org/trac/boost/ticket/5141
+3437.	https://svn.boost.org/trac/boost/ticket/5467
+3438.	https://svn.boost.org/trac/boost/ticket/5521
+3439.	https://svn.boost.org/trac/boost/ticket/5560
+3440.	https://svn.boost.org/trac/boost/ticket/5803
+3441.	https://svn.boost.org/trac/boost/ticket/589
+3442.	https://svn.boost.org/trac/boost/ticket/5908
+3443.	https://svn.boost.org/trac/boost/ticket/5954
+3444.	https://svn.boost.org/trac/boost/ticket/6359
+3445.	https://svn.boost.org/trac/boost/ticket/7177
+3446.	https://svn.boost.org/trac/boost/ticket/7290
+3447.	https://svn.boost.org/trac/boost/ticket/7291
+3448.	https://svn.boost.org/trac/boost/ticket/7422
+3449.	https://svn.boost.org/trac/boost/ticket/7878
+3450.	https://svn.boost.org/trac/boost/wiki/CMake
+3451.	https://svn.code.sf.net/p/edk2-buildtools/code/trunk/BaseTools
+3452.	https://svn.code.sf.net/p/edk2-buildtools/code/trunk/BaseTools/gcc
+3453.	https://svn.code.sf.net/p/edk2/code/trunk/edk2
+3454.	https://svn.code.sf.net/p/edk2/code/trunk/edk2/BaseTools
+3455.	https://svn.code.sf.net/p/edk2/code/trunk/edk2/EdkCompatibilityPkg
+3456.	https://svn.code.sf.net/p/edk2/code/trunk/edk2/EdkShellPkg
+3457.	https://svn.code.sf.net/p/efi-shell/code/trunk/Shell
+3458.	https://svn.openplans.org/svn/fassembler/trunk/fassembler/create-venv-script.py
+3459.	https://svn.plone.org/svn/collective/inquant.contentmirror.plone/trunk
+3460.	https://synergy.as.cmu.edu/
+3461.	http://stackoverflow.com/questions/10069319/how-to-get-device-calendar-event-list-in-android-device
+3462.	http://stackoverflow.com/questions/10909683/launch
+3463.	http://stackoverflow.com/questions/1112545/
+3464.	http://stackoverflow.com/questions/1342535/how-can-i-tell-if-im-running-from-jruby-vs-ruby/1685970
+3465.	http://stackoverflow.com/questions/1396820/
+3466.	http://stackoverflow.com/questions/2097813/how-to-parse-the-androidmanifest-xml-file-inside-an-apk-package/4761689
+3467.	http://stackoverflow.com/questions/2785485/is-there-a-unique-android-device-id
+3468.	http://stackoverflow.com/questions/3012287/how-to-read-mms-data-in-android
+3469.	http://stackoverflow.com/questions/328496/when-would-you-use-the-builder-pattern
+3470.	http://stackoverflow.com/questions/3552108/finding-closest-object-to-cgpoint
+3471.	http://stackoverflow.com/questions/3868223/problem-with-
+3472.	http://stackoverflow.com/questions/4459330/how-do-i-temporarily-redirect-stderr-in-ruby
+3473.	http://stackoverflow.com/questions/4932947/sending-sms-problem-from-blackberry-device
+3474.	http://stackoverflow.com/questions/tagged/bundler
+3475.	http://staff.cs.utu.fi/BL/
+3476.	http://stalatest.googlecode.com/svn/trunk/Literatur/mockobjects.pdf
+3477.	http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html
+3478.	http://standards.freedesktop.org/startup-notification-spec/startup-notification-latest.txt
+3479.	http://stark.ca/
+3480.	http://starship.python.net/crew/kernr/mingw32/Notes.html
+3481.	http://starship.python.net/crew/mhammond/
+3482.	http://starship.python.net/crew/mhammond/win32
+3483.	http://starship.python.net/crew/mhammond/win32/PrivacyProblem.html
+3484.	http://starship.skyport.net/crew/mcfletch/
+3485.	http://static.px.yelp.com/bpthumb/1aK0JUrH9QLrmn76RnlxNA/ms
+3486.	http://static.px.yelp.com/bpthumb/1aK0JUrH9QLrmn76RnlxNA/ss
+3487.	http://static.px.yelp.com/bpthumb/ANbY5m01ROgbtzteMQNIxw/ms
+3488.	http://static.px.yelp.com/bpthumb/ANbY5m01ROgbtzteMQNIxw/ss
+3489.	http://static.px.yelp.com/bpthumb/anR-QVqjMYDupPLYJ5lqwQ/ms
+3490.	http://static.px.yelp.com/bpthumb/anR-QVqjMYDupPLYJ5lqwQ/ss
+3491.	http://static.px.yelp.com/bpthumb/e6tjIs4o7g4prs25U2nkxg/ms
+3492.	http://static.px.yelp.com/bpthumb/e6tjIs4o7g4prs25U2nkxg/ss
+3493.	http://static.px.yelp.com/bpthumb/eetod47ppa8zUbX8L80o_A/ms
+3494.	http://static.px.yelp.com/bpthumb/eetod47ppa8zUbX8L80o_A/ss
+3495.	http://static.px.yelp.com/bpthumb/gBxuzXOtKuRR9t29myOPYg/ms
+3496.	http://static.px.yelp.com/bpthumb/gBxuzXOtKuRR9t29myOPYg/ss
+3497.	http://static.px.yelp.com/bpthumb/i7c6kns-SbJj6xe6Uy_34A/ms
+3498.	http://static.px.yelp.com/bpthumb/i7c6kns-SbJj6xe6Uy_34A/ss
+3499.	http://static.px.yelp.com/bpthumb/IXDxbdklFZPJOHHM2rSzVw/ms
+3500.	http://static.px.yelp.com/bpthumb/IXDxbdklFZPJOHHM2rSzVw/ss
+3501.	http://static.px.yelp.com/bpthumb/K7_INof0EiUXR52hv5jfiQ/ms
+3502.	http://static.px.yelp.com/bpthumb/K7_INof0EiUXR52hv5jfiQ/ss
+3503.	http://static.px.yelp.com/bpthumb/nD2x6wclDBcaSd6ftQOl8A/ms
+3504.	http://static.px.yelp.com/bpthumb/nD2x6wclDBcaSd6ftQOl8A/ss
+3505.	http://static.px.yelp.com/bpthumb/_Q0KPbKmAgQeLrcOgajjwA/ms
+3506.	http://static.px.yelp.com/bpthumb/_Q0KPbKmAgQeLrcOgajjwA/ss
+3507.	http://static.px.yelp.com/bpthumb/Qi-qAAMOBSuXunNQMb2ttw/ms
+3508.	http://static.px.yelp.com/bpthumb/Qi-qAAMOBSuXunNQMb2ttw/ss
+3509.	http://static.px.yelp.com/bpthumb/QS62ET0YNIqDYzQlmeKtRQ/ms
+3510.	http://static.px.yelp.com/bpthumb/QS62ET0YNIqDYzQlmeKtRQ/ss
+3511.	http://static.px.yelp.com/bpthumb/TRFnGi4Dk5XYkX38KMQ_Uw/ms
+3512.	http://static.px.yelp.com/bpthumb/TRFnGi4Dk5XYkX38KMQ_Uw/ss
+3513.	http://static.px.yelp.com/bpthumb/TSwz87bjS4THX5X8W8kffA/ms
+3514.	http://static.px.yelp.com/bpthumb/TSwz87bjS4THX5X8W8kffA/ss
+3515.	http://static.px.yelp.com/bpthumb/uooIx_I_pm2PwbBOcDTRuw/ms
+3516.	http://static.px.yelp.com/bpthumb/uooIx_I_pm2PwbBOcDTRuw/ss
+3517.	http://static.px.yelp.com/bpthumb/U_PzfAHm5cyg7wOF2FjE-w/ms
+3518.	http://static.px.yelp.com/bpthumb/U_PzfAHm5cyg7wOF2FjE-w/ss
+3519.	http://static.px.yelp.com/bpthumb/vX704tjDFSzctwRTE5oaEA/ms
+3520.	http://static.px.yelp.com/bpthumb/vX704tjDFSzctwRTE5oaEA/ss
+3521.	http://static.px.yelp.com/bpthumb/xOFIYiRKU8NjyBsyGw5Rxg/ms
+3522.	http://static.px.yelp.com/bpthumb/xOFIYiRKU8NjyBsyGw5Rxg/ss
+3523.	http://static.px.yelp.com/bpthumb/zYyt2w6e_gBAOmIVBUqRPA/ms
+3524.	http://static.px.yelp.com/bpthumb/zYyt2w6e_gBAOmIVBUqRPA/ss
+3525.	http://static.px.yelp.com/static/20090416/i/new/gfx/blank_user_extra_small.gif
+3526.	http://static.px.yelp.com/static/20090416/i/new/gfx/blank_user_small.gif
+3527.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_1.png
+3528.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_2.png
+3529.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_3.png
+3530.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_4_half.png
+3531.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_4.png
+3532.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_5.png
+3533.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_1.png
+3534.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_2.png
+3535.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_3.png
+3536.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_4_half.png
+3537.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_4.png
+3538.	http://static.px.yelp.com/static/20090416/i/new/ico/stars/stars_small_5.png
+3539.	http://static.px.yelp.com/upthumb/2whWATS5zogQQcAX-gGRGQ/ms
+3540.	http://static.px.yelp.com/upthumb/2whWATS5zogQQcAX-gGRGQ/ss
+3541.	http://static.px.yelp.com/upthumb/-3EK3uAM0q8SkB9uJCKLtw/ms
+3542.	http://static.px.yelp.com/upthumb/-3EK3uAM0q8SkB9uJCKLtw/ss
+3543.	http://static.px.yelp.com/upthumb/3loDhmkFIGyUQDATuo6e1Q/ms
+3544.	http://static.px.yelp.com/upthumb/3loDhmkFIGyUQDATuo6e1Q/ss
+3545.	http://static.px.yelp.com/upthumb/5ZWqY4DRQ3X67uEbiFBv9Q/ms
+3546.	http://static.px.yelp.com/upthumb/5ZWqY4DRQ3X67uEbiFBv9Q/ss
+3547.	http://static.px.yelp.com/upthumb/8JO3AwYQADb4oEgywyiHkw/ms
+3548.	http://static.px.yelp.com/upthumb/8JO3AwYQADb4oEgywyiHkw/ss
+3549.	http://static.px.yelp.com/upthumb/-9iUpFLA7gUwU-xeVczgLA/ms
+3550.	http://static.px.yelp.com/upthumb/-9iUpFLA7gUwU-xeVczgLA/ss
+3551.	http://static.px.yelp.com/upthumb/9s2WKYMKnCM4FwBLNTifyA/ms
+3552.	http://static.px.yelp.com/upthumb/9s2WKYMKnCM4FwBLNTifyA/ss
+3553.	http://static.px.yelp.com/upthumb/afmXmGSDfksrEhrEJauNJw/ms
+3554.	http://static.px.yelp.com/upthumb/afmXmGSDfksrEhrEJauNJw/ss
+3555.	http://static.px.yelp.com/upthumb/AL3w82TCtSeJHHWon43RUw/ms
+3556.	http://static.px.yelp.com/upthumb/AL3w82TCtSeJHHWon43RUw/ss
+3557.	http://static.px.yelp.com/upthumb/bxtZFTMp6Lib0xWcVNywwQ/ms
+3558.	http://static.px.yelp.com/upthumb/bxtZFTMp6Lib0xWcVNywwQ/ss
+3559.	http://static.px.yelp.com/upthumb/CjwEJm0_LW7l3Gtc96Nq_A/ms
+3560.	http://static.px.yelp.com/upthumb/CjwEJm0_LW7l3Gtc96Nq_A/ss
+3561.	http://static.px.yelp.com/upthumb/fXjNyGsXPVjIHk46Y5dPrA/ms
+3562.	http://static.px.yelp.com/upthumb/fXjNyGsXPVjIHk46Y5dPrA/ss
+3563.	http://static.px.yelp.com/upthumb/Fz-tRBmSVG8i1Dm6s-Q0yA/ms
+3564.	http://static.px.yelp.com/upthumb/Fz-tRBmSVG8i1Dm6s-Q0yA/ss
+3565.	http://static.px.yelp.com/upthumb/g9ivlET2xM1MFi_C_Ktrbg/ms
+3566.	http://static.px.yelp.com/upthumb/g9ivlET2xM1MFi_C_Ktrbg/ss
+3567.	http://static.px.yelp.com/upthumb/gdb2pU0wnmsXjAlo_skMgg/ms
+3568.	http://static.px.yelp.com/upthumb/gdb2pU0wnmsXjAlo_skMgg/ss
+3569.	http://static.px.yelp.com/upthumb/gqiMnFeJ-Ddlw_4b0w1-VA/ms
+3570.	http://static.px.yelp.com/upthumb/gqiMnFeJ-Ddlw_4b0w1-VA/ss
+3571.	http://static.px.yelp.com/upthumb/gy2uwuDpWj8mnewYVCWVVw/ms
+3572.	http://static.px.yelp.com/upthumb/gy2uwuDpWj8mnewYVCWVVw/ss
+3573.	http://static.px.yelp.com/upthumb/hspGLwRANroWkFZutDcO4w/ms
+3574.	http://static.px.yelp.com/upthumb/hspGLwRANroWkFZutDcO4w/ss
+3575.	http://static.px.yelp.com/upthumb/hYTM9RV4e8642z2NCNty2A/ms
+3576.	http://static.px.yelp.com/upthumb/hYTM9RV4e8642z2NCNty2A/ss
+3577.	http://static.px.yelp.com/upthumb/iAufJ9qyXdH0n36yWkOCag/ms
+3578.	http://static.px.yelp.com/upthumb/iAufJ9qyXdH0n36yWkOCag/ss
+3579.	http://static.px.yelp.com/upthumb/Ig55RB3mMzhZoptC6kJtPA/ms
+3580.	http://static.px.yelp.com/upthumb/Ig55RB3mMzhZoptC6kJtPA/ss
+3581.	http://static.px.yelp.com/upthumb/JiWacKWw01QjoL3Kqz-gYQ/ms
+3582.	http://static.px.yelp.com/upthumb/JiWacKWw01QjoL3Kqz-gYQ/ss
+3583.	http://static.px.yelp.com/upthumb/l80OO5ruhFcYFiUjNX-Y9w/ms
+3584.	http://static.px.yelp.com/upthumb/l80OO5ruhFcYFiUjNX-Y9w/ss
+3585.	http://static.px.yelp.com/upthumb/-LlBQzy_lMDN8rqcZxxduQ/ms
+3586.	http://static.px.yelp.com/upthumb/-LlBQzy_lMDN8rqcZxxduQ/ss
+3587.	http://static.px.yelp.com/upthumb/lLF6FjlIh_9itgOeqvjW6w/ms
+3588.	http://static.px.yelp.com/upthumb/lLF6FjlIh_9itgOeqvjW6w/ss
+3589.	http://static.px.yelp.com/upthumb/_naF53nRZT9HYVeplcX5Hg/ms
+3590.	http://static.px.yelp.com/upthumb/_naF53nRZT9HYVeplcX5Hg/ss
+3591.	http://static.px.yelp.com/upthumb/NR3YhAUjzQ4SZgkg6vqheA/ms
+3592.	http://static.px.yelp.com/upthumb/NR3YhAUjzQ4SZgkg6vqheA/ss
+3593.	http://static.px.yelp.com/upthumb/nXk12V7x30v9LUoTye0gsw/ms
+3594.	http://static.px.yelp.com/upthumb/nXk12V7x30v9LUoTye0gsw/ss
+3595.	http://static.px.yelp.com/upthumb/O4cr5BaYOCApJIHhnqDEtw/ms
+3596.	http://static.px.yelp.com/upthumb/O4cr5BaYOCApJIHhnqDEtw/ss
+3597.	http://static.px.yelp.com/upthumb/OhMim2CBXFYiz7uOpGu2jQ/ms
+3598.	http://static.px.yelp.com/upthumb/OhMim2CBXFYiz7uOpGu2jQ/ss
+3599.	http://static.px.yelp.com/upthumb/PBwngRvnIdtYIy9iF3tbbQ/ms
+3600.	http://static.px.yelp.com/upthumb/PBwngRvnIdtYIy9iF3tbbQ/ss
+3601.	http://static.px.yelp.com/upthumb/PoGEmHpxRjKFiNOFz1a2jw/ms
+3602.	http://static.px.yelp.com/upthumb/PoGEmHpxRjKFiNOFz1a2jw/ss
+3603.	http://static.px.yelp.com/upthumb/QNtJA5nm_FuSnwTzVcXhag/ms
+3604.	http://static.px.yelp.com/upthumb/QNtJA5nm_FuSnwTzVcXhag/ss
+3605.	http://static.px.yelp.com/upthumb/QS-jEagZ4se63l9kV87XWA/ms
+3606.	http://static.px.yelp.com/upthumb/QS-jEagZ4se63l9kV87XWA/ss
+3607.	http://static.px.yelp.com/upthumb/S1x1MObQYQTRCrcxwal8Dw/ms
+3608.	http://static.px.yelp.com/upthumb/S1x1MObQYQTRCrcxwal8Dw/ss
+3609.	http://static.px.yelp.com/upthumb/t4zvXYHqYmm-QW0-Te2j1g/ms
+3610.	http://static.px.yelp.com/upthumb/t4zvXYHqYmm-QW0-Te2j1g/ss
+3611.	http://static.px.yelp.com/upthumb/U7VW_Q_ITvOx-_oV5ThIhg/ms
+3612.	http://static.px.yelp.com/upthumb/U7VW_Q_ITvOx-_oV5ThIhg/ss
+3613.	http://static.px.yelp.com/upthumb/UdPPgUlMb2DYpxQI3L-xAg/ms
+3614.	http://static.px.yelp.com/upthumb/UdPPgUlMb2DYpxQI3L-xAg/ss
+3615.	http://static.px.yelp.com/upthumb/vAKX9CLC4EJDm9X_YvP4WQ/ms
+3616.	http://static.px.yelp.com/upthumb/vAKX9CLC4EJDm9X_YvP4WQ/ss
+3617.	http://static.px.yelp.com/upthumb/-wkOaTBgkX78kgWd9qKLDg/ms
+3618.	http://static.px.yelp.com/upthumb/-wkOaTBgkX78kgWd9qKLDg/ss
+3619.	http://static.px.yelp.com/upthumb/wwoUpPp1AG2REqM-tONdYw/ms
+3620.	http://static.px.yelp.com/upthumb/wwoUpPp1AG2REqM-tONdYw/ss
+3621.	http://static.px.yelp.com/upthumb/wwRGU_D9-Ajfs1mwko-nlw/ms
+3622.	http://static.px.yelp.com/upthumb/wwRGU_D9-Ajfs1mwko-nlw/ss
+3623.	http://static.px.yelp.com/upthumb/Wzjwe41JVxcJ8S1T6FMJlQ/ms
+3624.	http://static.px.yelp.com/upthumb/Wzjwe41JVxcJ8S1T6FMJlQ/ss
+3625.	http://static.px.yelp.com/upthumb/x0-s9hvClAZWTTbvm-A_Hg/ms
+3626.	http://static.px.yelp.com/upthumb/x0-s9hvClAZWTTbvm-A_Hg/ss
+3627.	http://static.px.yelp.com/upthumb/XyhcfxLEyoEJl1jLB1gkLA/ms
+3628.	http://static.px.yelp.com/upthumb/XyhcfxLEyoEJl1jLB1gkLA/ss
+3629.	http://static.px.yelp.com/upthumb/yswMVVQ6HUVHHrs_5H5GPw/ms
+3630.	http://static.px.yelp.com/upthumb/yswMVVQ6HUVHHrs_5H5GPw/ss
+3631.	http://stattrek.com/Tables/Hypergeometric.aspx
+3632.	http://std.dkuug.dk/jtc1/sc22/wg21/docs/cwg_defects.html
+3633.	http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/1994/N0555.pdf
+3634.	http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/2002/n1377.htm
+3635.	http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/2002/n1385.htm
+3636.	http://std.dkuug.dk/jtc1/sc22/wg21/docs/papers/2003/n1548.htm
+3637.	http://steuber.us/
+3638.	https://third-rubygems.org
+3639.	http://stiedemann.name/
+3640.	http://stlab.adobe.com/gil
+3641.	http://stlport.sourceforge.net
+3642.	https://trac.lvk.cs.msu.su/boost.build
+3643.	https://trac.lvk.cs.msu.su/boost.build/roadmap
+3644.	https://trac.lvk.cs.msu.su/boost.build/wiki/PythonPort
+3645.	https://travis-ci.org/
+3646.	https://travis-ci.org/bundler/bundler
+3647.	https://travis-ci.org/ffi/ffi
+3648.	https://travis-ci.org/ffi/ffi.png?branch=master
+3649.	https://travis-ci.org/halostatue/diff-lcs
+3650.	https://travis-ci.org/halostatue/diff-lcs/jobs/6241195
+3651.	https://travis-ci.org/halostatue/diff-lcs.png
+3652.	https://travis-ci.org/halostatue/mime-types
+3653.	https://travis-ci.org/halostatue/mime-types.png
+3654.	https://travis-ci.org/headius/thread_safe
+3655.	https://travis-ci.org/headius/thread_safe.png
+3656.	https://travis-ci.org/leejarvis/slop.png?branch=master
+3657.	https://travis-ci.org/ms-ati/docile
+3658.	https://travis-ci.org/ms-ati/docile.png
+3659.	https://travis-ci.org/pry/pry
+3660.	https://travis-ci.org/rest-client/rest-client
+3661.	https://travis-ci.org/rest-client/rest-client.svg?branch=master
+3662.	https://travis-ci.org/rspec/rspec-expectations/jobs/27549635
+3663.	https://travis-ci.org/tzinfo/tzinfo
+3664.	https://travis-ci.org/tzinfo/tzinfo.svg?branch=master
+3665.	http://streich.name/
+3666.	http://stroman.name/
+3667.	http://stromanoberbrunner.com/
+3668.	http://students.infoiasi.ro/
+3669.	https://twitter.com
+3670.	https://twitter.com/
+3671.	https://twitter.com/banisterfiend
+3672.	http://subversion.tigris.org
+3673.	http://subversion.tigris.org/
+3674.	http://subversion.tigris.org/license-1.html.
+3675.	http://sunsolve6.sun.com/search/document.do?assetkey=1-21-113817
+3676.	http://support1.toshiba-tro.de/tools/updates/atheros-wlan/atheros-wlan-xp-7702331.zip
+3677.	http://supportforums.blackberry.com/t5/Java-Development/Compiling-obfuscated-jar-file-using-RAPC/td-p/285322
+3678.	http://supportforums.blackberry.com/t5/Java-Development/How-To-Get-Cell-Tower-Info-Cell-ID-LAC-from-CDMA-BB-phones/m-p/34538
+3679.	http://supportforums.blackberry.com/t5/Java-Development/Programmatically-rebooting-the-device/m-p/42049?view=by_date_ascending
+3680.	http://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/
+3681.	http://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/java_dev
+3682.	http://support.microsoft.com/default.aspx?kbid=157234
+3683.	http://support.microsoft.com/default.aspx?scid=http
+3684.	http://support.microsoft.com/default.aspx?scid=kb
+3685.	http://support.microsoft.com/gp/cp_dst
+3686.	http://support.microsoft.com/kb/118623
+3687.	http://support.microsoft.com/kb/274323
+3688.	http://support.microsoft.com/kb/316609
+3689.	http://support.microsoft.com/kb/321788
+3690.	http://support.microsoft.com/kb/329308
+3691.	http://support.microsoft.com/kb/47961
+3692.	http://support.microsoft.com/kb/816970
+3693.	http://support.microsoft.com/kb/834489
+3694.	http://support.microsoft.com/kb/888731
+3695.	http://support.microsoft.com/kb/896054
+3696.	http://support.microsoft.com/kb/974729
+3697.	http://support.microsoft.com/kb/974729/
+3698.	https://user
+3699.	https://vcenter5.hackingteam.local/sdk
+3700.	https://vcenter.hackingteam.local/sdk
+3701.	http://svn.activestate.com/activestate/checkout/komodo/trunk/mozilla/support/set-curr-python.py
+3702.	http://svn.apache.org/repos/asf/db/derby/code/trunk/KEYS
+3703.	http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types
+3704.	http://svn.boost.org
+3705.	http://svn.boost.org/svn/boost/
+3706.	http://svn.boost.org/svn/boost/branches/release
+3707.	http://svn.boost.org/svn/boost/branches/release/
+3708.	http://svn.boost.org/svn/boost/branches/release/boost/
+3709.	http://svn.boost.org/svn/boost/branches/release/libs/
+3710.	http://svn.boost.org/svn/boost/sandbox/pdf/type_traits/release/type_traits.pdf
+3711.	http://svn.boost.org/svn/boost/trunk/
+3712.	http://svn.boost.org/svn/boost/trunk/boost/
+3713.	http://svn.boost.org/svn/boost/trunk/doc/html/
+3714.	http://svn.boost.org/svn/boost/trunk/doc/src/images/
+3715.	http://svn.boost.org/svn/boost/trunk/doc/src/images/callouts/
+3716.	http://svn.boost.org/svn/boost/trunk/libs/
+3717.	http://svn.boost.org/svn/boost/trunk/tools/build/v2
+3718.	http://svn.boost.org/svn/boost/trunk/tools/build/v2/changes.txt
+3719.	http://svn.boost.org/svn/boost/trunk/tools/regression/src
+3720.	http://svn.boost.org/trac/boost/browser/trunk/
+3721.	http://svn.boost.org/trac/boost/ticket/1186
+3722.	http://svn.boost.org/trac/boost/ticket/2347
+3723.	http://svn.boost.org/trac/boost/ticket/2359
+3724.	http://svn.boost.org/trac/boost/ticket/979
+3725.	http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file
+3726.	http://svn.kfish.org/xsel/trunk/
+3727.	http://svn.openkomodo.com/openkomodo/view/openkomodo/trunk/mozilla/support/set-curr-python.py
+3728.	http://svn.python.org/projects/external/bzip2-1.0.5
+3729.	http://svn.python.org/projects/external/db-4.7.25.0
+3730.	http://svn.python.org/projects/external/openssl-0.9.8l
+3731.	http://svn.python.org/projects/external/sqlite-3.6.21
+3732.	http://svn.python.org/projects/external/tcl8.4.12
+3733.	http://svn.python.org/projects/external/tcl-8.5.2.1
+3734.	http://svn.python.org/projects/external/tk8.4.12
+3735.	http://svn.python.org/projects/external/tk-8.5.2.0
+3736.	http://svn.red-bean.com/bob/macholib/trunk/macholib/
+3737.	http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/branches/mvm/
+3738.	http://svn.tartarus.org/sgt/putty/contrib/kh2reg.py?view=markup
+3739.	https://wiki.github.com/ffi/ffi
+3740.	https://wiki.github.com/ffi/ffi/projects-using-ffi
+3741.	https://wiki.github.com/ffi/ffi/why-use-ffi
+3742.	https://www.
+3743.	https://www.blackberry.com/jira/browse/JAVAAPI-641
+3744.	https://www.example.com/
+3745.	https://www.example.com/echo/foo
+3746.	https://www.example.com/foo/bar
+3747.	https://www.facebook.com
+3748.	https://www.facebook.com/antroide.succhienmberg
+3749.	https://www.facebook.com/connect/ping?client_id=376604520810
+3750.	https://www.facebook.com/media/set/?set=a.1588543974708123.1073741826.100006576075695
+3751.	https://www.facebook.com/pages/Nurburgring-Nordschleife/231160113588411?ref=stream
+3752.	https://www.facebook.com/photo.php?fbid=1588556338040220
+3753.	https://www.facebook.com/profile.php?id=100006576075695
+3754.	https://www.gamepay.de/?lang=es
+3755.	https://www.gittip.com/sporkmonger/
+3756.	https://www.google.com
+3757.	https://www.google.com/a/blah
+3758.	https://www.google.com/settings/dashboard
+3759.	https://www.gstatic.com/android/market_images/plus/play_stream_logo.png
+3760.	https://www.iana.org/assignments/media-types/media-types.xhtml
+3761.	https://www.iana.org/assignments/media-types/media-types.xml
+3762.	https://www.isg.rhul.ac.uk/tls/
+3763.	https://www.jetbrains.com/ruby/
+3764.	https://www.mozilla.org
+3765.	https://www.rfc-editor.org/rfc/rfc6570.txt
+3766.	https://www.ruby-toolbox.com/
+3767.	https://www.ruby-toolbox.com/projects/docile
+3768.	https://www.virtualbox.org/wiki/Documentation
+3769.	https://www.virtualbox.org/wiki/Linux_Downloads
+3770.	https://www.virustotal.com/vtapi/v2/file/report
+3771.	http://syseng.nist.gov/b2bTestbed/projects/xmlvalidation/instance_validation.html
+3772.	https://zigzag.cs.msu.su
+3773.	https://zigzag.lvk.cs.msu.su
+3774.	http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+3775.	http://teaisaweso.me/blog/2013/05/27/rspecs-new-message-expectation-syntax/
+3776.	http://technet.microsoft.com/en-us/evalcenter/hh699156.aspx
+3777.	http://technet.microsoft.com/en-us/library/cc766489
+3778.	http://technet.microsoft.com/en-us/library/dn293200.aspx
+3779.	http://technet.microsoft.com/en-us/library/hh824972.aspx
+3780.	http://technet.microsoft.com/en-us/library/hh825109.aspx
+3781.	http://technet.microsoft.com/en-us/library/hh825110.aspx
+3782.	http://techspot.zzzeek.org/?p=19
+3783.	http://tenderlovemaking.com/2009/02/26/we-need-a-new-version-of-rake/
+3784.	http://term-ansicolor.rubyforge.org/
+3785.	http://test.com/about/company/
+3786.	http://test.host/posts/1
+3787.	http://Test.python.org
+3788.	http://Test.python.org/foo/
+3789.	http://test.webbtc.com/relay_tx
+3790.	http://test.webbtc.com/tx/
+3791.	http://the.earth.li/
+3792.	http://theshadow.uw.hu/iPhoneSDKdoc/Foundation.framework/NSDebug.h.html
+3793.	http://thiel.com/
+3794.	http://thisismedium.com/tech/extending-virtualenv/
+3795.	http://thompson.biz/
+3796.	http://thread.gmane.org/gmane.comp.lib.boost.build/13759
+3797.	http://thread.gmane.org/gmane.comp.lib.boost.build/19077
+3798.	http://thread.gmane.org/gmane.comp.lib.boost.devel/164902/.
+3799.	http://thread.gmane.org/gmane.comp.lib.boost.user/62985
+3800.	http://tidy.sf.net
+3801.	http://tidy.sourceforge.net
+3802.	http://tidy.sourceforge.net/src/old/tidy_src_020411.tgz
+3803.	http://tillmanvandervort.biz/
+3804.	http://timeago.yarp.com/
+3805.	http://timestamp.verisign.com/scripts/timestamp.dll
+3806.	http://time.xmlrpc.com/RPC2
+3807.	http://tiny.cc/
+3808.	http://tinyurl.com/2l7u33
+3809.	http://tinyurl.com/2mros
+3810.	http://tinyurl.com/3et69
+3811.	http://tinyurl.com/4ebd8
+3812.	http://tinyurl.com/create.php?url=
+3813.	http://tinyurl.com/ljdp8
+3814.	http://tinyurl.com/mn3jp
+3815.	http://tinyurl.com/os5jz
+3816.	http://tinyurl.com/vhpvo
+3817.	http://tinyurl.com/ycwdxco
+3818.	http://tinyurl.com/zbycz
+3819.	http://tinyurl.com/zuohe
+3820.	http://tip.tcl.tk/48
+3821.	http://tix.sourceforge.net
+3822.	http://tix.sourceforge.net/
+3823.	http://tix.sourceforge.net.
+3824.	http://tix.sourceforge.net/Tide.
+3825.	http://tix.sourceforge.net/Tixapps/
+3826.	http://tntnet.org
+3827.	http://tog.acm.org/resources/GraphicsGems/gemsiv/ptpoly_haines/ptinpoly.c
+3828.	http://tomcat.apache.org/
+3829.	http://tomdoc.org
+3830.	http://tomdoc.org/.
+3831.	http://tools.decisionsoft.com/schemaValidate.html
+3832.	http://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-75
+3833.	http://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76
+3834.	http://tools.ietf.org/html/draft-hoffman-ftp-uri-04
+3835.	http://tools.ietf.org/html/draft-ietf-httpbis-p1-messaging-19
+3836.	http://tools.ietf.org/html/draft-ietf-httpbis-p5-range-19
+3837.	http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-03
+3838.	http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-07
+3839.	http://tools.ietf.org/html/draft-ietf-pkix-rfc2560bis
+3840.	http://tools.ietf.org/html/rfc1630
+3841.	http://tools.ietf.org/html/rfc1738
+3842.	http://tools.ietf.org/html/rfc2255
+3843.	http://tools.ietf.org/html/rfc2347
+3844.	http://tools.ietf.org/html/rfc2348
+3845.	http://tools.ietf.org/html/rfc2349
+3846.	http://tools.ietf.org/html/rfc2368
+3847.	http://tools.ietf.org/html/rfc2373
+3848.	http://tools.ietf.org/html/rfc2396
+3849.	http://tools.ietf.org/html/rfc2732
+3850.	http://tools.ietf.org/html/rfc3692
+3851.	http://tools.ietf.org/html/rfc3986
+3852.	http://tools.ietf.org/html/rfc4287
+3853.	http://tools.ietf.org/html/rfc5321
+3854.	http://tools.ietf.org/html/rfc6455
+3855.	http://tools.ietf.org/html/rfc6570
+3856.	http://tools.ietf.org/html/rfc822
+3857.	http://tools.ietf.org/search/rfc2616
+3858.	http://torp.biz/
+3859.	http://tortoisesvn.tigris.org/
+3860.	http://toto
+3861.	http:///toto
+3862.	http://toy.ca/
+3863.	http://trac.osgeo.org/osgeo4w/
+3864.	http://trantow.uk/
+3865.	http://travis-ci.org.
+3866.	http://travis-ci.org/colszowka/simplecov
+3867.	http://travis-ci.org/durran/optionable
+3868.	http://travis-ci.org/intridea/multi_json
+3869.	http://travis-ci.org/intridea/multi_json.svg
+3870.	http://travis-ci.org/leejarvis/slop
+3871.	http://travis-ci.org/lian/bitcoin-ruby
+3872.	http://travis-ci.org/mongodb/bson-ruby
+3873.	http://travis-ci.org/mongoid/origin
+3874.	http://travis-ci.org/rspec/rspec-core
+3875.	http://travis-ci.org/rspec/rspec-expectations
+3876.	http://travis-ci.org/rspec/rspec-mocks
+3877.	http://travis-ci.org/rubychan/github
+3878.	http://travis-ci.org/rubyzip/rubyzip
+3879.	http://travis-ci.org/sporkmonger/addressable
+3880.	http://travis-ci.org/sporkmonger/uuidtools
+3881.	http://treutel.ca/
+3882.	http://treutel.name/
+3883.	http://troydhanson.github.com/uthash/
+3884.	http://trs-new.jpl.nasa.gov/dspace/bitstream/2014/40409/1/07-03.pdf
+3885.	http://trustedcomputinggroup.org
+3886.	http://tuxera.com
+3887.	http://tuxera.com/community/ntfs-3g-faq/
+3888.	http://twistedmatrix.com
+3889.	http://twistedmatrix.com/trac/browser/trunk/twisted/trial/runner.py
+3890.	http://twitter.com/ActiveState/status/19782350475
+3891.	http://twitter.com/zzzeek/status/9765871731867648
+3892.	http://tycho.usno.navy.mil/systime.html
+3893.	http://tzinfo.github.io
+3894.	http://tzinfo.github.io/datasourcenotfound
+3895.	http://ucsub.colorado.edu/
+3896.	http://under_score.example.com/
+3897.	http://unicode.org/charts/PDF/U0D80.pdf
+3898.	http://unicode.org/reports/tr15/
+3899.	http://unicode.org/reports/tr18/
+3900.	http://unicode.org/unicode/faq/utf_bom.html
+3901.	http://unlicense.org/
+3902.	http://upton.biz/
+3903.	http://upx.sourceforge.net/upx-license.html.
+3904.	http://upx.tsx.org
+3905.	http://url
+3906.	http://us.blackberry.com/support/software/g
+3907.	http://user
+3908.	http://User
+3909.	http://username
+3910.	http://userspace.selinuxproject.org/
+3911.	http://uthash.sourceforge.net
+3912.	http://uthash.sourceforge.net/utarray
+3913.	http://uthash.sourceforge.net/utstring
+3914.	http://valgrind.kde.org/
+3915.	http://valgrind.org/
+3916.	http://valgrind.org/docs/manual/manual-core.html
+3917.	http://validator.w3.org/check/referer
+3918.	http://validator.w3.org/check?uri=referer
+3919.	http://vandervort.name/
+3920.	http://vektor.theorem.ca/graphics/ycbcr/
+3921.	http://veumstrosin.name/
+3922.	http://vim.org
+3923.	http://virtualenv.openplans.org
+3924.	http://von.info/
+3925.	http://vonruedenpurdy.uk/
+3926.	http://vt100.net/charsets/technical.html
+3927.	http://vurl.me/PGOU
+3928.	http://w3m.sourceforge.net/
+3929.	http://wap.wappushexample.com
+3930.	http://ward.ca/
+3931.	http://watsicajacobi.info/
+3932.	http://web.archive.org/web/20011105084002/http
+3933.	http://web.archive.org/web/20111016032731/http
+3934.	http://webbtc.com
+3935.	http://webchat.freenode.net/?channels=
+3936.	http://Web.Golux.Com/coar/cgi/
+3937.	http://weblogs.java.net/blog/kellyohair/archive/2006/01/compilation_of_1.html
+3938.	http://web.mala.bc.ca/pughg/phdThesis/phdThesis.pdf
+3939.	http://web.resource.org/cc/
+3940.	http://web.resource.org/cc/DerivativeWorks
+3941.	http://web.resource.org/cc/Distribution
+3942.	http://web.resource.org/cc/PublicDomain
+3943.	http://web.resource.org/cc/Reproduction
+3944.	http://web.resource.org/rss/1.0/
+3945.	http://welch.name/
+3946.	http://wendhelofopportunity.info
+3947.	http://wibu.com/us/
+3948.	http://wiegand.biz/
+3949.	http://wiki.forum.nokia.com/index.php/AMR_format
+3950.	http://wiki.forum.nokia.com/index.php/How_to_check_if_the_phone_is_in_offline_mode
+3951.	http://wiki.forum.nokia.com/index.php/How_to_Detect_Offline_Mode_in_3rd_Edition
+3952.	http://wiki.forum.nokia.com/index.php/KIS000764_-_Incorrect_CPU_information_reported_by_HAL
+3953.	http://wiki.forum.nokia.com/index.php/KIS001547_-_Capturing_Send/End_key_events_fails_on_S60_3rd_Edition
+3954.	http://wiki.forum.nokia.com/index.php/Splitting_long_running_tasks_with_active_objects
+3955.	http://wiki.forum.nokia.com/index.php/Symbian_OS_Error_Codes
+3956.	http://wiki.github.com/ffi/ffi
+3957.	http://wiki.jruby.org/Persistence
+3958.	http://wiki.pylonshq.com/display/pylonscookbook/Using
+3959.	http://wiki.python.org/moin/PythonBooks
+3960.	http://wiki.qemu.org/Documentation/Networking
+3961.	http://wiki.qemu.org/Download
+3962.	http://wiki.wxwidgets.org/Installing_and_configuring_under_Ubuntu
+3963.	http://wilderman.uk/
+3964.	http://wildsau.idv.uni-linz.ac.at/mfx/upx.html
+3965.	http://wilkinson.co.uk/
+3966.	http://williams.best.vwh.net/avform.htm
+3967.	http://willmsmorar.uk/
+3968.	http://windowssdk.msdn.microsoft.com/en-us/library/ms647558.aspx
+3969.	http://wisoky.name/
+3970.	http://witting.info/
+3971.	http://witting.name/
+3972.	http://wiza.com/
+3973.	http://ws.serviceobjects.com/lv/LeadValidation.asmx/ValidateLead_V2
+3974.	http://wuckertlangworth.info/
+3975.	http://www.
+3976.	http://www.10gen.com/
+3977.	http://www21.brinkster.com/lonwolve/melt/index.htm
+3978.	http://www2a.biglobe.ne.jp/
+3979.	http://www-2.cs.cmu.edu/
+3980.	http://www2.dcs.hull.ac.uk/CISRG/projects/Royal-Inst/demos/dp.html
+3981.	http://www2.hursley.ibm.com/decimal
+3982.	http://www.2lkit.com/
+3983.	http://www.2lkit.com/products/2LKitObf/index.htm
+3984.	http://www-306.ibm.com/software/wireless/wsdd/
+3985.	http://www.3gpp.org
+3986.	http://www.4fang.net/
+3987.	http://www.4fang.net/jmix/
+3988.	http://www-4.ibm.com/software/developer/library/utf16.html?dwzone=unicode
+3989.	http://www4.informatik.uni-erlangen.de/
+3990.	http://www.4thpass.com/
+3991.	http://www.7-zip.org
+3992.	http://www.7-zip.org/7z.html
+3993.	http://www.7-zip.org/sdk.html
+3994.	http://www.7-zip.org/support.html
+3995.	http://www.a.acme.com
+3996.	http://www.a-a-p.org
+3997.	http://www.acme.com
+3998.	http://www.acme.com/
+3999.	http://www.acme.com/acme/ammo/...
+4000.	http://www.acme.com/acme/ammo/specific
+4001.	http://www.acme.com/acme/login
+4002.	http://www.acme.com/acme/parts/
+4003.	http://www.acme.com/acme/pickitem
+4004.	http://www.acme.com/acme/process
+4005.	http://www.acme.com/acme/shipping
+4006.	http://www.acme.com/ammo
+4007.	http://www.acme.com/blah
+4008.	http://www.acme.com/blah/
+4009.	http://www.acme.com/blah/rhubarb
+4010.	http://www.acme.com/blah/rhubarb/
+4011.	http://www.acme.com/foo
+4012.	http://www.acme.com/foo/
+4013.	http://www.acme.com/foo/bar
+4014.	http://www.acpica.org
+4015.	http://www.acpica.org/downloads/previous_releases.php
+4016.	http://www.acpi.info
+4017.	http://www.acpi.info/spec.htm
+4018.	http://www.activestate.com/activepython/license-agreement
+4019.	http://www.activestate.com/komodo/
+4020.	http://www.adobe.com/2006/mxml
+4021.	http://www.adobe.com/go/getflashplayer
+4022.	http://www.adsciengineering.com/bpdcalc/index.php
+4023.	http://www.adsciengineering.com/bpdcalc/index.php?n=20
+4024.	http://www.aei.mpg.de/
+4025.	http://www.agner.org/optimize/
+4026.	http://www.alastairs-place.net/cocoa/faq.txt
+4027.	http://www.aleax.it
+4028.	http://www.alistapart.com/articles/slidingdoors
+4029.	http://www.allatori.com/
+4030.	http://www.alldatasheet.com/datasheet-pdf/pdf/91600/ETC/AU9254A21.html
+4031.	http://www.alpertron.com.ar/ECM.HTM
+4032.	http://www.alphaworks.ibm.com/
+4033.	http://www.amazon.com/exec/obidos/tg/detail/-/3540665722/qid=1035535482/sr=8-7/ref=sr_8_7/104-3357872-6059916?v=glance
+4034.	http://www.ams.org/bull/1999-36-04/S0273-0979-99-00796-X/
+4035.	http://www.android.com/
+4036.	http://www.androidengineer.com/2010/06/using-ant-to-automate-building-android.html
+4037.	http://www.androidsnippets.com/executing-a-http-post-request-with-
+4038.	http://www.androidsnippets.com/how-to-capture-application-log
+4039.	http://www.androidsnippets.org/snippets/39/index.html
+4040.	http://www.antlr.org
+4041.	http://www.ants.com
+4042.	http://www.ants.com/
+4043.	http://www.apachefriends.org/en/xampp.html
+4044.	http://www.apache.org/
+4045.	http://www.apache.org/licenses/
+4046.	http://www.apache.org/licenses/LICENSE
+4047.	http://www.apache.org/licenses/LICENSE-2.0
+4048.	http://www.apache.org/licenses/LICENSE-2.0.html
+4049.	http://www.apache.org/licenses/LICENSE-2.0.txt
+4050.	http://www.apacheweek.com/features/put
+4051.	http://www.apple.com/DTDs/PropertyList-1.0.dtd
+4052.	http://www.apple.com/it/itunes/download/
+4053.	http://www.apple.com/safari/
+4054.	http://www.arctrix.com/nas/python/gc/
+4055.	http://www.aristeia.com/books.html
+4056.	http://www.aromatic.com/tools/jam.txt
+4057.	http://www.arxan.com/
+4058.	http://www.arxan.com/software-protection-products/java-GuardIt/index.php
+4059.	http://www.asp101.com/articles/john/connstring/default.asp
+4060.	http://www.atomicobject.com/
+4061.	http://www.ausvet.com.au/pprev/content.php?page=PPscript
+4062.	http://www.auth.foo.com/
+4063.	http://www.aviary.pl/
+4064.	http://www.aw.com/cseng/titles/0-201-89542-0/apsupp/events2-1.html
+4065.	http://www.awprofessional.com/bookstore/product.asp?isbn=0201704315
+4066.	http://www.basho.com/products_riak_overview.php
+4067.	http://www.bbc.co.uk/modules/sharetools/share?url=http
+4068.	http://www.bebbosoft.de/
+4069.	http://www.be.com/
+4070.	http://www.benhanson.net/
+4071.	http://www.benhanson.net/lexertl.html
+4072.	http://www.binary-soft.com
+4073.	http://www.bipm.fr/enus/5_Scientific/c_time/time_1.html
+4074.	http://www.bipm.fr/enus/5_Scientific/c_time/time_server.html
+4075.	http://www.birdlife.org/action/science/species/seabirds/tracking_ocean_wanderers.pdf
+4076.	http://www.bittorrent.com/protocol.html
+4077.	http://www.blackber
+4078.	http://www.blackberry.com/knowledgecenterpublic
+4079.	http://www.blackberry.com/knowledgecenterpublic/livelink.exe/fetch/2000/
+4080.	http://www.blackberry.com/support/appworl
+4081.	http://www.boist.org/LICENSE_1_0.txt
+4082.	http://www.bonjourmadame.fr/
+4083.	http://www.boost-consulting.com/mplbook
+4084.	http://www.boost.org
+4085.	http://www.boost.org/
+4086.	http://www.boost.org/.
+4087.	http://www.boost.org.
+4088.	http://www.boost.org/boost-build2/doc/html/bbv2/advanced/configuration.html
+4089.	http://www.boost.org/boost-build2/doc/html/bbv2/advanced/invocation.html
+4090.	http://www.boost.org/boost-build2/doc/html/bbv2/overview/configuration.html
+4091.	http://www.boost.org/boost-build2/doc/html/bbv2/overview/invocation.html
+4092.	http://www.boost.org/boost-build2/doc/html/bbv2/reference/tools.html
+4093.	http://www.boost.org/boost-build2/doc/html/index.html
+4094.	http://www.boost.org/boost.png
+4095.	http://www.boost.org/community/
+4096.	http://www.boost.org/community/moderators.html
+4097.	http://www.boost.org/community/policy.html
+4098.	http://www.boost.org/community/requests.html
+4099.	http://www.boost.org/community/review_schedule.html
+4100.	http://www.boost.org/community/reviews.html
+4101.	http://www.boost.org/development/header.html
+4102.	http://www.boost.org/development/int_const_guidelines.html
+4103.	http://www.boost.org/development/requirements.html
+4104.	http://www.boost.org/development/reuse.html
+4105.	http://www.boost.org/development/separate_compilation.html
+4106.	http://www.boost.org/development/submissions.html
+4107.	http://www.boost.org/development/test.html
+4108.	http://www.boost.org/development/testing.html
+4109.	http://www.boost.org/doc/html/array/reference.html
+4110.	http://www.boost.org/doc/html/boostbook.html
+4111.	http://www.boost.org/doc/html/hash.html
+4112.	http://www.boost.org/doc/html/threads/concepts.html
+4113.	http://www.boost.org/doc/libs/1_41_0/libs/spirit/doc/html/spirit/support/multi_pass.html
+4114.	http://www.boost.org/doc/libs/1_43_0/libs/graph/doc/bundles.html
+4115.	http://www.boost.org/doc/libs/1_44_0/libs/numeric/ublas/doc/index.htm
+4116.	http://www.boost.org/doc/libs/release/doc/html
+4117.	http://www.boost.org/doc/libs/release/libs/graph/doc/stoer_wagner_imgs/stoer_wagner.cpp.gif
+4118.	http://www.boost.org/doc/libs/release/tools/quickbook/index.html
+4119.	http://www.boost.org/lib/optional
+4120.	http://www.boost.org/libs/
+4121.	http://www.boost.org/libs/any
+4122.	http://www.boost.org/libs/array/
+4123.	http://www.boost.org/libs/assign/
+4124.	http://www.boost.org/libs/bind/bind.html
+4125.	http://www.boost.org/libs/bind/mem_fn.html
+4126.	http://www.boost.org/libs/bind/ref.html
+4127.	http://www.boost.org/libs/btree
+4128.	http://www.boost.org/libs/chrono
+4129.	http://www.boost.org/libs/circular_buffer/doc/circular_buffer.html
+4130.	http://www.boost.org/libs/circular_buffer/doc/space_optimized.html
+4131.	http://www.boost.org/libs/compatibility/index.html
+4132.	http://www.boost.org/libs/concept_check
+4133.	http://www.boost.org/libs/concept_check/concept_check.htm
+4134.	http://www.boost.org/libs/config
+4135.	http://www.boost.org/libs/config/
+4136.	http://www.boost.org/libs/config/config.htm
+4137.	http://www.boost.org/libs/config/test
+4138.	http://www.boost.org/libs/container
+4139.	http://www.boost.org/libs/conversion
+4140.	http://www.boost.org/libs/conversion/lexical_cast.htm
+4141.	http://www.boost.org/libs/crc/
+4142.	http://www.boost.org/libs/endian
+4143.	http://www.boost.org/libs/filesystem
+4144.	http://www.boost.org/libs/flyweight
+4145.	http://www.boost.org/libs/foreach
+4146.	http://www.boost.org/libs/format
+4147.	http://www.boost.org/libs/format/
+4148.	http://www.boost.org/libs/function
+4149.	http://www.boost.org/libs/functional
+4150.	http://www.boost.org/libs/functional/overloaded_function
+4151.	http://www.boost.org/libs/graph/doc/adjacency_list.html
+4152.	http://www.boost.org/libs/graph/doc/bundles.html
+4153.	http://www.boost.org/libs/graph/doc/history.html
+4154.	http://www.boost.org/libs/graph/doc/index.html
+4155.	http://www.boost.org/libs/graph/doc/read-graphviz.html
+4156.	http://www.boost.org/libs/graph/doc/table_of_contents.html
+4157.	http://www.boost.org/libs/graph/doc/using_adjacency_list.html
+4158.	http://www.boost.org/libs/graph/example/dijkstra-example.cpp
+4159.	http://www.boost.org/libs/graph/LICENCE
+4160.	http://www.boost.org/libs/graph/vector_property_map.html
+4161.	http://www.boost.org/libs/integer
+4162.	http://www.boost.org/libs/interprocess
+4163.	http://www.boost.org/libs/intrusive
+4164.	http://www.boost.org/libs/io
+4165.	http://www.boost.org/libs/io/
+4166.	http://www.boost.org/libs/iostreams
+4167.	http://www.boost.org/libs/iostreams/
+4168.	http://www.boost.org/libs/iostreams/doc/index.html?path=4.1.1.4
+4169.	http://www.boost.org/libs/iterator/doc/iterator_concepts.html
+4170.	http://www.boost.org/libs/iterator/doc/pointee.html
+4171.	http://www.boost.org/libs/libraries.htm
+4172.	http://www.boost.org/libs/local_function
+4173.	http://www.boost.org/libs/math
+4174.	http://www.boost.org/libs/move
+4175.	http://www.boost.org/libs/mpl
+4176.	http://www.boost.org/libs/multi_array
+4177.	http://www.boost.org/libs/multi_index
+4178.	http://www.boost.org/libs/numeric/conversion
+4179.	http://www.boost.org/libs/optional
+4180.	http://www.boost.org/libs/parameter/test/preprocessor.cpp
+4181.	http://www.boost.org/libs/parameter/test/timings.txt.
+4182.	http://www.boost.org/libs/pool/doc/copyright.html
+4183.	http://www.boost.org/libs/preprocessor
+4184.	http://www.boost.org/libs/property_map
+4185.	http://www.boost.org/libs/ptr_container/
+4186.	http://www.boost.org/libs/python
+4187.	http://www.boost.org/libs/random
+4188.	http://www.boost.org/libs/random/random-concepts.html
+4189.	http://www.boost.org/libs/range
+4190.	http://www.boost.org/libs/range/
+4191.	http://www.boost.org/libs/range/doc/range.html
+4192.	http://www.boost.org/libs/ratio
+4193.	http://www.boost.org/libs/rational
+4194.	http://www.boost.org/libs/regex
+4195.	http://www.boost.org/libs/scope_exit
+4196.	http://www.boost.org/libs/serialization
+4197.	http://www.boost.org/libs/serialization/doc/index.html
+4198.	http://www.boost.org/libs/serialization/doc/serialization.html
+4199.	http://www.boost.org/libs/signals
+4200.	http://www.boost.org/libs/signals2
+4201.	http://www.boost.org/libs/signals2/
+4202.	http://www.boost.org/libs/smart_ptr
+4203.	http://www.boost.org/libs/smart_ptr/enable_shared_from_this.html
+4204.	http://www.boost.org/libs/smart_ptr/intrusive_ptr.html
+4205.	http://www.boost.org/libs/smart_ptr/make_shared.html
+4206.	http://www.boost.org/libs/smart_ptr/pointer_to_other.html
+4207.	http://www.boost.org/libs/smart_ptr/scoped_array.htm
+4208.	http://www.boost.org/libs/smart_ptr/scoped_ptr.htm
+4209.	http://www.boost.org/libs/smart_ptr/shared_array.htm
+4210.	http://www.boost.org/libs/smart_ptr/shared_ptr.htm
+4211.	http://www.boost.org/libs/smart_ptr/smart_ptr.htm
+4212.	http://www.boost.org/libs/smart_ptr/weak_ptr.htm
+4213.	http://www.boost.org/libs/spirit
+4214.	http://www.boost.org/libs/spirit/doc/techniques.html
+4215.	http://www.boost.org/libs/statechart/doc/faq.html
+4216.	http://www.boost.org/libs/static_assert
+4217.	http://www.boost.org/libs/stm
+4218.	http://www.boost.org/libs/system
+4219.	http://www.boost.org/libs/test
+4220.	http://www.boost.org/libs/thread
+4221.	http://www.boost.org/libs/timer
+4222.	http://www.boost.org/libs/tokenizer
+4223.	http://www.boost.org/libs/tokenizer/
+4224.	http://www.boost.org/libs/type_traits
+4225.	http://www.boost.org/libs/type_traits/index.html
+4226.	http://www.boost.org/libs/unordered
+4227.	http://www.boost.org/libs/utility
+4228.	http://www.boost.org/libs/utility/
+4229.	http://www.boost.org/libs/utility/assert.html
+4230.	http://www.boost.org/libs/utility/call_traits.htm
+4231.	http://www.boost.org/libs/utility/checked_delete.html
+4232.	http://www.boost.org/libs/utility/cstdlib.html
+4233.	http://www.boost.org/libs/utility/current_function.html
+4234.	http://www.boost.org/libs/utility/identity_type
+4235.	http://www.boost.org/libs/utility/iterator_adaptors.htm
+4236.	http://www.boost.org/libs/utility/operators.htm
+4237.	http://www.boost.org/libs/utility/shared_container_iterator.html
+4238.	http://www.boost.org/libs/utility/throw_exception.html
+4239.	http://www.boost.org/libs/utility/value_init.htm
+4240.	http://www.boost.org/libs/variant
+4241.	http://www.boost.org/libs/wave
+4242.	http://www.boost.org/LICENCE_1_0.txt
+4243.	http://www.boost.org/LICENSE_1_
+4244.	http://www.boost.org/LICENSE_1_0.tx
+4245.	http://www.boost.org/LICENSE_1_0.txt
+4246.	http://www.boost.org/LICENSE_1_0.txt.
+4247.	http://www.boost.org/LICENSEmpl
+4248.	http://www.boost.org/more/error_handling.html
+4249.	http://www.boost.org/more/faq.htm
+4250.	http://www.boost.org/more/formal_review_process.htm
+4251.	http://www.boost.org/more/generic_programming.html
+4252.	http://www.boost.org/more/getting_started/index.html
+4253.	http://www.boost.org/more/getting_started/unix-variants.html
+4254.	http://www.boost.org/more/lib_guide.htm
+4255.	http://www.boost.org/more/license_info.html
+4256.	http://www.boost.org/more/mailing_lists.htm
+4257.	http://www.boost.org/more/regression.html
+4258.	http://www.boost.org/more/separate_compilation.html
+4259.	http://www.boost.org/people/aleksey_gurtovoy.htm
+4260.	http://www.boost.org/people/beman_dawes.html
+4261.	http://www.boost.org/people/daryle_walker.html
+4262.	http://www.boost.org/people/dave_abrahams.htm
+4263.	http://www.boost.org/people/dietmar_kuehl.htm
+4264.	http://www.boost.org/people/ed_brey.htm
+4265.	http://www.boost.org/people/greg_colvin.htm
+4266.	http://www.boost.org/people/jens_maurer.htm
+4267.	http://www.boost.org/people/jeremy_siek.htm
+4268.	http://www.boost.org/people/john_maddock.htm
+4269.	http://www.boost.org/people/kevlin_henney.htm
+4270.	http://www.boost.org/people/liequan_lee.htm
+4271.	http://www.boost.org/people/mark_rodgers.htm
+4272.	http://www.boost.org/people/paul_moore.htm
+4273.	http://www.boost.org/people/people.htm
+4274.	http://www.boost.org/regression-logs/cs-win32_metacomm/doc/html/boost_staticassert.html
+4275.	http://www.boost.org/status/compiler_status.html
+4276.	http://www.boost.org/support/bugs.html
+4277.	http://www.boost.org/tools/boostbook/dtd/
+4278.	http://www.boost.org/tools/boostbook/dtd/1.1/boostbook.dtd
+4279.	http://www.boost.org/tools/boostbook/dtd/boostbook.dtd
+4280.	http://www.boost.org/tools/inspect/
+4281.	http://www.boost.org/tools/inspect/index.html
+4282.	http://www.boost.org/tools/quickbook/test/doc-info-1.quickbook
+4283.	http://www.boost.org/tools/quickbook/test/doc-info-2.quickbook
+4284.	http://www.boost.org/tools/regression
+4285.	http://www.boost.org/tools/regression/
+4286.	http://www.boost.org/users/
+4287.	http://www.boost.org/users/bibliography.html
+4288.	http://www.boost.org/users/faq.html
+4289.	http://www.boost.org/users/history
+4290.	http://www.boost.org/users/history/version_1_53_0.html
+4291.	http://www.boost.org/users/license.html
+4292.	http://www.boost.org/users/news/
+4293.	http://www.boost.org/users/people.html
+4294.	http://www.boost.org/users/proposal.pdf
+4295.	http://www.boost.org/users/uses.html
+4296.	http://www.boostpro.com
+4297.	http://www.boostpro.com/products/free
+4298.	http://www.brandspankingnew.net/archive/2005/07/format_footnote.html
+4299.	http://www.break.com/
+4300.	http://www.bribes.org/perl/wANSIConsole.html
+4301.	http://www.bsonspec.org/
+4302.	http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf
+4303.	http://www.calc3d.com/ejavascriptcoordcalc.html
+4304.	http://www.calendarzone.com
+4305.	http://www.candleweb.no/
+4306.	http://www.cantrip.org/emptyopt.html
+4307.	http://www.cantrip.org/locale.html
+4308.	http://www.canyon-tech.com/archive/voip/webcams/CNR-WCAM53
+4309.	http://www-ccrma.stanford.edu/
+4310.	http://www.cecm.sfu.ca/personal/pborwein/PAPERS/P155.pdf
+4311.	http://www.celton.mobi/
+4312.	http://www.cendio.com/
+4313.	http://www.chainkey.com/
+4314.	http://www.chainkey.com/en/jcp/
+4315.	http://www.chez.com/vasile/
+4316.	http://www.chez.com/vasile/obfu/VasObfuLite.html
+4317.	http://www.chiark.greenend.org.uk/
+4318.	http://www.ciaocomeva.it/
+4319.	http://www.clarkware.com/software/JDepend.html
+4320.	http://www.cl.cam.ac.uk/
+4321.	http://www.clio.ne.jp/home/web-i31s/Flotuard/Ruby/PRC2K_seki/dRuby.en.html
+4322.	http://www.cnn.com
+4323.	http://www.cnn.com.
+4324.	http://www.cnri.reston.va.us
+4325.	http://www.cocoadev.com/index.pl?DeterminingOSVersion
+4326.	http://www.codeguru.com/cpp/controls/menu/bitmappedmenus/article.php/c165
+4327.	http://www.codeguru.com/Cpp/misc/misc/threadsprocesses/article.php/c6945__2/
+4328.	http://www.codeproject.com/cpp/dynamic_typing.asp.
+4329.	http://www.codeproject.com/internet/mapadmin.asp
+4330.	http://www.codeproject.com/KB/architecture/Detector.aspx
+4331.	http://www.codesourcery.com/pooma/download.html
+4332.	http://www.codesourcery.com/sgpp/lite/arm/portal/package7813/public/arm-none-eabi/arm-2010.09-51-arm-none-eabi-i686-pc-linux-gnu.tar.bz2
+4333.	http://www.codingart.com/
+4334.	http://www.codingart.com/codeshield.html
+4335.	http://www.columbia.edu/
+4336.	http://www.comeaucomputing.com/
+4337.	http://www.comeaucomputing.com/iso/lwg-defects.html
+4338.	http://www.condensity.com/
+4339.	http://www.connectionstrings.com
+4340.	http://www.contactor.se/
+4341.	http://www.contrib.andrew.cmu.edu/
+4342.	http://www.core-sdi.com
+4343.	http://www.coyote.com/
+4344.	http://www.cozmixng.org/
+4345.	http://www.cpan.org/modules/by-module/Compress/
+4346.	http://www.cplusplus.com/ref/ctime/index.html
+4347.	http://www.cppreference.com/wiki/keywords/start
+4348.	http://www.cracker.com/
+4349.	http://www.craphound.com/est/
+4350.	http://www.crystalclearsoftware.com
+4351.	http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?Boost.Build_V2
+4352.	http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?Boost_Documentation_Format
+4353.	http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?Effective_MPL
+4354.	http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?GDTL
+4355.	http://www.crystalclearsoftware.com/libraries/date_time/date_time.pdf
+4356.	http://www.crystalclearsoftware.com/libraries/date_time/index.html
+4357.	http://www.crystalclearsoftware.com/libraries/date_time/ref_guide/index.html
+4358.	http://www.crystax.net/android/ndk.php
+4359.	http://www.cs.cornell.edu/nystrom/
+4360.	http://www.csd.toshiba.com/cgi-bin/tais/support/js
+4361.	http://www.cs.panam.edu/
+4362.	http://www.cs.princeton.edu/
+4363.	http://www.cs.princeton.edu/research/techreps/TR-554-97
+4364.	http://www.cs.purdue.edu/homes/grothoff/
+4365.	http://www.cs.purdue.edu/homes/hosking/bloat/
+4366.	http://www.cs.queensu.ca/home/okhotin/whale/
+4367.	http://www.cs.rpi.edu/
+4368.	http://www.css3.info/preview/rounded-border/
+4369.	http://www.csse.monash.edu.au/
+4370.	http://www.cs.tau.ac.il/
+4371.	http://www.cs.ucdavis.edu/
+4372.	http://www.cs.utexas.edu/
+4373.	http://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
+4374.	http://www.ctan.org
+4375.	http://www.ctan.org/tex-archive/fonts/eurosym.
+4376.	http://www.cuckoosandbox.org
+4377.	http://www.cuckoosandbox.org/
+4378.	http://www.cuj.com/documents/s=7994/cujcexp1906alexandr/
+4379.	http://www.cuj.com/experts/1810/alexandr.html
+4380.	http://www.cuj.com/experts/1810/alexandr.htm?topic=experts
+4381.	http://www.cuj.com/experts/1812/alexandr.htm?topic=experts
+4382.	http://www.cuj.com/experts/2102/alexandr.htm
+4383.	http://www.cuj.com/reference/articles/2002/0212/0212_sutter.htm
+4384.	http://www.curious-creature.org/
+4385.	http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2004-0452
+4386.	http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-0448
+4387.	http://www.cwi.nl
+4388.	http://www.cwi.nl/
+4389.	http://www.cygwin.com
+4390.	http://www.darwinsys.com/file/
+4391.	http://www.ddj.com
+4392.	http://www.ddj.com/architect/201806315
+4393.	http://www.dell.com/support/drivers/us/en/19/DriverDetails/DriverFileFormats?DriverId=R104087
+4394.	http://www.demo2s.com/Tutorial/Cpp/0380__set-multiset/Catalog0380__set-multiset.htm
+4395.	http://www.devhelp.net/book
+4396.	http://www.devmaster.net/wiki/Transformation_matrices
+4397.	http://www.diceware.com/
+4398.	http://www.die.net/doc/linux/man/man1/lsb_release.1.html
+4399.	http://www.digicool.com/papers/ExtensionClass.html
+4400.	http://www.digicool.com/releases/ExtensionClass/
+4401.	http://www.digitalmars.com/
+4402.	http://www.dinkumware.com/vc_fixes.html.
+4403.	http://www.docbook.org/
+4404.	http://www.docbook.org/tdg/en/html/callout.html
+4405.	http://www.docbook.org/tdg/en/html/section.html.
+4406.	http://www.docbook.org/xml/4.2/docbook-xml-4.2.zip
+4407.	http://www.dogma.net/markn/articles/zlibtool/zlibtool.htm
+4408.	http://www.doughellmann.com/articles/CompletelyDifferent-2008-02-ipython-and-virtualenv/index.html
+4409.	http://www.doughellmann.com/articles/CompletelyDifferent-2008-05-virtualenvwrapper/index.html
+4410.	http://www.doughellmann.com/projects/virtualenvwrapper/
+4411.	http://www.doxygen.org/index.html
+4412.	http://www.drdobbs.com/184403758
+4413.	http://www.drdobbs.com/generic-min-and-max-redivivus/184403774
+4414.	http://www.drdobbs.com/windows/associate-mutexes-with-data-to-prevent-r/224701827?pgno=3
+4415.	http://www.drjava.de/
+4416.	http://www.drjava.de/obfuscator/
+4417.	http://www.duckware.com/
+4418.	http://www.duckware.com/jobfuscate/
+4419.	http://www.ecben.net/calendar.shtml
+4420.	http://www.eclipse.org
+4421.	http://www.eclipse.org/
+4422.	http://www.eclipse.org/legal/cpl-v10.html
+4423.	http://www.eclipse.org/legal/epl-v10.html
+4424.	http://www.eclipse.org/legal/epl-v10.html.
+4425.	http://www.eclipse.org/licenses/edl-v1.0.html
+4426.	http://www.eclipse.org/licenses/edl-v10.html
+4427.	http://www.eclipse.org/org/documents/epl-v10.php
+4428.	http://www.ecma-internationl.org/publications/files/ECMA-ST/ECMA-262.pdf
+4429.	http://www.egenix.com/
+4430.	http://www.egenix.com/files/python/platform.py
+4431.	http://www.elegant-software.com/
+4432.	http://www.elegant-software.com/software/jmangle/
+4433.	http://www.embedded.com/
+4434.	http://www.epi.ucdavis.edu/diagnostictests/betabuster.html
+4435.	http://www.e-t.com/
+4436.	http://www.e-t.com/jshrink.html
+4437.	http://www.example.com
+4438.	http://www.example.com/
+4439.	http://www.example.com//
+4440.	http://www.example.com///../
+4441.	http://www.example.com/bar
+4442.	http://www.example.com/cgi
+4443.	http://www.example.com/index.html
+4444.	http://www.example.com/index.html?foo=bar
+4445.	http://www.example.com/quotes/foo.html
+4446.	http://www.example.com/rheum/rhaponticum
+4447.	http://www.example.com/rheum/rhaponticum?
+4448.	http://www.example.com/sample.jpg
+4449.	http://www.example.com/search.cgi
+4450.	http://www.example.com/subscription_info.html
+4451.	http://www.example.com/todo.cgi
+4452.	http://www.example.net
+4453.	http://www.exif.org/Exif2-2.PDF
+4454.	http://www.facebook.com
+4455.	http://www.facebook.com/
+4456.	http://www.facebook.com/ajax/typeahead/first_degree.php?__a=1
+4457.	http://www.facebook.com/messages/jimmy.page
+4458.	http://www.famfamfam.com
+4459.	http://www.famfamfam.com/
+4460.	http://www.famfamfam.com/lab/icons/silk/
+4461.	http://www.fapws.org/
+4462.	http://www.faqs.org/rfcs/rfc1928.html
+4463.	http://www.faqs.org/rfcs/rfc1952.html
+4464.	http://www.faqs.org/rfcs/rfc2616.html
+4465.	http://www.faqs.org/rfcs/rfc2822.html
+4466.	http://www.faqs.org/rfcs/rfc3174.html
+4467.	http://www.faqs.org/rfcs/rfc822.html
+4468.	http://www.fastio.com/
+4469.	http://www.fileformat.info/info/unicode/char/0022/index.htm
+4470.	http://www.fileformat.info/info/unicode/char/0026/index.htm
+4471.	http://www.fileformat.info/info/unicode/char/0027/index.htm
+4472.	http://www.fileformat.info/info/unicode/char/002f/index.htm
+4473.	http://www.fileformat.info/info/unicode/char/003c/index.htm
+4474.	http://www.fileformat.info/info/unicode/char/003e/index.htm
+4475.	http://www.fileformat.info/info/unicode/char/00a0/index.htm
+4476.	http://www.fileformat.info/info/unicode/char/00a1/index.htm
+4477.	http://www.fileformat.info/info/unicode/char/00a2/index.htm
+4478.	http://www.fileformat.info/info/unicode/char/00a3/index.htm
+4479.	http://www.fileformat.info/info/unicode/char/00a4/index.htm
+4480.	http://www.fileformat.info/info/unicode/char/00a5/index.htm
+4481.	http://www.fileformat.info/info/unicode/char/00a6/index.htm
+4482.	http://www.fileformat.info/info/unicode/char/00a7/index.htm
+4483.	http://www.fileformat.info/info/unicode/char/00a8/index.htm
+4484.	http://www.fileformat.info/info/unicode/char/00a9/index.htm
+4485.	http://www.fileformat.info/info/unicode/char/00aa/index.htm
+4486.	http://www.fileformat.info/info/unicode/char/00ab/index.htm
+4487.	http://www.fileformat.info/info/unicode/char/00ac/index.htm
+4488.	http://www.fileformat.info/info/unicode/char/00ad/index.htm
+4489.	http://www.fileformat.info/info/unicode/char/00ae/index.htm
+4490.	http://www.fileformat.info/info/unicode/char/00af/index.htm
+4491.	http://www.fileformat.info/info/unicode/char/00b0/index.htm
+4492.	http://www.fileformat.info/info/unicode/char/00b1/index.htm
+4493.	http://www.fileformat.info/info/unicode/char/00b2/index.htm
+4494.	http://www.fileformat.info/info/unicode/char/00b3/index.htm
+4495.	http://www.fileformat.info/info/unicode/char/00b4/index.htm
+4496.	http://www.fileformat.info/info/unicode/char/00b5/index.htm
+4497.	http://www.fileformat.info/info/unicode/char/00b6/index.htm
+4498.	http://www.fileformat.info/info/unicode/char/00b7/index.htm
+4499.	http://www.fileformat.info/info/unicode/char/00b8/index.htm
+4500.	http://www.fileformat.info/info/unicode/char/00b9/index.htm
+4501.	http://www.fileformat.info/info/unicode/char/00ba/index.htm
+4502.	http://www.fileformat.info/info/unicode/char/00bb/index.htm
+4503.	http://www.fileformat.info/info/unicode/char/00bc/index.htm
+4504.	http://www.fileformat.info/info/unicode/char/00bd/index.htm
+4505.	http://www.fileformat.info/info/unicode/char/00be/index.htm
+4506.	http://www.fileformat.info/info/unicode/char/00bf/index.htm
+4507.	http://www.fileformat.info/info/unicode/char/00c0/index.htm
+4508.	http://www.fileformat.info/info/unicode/char/00c1/index.htm
+4509.	http://www.fileformat.info/info/unicode/char/00c2/index.htm
+4510.	http://www.fileformat.info/info/unicode/char/00c3/index.htm
+4511.	http://www.fileformat.info/info/unicode/char/00c4/index.htm
+4512.	http://www.fileformat.info/info/unicode/char/00c5/index.htm
+4513.	http://www.fileformat.info/info/unicode/char/00c6/index.htm
+4514.	http://www.fileformat.info/info/unicode/char/00c7/index.htm
+4515.	http://www.fileformat.info/info/unicode/char/00c8/index.htm
+4516.	http://www.fileformat.info/info/unicode/char/00c9/index.htm
+4517.	http://www.fileformat.info/info/unicode/char/00ca/index.htm
+4518.	http://www.fileformat.info/info/unicode/char/00cb/index.htm
+4519.	http://www.fileformat.info/info/unicode/char/00cc/index.htm
+4520.	http://www.fileformat.info/info/unicode/char/00cd/index.htm
+4521.	http://www.fileformat.info/info/unicode/char/00ce/index.htm
+4522.	http://www.fileformat.info/info/unicode/char/00cf/index.htm
+4523.	http://www.fileformat.info/info/unicode/char/00d0/index.htm
+4524.	http://www.fileformat.info/info/unicode/char/00d1/index.htm
+4525.	http://www.fileformat.info/info/unicode/char/00d2/index.htm
+4526.	http://www.fileformat.info/info/unicode/char/00d3/index.htm
+4527.	http://www.fileformat.info/info/unicode/char/00d4/index.htm
+4528.	http://www.fileformat.info/info/unicode/char/00d5/index.htm
+4529.	http://www.fileformat.info/info/unicode/char/00d6/index.htm
+4530.	http://www.fileformat.info/info/unicode/char/00d7/index.htm
+4531.	http://www.fileformat.info/info/unicode/char/00d8/index.htm
+4532.	http://www.fileformat.info/info/unicode/char/00d9/index.htm
+4533.	http://www.fileformat.info/info/unicode/char/00da/index.htm
+4534.	http://www.fileformat.info/info/unicode/char/00db/index.htm
+4535.	http://www.fileformat.info/info/unicode/char/00dc/index.htm
+4536.	http://www.fileformat.info/info/unicode/char/00dd/index.htm
+4537.	http://www.fileformat.info/info/unicode/char/00de/index.htm
+4538.	http://www.fileformat.info/info/unicode/char/00df/index.htm
+4539.	http://www.fileformat.info/info/unicode/char/00e0/index.htm
+4540.	http://www.fileformat.info/info/unicode/char/00e1/index.htm
+4541.	http://www.fileformat.info/info/unicode/char/00e2/index.htm
+4542.	http://www.fileformat.info/info/unicode/char/00e3/index.htm
+4543.	http://www.fileformat.info/info/unicode/char/00e4/index.htm
+4544.	http://www.fileformat.info/info/unicode/char/00e5/index.htm
+4545.	http://www.fileformat.info/info/unicode/char/00e6/index.htm
+4546.	http://www.fileformat.info/info/unicode/char/00e7/index.htm
+4547.	http://www.fileformat.info/info/unicode/char/00e8/index.htm
+4548.	http://www.fileformat.info/info/unicode/char/00e9/index.htm
+4549.	http://www.fileformat.info/info/unicode/char/00ea/index.htm
+4550.	http://www.fileformat.info/info/unicode/char/00eb/index.htm
+4551.	http://www.fileformat.info/info/unicode/char/00ec/index.htm
+4552.	http://www.fileformat.info/info/unicode/char/00ed/index.htm
+4553.	http://www.fileformat.info/info/unicode/char/00ee/index.htm
+4554.	http://www.fileformat.info/info/unicode/char/00ef/index.htm
+4555.	http://www.fileformat.info/info/unicode/char/00f0/index.htm
+4556.	http://www.fileformat.info/info/unicode/char/00f1/index.htm
+4557.	http://www.fileformat.info/info/unicode/char/00f2/index.htm
+4558.	http://www.fileformat.info/info/unicode/char/00f3/index.htm
+4559.	http://www.fileformat.info/info/unicode/char/00f4/index.htm
+4560.	http://www.fileformat.info/info/unicode/char/00f5/index.htm
+4561.	http://www.fileformat.info/info/unicode/char/00f6/index.htm
+4562.	http://www.fileformat.info/info/unicode/char/00f7/index.htm
+4563.	http://www.fileformat.info/info/unicode/char/00f8/index.htm
+4564.	http://www.fileformat.info/info/unicode/char/00f9/index.htm
+4565.	http://www.fileformat.info/info/unicode/char/00fa/index.htm
+4566.	http://www.fileformat.info/info/unicode/char/00fb/index.htm
+4567.	http://www.fileformat.info/info/unicode/char/00fc/index.htm
+4568.	http://www.fileformat.info/info/unicode/char/00fd/index.htm
+4569.	http://www.fileformat.info/info/unicode/char/00fe/index.htm
+4570.	http://www.fileformat.info/info/unicode/char/00ff/index.htm
+4571.	http://www.fileformat.info/info/unicode/char/0152/index.htm
+4572.	http://www.fileformat.info/info/unicode/char/0153/index.htm
+4573.	http://www.fileformat.info/info/unicode/char/0160/index.htm
+4574.	http://www.fileformat.info/info/unicode/char/0161/index.htm
+4575.	http://www.fileformat.info/info/unicode/char/0178/index.htm
+4576.	http://www.fileformat.info/info/unicode/char/0192/index.htm
+4577.	http://www.fileformat.info/info/unicode/char/02c6/index.htm
+4578.	http://www.fileformat.info/info/unicode/char/02dc/index.htm
+4579.	http://www.fileformat.info/info/unicode/char/0391/index.htm
+4580.	http://www.fileformat.info/info/unicode/char/0392/index.htm
+4581.	http://www.fileformat.info/info/unicode/char/0393/index.htm
+4582.	http://www.fileformat.info/info/unicode/char/0394/index.htm
+4583.	http://www.fileformat.info/info/unicode/char/0395/index.htm
+4584.	http://www.fileformat.info/info/unicode/char/0396/index.htm
+4585.	http://www.fileformat.info/info/unicode/char/0397/index.htm
+4586.	http://www.fileformat.info/info/unicode/char/0398/index.htm
+4587.	http://www.fileformat.info/info/unicode/char/0399/index.htm
+4588.	http://www.fileformat.info/info/unicode/char/039a/index.htm
+4589.	http://www.fileformat.info/info/unicode/char/039b/index.htm
+4590.	http://www.fileformat.info/info/unicode/char/039c/index.htm
+4591.	http://www.fileformat.info/info/unicode/char/039d/index.htm
+4592.	http://www.fileformat.info/info/unicode/char/039e/index.htm
+4593.	http://www.fileformat.info/info/unicode/char/039f/index.htm
+4594.	http://www.fileformat.info/info/unicode/char/03a0/index.htm
+4595.	http://www.fileformat.info/info/unicode/char/03a1/index.htm
+4596.	http://www.fileformat.info/info/unicode/char/03a3/index.htm
+4597.	http://www.fileformat.info/info/unicode/char/03a4/index.htm
+4598.	http://www.fileformat.info/info/unicode/char/03a5/index.htm
+4599.	http://www.fileformat.info/info/unicode/char/03a6/index.htm
+4600.	http://www.fileformat.info/info/unicode/char/03a7/index.htm
+4601.	http://www.fileformat.info/info/unicode/char/03a8/index.htm
+4602.	http://www.fileformat.info/info/unicode/char/03a9/index.htm
+4603.	http://www.fileformat.info/info/unicode/char/03b1/index.htm
+4604.	http://www.fileformat.info/info/unicode/char/03b2/index.htm
+4605.	http://www.fileformat.info/info/unicode/char/03b3/index.htm
+4606.	http://www.fileformat.info/info/unicode/char/03b4/index.htm
+4607.	http://www.fileformat.info/info/unicode/char/03b5/index.htm
+4608.	http://www.fileformat.info/info/unicode/char/03b6/index.htm
+4609.	http://www.fileformat.info/info/unicode/char/03b7/index.htm
+4610.	http://www.fileformat.info/info/unicode/char/03b8/index.htm
+4611.	http://www.fileformat.info/info/unicode/char/03b9/index.htm
+4612.	http://www.fileformat.info/info/unicode/char/03ba/index.htm
+4613.	http://www.fileformat.info/info/unicode/char/03bb/index.htm
+4614.	http://www.fileformat.info/info/unicode/char/03bc/index.htm
+4615.	http://www.fileformat.info/info/unicode/char/03bd/index.htm
+4616.	http://www.fileformat.info/info/unicode/char/03be/index.htm
+4617.	http://www.fileformat.info/info/unicode/char/03bf/index.htm
+4618.	http://www.fileformat.info/info/unicode/char/03c0/index.htm
+4619.	http://www.fileformat.info/info/unicode/char/03c1/index.htm
+4620.	http://www.fileformat.info/info/unicode/char/03c2/index.htm
+4621.	http://www.fileformat.info/info/unicode/char/03c3/index.htm
+4622.	http://www.fileformat.info/info/unicode/char/03c4/index.htm
+4623.	http://www.fileformat.info/info/unicode/char/03c5/index.htm
+4624.	http://www.fileformat.info/info/unicode/char/03c6/index.htm
+4625.	http://www.fileformat.info/info/unicode/char/03c7/index.htm
+4626.	http://www.fileformat.info/info/unicode/char/03c8/index.htm
+4627.	http://www.fileformat.info/info/unicode/char/03c9/index.htm
+4628.	http://www.fileformat.info/info/unicode/char/03d1/index.htm
+4629.	http://www.fileformat.info/info/unicode/char/03d2/index.htm
+4630.	http://www.fileformat.info/info/unicode/char/03d6/index.htm
+4631.	http://www.fileformat.info/info/unicode/char/2002/index.htm
+4632.	http://www.fileformat.info/info/unicode/char/2003/index.htm
+4633.	http://www.fileformat.info/info/unicode/char/2009/index.htm
+4634.	http://www.fileformat.info/info/unicode/char/200c/index.htm
+4635.	http://www.fileformat.info/info/unicode/char/200d/index.htm
+4636.	http://www.fileformat.info/info/unicode/char/200e/index.htm
+4637.	http://www.fileformat.info/info/unicode/char/200f/index.htm
+4638.	http://www.fileformat.info/info/unicode/char/2013/index.htm
+4639.	http://www.fileformat.info/info/unicode/char/2014/index.htm
+4640.	http://www.fileformat.info/info/unicode/char/2018/index.htm
+4641.	http://www.fileformat.info/info/unicode/char/2019/index.htm
+4642.	http://www.fileformat.info/info/unicode/char/201a/index.htm
+4643.	http://www.fileformat.info/info/unicode/char/201c/index.htm
+4644.	http://www.fileformat.info/info/unicode/char/201d/index.htm
+4645.	http://www.fileformat.info/info/unicode/char/201e/index.htm
+4646.	http://www.fileformat.info/info/unicode/char/2020/index.htm
+4647.	http://www.fileformat.info/info/unicode/char/2021/index.htm
+4648.	http://www.fileformat.info/info/unicode/char/2022/index.htm
+4649.	http://www.fileformat.info/info/unicode/char/2026/index.htm
+4650.	http://www.fileformat.info/info/unicode/char/2030/index.htm
+4651.	http://www.fileformat.info/info/unicode/char/2032/index.htm
+4652.	http://www.fileformat.info/info/unicode/char/2033/index.htm
+4653.	http://www.fileformat.info/info/unicode/char/2039/index.htm
+4654.	http://www.fileformat.info/info/unicode/char/203a/index.htm
+4655.	http://www.fileformat.info/info/unicode/char/203e/index.htm
+4656.	http://www.fileformat.info/info/unicode/char/20ac/index.htm
+4657.	http://www.fileformat.info/info/unicode/char/2122/index.htm
+4658.	http://www.fileformat.info/info/unicode/char/2190/index.htm
+4659.	http://www.fileformat.info/info/unicode/char/2191/index.htm
+4660.	http://www.fileformat.info/info/unicode/char/2192/index.htm
+4661.	http://www.fileformat.info/info/unicode/char/2193/index.htm
+4662.	http://www.fileformat.info/info/unicode/char/2194/index.htm
+4663.	http://www.fileformat.info/info/unicode/char/21b5/index.htm
+4664.	http://www.fileformat.info/info/unicode/char/2200/index.htm
+4665.	http://www.fileformat.info/info/unicode/char/2202/index.htm
+4666.	http://www.fileformat.info/info/unicode/char/2203/index.htm
+4667.	http://www.fileformat.info/info/unicode/char/2205/index.htm
+4668.	http://www.fileformat.info/info/unicode/char/2207/index.htm
+4669.	http://www.fileformat.info/info/unicode/char/2208/index.htm
+4670.	http://www.fileformat.info/info/unicode/char/2209/index.htm
+4671.	http://www.fileformat.info/info/unicode/char/220b/index.htm
+4672.	http://www.fileformat.info/info/unicode/char/220f/index.htm
+4673.	http://www.fileformat.info/info/unicode/char/2211/index.htm
+4674.	http://www.fileformat.info/info/unicode/char/2212/index.htm
+4675.	http://www.fileformat.info/info/unicode/char/2217/index.htm
+4676.	http://www.fileformat.info/info/unicode/char/221a/index.htm
+4677.	http://www.fileformat.info/info/unicode/char/221d/index.htm
+4678.	http://www.fileformat.info/info/unicode/char/221e/index.htm
+4679.	http://www.fileformat.info/info/unicode/char/2220/index.htm
+4680.	http://www.fileformat.info/info/unicode/char/2227/index.htm
+4681.	http://www.fileformat.info/info/unicode/char/2228/index.htm
+4682.	http://www.fileformat.info/info/unicode/char/2229/index.htm
+4683.	http://www.fileformat.info/info/unicode/char/222a/index.htm
+4684.	http://www.fileformat.info/info/unicode/char/222b/index.htm
+4685.	http://www.fileformat.info/info/unicode/char/2234/index.htm
+4686.	http://www.fileformat.info/info/unicode/char/223c/index.htm
+4687.	http://www.fileformat.info/info/unicode/char/2245/index.htm
+4688.	http://www.fileformat.info/info/unicode/char/2248/index.htm
+4689.	http://www.fileformat.info/info/unicode/char/2260/index.htm
+4690.	http://www.fileformat.info/info/unicode/char/2261/index.htm
+4691.	http://www.fileformat.info/info/unicode/char/2264/index.htm
+4692.	http://www.fileformat.info/info/unicode/char/2265/index.htm
+4693.	http://www.fileformat.info/info/unicode/char/2282/index.htm
+4694.	http://www.fileformat.info/info/unicode/char/2283/index.htm
+4695.	http://www.fileformat.info/info/unicode/char/2284/index.htm
+4696.	http://www.fileformat.info/info/unicode/char/2286/index.htm
+4697.	http://www.fileformat.info/info/unicode/char/2287/index.htm
+4698.	http://www.fileformat.info/info/unicode/char/2295/index.htm
+4699.	http://www.fileformat.info/info/unicode/char/2297/index.htm
+4700.	http://www.fileformat.info/info/unicode/char/22a5/index.htm
+4701.	http://www.fileformat.info/info/unicode/char/22c5/index.htm
+4702.	http://www.fileformat.info/info/unicode/char/2308/index.htm
+4703.	http://www.fileformat.info/info/unicode/char/2309/index.htm
+4704.	http://www.fileformat.info/info/unicode/char/230a/index.htm
+4705.	http://www.fileformat.info/info/unicode/char/230b/index.htm
+4706.	http://www.fileformat.info/info/unicode/char/25ca/index.htm
+4707.	http://www.fileformat.info/info/unicode/char/2660/index.htm
+4708.	http://www.fileformat.info/info/unicode/char/2663/index.htm
+4709.	http://www.fileformat.info/info/unicode/char/2665/index.htm
+4710.	http://www.fileformat.info/info/unicode/char/2666/index.htm
+4711.	http://www.fileformat.info/info/unicode/char/fffd/index.htm
+4712.	http://www.flickr.com/photos/solgrundy/924205581/
+4713.	http://www.fnal.gov/docs/working-groups/fpcltf/Pkg/ISOcxx/doc/0ISOcxx.html
+4714.	http://www.foo.com/
+4715.	http://www.foo.com/bar/
+4716.	http://www.foo.net/
+4717.	http://www.foo.net/foo/
+4718.	http://www.force5.com/
+4719.	http://www.force5.com/JCloak/ProductJCloak.html
+4720.	http://www.forum.nokia.com/info/sw.nokia.com/id/4ed27119-e08e-480e-b0b8-aeb48fe5c5e8/S60_Platform_Audio_Streaming_Example_v2_1_en.zip.html
+4721.	http://www.fossil-scm.org/
+4722.	http://www.fourmilab.ch/md5/
+4723.	http://www.freebsd.org/cgi/cvsweb.cgi/src/etc/services
+4724.	http://www.freedesktop.org/software/pkgconfig/
+4725.	http://www.fsf.org/
+4726.	http://www.fsf.org/licensing/essays/free-sw.html
+4727.	http://www.ft.uni-erlangen.de/
+4728.	http://www.gabi-soft.de
+4729.	http://www.gabi-soft.fr/codebase-en.html.
+4730.	http://www.garret.ru/
+4731.	http://www.garykessler.net/library/file_sigs.html
+4732.	http://www.gcmap.com/mapui?P=178E10S-178W10S-178W6S-178E6S-178E10S
+4733.	http://www.gcmap.com/mapui?P=1E45N-19E45N-19E55N-1E55N-1E45N
+4734.	http://www.gcmap.com/mapui?P=30N
+4735.	http://www.gcmap.com/mapui?P=50N
+4736.	http://www.gcmap.com/mapui?P=5E52N-9E53N-7E50N-5E52N
+4737.	http://www.generic-programming.org/
+4738.	http://www.generic-programming.org/languages/conceptcpp/
+4739.	http://www.generic-programming.org/languages/conceptcpp/specification/
+4740.	http://www.generic-programming.org/languages/conceptcpp/tutorial
+4741.	http://www.generic-programming.org/software/ConceptGCC/
+4742.	http://www.geocities.com/CapeCanaveral/Hall/2334/Programs/cafebabe.html
+4743.	http://www.geocities.com/CapeCanaveral/Hall/2334/resume.html
+4744.	http://www.geocities.com/rick_lively/MANUALS/ENV/MSWIN/PROCESSI.HTM
+4745.	http://www.germane-software.com/software/rexml
+4746.	http://www.germane-software.com/software/rexml_doc
+4747.	http://www.germane-software.com/software/rexml/docs/tutorial.html
+4748.	http://www.giss.nasa.gov/tools/mars24/help/notes.html
+4749.	http://www.github.com/atoulme/minitar
+4750.	http://www.gittip.com/djberg96/
+4751.	http://www.gnu.org/copyleft/gpl-faq.html
+4752.	http://www.gnu.org/copyleft/gpl.html
+4753.	http://www.gnu.org/copyleft/lesser.txt
+4754.	http://www.gnu.org/gethelp/
+4755.	http://www.gnu.org/licenses/
+4756.	http://www.gnu.org/licenses/gpl.html
+4757.	http://www.gnu.org/prep/standards/html_node/Style-of-Change-Logs.html
+4758.	http://www.gnu.org/software/autoconf-archive/ax_cc_maxopt.html
+4759.	http://www.gnu.org/software/autoconf-archive/ax_cflags_warn_all.html
+4760.	http://www.gnu.org/software/autoconf-archive/ax_check_compiler_flags.html
+4761.	http://www.gnu.org/software/autoconf-archive/ax_compiler_vendor.html
+4762.	http://www.gnu.org/software/autoconf-archive/ax_configure_args.html
+4763.	http://www.gnu.org/software/autoconf-archive/ax_enable_builddir.html
+4764.	http://www.gnu.org/software/autoconf-archive/ax_gcc_archflag.html
+4765.	http://www.gnu.org/software/autoconf-archive/ax_gcc_x86_cpuid.html
+4766.	http://www.gnu.org/software/coreutils/
+4767.	http://www.gnu.org/software/gettext/gettext.html
+4768.	http://www.gnu.org/software/global/global.html
+4769.	http://www.gnu.org/software/gnutls/manual/html_node/
+4770.	http://www.gnu.org/software/libiconv
+4771.	http://www.gnu.org/software/libiconv/
+4772.	http://www.gnu.org/software/libidn/draft-josefsson-idn-test-vectors.html
+4773.	http://www.gnu.org/software/libtool/
+4774.	http://www.gnu.org/software/libtool/manual/html_node/Updating-version-info.html
+4775.	http://www.gnu.org/software/pth
+4776.	http://www.gnu.org/software/shtool/
+4777.	http://www.gnu.org/software/smalltalk/manual-base/html_node/Bag.html
+4778.	http://www.gnu.org/software/texinfo/
+4779.	http://www.gnu.org/software/texinfo.
+4780.	http://www.gnu.org/software/textutils/textutils.html
+4781.	http://www.gnupg.org/
+4782.	http://www.googleadservices.com/pagead/conversion/1001680686/?label=4dahCKKczAYQrt7R3QM
+4783.	http://www.google-analytics.com/urchin.js
+4784.	http://www.google.ca/
+4785.	http://www.google.com
+4786.	http://www.google.com/
+4787.	http://www.google.com/file.txt
+4788.	http://www.google.com/images/logos/ps_logo2.png
+4789.	http://www.google.com/robots.txt
+4790.	http://www.google.com/search?q=
+4791.	http://www.google.com/search?q=docile
+4792.	http://www.google.com/support/webmasters/bin/answer.py?hl=en
+4793.	http://www.google.it/
+4794.	http://www.google-melange.com
+4795.	http://www.gotealeaf.com
+4796.	http://www.gotw.ca/gotw/004.htm
+4797.	http://www.gotw.ca/gotw/054.htm
+4798.	http://www.gotw.ca/gotw/056.htm
+4799.	http://www.graphpad.com/curvefit/goodness_of_fit.htm
+4800.	http://www.graphviz.org/cvs/doc/info/lang.html
+4801.	http://www.graphviz.org/doc/info/lang.html
+4802.	http://www.graphviz.org/pdf/dotguide.pdf
+4803.	http://www.gtk.org
+4804.	http://www.gtk.org/introspection/c/1.0
+4805.	http://www.gtk.org/introspection/core/1.0
+4806.	http://www.gtk.org/introspection/glib/1.0
+4807.	http://www.gutenberg.org/files/3200/old/mtent12.zip
+4808.	http://www.gzip.org/
+4809.	http://www.gzip.org/zlib/
+4810.	http://www.gzip.org/zlib/zlib_faq.html
+4811.	http://www.hackersdelight.org/index.htm.
+4812.	http://www.hackingteam.com
+4813.	http://www.hackingteam.com/
+4814.	http://www.hackingteam.it/img/logo.gif
+4815.	http://www.helseth.com/
+4816.	http://www.helseth.com/HJO.htm
+4817.	http://www.herongyang.com/
+4818.	http://www.honeynet.org
+4819.	http://www.horstmann.com/safestl.html
+4820.	http://www.housemarque.com
+4821.	http://www.howtomakeabomb.com
+4822.	http://www.hpl.hp.com/personal/Hans_Boehm/gc/gcinterface.html
+4823.	http://www-i2.informatik.rwth-aachen.de/
+4824.	http://www.iana.org/assignments
+4825.	http://www.iana.org/assignments/character-sets
+4826.	http://www.iana.org/assignments/contact-people.htm
+4827.	http://www.iana.org/assignments/lang-tag-apps.htm
+4828.	http://www.iana.org/assignments/media-types/
+4829.	http://www.iana.org/assignments/media-types/application/1d-interleaved-parityfec
+4830.	http://www.iana.org/assignments/media-types/application/3gpdash-qoe-report
+4831.	http://www.iana.org/assignments/media-types/application/3gpp-ims
+4832.	http://www.iana.org/assignments/media-types/application/activemessage
+4833.	http://www.iana.org/assignments/media-types/application/alto-costmap
+4834.	http://www.iana.org/assignments/media-types/application/alto-costmapfilter
+4835.	http://www.iana.org/assignments/media-types/application/alto-directory
+4836.	http://www.iana.org/assignments/media-types/application/alto-endpointcost
+4837.	http://www.iana.org/assignments/media-types/application/alto-endpointcostparams
+4838.	http://www.iana.org/assignments/media-types/application/alto-endpointprop
+4839.	http://www.iana.org/assignments/media-types/application/alto-endpointpropparams
+4840.	http://www.iana.org/assignments/media-types/application/alto-error
+4841.	http://www.iana.org/assignments/media-types/application/alto-networkmap
+4842.	http://www.iana.org/assignments/media-types/application/alto-networkmapfilter
+4843.	http://www.iana.org/assignments/media-types/application/andrew-inset
+4844.	http://www.iana.org/assignments/media-types/application/applefile
+4845.	http://www.iana.org/assignments/media-types/application/ATF
+4846.	http://www.iana.org/assignments/media-types/application/atom
+4847.	http://www.iana.org/assignments/media-types/application/atomcat
+4848.	http://www.iana.org/assignments/media-types/application/atomdeleted
+4849.	http://www.iana.org/assignments/media-types/application/atomicmail
+4850.	http://www.iana.org/assignments/media-types/application/atomsvc
+4851.	http://www.iana.org/assignments/media-types/application/auth-policy
+4852.	http://www.iana.org/assignments/media-types/application/bacnet-xdd
+4853.	http://www.iana.org/assignments/media-types/application/batch-SMTP
+4854.	http://www.iana.org/assignments/media-types/application/beep
+4855.	http://www.iana.org/assignments/media-types/application/calendar
+4856.	http://www.iana.org/assignments/media-types/application/call-completion
+4857.	http://www.iana.org/assignments/media-types/application/cals-1840
+4858.	http://www.iana.org/assignments/media-types/application/cbor
+4859.	http://www.iana.org/assignments/media-types/application/ccmp
+4860.	http://www.iana.org/assignments/media-types/application/ccxml
+4861.	http://www.iana.org/assignments/media-types/application/cdmi-capability
+4862.	http://www.iana.org/assignments/media-types/application/cdmi-container
+4863.	http://www.iana.org/assignments/media-types/application/cdmi-domain
+4864.	http://www.iana.org/assignments/media-types/application/cdmi-object
+4865.	http://www.iana.org/assignments/media-types/application/cdmi-queue
+4866.	http://www.iana.org/assignments/media-types/application/cea-2018
+4867.	http://www.iana.org/assignments/media-types/application/cellml
+4868.	http://www.iana.org/assignments/media-types/application/cfw
+4869.	http://www.iana.org/assignments/media-types/application/cms
+4870.	http://www.iana.org/assignments/media-types/application/cnrp
+4871.	http://www.iana.org/assignments/media-types/application/coap-group
+4872.	http://www.iana.org/assignments/media-types/application/commonground
+4873.	http://www.iana.org/assignments/media-types/application/conference-info
+4874.	http://www.iana.org/assignments/media-types/application/cpl
+4875.	http://www.iana.org/assignments/media-types/application/csrattrs
+4876.	http://www.iana.org/assignments/media-types/application/csta
+4877.	http://www.iana.org/assignments/media-types/application/CSTAdata
+4878.	http://www.iana.org/assignments/media-types/application/cybercash
+4879.	http://www.iana.org/assignments/media-types/application/dash
+4880.	http://www.iana.org/assignments/media-types/application/dashdelta
+4881.	http://www.iana.org/assignments/media-types/application/davmount
+4882.	http://www.iana.org/assignments/media-types/application/dca-rft
+4883.	http://www.iana.org/assignments/media-types/application/DCD
+4884.	http://www.iana.org/assignments/media-types/application/dec-dx
+4885.	http://www.iana.org/assignments/media-types/application/dialog-info
+4886.	http://www.iana.org/assignments/media-types/application/dicom
+4887.	http://www.iana.org/assignments/media-types/application/dns
+4888.	http://www.iana.org/assignments/media-types/application/dskpp
+4889.	http://www.iana.org/assignments/media-types/application/dssc
+4890.	http://www.iana.org/assignments/media-types/application/dvcs
+4891.	http://www.iana.org/assignments/media-types/application/ecmascript
+4892.	http://www.iana.org/assignments/media-types/application/EDI-consent
+4893.	http://www.iana.org/assignments/media-types/application/EDIFACT
+4894.	http://www.iana.org/assignments/media-types/application/EDI-X12
+4895.	http://www.iana.org/assignments/media-types/application/emotionml
+4896.	http://www.iana.org/assignments/media-types/application/encaprtp
+4897.	http://www.iana.org/assignments/media-types/application/epp
+4898.	http://www.iana.org/assignments/media-types/application/eshop
+4899.	http://www.iana.org/assignments/media-types/application/example
+4900.	http://www.iana.org/assignments/media-types/application/fastinfoset
+4901.	http://www.iana.org/assignments/media-types/application/fastsoap
+4902.	http://www.iana.org/assignments/media-types/application/fdt
+4903.	http://www.iana.org/assignments/media-types/application/fits
+4904.	http://www.iana.org/assignments/media-types/application/font-sfnt
+4905.	http://www.iana.org/assignments/media-types/application/font-tdpfr
+4906.	http://www.iana.org/assignments/media-types/application/font-woff
+4907.	http://www.iana.org/assignments/media-types/application/framework-attributes
+4908.	http://www.iana.org/assignments/media-types/application/gzip
+4909.	http://www.iana.org/assignments/media-types/application/H224
+4910.	http://www.iana.org/assignments/media-types/application/held
+4911.	http://www.iana.org/assignments/media-types/application/http
+4912.	http://www.iana.org/assignments/media-types/application/hyperstudio
+4913.	http://www.iana.org/assignments/media-types/application/ibe-key-request
+4914.	http://www.iana.org/assignments/media-types/application/ibe-pkg-reply
+4915.	http://www.iana.org/assignments/media-types/application/ibe-pp-data
+4916.	http://www.iana.org/assignments/media-types/application/iges
+4917.	http://www.iana.org/assignments/media-types/application/im-iscomposing
+4918.	http://www.iana.org/assignments/media-types/application/index
+4919.	http://www.iana.org/assignments/media-types/application/index.cmd
+4920.	http://www.iana.org/assignments/media-types/application/index.obj
+4921.	http://www.iana.org/assignments/media-types/application/index.response
+4922.	http://www.iana.org/assignments/media-types/application/index.vnd
+4923.	http://www.iana.org/assignments/media-types/application/inkml
+4924.	http://www.iana.org/assignments/media-types/application/IOTP
+4925.	http://www.iana.org/assignments/media-types/application/ipfix
+4926.	http://www.iana.org/assignments/media-types/application/ipp
+4927.	http://www.iana.org/assignments/media-types/application/ISUP
+4928.	http://www.iana.org/assignments/media-types/application/its
+4929.	http://www.iana.org/assignments/media-types/application/javascript
+4930.	http://www.iana.org/assignments/media-types/application/jrd
+4931.	http://www.iana.org/assignments/media-types/application/json
+4932.	http://www.iana.org/assignments/media-types/application/json-patch
+4933.	http://www.iana.org/assignments/media-types/application/kpml-request
+4934.	http://www.iana.org/assignments/media-types/application/kpml-response
+4935.	http://www.iana.org/assignments/media-types/application/ld
+4936.	http://www.iana.org/assignments/media-types/application/link-format
+4937.	http://www.iana.org/assignments/media-types/application/load-control
+4938.	http://www.iana.org/assignments/media-types/application/lost
+4939.	http://www.iana.org/assignments/media-types/application/lostsync
+4940.	http://www.iana.org/assignments/media-types/application/mac-binhex40
+4941.	http://www.iana.org/assignments/media-types/application/macwriteii
+4942.	http://www.iana.org/assignments/media-types/application/mads
+4943.	http://www.iana.org/assignments/media-types/application/marc
+4944.	http://www.iana.org/assignments/media-types/application/marcxml
+4945.	http://www.iana.org/assignments/media-types/application/mathematica
+4946.	http://www.iana.org/assignments/media-types/application/mbms-associated-procedure-description
+4947.	http://www.iana.org/assignments/media-types/application/mbms-deregister
+4948.	http://www.iana.org/assignments/media-types/application/mbms-envelope
+4949.	http://www.iana.org/assignments/media-types/application/mbms-msk
+4950.	http://www.iana.org/assignments/media-types/application/mbms-msk-response
+4951.	http://www.iana.org/assignments/media-types/application/mbms-protection-description
+4952.	http://www.iana.org/assignments/media-types/application/mbms-reception-report
+4953.	http://www.iana.org/assignments/media-types/application/mbms-register
+4954.	http://www.iana.org/assignments/media-types/application/mbms-register-response
+4955.	http://www.iana.org/assignments/media-types/application/mbms-schedule
+4956.	http://www.iana.org/assignments/media-types/application/mbms-user-service-description
+4957.	http://www.iana.org/assignments/media-types/application/mbox
+4958.	http://www.iana.org/assignments/media-types/application/media_control
+4959.	http://www.iana.org/assignments/media-types/application/media-policy-dataset
+4960.	http://www.iana.org/assignments/media-types/application/mediaservercontrol
+4961.	http://www.iana.org/assignments/media-types/application/merge-patch
+4962.	http://www.iana.org/assignments/media-types/application/metalink4
+4963.	http://www.iana.org/assignments/media-types/application/mets
+4964.	http://www.iana.org/assignments/media-types/application/mikey
+4965.	http://www.iana.org/assignments/media-types/application/mods
+4966.	http://www.iana.org/assignments/media-types/application/mosskey-data
+4967.	http://www.iana.org/assignments/media-types/application/mosskey-request
+4968.	http://www.iana.org/assignments/media-types/application/moss-keys
+4969.	http://www.iana.org/assignments/media-types/application/moss-signature
+4970.	http://www.iana.org/assignments/media-types/application/mp21
+4971.	http://www.iana.org/assignments/media-types/application/mp4
+4972.	http://www.iana.org/assignments/media-types/application/mpeg4-generic
+4973.	http://www.iana.org/assignments/media-types/application/mpeg4-iod
+4974.	http://www.iana.org/assignments/media-types/application/mpeg4-iod-xmt
+4975.	http://www.iana.org/assignments/media-types/application/mrb-consumer
+4976.	http://www.iana.org/assignments/media-types/application/mrb-publish
+4977.	http://www.iana.org/assignments/media-types/application/msc-ivr
+4978.	http://www.iana.org/assignments/media-types/application/msc-mixer
+4979.	http://www.iana.org/assignments/media-types/application/msword
+4980.	http://www.iana.org/assignments/media-types/application/mxf
+4981.	http://www.iana.org/assignments/media-types/application/nasdata
+4982.	http://www.iana.org/assignments/media-types/application/news-checkgroups
+4983.	http://www.iana.org/assignments/media-types/application/news-groupinfo
+4984.	http://www.iana.org/assignments/media-types/application/news-transmission
+4985.	http://www.iana.org/assignments/media-types/application/nlsml
+4986.	http://www.iana.org/assignments/media-types/application/nss
+4987.	http://www.iana.org/assignments/media-types/application/ocsp-request
+4988.	http://www.iana.org/assignments/media-types/application/octet-stream
+4989.	http://www.iana.org/assignments/media-types/application/ODA
+4990.	http://www.iana.org/assignments/media-types/application/ODX
+4991.	http://www.iana.org/assignments/media-types/application/oebps-package
+4992.	http://www.iana.org/assignments/media-types/application/ogg
+4993.	http://www.iana.org/assignments/media-types/application/oscp-response
+4994.	http://www.iana.org/assignments/media-types/application/oxps
+4995.	http://www.iana.org/assignments/media-types/application/p2p-overlay
+4996.	http://www.iana.org/assignments/media-types/application/patch-ops-error
+4997.	http://www.iana.org/assignments/media-types/application/pdf
+4998.	http://www.iana.org/assignments/media-types/application/PDX
+4999.	http://www.iana.org/assignments/media-types/application/pgp-encrypted
+5000.	http://www.iana.org/assignments/media-types/application/pgp-signature
+5001.	http://www.iana.org/assignments/media-types/application/pidf
+5002.	http://www.iana.org/assignments/media-types/application/pidf-diff
+5003.	http://www.iana.org/assignments/media-types/application/pkcs10
+5004.	http://www.iana.org/assignments/media-types/application/pkcs7-mime
+5005.	http://www.iana.org/assignments/media-types/application/pkcs7-signature
+5006.	http://www.iana.org/assignments/media-types/application/pkcs8
+5007.	http://www.iana.org/assignments/media-types/application/pkix-attr-cert
+5008.	http://www.iana.org/assignments/media-types/application/pkix-cert
+5009.	http://www.iana.org/assignments/media-types/application/pkixcmp
+5010.	http://www.iana.org/assignments/media-types/application/pkix-crl
+5011.	http://www.iana.org/assignments/media-types/application/pkix-pkipath
+5012.	http://www.iana.org/assignments/media-types/application/pls
+5013.	http://www.iana.org/assignments/media-types/application/poc-settings
+5014.	http://www.iana.org/assignments/media-types/application/postscript
+5015.	http://www.iana.org/assignments/media-types/application/provenance
+5016.	http://www.iana.org/assignments/media-types/application/prs.alvestrand.titrax-sheet
+5017.	http://www.iana.org/assignments/media-types/application/prs.cww
+5018.	http://www.iana.org/assignments/media-types/application/prs.hpub
+5019.	http://www.iana.org/assignments/media-types/application/prs.nprend
+5020.	http://www.iana.org/assignments/media-types/application/prs.plucker
+5021.	http://www.iana.org/assignments/media-types/application/prs.rdf-xml-crypt
+5022.	http://www.iana.org/assignments/media-types/application/prs.xsf
+5023.	http://www.iana.org/assignments/media-types/application/pskc
+5024.	http://www.iana.org/assignments/media-types/application/QSIG
+5025.	http://www.iana.org/assignments/media-types/application/raptorfec
+5026.	http://www.iana.org/assignments/media-types/application/rdf
+5027.	http://www.iana.org/assignments/media-types/application/reginfo
+5028.	http://www.iana.org/assignments/media-types/application/relax-ng-compact-syntax
+5029.	http://www.iana.org/assignments/media-types/application/remote-printing
+5030.	http://www.iana.org/assignments/media-types/application/reputon
+5031.	http://www.iana.org/assignments/media-types/application/resource-lists
+5032.	http://www.iana.org/assignments/media-types/application/resource-lists-diff
+5033.	http://www.iana.org/assignments/media-types/application/riscos
+5034.	http://www.iana.org/assignments/media-types/application/rlmi
+5035.	http://www.iana.org/assignments/media-types/application/rls-services
+5036.	http://www.iana.org/assignments/media-types/application/rpki-ghostbusters
+5037.	http://www.iana.org/assignments/media-types/application/rpki-manifest
+5038.	http://www.iana.org/assignments/media-types/application/rpki-roa
+5039.	http://www.iana.org/assignments/media-types/application/rpki-updown
+5040.	http://www.iana.org/assignments/media-types/application/rtf
+5041.	http://www.iana.org/assignments/media-types/application/rtploopback
+5042.	http://www.iana.org/assignments/media-types/application/rtx
+5043.	http://www.iana.org/assignments/media-types/application/samlassertion
+5044.	http://www.iana.org/assignments/media-types/application/samlmetadata
+5045.	http://www.iana.org/assignments/media-types/application/sbml
+5046.	http://www.iana.org/assignments/media-types/application/scaip
+5047.	http://www.iana.org/assignments/media-types/application/scvp-cv-request
+5048.	http://www.iana.org/assignments/media-types/application/scvp-cv-response
+5049.	http://www.iana.org/assignments/media-types/application/scvp-vp-request
+5050.	http://www.iana.org/assignments/media-types/application/scvp-vp-response
+5051.	http://www.iana.org/assignments/media-types/application/sdp
+5052.	http://www.iana.org/assignments/media-types/application/sep
+5053.	http://www.iana.org/assignments/media-types/application/sep-exi
+5054.	http://www.iana.org/assignments/media-types/application/session-info
+5055.	http://www.iana.org/assignments/media-types/application/set-payment
+5056.	http://www.iana.org/assignments/media-types/application/set-payment-initiation
+5057.	http://www.iana.org/assignments/media-types/application/set-registration
+5058.	http://www.iana.org/assignments/media-types/application/set-registration-initiation
+5059.	http://www.iana.org/assignments/media-types/application/SGML
+5060.	http://www.iana.org/assignments/media-types/application/sgml-open-catalog
+5061.	http://www.iana.org/assignments/media-types/application/shf
+5062.	http://www.iana.org/assignments/media-types/application/sieve
+5063.	http://www.iana.org/assignments/media-types/application/simple-filter
+5064.	http://www.iana.org/assignments/media-types/application/simple-message-summary
+5065.	http://www.iana.org/assignments/media-types/application/simpleSymbolContainer
+5066.	http://www.iana.org/assignments/media-types/application/slate
+5067.	http://www.iana.org/assignments/media-types/application/smil
+5068.	http://www.iana.org/assignments/media-types/application/smpte336m
+5069.	http://www.iana.org/assignments/media-types/application/soap
+5070.	http://www.iana.org/assignments/media-types/application/spirits-event
+5071.	http://www.iana.org/assignments/media-types/application/sql
+5072.	http://www.iana.org/assignments/media-types/application/srgs
+5073.	http://www.iana.org/assignments/media-types/application/sru
+5074.	http://www.iana.org/assignments/media-types/application/ssml
+5075.	http://www.iana.org/assignments/media-types/application/tamp-apex-update
+5076.	http://www.iana.org/assignments/media-types/application/tamp-apex-update-confirm
+5077.	http://www.iana.org/assignments/media-types/application/tamp-community-update
+5078.	http://www.iana.org/assignments/media-types/application/tamp-community-update-confirm
+5079.	http://www.iana.org/assignments/media-types/application/tamp-error
+5080.	http://www.iana.org/assignments/media-types/application/tamp-sequence-adjust
+5081.	http://www.iana.org/assignments/media-types/application/tamp-sequence-adjust-confirm
+5082.	http://www.iana.org/assignments/media-types/application/tamp-status-query
+5083.	http://www.iana.org/assignments/media-types/application/tamp-status-response
+5084.	http://www.iana.org/assignments/media-types/application/tamp-update
+5085.	http://www.iana.org/assignments/media-types/application/tamp-update-confirm
+5086.	http://www.iana.org/assignments/media-types/application/tei
+5087.	http://www.iana.org/assignments/media-types/application/thraud
+5088.	http://www.iana.org/assignments/media-types/application/timestamped-data
+5089.	http://www.iana.org/assignments/media-types/application/timestamp-query
+5090.	http://www.iana.org/assignments/media-types/application/timestamp-reply
+5091.	http://www.iana.org/assignments/media-types/application/ttml
+5092.	http://www.iana.org/assignments/media-types/application/tve-trigger
+5093.	http://www.iana.org/assignments/media-types/application/ulpfec
+5094.	http://www.iana.org/assignments/media-types/application/urc-grpsheet
+5095.	http://www.iana.org/assignments/media-types/application/urc-ressheet
+5096.	http://www.iana.org/assignments/media-types/application/urc-targetdesc
+5097.	http://www.iana.org/assignments/media-types/application/urc-uisocketdesc
+5098.	http://www.iana.org/assignments/media-types/application/vcard
+5099.	http://www.iana.org/assignments/media-types/application/vemmi
+5100.	http://www.iana.org/assignments/media-types/application/vnd.3gpp2.bcmcsinfo
+5101.	http://www.iana.org/assignments/media-types/application/vnd.3gpp2.sms
+5102.	http://www.iana.org/assignments/media-types/application/vnd.3gpp2.tcap
+5103.	http://www.iana.org/assignments/media-types/application/vnd.3gpp.bsf
+5104.	http://www.iana.org/assignments/media-types/application/vnd.3gpp.pic-bw-large
+5105.	http://www.iana.org/assignments/media-types/application/vnd.3gpp.pic-bw-small
+5106.	http://www.iana.org/assignments/media-types/application/vnd.3gpp.pic-bw-var
+5107.	http://www.iana.org/assignments/media-types/application/vnd.3gpp.sms
+5108.	http://www.iana.org/assignments/media-types/application/vnd.3M.Post-it-Notes
+5109.	http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.aso
+5110.	http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.imp
+5111.	http://www.iana.org/assignments/media-types/application/vnd-acucobol
+5112.	http://www.iana.org/assignments/media-types/application/vnd.acucorp
+5113.	http://www.iana.org/assignments/media-types/application/vnd.adobe.flash-movie
+5114.	http://www.iana.org/assignments/media-types/application/vnd.adobe.formscentral.fcdt
+5115.	http://www.iana.org/assignments/media-types/application/vnd.adobe.fxp
+5116.	http://www.iana.org/assignments/media-types/application/vnd.adobe.partial-upload
+5117.	http://www.iana.org/assignments/media-types/application/vnd.adobe.xdp
+5118.	http://www.iana.org/assignments/media-types/application/vnd.adobe.xfdf
+5119.	http://www.iana.org/assignments/media-types/application/vnd.aether.imp
+5120.	http://www.iana.org/assignments/media-types/application/vnd.ah-barcode
+5121.	http://www.iana.org/assignments/media-types/application/vnd.ahead.space
+5122.	http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azf
+5123.	http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azs
+5124.	http://www.iana.org/assignments/media-types/application/vnd.americandynamics.acc
+5125.	http://www.iana.org/assignments/media-types/application/vnd.amiga.ami
+5126.	http://www.iana.org/assignments/media-types/application/vnd.amundsen.maze
+5127.	http://www.iana.org/assignments/media-types/application/vnd.anser-web-certificate-issue-initiation
+5128.	http://www.iana.org/assignments/media-types/application/vnd.antix.game-component
+5129.	http://www.iana.org/assignments/media-types/application/vnd.apache.thrift.binary
+5130.	http://www.iana.org/assignments/media-types/application/vnd.api
+5131.	http://www.iana.org/assignments/media-types/application/vnd.apple.installer
+5132.	http://www.iana.org/assignments/media-types/application/vnd.apple.mpegurl
+5133.	http://www.iana.org/assignments/media-types/application/vnd.arastra.swi
+5134.	http://www.iana.org/assignments/media-types/application/vnd.aristanetworks.swi
+5135.	http://www.iana.org/assignments/media-types/application/vnd.artsquare
+5136.	http://www.iana.org/assignments/media-types/application/vnd.astraea-software.iota
+5137.	http://www.iana.org/assignments/media-types/application/vnd.audiograph
+5138.	http://www.iana.org/assignments/media-types/application/vnd.autopackage
+5139.	http://www.iana.org/assignments/media-types/application/vnd.avistar
+5140.	http://www.iana.org/assignments/media-types/application/vnd.balsamiq.bmml
+5141.	http://www.iana.org/assignments/media-types/application/vnd.bekitzur-stech
+5142.	http://www.iana.org/assignments/media-types/application/vnd.blueice.multipass
+5143.	http://www.iana.org/assignments/media-types/application/vnd.bluetooth.ep.oob
+5144.	http://www.iana.org/assignments/media-types/application/vnd.bluetooth.le.oob
+5145.	http://www.iana.org/assignments/media-types/application/vnd.bmi
+5146.	http://www.iana.org/assignments/media-types/application/vnd.businessobjects
+5147.	http://www.iana.org/assignments/media-types/application/vnd.cab-jscript
+5148.	http://www.iana.org/assignments/media-types/application/vnd.canon-cpdl
+5149.	http://www.iana.org/assignments/media-types/application/vnd.canon-lips
+5150.	http://www.iana.org/assignments/media-types/application/vnd.cendio.thinlinc.clientconf
+5151.	http://www.iana.org/assignments/media-types/application/vnd.century-systems.tcp_stream
+5152.	http://www.iana.org/assignments/media-types/application/vnd.chemdraw
+5153.	http://www.iana.org/assignments/media-types/application/vnd.chipnuts.karaoke-mmd
+5154.	http://www.iana.org/assignments/media-types/application/vnd.cinderella
+5155.	http://www.iana.org/assignments/media-types/application/vnd.cirpack.isdn-ext
+5156.	http://www.iana.org/assignments/media-types/application/vnd.claymore
+5157.	http://www.iana.org/assignments/media-types/application/vnd.cloanto.rp9
+5158.	http://www.iana.org/assignments/media-types/application/vnd.clonk.c4group
+5159.	http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config
+5160.	http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config-pkg
+5161.	http://www.iana.org/assignments/media-types/application/vnd.collection
+5162.	http://www.iana.org/assignments/media-types/application/vnd.collection.doc
+5163.	http://www.iana.org/assignments/media-types/application/vnd.collection.next
+5164.	http://www.iana.org/assignments/media-types/application/vnd.commerce-battelle
+5165.	http://www.iana.org/assignments/media-types/application/vnd.commonspace
+5166.	http://www.iana.org/assignments/media-types/application/vnd.contact.cmsg
+5167.	http://www.iana.org/assignments/media-types/application/vnd.cosmocaller
+5168.	http://www.iana.org/assignments/media-types/application/vnd.crick.clicker
+5169.	http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.keyboard
+5170.	http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.palette
+5171.	http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.template
+5172.	http://www.iana.org/assignments/media-types/application/vnd.crick.clicker.wordbank
+5173.	http://www.iana.org/assignments/media-types/application/vnd.criticaltools.wbs
+5174.	http://www.iana.org/assignments/media-types/application/vnd.ctc-posml
+5175.	http://www.iana.org/assignments/media-types/application/vnd.ctct.ws
+5176.	http://www.iana.org/assignments/media-types/application/vnd.cups-pdf
+5177.	http://www.iana.org/assignments/media-types/application/vnd.cups-postscript
+5178.	http://www.iana.org/assignments/media-types/application/vnd.cups-ppd
+5179.	http://www.iana.org/assignments/media-types/application/vnd.cups-raster
+5180.	http://www.iana.org/assignments/media-types/application/vnd.cups-raw
+5181.	http://www.iana.org/assignments/media-types/application/vnd-curl
+5182.	http://www.iana.org/assignments/media-types/application/vnd.cyan.dean.root
+5183.	http://www.iana.org/assignments/media-types/application/vnd.cybank
+5184.	http://www.iana.org/assignments/media-types/application/vnd-dart
+5185.	http://www.iana.org/assignments/media-types/application/vnd.data-vision.rdz
+5186.	http://www.iana.org/assignments/media-types/application/vnd.debian.binary-package
+5187.	http://www.iana.org/assignments/media-types/application/vnd.dece.data
+5188.	http://www.iana.org/assignments/media-types/application/vnd.dece.ttml
+5189.	http://www.iana.org/assignments/media-types/application/vnd.dece.unspecified
+5190.	http://www.iana.org/assignments/media-types/application/vnd.dece-zip
+5191.	http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link
+5192.	http://www.iana.org/assignments/media-types/application/vnd.desmume-movie
+5193.	http://www.iana.org/assignments/media-types/application/vnd.dir-bi.plate-dl-nosuffix
+5194.	http://www.iana.org/assignments/media-types/application/vnd.dm.delegation
+5195.	http://www.iana.org/assignments/media-types/application/vnd.dna
+5196.	http://www.iana.org/assignments/media-types/application/vnd.document
+5197.	http://www.iana.org/assignments/media-types/application/vnd.dolby.mobile.1
+5198.	http://www.iana.org/assignments/media-types/application/vnd.dolby.mobile.2
+5199.	http://www.iana.org/assignments/media-types/application/vnd.doremir.scorecloud-binary-document
+5200.	http://www.iana.org/assignments/media-types/application/vnd.dpgraph
+5201.	http://www.iana.org/assignments/media-types/application/vnd.dreamfactory
+5202.	http://www.iana.org/assignments/media-types/application/vnd.dtg.local
+5203.	http://www.iana.org/assignments/media-types/application/vnd.dtg.local.flash
+5204.	http://www.iana.org/assignments/media-types/application/vnd.dtg.local.html
+5205.	http://www.iana.org/assignments/media-types/application/vnd.dvb.ait
+5206.	http://www.iana.org/assignments/media-types/application/vnd.dvb.dvbj
+5207.	http://www.iana.org/assignments/media-types/application/vnd.dvb.esgcontainer
+5208.	http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcdftnotifaccess
+5209.	http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcesgaccess
+5210.	http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcesgaccess2
+5211.	http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcesgpdd
+5212.	http://www.iana.org/assignments/media-types/application/vnd.dvb.ipdcroaming
+5213.	http://www.iana.org/assignments/media-types/application/vnd.dvb.iptv.alfec-base
+5214.	http://www.iana.org/assignments/media-types/application/vnd.dvb.iptv.alfec-enhancement
+5215.	http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-aggregate-root
+5216.	http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-container
+5217.	http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-generic
+5218.	http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-ia-msglist
+5219.	http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-ia-registration-request
+5220.	http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-ia-registration-response
+5221.	http://www.iana.org/assignments/media-types/application/vnd.dvb.notif-init
+5222.	http://www.iana.org/assignments/media-types/application/vnd.dvb.pfr
+5223.	http://www.iana.org/assignments/media-types/application/vnd.dvb_service
+5224.	http://www.iana.org/assignments/media-types/application/vnd-dxr
+5225.	http://www.iana.org/assignments/media-types/application/vnd.dynageo
+5226.	http://www.iana.org/assignments/media-types/application/vnd.dzr
+5227.	http://www.iana.org/assignments/media-types/application/vnd.easykaraoke.cdgdownload
+5228.	http://www.iana.org/assignments/media-types/application/vnd.ecdis-update
+5229.	http://www.iana.org/assignments/media-types/application/vnd.ecowin.chart
+5230.	http://www.iana.org/assignments/media-types/application/vnd.ecowin.filerequest
+5231.	http://www.iana.org/assignments/media-types/application/vnd.ecowin.fileupdate
+5232.	http://www.iana.org/assignments/media-types/application/vnd.ecowin.series
+5233.	http://www.iana.org/assignments/media-types/application/vnd.ecowin.seriesrequest
+5234.	http://www.iana.org/assignments/media-types/application/vnd.ecowin.seriesupdate
+5235.	http://www.iana.org/assignments/media-types/application/vnd.emclient.accessrequest
+5236.	http://www.iana.org/assignments/media-types/application/vnd.enliven
+5237.	http://www.iana.org/assignments/media-types/application/vnd.eprints.data
+5238.	http://www.iana.org/assignments/media-types/application/vnd.epson.esf
+5239.	http://www.iana.org/assignments/media-types/application/vnd.epson.msf
+5240.	http://www.iana.org/assignments/media-types/application/vnd.epson.quickanime
+5241.	http://www.iana.org/assignments/media-types/application/vnd.epson.salt
+5242.	http://www.iana.org/assignments/media-types/application/vnd.epson.ssf
+5243.	http://www.iana.org/assignments/media-types/application/vnd.ericsson.quickcall
+5244.	http://www.iana.org/assignments/media-types/application/vnd.eszigno3
+5245.	http://www.iana.org/assignments/media-types/application/vnd.etsi.aoc
+5246.	http://www.iana.org/assignments/media-types/application/vnd.etsi.asic-e
+5247.	http://www.iana.org/assignments/media-types/application/vnd.etsi.asic-s
+5248.	http://www.iana.org/assignments/media-types/application/vnd.etsi.cug
+5249.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvcommand
+5250.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvdiscovery
+5251.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvprofile
+5252.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsad-bc
+5253.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsad-cod
+5254.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsad-npvr
+5255.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvservice
+5256.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvsync
+5257.	http://www.iana.org/assignments/media-types/application/vnd.etsi.iptvueprofile
+5258.	http://www.iana.org/assignments/media-types/application/vnd.etsi.mcid
+5259.	http://www.iana.org/assignments/media-types/application/vnd.etsi.mheg5
+5260.	http://www.iana.org/assignments/media-types/application/vnd.etsi.overload-control-policy-dataset
+5261.	http://www.iana.org/assignments/media-types/application/vnd.etsi.pstn
+5262.	http://www.iana.org/assignments/media-types/application/vnd.etsi.sci
+5263.	http://www.iana.org/assignments/media-types/application/vnd.etsi.simservs
+5264.	http://www.iana.org/assignments/media-types/application/vnd.etsi.timestamp-token
+5265.	http://www.iana.org/assignments/media-types/application/vnd.etsi.tsl
+5266.	http://www.iana.org/assignments/media-types/application/vnd.etsi.tsl.der
+5267.	http://www.iana.org/assignments/media-types/application/vnd.eudora.data
+5268.	http://www.iana.org/assignments/media-types/application/vnd.ezpix-album
+5269.	http://www.iana.org/assignments/media-types/application/vnd.ezpix-package
+5270.	http://www.iana.org/assignments/media-types/application/vnd-fdf
+5271.	http://www.iana.org/assignments/media-types/application/vnd.fdsn.mseed
+5272.	http://www.iana.org/assignments/media-types/application/vnd.fdsn.seed
+5273.	http://www.iana.org/assignments/media-types/application/vnd.ffsns
+5274.	http://www.iana.org/assignments/media-types/application/vnd.fints
+5275.	http://www.iana.org/assignments/media-types/application/vnd.FloGraphIt
+5276.	http://www.iana.org/assignments/media-types/application/vnd.fluxtime.clip
+5277.	http://www.iana.org/assignments/media-types/application/vnd.font-fontforge-sfd
+5278.	http://www.iana.org/assignments/media-types/application/vnd.framemaker
+5279.	http://www.iana.org/assignments/media-types/application/vnd.frogans.fnc
+5280.	http://www.iana.org/assignments/media-types/application/vnd.frogans.ltf
+5281.	http://www.iana.org/assignments/media-types/application/vnd.fsc.weblaunch
+5282.	http://www.iana.org/assignments/media-types/application/vnd.f-secure.mobile
+5283.	http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys
+5284.	http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys2
+5285.	http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys3
+5286.	http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysgp
+5287.	http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysprs
+5288.	http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ART4
+5289.	http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ART-EX
+5290.	http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ddd
+5291.	http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks
+5292.	http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks.binder
+5293.	http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks.container
+5294.	http://www.iana.org/assignments/media-types/application/vnd.fujixerox.HBPL
+5295.	http://www.iana.org/assignments/media-types/application/vnd.fut-misnet
+5296.	http://www.iana.org/assignments/media-types/application/vnd.fuzzysheet
+5297.	http://www.iana.org/assignments/media-types/application/vnd.genomatix.tuxedo
+5298.	http://www.iana.org/assignments/media-types/application/vnd.geo
+5299.	http://www.iana.org/assignments/media-types/application/vnd.geocube
+5300.	http://www.iana.org/assignments/media-types/application/vnd.geogebra.file
+5301.	http://www.iana.org/assignments/media-types/application/vnd.geogebra.tool
+5302.	http://www.iana.org/assignments/media-types/application/vnd.geometry-explorer
+5303.	http://www.iana.org/assignments/media-types/application/vnd.geonext
+5304.	http://www.iana.org/assignments/media-types/application/vnd.geoplan
+5305.	http://www.iana.org/assignments/media-types/application/vnd.geospace
+5306.	http://www.iana.org/assignments/media-types/application/vnd.globalplatform.card-content-mgt
+5307.	http://www.iana.org/assignments/media-types/application/vnd.globalplatform.card-content-mgt-response
+5308.	http://www.iana.org/assignments/media-types/application/vnd.gmx
+5309.	http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml
+5310.	http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz
+5311.	http://www.iana.org/assignments/media-types/application/vnd.grafeq
+5312.	http://www.iana.org/assignments/media-types/application/vnd.gridmp
+5313.	http://www.iana.org/assignments/media-types/application/vnd.groove-account
+5314.	http://www.iana.org/assignments/media-types/application/vnd.groove-help
+5315.	http://www.iana.org/assignments/media-types/application/vnd.groove-identity-message
+5316.	http://www.iana.org/assignments/media-types/application/vnd.groove-injector
+5317.	http://www.iana.org/assignments/media-types/application/vnd.groove-tool-message
+5318.	http://www.iana.org/assignments/media-types/application/vnd.groove-tool-template
+5319.	http://www.iana.org/assignments/media-types/application/vnd.groove-vcard
+5320.	http://www.iana.org/assignments/media-types/application/vnd.hal
+5321.	http://www.iana.org/assignments/media-types/application/vnd.HandHeld-Entertainment
+5322.	http://www.iana.org/assignments/media-types/application/vnd.hbci
+5323.	http://www.iana.org/assignments/media-types/application/vnd.hcl-bireports
+5324.	http://www.iana.org/assignments/media-types/application/vnd.heroku
+5325.	http://www.iana.org/assignments/media-types/application/vnd.hhe.lesson-player
+5326.	http://www.iana.org/assignments/media-types/application/vnd.hp-HPGL
+5327.	http://www.iana.org/assignments/media-types/application/vnd.hp-hpid
+5328.	http://www.iana.org/assignments/media-types/application/vnd.hp-hps
+5329.	http://www.iana.org/assignments/media-types/application/vnd.hp-jlyt
+5330.	http://www.iana.org/assignments/media-types/application/vnd.hp-PCL
+5331.	http://www.iana.org/assignments/media-types/application/vnd.hp-PCLXL
+5332.	http://www.iana.org/assignments/media-types/application/vnd.httphone
+5333.	http://www.iana.org/assignments/media-types/application/vnd.hydrostatix.sof-data
+5334.	http://www.iana.org/assignments/media-types/application/vnd.hzn-3d-crossword
+5335.	http://www.iana.org/assignments/media-types/application/vnd.ibm.afplinedata
+5336.	http://www.iana.org/assignments/media-types/application/vnd.ibm.electronic-media
+5337.	http://www.iana.org/assignments/media-types/application/vnd.ibm.MiniPay
+5338.	http://www.iana.org/assignments/media-types/application/vnd.ibm.modcap
+5339.	http://www.iana.org/assignments/media-types/application/vnd.ibm.rights-management
+5340.	http://www.iana.org/assignments/media-types/application/vnd.ibm.secure-container
+5341.	http://www.iana.org/assignments/media-types/application/vnd.iccprofile
+5342.	http://www.iana.org/assignments/media-types/application/vnd.ieee.1905
+5343.	http://www.iana.org/assignments/media-types/application/vnd.igloader
+5344.	http://www.iana.org/assignments/media-types/application/vnd.immervision-ivp
+5345.	http://www.iana.org/assignments/media-types/application/vnd.immervision-ivu
+5346.	http://www.iana.org/assignments/media-types/application/vnd.ims.lis.v2.result
+5347.	http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolconsumerprofile
+5348.	http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolproxy
+5349.	http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolproxy.id
+5350.	http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolsettings
+5351.	http://www.iana.org/assignments/media-types/application/vnd.ims.lti.v2.toolsettings.simple
+5352.	http://www.iana.org/assignments/media-types/application/vnd.informedcontrol.rms
+5353.	http://www.iana.org/assignments/media-types/application/vnd.informix-visionary
+5354.	http://www.iana.org/assignments/media-types/application/vnd.infotech.project
+5355.	http://www.iana.org/assignments/media-types/application/vnd.innopath.wamp.notification
+5356.	http://www.iana.org/assignments/media-types/application/vnd.insors.igm
+5357.	http://www.iana.org/assignments/media-types/application/vnd.intercon.formnet
+5358.	http://www.iana.org/assignments/media-types/application/vnd.intergeo
+5359.	http://www.iana.org/assignments/media-types/application/vnd.intertrust.digibox
+5360.	http://www.iana.org/assignments/media-types/application/vnd.intertrust.nncp
+5361.	http://www.iana.org/assignments/media-types/application/vnd.intu.qbo
+5362.	http://www.iana.org/assignments/media-types/application/vnd.intu.qfx
+5363.	http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.catalogitem
+5364.	http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.conceptitem
+5365.	http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.knowledgeitem
+5366.	http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.newsitem
+5367.	http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.newsmessage
+5368.	http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.packageitem
+5369.	http://www.iana.org/assignments/media-types/application/vnd.iptc.g2.planningitem
+5370.	http://www.iana.org/assignments/media-types/application/vnd.ipunplugged.rcprofile
+5371.	http://www.iana.org/assignments/media-types/application/vnd.irepository.package
+5372.	http://www.iana.org/assignments/media-types/application/vnd.isac.fcs
+5373.	http://www.iana.org/assignments/media-types/application/vnd.is-xpr
+5374.	http://www.iana.org/assignments/media-types/application/vnd.jam
+5375.	http://www.iana.org/assignments/media-types/application/vnd.japannet-directory-service
+5376.	http://www.iana.org/assignments/media-types/application/vnd.japannet-jpnstore-wakeup
+5377.	http://www.iana.org/assignments/media-types/application/vnd.japannet-payment-wakeup
+5378.	http://www.iana.org/assignments/media-types/application/vnd.japannet-registration
+5379.	http://www.iana.org/assignments/media-types/application/vnd.japannet-registration-wakeup
+5380.	http://www.iana.org/assignments/media-types/application/vnd.japannet-setstore-wakeup
+5381.	http://www.iana.org/assignments/media-types/application/vnd.japannet-verification
+5382.	http://www.iana.org/assignments/media-types/application/vnd.japannet-verification-wakeup
+5383.	http://www.iana.org/assignments/media-types/application/vnd.jcp.javame.midlet-rms
+5384.	http://www.iana.org/assignments/media-types/application/vnd.jisp
+5385.	http://www.iana.org/assignments/media-types/application/vnd.joost.joda-archive
+5386.	http://www.iana.org/assignments/media-types/application/vnd.jsk.isdn-ngn
+5387.	http://www.iana.org/assignments/media-types/application/vnd.kahootz
+5388.	http://www.iana.org/assignments/media-types/application/vnd.kde.karbon
+5389.	http://www.iana.org/assignments/media-types/application/vnd.kde.kchart
+5390.	http://www.iana.org/assignments/media-types/application/vnd.kde.kformula
+5391.	http://www.iana.org/assignments/media-types/application/vnd.kde.kivio
+5392.	http://www.iana.org/assignments/media-types/application/vnd.kde.kontour
+5393.	http://www.iana.org/assignments/media-types/application/vnd.kde.kpresenter
+5394.	http://www.iana.org/assignments/media-types/application/vnd.kde.kspread
+5395.	http://www.iana.org/assignments/media-types/application/vnd.kde.kword
+5396.	http://www.iana.org/assignments/media-types/application/vnd.kenameaapp
+5397.	http://www.iana.org/assignments/media-types/application/vnd.kidspiration
+5398.	http://www.iana.org/assignments/media-types/application/vnd.Kinar
+5399.	http://www.iana.org/assignments/media-types/application/vnd.koan
+5400.	http://www.iana.org/assignments/media-types/application/vnd.kodak-descriptor
+5401.	http://www.iana.org/assignments/media-types/application/vnd.las.las
+5402.	http://www.iana.org/assignments/media-types/application/vnd.liberty-request
+5403.	http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.desktop
+5404.	http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.exchange
+5405.	http://www.iana.org/assignments/media-types/application/vnd.lotus-1-2-3
+5406.	http://www.iana.org/assignments/media-types/application/vnd.lotus-approach
+5407.	http://www.iana.org/assignments/media-types/application/vnd.lotus-freelance
+5408.	http://www.iana.org/assignments/media-types/application/vnd.lotus-notes
+5409.	http://www.iana.org/assignments/media-types/application/vnd.lotus-organizer
+5410.	http://www.iana.org/assignments/media-types/application/vnd.lotus-screencam
+5411.	http://www.iana.org/assignments/media-types/application/vnd.lotus-wordpro
+5412.	http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg
+5413.	http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.actiontoken
+5414.	http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.conftoken
+5415.	http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.license
+5416.	http://www.iana.org/assignments/media-types/application/vnd.marlin.drm.mdcf
+5417.	http://www.iana.org/assignments/media-types/application/vnd.mason
+5418.	http://www.iana.org/assignments/media-types/application/vnd.maxmind.maxmind-db
+5419.	http://www.iana.org/assignments/media-types/application/vnd.mcd
+5420.	http://www.iana.org/assignments/media-types/application/vnd.medcalcdata
+5421.	http://www.iana.org/assignments/media-types/application/vnd.mediastation.cdkey
+5422.	http://www.iana.org/assignments/media-types/application/vnd.meridian-slingshot
+5423.	http://www.iana.org/assignments/media-types/application/vnd.MFER
+5424.	http://www.iana.org/assignments/media-types/application/vnd.mfmp
+5425.	http://www.iana.org/assignments/media-types/application/vnd.micrografx.flo
+5426.	http://www.iana.org/assignments/media-types/application/vnd.micrografx-igx
+5427.	http://www.iana.org/assignments/media-types/application/vnd.miele
+5428.	http://www.iana.org/assignments/media-types/application/vnd-mif
+5429.	http://www.iana.org/assignments/media-types/application/vnd.minisoft-hp3000-save
+5430.	http://www.iana.org/assignments/media-types/application/vnd.mitsubishi.misty-guard.trustweb
+5431.	http://www.iana.org/assignments/media-types/application/vnd.Mobius.DAF
+5432.	http://www.iana.org/assignments/media-types/application/vnd.Mobius.DIS
+5433.	http://www.iana.org/assignments/media-types/application/vnd.Mobius.MBK
+5434.	http://www.iana.org/assignments/media-types/application/vnd.Mobius.MQY
+5435.	http://www.iana.org/assignments/media-types/application/vnd.Mobius.MSL
+5436.	http://www.iana.org/assignments/media-types/application/vnd.Mobius.PLC
+5437.	http://www.iana.org/assignments/media-types/application/vnd.Mobius.TXF
+5438.	http://www.iana.org/assignments/media-types/application/vnd.mophun.application
+5439.	http://www.iana.org/assignments/media-types/application/vnd.mophun.certificate
+5440.	http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite
+5441.	http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.adsi
+5442.	http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.fis
+5443.	http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.gotap
+5444.	http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.kmr
+5445.	http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.ttc
+5446.	http://www.iana.org/assignments/media-types/application/vnd.motorola.flexsuite.wem
+5447.	http://www.iana.org/assignments/media-types/application/vnd.motorola.iprm
+5448.	http://www.iana.org/assignments/media-types/application/vnd.mozilla.xul
+5449.	http://www.iana.org/assignments/media-types/application/vnd.ms-3mfdocument
+5450.	http://www.iana.org/assignments/media-types/application/vnd.ms-artgalry
+5451.	http://www.iana.org/assignments/media-types/application/vnd.ms-asf
+5452.	http://www.iana.org/assignments/media-types/application/vnd.ms-cab-compressed
+5453.	http://www.iana.org/assignments/media-types/application/vnd.mseq
+5454.	http://www.iana.org/assignments/media-types/application/vnd.ms-excel
+5455.	http://www.iana.org/assignments/media-types/application/vnd.ms-excel.addin.macroEnabled.12
+5456.	http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.binary.macroEnabled.12
+5457.	http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.macroEnabled.12
+5458.	http://www.iana.org/assignments/media-types/application/vnd.ms-excel.template.macroEnabled.12
+5459.	http://www.iana.org/assignments/media-types/application/vnd.ms-fontobject
+5460.	http://www.iana.org/assignments/media-types/application/vnd.ms-htmlhelp
+5461.	http://www.iana.org/assignments/media-types/application/vnd.msign
+5462.	http://www.iana.org/assignments/media-types/application/vnd.ms-ims
+5463.	http://www.iana.org/assignments/media-types/application/vnd.ms-lrm
+5464.	http://www.iana.org/assignments/media-types/application/vnd.ms-office.activeX
+5465.	http://www.iana.org/assignments/media-types/application/vnd.ms-officetheme
+5466.	http://www.iana.org/assignments/media-types/application/vnd.ms-playready.initiator
+5467.	http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint
+5468.	http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.addin.macroEnabled.12
+5469.	http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.presentation.macroEnabled.12
+5470.	http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slide.macroEnabled.12
+5471.	http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slideshow.macroEnabled.12
+5472.	http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.template.macroEnabled.12
+5473.	http://www.iana.org/assignments/media-types/application/vnd.ms-project
+5474.	http://www.iana.org/assignments/media-types/application/vnd.ms-tnef
+5475.	http://www.iana.org/assignments/media-types/application/vnd.ms-windows.printerpairing
+5476.	http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.lic-chlg-req
+5477.	http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.lic-resp
+5478.	http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.meter-chlg-req
+5479.	http://www.iana.org/assignments/media-types/application/vnd.ms-wmdrm.meter-resp
+5480.	http://www.iana.org/assignments/media-types/application/vnd.ms-word.document.macroEnabled.12
+5481.	http://www.iana.org/assignments/media-types/application/vnd.ms-word.template.macroEnabled.12
+5482.	http://www.iana.org/assignments/media-types/application/vnd.ms-works
+5483.	http://www.iana.org/assignments/media-types/application/vnd.ms-wpl
+5484.	http://www.iana.org/assignments/media-types/application/vnd.ms-xpsdocument
+5485.	http://www.iana.org/assignments/media-types/application/vnd.multiad.creator
+5486.	http://www.iana.org/assignments/media-types/application/vnd.multiad.creator.cif
+5487.	http://www.iana.org/assignments/media-types/application/vnd.musician
+5488.	http://www.iana.org/assignments/media-types/application/vnd.music-niff
+5489.	http://www.iana.org/assignments/media-types/application/vnd.muvee.style
+5490.	http://www.iana.org/assignments/media-types/application/vnd.mynfc
+5491.	http://www.iana.org/assignments/media-types/application/vnd.ncd.control
+5492.	http://www.iana.org/assignments/media-types/application/vnd.ncd.reference
+5493.	http://www.iana.org/assignments/media-types/application/vnd.nervana
+5494.	http://www.iana.org/assignments/media-types/application/vnd.netfpx
+5495.	http://www.iana.org/assignments/media-types/application/vnd.neurolanguage.nlu
+5496.	http://www.iana.org/assignments/media-types/application/vnd.nintendo.nitro.rom
+5497.	http://www.iana.org/assignments/media-types/application/vnd.nintendo.snes.rom
+5498.	http://www.iana.org/assignments/media-types/application/vnd.nitf
+5499.	http://www.iana.org/assignments/media-types/application/vnd.noblenet-directory
+5500.	http://www.iana.org/assignments/media-types/application/vnd.noblenet-sealer
+5501.	http://www.iana.org/assignments/media-types/application/vnd.noblenet-web
+5502.	http://www.iana.org/assignments/media-types/application/vnd.nokia.catalogs
+5503.	http://www.iana.org/assignments/media-types/application/vnd.nokia.conml
+5504.	http://www.iana.org/assignments/media-types/application/vnd.nokia.iptv.config
+5505.	http://www.iana.org/assignments/media-types/application/vnd.nokia.iSDS-radio-presets
+5506.	http://www.iana.org/assignments/media-types/application/vnd.nokia.landmark
+5507.	http://www.iana.org/assignments/media-types/application/vnd.nokia.landmarkcollection
+5508.	http://www.iana.org/assignments/media-types/application/vnd.nokia.ncd
+5509.	http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.ac
+5510.	http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.data
+5511.	http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.symbian.install
+5512.	http://www.iana.org/assignments/media-types/application/vnd.nokia.pcd
+5513.	http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-preset
+5514.	http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-presets
+5515.	http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDM
+5516.	http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDX
+5517.	http://www.iana.org/assignments/media-types/application/vnd.novadigm.EXT
+5518.	http://www.iana.org/assignments/media-types/application/vnd.ntt-local.content-share
+5519.	http://www.iana.org/assignments/media-types/application/vnd.ntt-local.file-transfer
+5520.	http://www.iana.org/assignments/media-types/application/vnd.ntt-local.ogw_remote-access
+5521.	http://www.iana.org/assignments/media-types/application/vnd.ntt-local.sip-ta_remote
+5522.	http://www.iana.org/assignments/media-types/application/vnd.ntt-local.sip-ta_tcp_stream
+5523.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart
+5524.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart-template
+5525.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.database
+5526.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula
+5527.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula-template
+5528.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics
+5529.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics-template
+5530.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image
+5531.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image-template
+5532.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation
+5533.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation-template
+5534.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet
+5535.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet-template
+5536.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text
+5537.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-master
+5538.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-template
+5539.	http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-web
+5540.	http://www.iana.org/assignments/media-types/application/vnd.obn
+5541.	http://www.iana.org/assignments/media-types/application/vnd.oftn.l10n
+5542.	http://www.iana.org/assignments/media-types/application/vnd.oipf.contentaccessdownload
+5543.	http://www.iana.org/assignments/media-types/application/vnd.oipf.contentaccessstreaming
+5544.	http://www.iana.org/assignments/media-types/application/vnd.oipf.cspg-hexbinary
+5545.	http://www.iana.org/assignments/media-types/application/vnd.oipf.dae.svg
+5546.	http://www.iana.org/assignments/media-types/application/vnd.oipf.dae.xhtml
+5547.	http://www.iana.org/assignments/media-types/application/vnd.oipf.mippvcontrolmessage
+5548.	http://www.iana.org/assignments/media-types/application/vnd.oipf.pae.gem
+5549.	http://www.iana.org/assignments/media-types/application/vnd.oipf.spdiscovery
+5550.	http://www.iana.org/assignments/media-types/application/vnd.oipf.spdlist
+5551.	http://www.iana.org/assignments/media-types/application/vnd.oipf.ueprofile
+5552.	http://www.iana.org/assignments/media-types/application/vnd.oipf.userprofile
+5553.	http://www.iana.org/assignments/media-types/application/vnd.olpc-sugar
+5554.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.associated-procedure-parameter
+5555.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.drm-trigger
+5556.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.imd
+5557.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.ltkm
+5558.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.notification
+5559.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.provisioningtrigger
+5560.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sgboot
+5561.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sgdd
+5562.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sgdu
+5563.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.simple-symbol-container
+5564.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.smartcard-trigger
+5565.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.sprov
+5566.	http://www.iana.org/assignments/media-types/application/vnd.oma.bcast.stkm
+5567.	http://www.iana.org/assignments/media-types/application/vnd.oma.cab-address-book
+5568.	http://www.iana.org/assignments/media-types/application/vnd.oma.cab-feature-handler
+5569.	http://www.iana.org/assignments/media-types/application/vnd.oma.cab-pcc
+5570.	http://www.iana.org/assignments/media-types/application/vnd.oma.cab-subs-invite
+5571.	http://www.iana.org/assignments/media-types/application/vnd.oma.cab-user-prefs
+5572.	http://www.iana.org/assignments/media-types/application/vnd.oma.dcd
+5573.	http://www.iana.org/assignments/media-types/application/vnd.oma.dcdc
+5574.	http://www.iana.org/assignments/media-types/application/vnd.oma.dd2
+5575.	http://www.iana.org/assignments/media-types/application/vnd.oma.drm.risd
+5576.	http://www.iana.org/assignments/media-types/application/vnd.omads-email
+5577.	http://www.iana.org/assignments/media-types/application/vnd.omads-file
+5578.	http://www.iana.org/assignments/media-types/application/vnd.omads-folder
+5579.	http://www.iana.org/assignments/media-types/application/vnd.oma.group-usage-list
+5580.	http://www.iana.org/assignments/media-types/application/vnd.omaloc-supl-init
+5581.	http://www.iana.org/assignments/media-types/application/vnd.oma.pal
+5582.	http://www.iana.org/assignments/media-types/application/vnd.oma.poc.detailed-progress-report
+5583.	http://www.iana.org/assignments/media-types/application/vnd.oma.poc.final-report
+5584.	http://www.iana.org/assignments/media-types/application/vnd.oma.poc.groups
+5585.	http://www.iana.org/assignments/media-types/application/vnd.oma.poc.invocation-descriptor
+5586.	http://www.iana.org/assignments/media-types/application/vnd.oma.poc.optimized-progress-report
+5587.	http://www.iana.org/assignments/media-types/application/vnd.oma.push
+5588.	http://www.iana.org/assignments/media-types/application/vnd.oma.scidm.messages
+5589.	http://www.iana.org/assignments/media-types/application/vnd.oma-scws-config
+5590.	http://www.iana.org/assignments/media-types/application/vnd.oma-scws-http-request
+5591.	http://www.iana.org/assignments/media-types/application/vnd.oma-scws-http-response
+5592.	http://www.iana.org/assignments/media-types/application/vnd.oma.xcap-directory
+5593.	http://www.iana.org/assignments/media-types/application/vnd.openeye.oeb
+5594.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.custom-properties
+5595.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.customXmlProperties
+5596.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawing
+5597.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.chart
+5598.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.chartshapes
+5599.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramColors
+5600.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramData
+5601.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramLayout
+5602.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.drawingml.diagramStyle
+5603.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.extended-properties
+5604.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.commentAuthors
+5605.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.comments
+5606.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.handoutMaster
+5607.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.notesMaster
+5608.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.notesSlide
+5609.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presentation
+5610.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presentation.main
+5611.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presProps
+5612.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slide
+5613.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideLayout
+5614.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideMaster
+5615.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideshow
+5616.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideshow.main
+5617.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo
+5618.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.tableStyles
+5619.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.tags
+5620.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml-template
+5621.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.template.main
+5622.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.viewProps
+5623.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain
+5624.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet
+5625.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.comments
+5626.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.connections
+5627.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet
+5628.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.externalLink
+5629.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition
+5630.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords
+5631.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.pivotTable
+5632.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.queryTable
+5633.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders
+5634.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.revisionLog
+5635.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings
+5636.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+5637.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main
+5638.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata
+5639.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.styles
+5640.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.table
+5641.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells
+5642.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml-template
+5643.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.template.main
+5644.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.userNames
+5645.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies
+5646.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet
+5647.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.theme
+5648.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.themeOverride
+5649.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.vmlDrawing
+5650.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.comments
+5651.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document
+5652.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary
+5653.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document.main
+5654.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes
+5655.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable
+5656.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.footer
+5657.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes
+5658.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.numbering
+5659.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.settings
+5660.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.styles
+5661.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml-template
+5662.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.template.main
+5663.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings
+5664.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-package.core-properties
+5665.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-package.digital-signature-xmlsignature
+5666.	http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-package.relationships
+5667.	http://www.iana.org/assignments/media-types/application/vnd.orange.indata
+5668.	http://www.iana.org/assignments/media-types/application/vnd.osa.netdeploy
+5669.	http://www.iana.org/assignments/media-types/application/vnd.osgeo.mapguide.package
+5670.	http://www.iana.org/assignments/media-types/application/vnd.osgi.bundle
+5671.	http://www.iana.org/assignments/media-types/application/vnd.osgi.dp
+5672.	http://www.iana.org/assignments/media-types/application/vnd.osgi.subsystem
+5673.	http://www.iana.org/assignments/media-types/application/vnd.otps.ct-kip
+5674.	http://www.iana.org/assignments/media-types/application/vnd.palm
+5675.	http://www.iana.org/assignments/media-types/application/vnd.panoply
+5676.	http://www.iana.org/assignments/media-types/application/vnd.paos
+5677.	http://www.iana.org/assignments/media-types/application/vnd.pawaafile
+5678.	http://www.iana.org/assignments/media-types/application/vnd.pcos
+5679.	http://www.iana.org/assignments/media-types/application/vnd.pg.format
+5680.	http://www.iana.org/assignments/media-types/application/vnd.pg.osasli
+5681.	http://www.iana.org/assignments/media-types/application/vnd.piaccess.application-licence
+5682.	http://www.iana.org/assignments/media-types/application/vnd.picsel
+5683.	http://www.iana.org/assignments/media-types/application/vnd.pmi.widget
+5684.	http://www.iana.org/assignments/media-types/application/vnd.poc.group-advertisement
+5685.	http://www.iana.org/assignments/media-types/application/vnd.pocketlearn
+5686.	http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6
+5687.	http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6-s
+5688.	http://www.iana.org/assignments/media-types/application/vnd.powerbuilder7
+5689.	http://www.iana.org/assignments/media-types/application/vnd.powerbuilder75
+5690.	http://www.iana.org/assignments/media-types/application/vnd.powerbuilder75-s
+5691.	http://www.iana.org/assignments/media-types/application/vnd.powerbuilder7-s
+5692.	http://www.iana.org/assignments/media-types/application/vnd.preminet
+5693.	http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box
+5694.	http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine
+5695.	http://www.iana.org/assignments/media-types/application/vnd.publishare-delta-tree
+5696.	http://www.iana.org/assignments/media-types/application/vnd.pvi.ptid1
+5697.	http://www.iana.org/assignments/media-types/application/vnd.pwg-xhtml-print
+5698.	http://www.iana.org/assignments/media-types/application/vnd.qualcomm.brew-app-res
+5699.	http://www.iana.org/assignments/media-types/application/vnd.Quark.QuarkXPress
+5700.	http://www.iana.org/assignments/media-types/application/vnd.quobject-quoxdocument
+5701.	http://www.iana.org/assignments/media-types/application/vnd.radisys.moml
+5702.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml
+5703.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit
+5704.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-conf
+5705.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-conn
+5706.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-dialog
+5707.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-audit-stream
+5708.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-conf
+5709.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog
+5710.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-base
+5711.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-fax-detect
+5712.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-fax-sendrecv
+5713.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-group
+5714.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-speech
+5715.	http://www.iana.org/assignments/media-types/application/vnd.radisys.msml-dialog-transform
+5716.	http://www.iana.org/assignments/media-types/application/vnd.rainstor.data
+5717.	http://www.iana.org/assignments/media-types/application/vnd.rapid
+5718.	http://www.iana.org/assignments/media-types/application/vnd.realvnc.bed
+5719.	http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml
+5720.	http://www.iana.org/assignments/media-types/application/vnd.renlearn.rlprint
+5721.	http://www.iana.org/assignments/media-types/application/vnd.rig.cryptonote
+5722.	http://www.iana.org/assignments/media-types/application/vnd.route66.link66
+5723.	http://www.iana.org/assignments/media-types/application/vnd.rs-274x
+5724.	http://www.iana.org/assignments/media-types/application/vnd.ruckus.download
+5725.	http://www.iana.org/assignments/media-types/application/vnd.s3sms
+5726.	http://www.iana.org/assignments/media-types/application/vnd.sailingtracker.track
+5727.	http://www.iana.org/assignments/media-types/application/vnd.sbm.cid
+5728.	http://www.iana.org/assignments/media-types/application/vnd.sbm.mid2
+5729.	http://www.iana.org/assignments/media-types/application/vnd.scribus
+5730.	http://www.iana.org/assignments/media-types/application/vnd.sealed.3df
+5731.	http://www.iana.org/assignments/media-types/application/vnd.sealed.csf
+5732.	http://www.iana.org/assignments/media-types/application/vnd.sealed-doc
+5733.	http://www.iana.org/assignments/media-types/application/vnd.sealed-eml
+5734.	http://www.iana.org/assignments/media-types/application/vnd.sealedmedia.softseal-html
+5735.	http://www.iana.org/assignments/media-types/application/vnd.sealedmedia.softseal-pdf
+5736.	http://www.iana.org/assignments/media-types/application/vnd.sealed-mht
+5737.	http://www.iana.org/assignments/media-types/application/vnd.sealed.net
+5738.	http://www.iana.org/assignments/media-types/application/vnd.sealed-ppt
+5739.	http://www.iana.org/assignments/media-types/application/vnd.sealed-tiff
+5740.	http://www.iana.org/assignments/media-types/application/vnd.sealed-xls
+5741.	http://www.iana.org/assignments/media-types/application/vnd.seemail
+5742.	http://www.iana.org/assignments/media-types/application/vnd-sema
+5743.	http://www.iana.org/assignments/media-types/application/vnd.semd
+5744.	http://www.iana.org/assignments/media-types/application/vnd.semf
+5745.	http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formdata
+5746.	http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formtemplate
+5747.	http://www.iana.org/assignments/media-types/application/vnd.shana.informed.interchange
+5748.	http://www.iana.org/assignments/media-types/application/vnd.shana.informed.package
+5749.	http://www.iana.org/assignments/media-types/application/vnd.SimTech-MindMapper
+5750.	http://www.iana.org/assignments/media-types/application/vnd.siren
+5751.	http://www.iana.org/assignments/media-types/application/vnd.smaf
+5752.	http://www.iana.org/assignments/media-types/application/vnd.smart.notebook
+5753.	http://www.iana.org/assignments/media-types/application/vnd.smart.teacher
+5754.	http://www.iana.org/assignments/media-types/application/vnd.software602.filler.form
+5755.	http://www.iana.org/assignments/media-types/application/vnd.software602.filler.form-xml-zip
+5756.	http://www.iana.org/assignments/media-types/application/vnd.solent.sdkm
+5757.	http://www.iana.org/assignments/media-types/application/vnd.spotfire.dxp
+5758.	http://www.iana.org/assignments/media-types/application/vnd.spotfire.sfs
+5759.	http://www.iana.org/assignments/media-types/application/vnd.sss-cod
+5760.	http://www.iana.org/assignments/media-types/application/vnd.sss-dtf
+5761.	http://www.iana.org/assignments/media-types/application/vnd.sss-ntf
+5762.	http://www.iana.org/assignments/media-types/application/vnd.stepmania.package
+5763.	http://www.iana.org/assignments/media-types/application/vnd.stepmania.stepchart
+5764.	http://www.iana.org/assignments/media-types/application/vnd.street-stream
+5765.	http://www.iana.org/assignments/media-types/application/vnd.sun.wadl
+5766.	http://www.iana.org/assignments/media-types/application/vnd.sus-calendar
+5767.	http://www.iana.org/assignments/media-types/application/vnd.svd
+5768.	http://www.iana.org/assignments/media-types/application/vnd.swiftview-ics
+5769.	http://www.iana.org/assignments/media-types/application/vnd.syncml
+5770.	http://www.iana.org/assignments/media-types/application/vnd.syncml.dm
+5771.	http://www.iana.org/assignments/media-types/application/vnd.syncml.dmddf
+5772.	http://www.iana.org/assignments/media-types/application/vnd.syncml.dm.notification
+5773.	http://www.iana.org/assignments/media-types/application/vnd.syncml.dmtnds
+5774.	http://www.iana.org/assignments/media-types/application/vnd.syncml.ds.notification
+5775.	http://www.iana.org/assignments/media-types/application/vnd.tao.intent-module-archive
+5776.	http://www.iana.org/assignments/media-types/application/vnd.tcpdump.pcap
+5777.	http://www.iana.org/assignments/media-types/application/vnd.tmobile-livetv
+5778.	http://www.iana.org/assignments/media-types/application/vnd.trid.tpt
+5779.	http://www.iana.org/assignments/media-types/application/vnd.triscape.mxs
+5780.	http://www.iana.org/assignments/media-types/application/vnd.trueapp
+5781.	http://www.iana.org/assignments/media-types/application/vnd.truedoc
+5782.	http://www.iana.org/assignments/media-types/application/vnd.ubisoft.webplayer
+5783.	http://www.iana.org/assignments/media-types/application/vnd.ufdl
+5784.	http://www.iana.org/assignments/media-types/application/vnd.uiq.theme
+5785.	http://www.iana.org/assignments/media-types/application/vnd.umajin
+5786.	http://www.iana.org/assignments/media-types/application/vnd.unity
+5787.	http://www.iana.org/assignments/media-types/application/vnd.uoml
+5788.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.alert
+5789.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.alert-wbxml
+5790.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.bearer-choice
+5791.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.bearer-choice-wbxml
+5792.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.cacheop
+5793.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.cacheop-wbxml
+5794.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.channel
+5795.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.channel-wbxml
+5796.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.list
+5797.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.listcmd
+5798.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.listcmd-wbxml
+5799.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.list-wbxml
+5800.	http://www.iana.org/assignments/media-types/application/vnd.uplanet.signal
+5801.	http://www.iana.org/assignments/media-types/application/vnd.valve.source.material
+5802.	http://www.iana.org/assignments/media-types/application/vnd.vcx
+5803.	http://www.iana.org/assignments/media-types/application/vnd.vd-study
+5804.	http://www.iana.org/assignments/media-types/application/vnd.vectorworks
+5805.	http://www.iana.org/assignments/media-types/application/vnd.verimatrix.vcas
+5806.	http://www.iana.org/assignments/media-types/application/vnd.vidsoft.vidconference
+5807.	http://www.iana.org/assignments/media-types/application/vnd.visio
+5808.	http://www.iana.org/assignments/media-types/application/vnd.visionary
+5809.	http://www.iana.org/assignments/media-types/application/vnd.vividence.scriptfile
+5810.	http://www.iana.org/assignments/media-types/application/vnd.vsf
+5811.	http://www.iana.org/assignments/media-types/application/vnd.wap.sic
+5812.	http://www.iana.org/assignments/media-types/application/vnd.wap-slc
+5813.	http://www.iana.org/assignments/media-types/application/vnd.wap-wbxml
+5814.	http://www.iana.org/assignments/media-types/application/vnd-wap-wmlc
+5815.	http://www.iana.org/assignments/media-types/application/vnd.wap.wmlscriptc
+5816.	http://www.iana.org/assignments/media-types/application/vnd.webturbo
+5817.	http://www.iana.org/assignments/media-types/application/vnd.wfa.p2p
+5818.	http://www.iana.org/assignments/media-types/application/vnd.wfa.wsc
+5819.	http://www.iana.org/assignments/media-types/application/vnd.windows.devicepairing
+5820.	http://www.iana.org/assignments/media-types/application/vnd.wmc
+5821.	http://www.iana.org/assignments/media-types/application/vnd.wmf.bootstrap
+5822.	http://www.iana.org/assignments/media-types/application/vnd.wolfram.mathematica
+5823.	http://www.iana.org/assignments/media-types/application/vnd.wolfram.mathematica.package
+5824.	http://www.iana.org/assignments/media-types/application/vnd.wolfram.player
+5825.	http://www.iana.org/assignments/media-types/application/vnd.wordperfect
+5826.	http://www.iana.org/assignments/media-types/application/vnd.wqd
+5827.	http://www.iana.org/assignments/media-types/application/vnd.wrq-hp3000-labelled
+5828.	http://www.iana.org/assignments/media-types/application/vnd.wt.stf
+5829.	http://www.iana.org/assignments/media-types/application/vnd.wv.csp
+5830.	http://www.iana.org/assignments/media-types/application/vnd.wv.ssp
+5831.	http://www.iana.org/assignments/media-types/application/vnd.xacml
+5832.	http://www.iana.org/assignments/media-types/application/vnd.xara
+5833.	http://www.iana.org/assignments/media-types/application/vnd.xfdl
+5834.	http://www.iana.org/assignments/media-types/application/vnd.xfdl.webform
+5835.	http://www.iana.org/assignments/media-types/application/vnd.xmi
+5836.	http://www.iana.org/assignments/media-types/application/vnd.xmpie.cpkg
+5837.	http://www.iana.org/assignments/media-types/application/vnd.xmpie.dpkg
+5838.	http://www.iana.org/assignments/media-types/application/vnd.xmpie.plan
+5839.	http://www.iana.org/assignments/media-types/application/vnd.xmpie.ppkg
+5840.	http://www.iana.org/assignments/media-types/application/vnd.xmpie.xlim
+5841.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-dic
+5842.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-script
+5843.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-voice
+5844.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat
+5845.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat.osfpvg
+5846.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.remote-setup
+5847.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-audio
+5848.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-phrase
+5849.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.through-ngn
+5850.	http://www.iana.org/assignments/media-types/application/vnd.yamaha.tunnel-udpencap
+5851.	http://www.iana.org/assignments/media-types/application/vnd.yaoweme
+5852.	http://www.iana.org/assignments/media-types/application/vnd.yellowriver-custom-menu
+5853.	http://www.iana.org/assignments/media-types/application/vnd.zul
+5854.	http://www.iana.org/assignments/media-types/application/vnd.zzazz.deck
+5855.	http://www.iana.org/assignments/media-types/application/voicexml
+5856.	http://www.iana.org/assignments/media-types/application/vq-rtcpxr
+5857.	http://www.iana.org/assignments/media-types/application/vwg-multiplexed
+5858.	http://www.iana.org/assignments/media-types/application/watcherinfo
+5859.	http://www.iana.org/assignments/media-types/application/whoispp-query
+5860.	http://www.iana.org/assignments/media-types/application/whoispp-response
+5861.	http://www.iana.org/assignments/media-types/application/wita
+5862.	http://www.iana.org/assignments/media-types/application/wordperfect5.1
+5863.	http://www.iana.org/assignments/media-types/application/wsdl
+5864.	http://www.iana.org/assignments/media-types/application/wspolicy
+5865.	http://www.iana.org/assignments/media-types/application/x400-bp
+5866.	http://www.iana.org/assignments/media-types/application/xacml
+5867.	http://www.iana.org/assignments/media-types/application/xcap-att
+5868.	http://www.iana.org/assignments/media-types/application/xcap-caps
+5869.	http://www.iana.org/assignments/media-types/application/xcap-diff
+5870.	http://www.iana.org/assignments/media-types/application/xcap-el
+5871.	http://www.iana.org/assignments/media-types/application/xcap-error
+5872.	http://www.iana.org/assignments/media-types/application/xcap-ns
+5873.	http://www.iana.org/assignments/media-types/application/xcon-conference-info
+5874.	http://www.iana.org/assignments/media-types/application/xcon-conference-info-diff
+5875.	http://www.iana.org/assignments/media-types/application/xenc
+5876.	http://www.iana.org/assignments/media-types/application/xhtml
+5877.	http://www.iana.org/assignments/media-types/application/xhtml-voice
+5878.	http://www.iana.org/assignments/media-types/application/xml
+5879.	http://www.iana.org/assignments/media-types/application/xml-dtd
+5880.	http://www.iana.org/assignments/media-types/application/xml-external-parsed-entity
+5881.	http://www.iana.org/assignments/media-types/application/xml-patch
+5882.	http://www.iana.org/assignments/media-types/application/xmpp
+5883.	http://www.iana.org/assignments/media-types/application/xop
+5884.	http://www.iana.org/assignments/media-types/application/xv
+5885.	http://www.iana.org/assignments/media-types/application/x-www-form-urlencoded
+5886.	http://www.iana.org/assignments/media-types/application/yang
+5887.	http://www.iana.org/assignments/media-types/application/yin
+5888.	http://www.iana.org/assignments/media-types/application/zip
+5889.	http://www.iana.org/assignments/media-types/application/zlib
+5890.	http://www.iana.org/assignments/media-types/audio/1d-interleaved-parityfec
+5891.	http://www.iana.org/assignments/media-types/audio/32kadpcm
+5892.	http://www.iana.org/assignments/media-types/audio/3gpp
+5893.	http://www.iana.org/assignments/media-types/audio/3gpp2
+5894.	http://www.iana.org/assignments/media-types/audio/ac3
+5895.	http://www.iana.org/assignments/media-types/audio/AMR
+5896.	http://www.iana.org/assignments/media-types/audio/amr-wb
+5897.	http://www.iana.org/assignments/media-types/audio/AMR-WB
+5898.	http://www.iana.org/assignments/media-types/audio/aptx
+5899.	http://www.iana.org/assignments/media-types/audio/asc
+5900.	http://www.iana.org/assignments/media-types/audio/ATRAC3
+5901.	http://www.iana.org/assignments/media-types/audio/ATRAC-ADVANCED-LOSSLESS
+5902.	http://www.iana.org/assignments/media-types/audio/ATRAC-X
+5903.	http://www.iana.org/assignments/media-types/audio/basic
+5904.	http://www.iana.org/assignments/media-types/audio/BV16
+5905.	http://www.iana.org/assignments/media-types/audio/BV32
+5906.	http://www.iana.org/assignments/media-types/audio/clearmode
+5907.	http://www.iana.org/assignments/media-types/audio/CN
+5908.	http://www.iana.org/assignments/media-types/audio/DAT12
+5909.	http://www.iana.org/assignments/media-types/audio/dls
+5910.	http://www.iana.org/assignments/media-types/audio/dsr-es201108
+5911.	http://www.iana.org/assignments/media-types/audio/dsr-es202050
+5912.	http://www.iana.org/assignments/media-types/audio/dsr-es202211
+5913.	http://www.iana.org/assignments/media-types/audio/dsr-es202212
+5914.	http://www.iana.org/assignments/media-types/audio/DV
+5915.	http://www.iana.org/assignments/media-types/audio/DVI4
+5916.	http://www.iana.org/assignments/media-types/audio/eac3
+5917.	http://www.iana.org/assignments/media-types/audio/encaprtp
+5918.	http://www.iana.org/assignments/media-types/audio/EVRC
+5919.	http://www.iana.org/assignments/media-types/audio/EVRC0
+5920.	http://www.iana.org/assignments/media-types/audio/EVRC1
+5921.	http://www.iana.org/assignments/media-types/audio/EVRCB
+5922.	http://www.iana.org/assignments/media-types/audio/EVRCB0
+5923.	http://www.iana.org/assignments/media-types/audio/EVRCB1
+5924.	http://www.iana.org/assignments/media-types/audio/EVRCNW
+5925.	http://www.iana.org/assignments/media-types/audio/EVRCNW0
+5926.	http://www.iana.org/assignments/media-types/audio/EVRCNW1
+5927.	http://www.iana.org/assignments/media-types/audio/EVRC-QCP
+5928.	http://www.iana.org/assignments/media-types/audio/EVRCWB
+5929.	http://www.iana.org/assignments/media-types/audio/EVRCWB0
+5930.	http://www.iana.org/assignments/media-types/audio/EVRCWB1
+5931.	http://www.iana.org/assignments/media-types/audio/example
+5932.	http://www.iana.org/assignments/media-types/audio/fwdred
+5933.	http://www.iana.org/assignments/media-types/audio/G719
+5934.	http://www.iana.org/assignments/media-types/audio/G721
+5935.	http://www.iana.org/assignments/media-types/audio/G722
+5936.	http://www.iana.org/assignments/media-types/audio/G723
+5937.	http://www.iana.org/assignments/media-types/audio/G726-16
+5938.	http://www.iana.org/assignments/media-types/audio/G726-24
+5939.	http://www.iana.org/assignments/media-types/audio/G726-32
+5940.	http://www.iana.org/assignments/media-types/audio/G726-40
+5941.	http://www.iana.org/assignments/media-types/audio/G728
+5942.	http://www.iana.org/assignments/media-types/audio/G729
+5943.	http://www.iana.org/assignments/media-types/audio/G729D
+5944.	http://www.iana.org/assignments/media-types/audio/G729E
+5945.	http://www.iana.org/assignments/media-types/audio/GSM
+5946.	http://www.iana.org/assignments/media-types/audio/GSM-EFR
+5947.	http://www.iana.org/assignments/media-types/audio/GSM-HR-08
+5948.	http://www.iana.org/assignments/media-types/audio/iLBC
+5949.	http://www.iana.org/assignments/media-types/audio/ip-mr_v2.5
+5950.	http://www.iana.org/assignments/media-types/audio/L16
+5951.	http://www.iana.org/assignments/media-types/audio/L20
+5952.	http://www.iana.org/assignments/media-types/audio/L24
+5953.	http://www.iana.org/assignments/media-types/audio/L8
+5954.	http://www.iana.org/assignments/media-types/audio/LPC
+5955.	http://www.iana.org/assignments/media-types/audio/mobile-xmf
+5956.	http://www.iana.org/assignments/media-types/audio/mp4
+5957.	http://www.iana.org/assignments/media-types/audio/MP4A-LATM
+5958.	http://www.iana.org/assignments/media-types/audio/MPA
+5959.	http://www.iana.org/assignments/media-types/audio/mpa-robust
+5960.	http://www.iana.org/assignments/media-types/audio/mpeg
+5961.	http://www.iana.org/assignments/media-types/audio/mpeg4-generic
+5962.	http://www.iana.org/assignments/media-types/audio/ogg
+5963.	http://www.iana.org/assignments/media-types/audio/PCMA
+5964.	http://www.iana.org/assignments/media-types/audio/PCMA-WB
+5965.	http://www.iana.org/assignments/media-types/audio/PCMU
+5966.	http://www.iana.org/assignments/media-types/audio/PCMU-WB
+5967.	http://www.iana.org/assignments/media-types/audio/prs.sid
+5968.	http://www.iana.org/assignments/media-types/audio/raptorfec
+5969.	http://www.iana.org/assignments/media-types/audio/RED
+5970.	http://www.iana.org/assignments/media-types/audio/rtp-enc-aescm128
+5971.	http://www.iana.org/assignments/media-types/audio/rtploopback
+5972.	http://www.iana.org/assignments/media-types/audio/rtp-midi
+5973.	http://www.iana.org/assignments/media-types/audio/rtx
+5974.	http://www.iana.org/assignments/media-types/audio/SMV
+5975.	http://www.iana.org/assignments/media-types/audio/SMV0
+5976.	http://www.iana.org/assignments/media-types/audio/SMV-QCP
+5977.	http://www.iana.org/assignments/media-types/audio/speex
+5978.	http://www.iana.org/assignments/media-types/audio/sp-midi
+5979.	http://www.iana.org/assignments/media-types/audio/t140c
+5980.	http://www.iana.org/assignments/media-types/audio/t38
+5981.	http://www.iana.org/assignments/media-types/audio/telephone-event
+5982.	http://www.iana.org/assignments/media-types/audio/tone
+5983.	http://www.iana.org/assignments/media-types/audio/UEMCLIP
+5984.	http://www.iana.org/assignments/media-types/audio/ulpfec
+5985.	http://www.iana.org/assignments/media-types/audio/VDVI
+5986.	http://www.iana.org/assignments/media-types/audio/VMR-WB
+5987.	http://www.iana.org/assignments/media-types/audio/vnd.3gpp.iufp
+5988.	http://www.iana.org/assignments/media-types/audio/vnd.4SB
+5989.	http://www.iana.org/assignments/media-types/audio/vnd.audiokoz
+5990.	http://www.iana.org/assignments/media-types/audio/vnd.CELP
+5991.	http://www.iana.org/assignments/media-types/audio/vnd.cisco.nse
+5992.	http://www.iana.org/assignments/media-types/audio/vnd.cmles.radio-events
+5993.	http://www.iana.org/assignments/media-types/audio/vnd.cns.anp1
+5994.	http://www.iana.org/assignments/media-types/audio/vnd.cns.inf1
+5995.	http://www.iana.org/assignments/media-types/audio/vnd.dece.audio
+5996.	http://www.iana.org/assignments/media-types/audio/vnd.digital-winds
+5997.	http://www.iana.org/assignments/media-types/audio/vnd.dlna.adts
+5998.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.heaac.1
+5999.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.heaac.2
+6000.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.mlp
+6001.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.mps
+6002.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.pl2
+6003.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.pl2x
+6004.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.pl2z
+6005.	http://www.iana.org/assignments/media-types/audio/vnd.dolby.pulse.1
+6006.	http://www.iana.org/assignments/media-types/audio/vnd.dra
+6007.	http://www.iana.org/assignments/media-types/audio/vnd.dts
+6008.	http://www.iana.org/assignments/media-types/audio/vnd.dts.hd
+6009.	http://www.iana.org/assignments/media-types/audio/vnd.dvb.file
+6010.	http://www.iana.org/assignments/media-types/audio/vnd.everad.plj
+6011.	http://www.iana.org/assignments/media-types/audio/vnd.hns.audio
+6012.	http://www.iana.org/assignments/media-types/audio/vnd.lucent.voice
+6013.	http://www.iana.org/assignments/media-types/audio/vnd.ms-playready.media.pya
+6014.	http://www.iana.org/assignments/media-types/audio/vnd.nokia.mobile-xmf
+6015.	http://www.iana.org/assignments/media-types/audio/vnd.nortel.vbk
+6016.	http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp4800
+6017.	http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp7470
+6018.	http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp9600
+6019.	http://www.iana.org/assignments/media-types/audio/vnd.octel.sbc
+6020.	http://www.iana.org/assignments/media-types/audio/vnd.qcelp
+6021.	http://www.iana.org/assignments/media-types/audio/vnd.rhetorex.32kadpcm
+6022.	http://www.iana.org/assignments/media-types/audio/vnd.rip
+6023.	http://www.iana.org/assignments/media-types/audio/vnd.sealedmedia.softseal-mpeg
+6024.	http://www.iana.org/assignments/media-types/audio/vnd.vmx.cvsd
+6025.	http://www.iana.org/assignments/media-types/audio/vorbis
+6026.	http://www.iana.org/assignments/media-types/audio/vorbis-config
+6027.	http://www.iana.org/assignments/media-types/image/cgm
+6028.	http://www.iana.org/assignments/media-types/image/example
+6029.	http://www.iana.org/assignments/media-types/image/fits
+6030.	http://www.iana.org/assignments/media-types/image/g3fax
+6031.	http://www.iana.org/assignments/media-types/image/jp2
+6032.	http://www.iana.org/assignments/media-types/image/jpm
+6033.	http://www.iana.org/assignments/media-types/image/jpx
+6034.	http://www.iana.org/assignments/media-types/image/naplps
+6035.	http://www.iana.org/assignments/media-types/image/png
+6036.	http://www.iana.org/assignments/media-types/image/prs.btif
+6037.	http://www.iana.org/assignments/media-types/image/prs.pti
+6038.	http://www.iana.org/assignments/media-types/image/pwg-raster
+6039.	http://www.iana.org/assignments/media-types/image/t38
+6040.	http://www.iana.org/assignments/media-types/image/tiff
+6041.	http://www.iana.org/assignments/media-types/image/tiff-fx
+6042.	http://www.iana.org/assignments/media-types/image/vnd.adobe.photoshop
+6043.	http://www.iana.org/assignments/media-types/image/vnd.airzip.accelerator.azv
+6044.	http://www.iana.org/assignments/media-types/image/vnd.cns.inf2
+6045.	http://www.iana.org/assignments/media-types/image/vnd.dece.graphic
+6046.	http://www.iana.org/assignments/media-types/image/vnd-djvu
+6047.	http://www.iana.org/assignments/media-types/image/vnd.dvb.subtitle
+6048.	http://www.iana.org/assignments/media-types/image/vnd.dwg
+6049.	http://www.iana.org/assignments/media-types/image/vnd.dxf
+6050.	http://www.iana.org/assignments/media-types/image/vnd.fastbidsheet
+6051.	http://www.iana.org/assignments/media-types/image/vnd.fpx
+6052.	http://www.iana.org/assignments/media-types/image/vnd.fst
+6053.	http://www.iana.org/assignments/media-types/image/vnd.fujixerox.edmics-mmr
+6054.	http://www.iana.org/assignments/media-types/image/vnd.fujixerox.edmics-rlc
+6055.	http://www.iana.org/assignments/media-types/image/vnd.globalgraphics.pgb
+6056.	http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon
+6057.	http://www.iana.org/assignments/media-types/image/vnd.mix
+6058.	http://www.iana.org/assignments/media-types/image/vnd.ms-modi
+6059.	http://www.iana.org/assignments/media-types/image/vnd.net-fpx
+6060.	http://www.iana.org/assignments/media-types/image/vnd.radiance
+6061.	http://www.iana.org/assignments/media-types/image/vnd.sealedmedia.softseal-gif
+6062.	http://www.iana.org/assignments/media-types/image/vnd.sealedmedia.softseal-jpg
+6063.	http://www.iana.org/assignments/media-types/image/vnd.sealed-png
+6064.	http://www.iana.org/assignments/media-types/image/vnd-svf
+6065.	http://www.iana.org/assignments/media-types/image/vnd.tencent.tap
+6066.	http://www.iana.org/assignments/media-types/image/vnd.valve.source.texture
+6067.	http://www.iana.org/assignments/media-types/image/vnd-wap-wbmp
+6068.	http://www.iana.org/assignments/media-types/image/vnd.xiff
+6069.	http://www.iana.org/assignments/media-types/media-types.xhtml
+6070.	http://www.iana.org/assignments/media-types/message/CPIM
+6071.	http://www.iana.org/assignments/media-types/message/delivery-status
+6072.	http://www.iana.org/assignments/media-types/message/disposition-notification
+6073.	http://www.iana.org/assignments/media-types/message/example
+6074.	http://www.iana.org/assignments/media-types/message/feedback-report
+6075.	http://www.iana.org/assignments/media-types/message/global
+6076.	http://www.iana.org/assignments/media-types/message/global-delivery-status
+6077.	http://www.iana.org/assignments/media-types/message/global-disposition-notification
+6078.	http://www.iana.org/assignments/media-types/message/global-headers
+6079.	http://www.iana.org/assignments/media-types/message/http
+6080.	http://www.iana.org/assignments/media-types/message/imdn
+6081.	http://www.iana.org/assignments/media-types/message/news
+6082.	http://www.iana.org/assignments/media-types/message/s-http
+6083.	http://www.iana.org/assignments/media-types/message/sip
+6084.	http://www.iana.org/assignments/media-types/message/sipfrag
+6085.	http://www.iana.org/assignments/media-types/message/tracking-status
+6086.	http://www.iana.org/assignments/media-types/message/vnd.si.simp
+6087.	http://www.iana.org/assignments/media-types/message/vnd.wfa.wsc
+6088.	http://www.iana.org/assignments/media-types/model/example
+6089.	http://www.iana.org/assignments/media-types/model/iges
+6090.	http://www.iana.org/assignments/media-types/model/vnd.collada
+6091.	http://www.iana.org/assignments/media-types/model/vnd-dwf
+6092.	http://www.iana.org/assignments/media-types/model/vnd.flatland.3dml
+6093.	http://www.iana.org/assignments/media-types/model/vnd.gdl
+6094.	http://www.iana.org/assignments/media-types/model/vnd.gs-gdl
+6095.	http://www.iana.org/assignments/media-types/model/vnd.gtw
+6096.	http://www.iana.org/assignments/media-types/model/vnd.moml
+6097.	http://www.iana.org/assignments/media-types/model/vnd.mts
+6098.	http://www.iana.org/assignments/media-types/model/vnd.opengex
+6099.	http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit-binary
+6100.	http://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit-text
+6101.	http://www.iana.org/assignments/media-types/model/vnd.valve.source.compiled-map
+6102.	http://www.iana.org/assignments/media-types/model/vnd.vtu
+6103.	http://www.iana.org/assignments/media-types/model/x3d
+6104.	http://www.iana.org/assignments/media-types/model/x3d-vrml
+6105.	http://www.iana.org/assignments/media-types/multipart/appledouble
+6106.	http://www.iana.org/assignments/media-types/multipart/byteranges
+6107.	http://www.iana.org/assignments/media-types/multipart/encrypted
+6108.	http://www.iana.org/assignments/media-types/multipart/example
+6109.	http://www.iana.org/assignments/media-types/multipart/form-data
+6110.	http://www.iana.org/assignments/media-types/multipart/header-set
+6111.	http://www.iana.org/assignments/media-types/multipart/related
+6112.	http://www.iana.org/assignments/media-types/multipart/report
+6113.	http://www.iana.org/assignments/media-types/multipart/signed
+6114.	http://www.iana.org/assignments/media-types/multipart/voice-message
+6115.	http://www.iana.org/assignments/media-types/multipart/x-mixed-replace
+6116.	http://www.iana.org/assignments/media-types/text/1d-interleaved-parityfec
+6117.	http://www.iana.org/assignments/media-types/text/cache-manifest
+6118.	http://www.iana.org/assignments/media-types/text/calendar
+6119.	http://www.iana.org/assignments/media-types/text/css
+6120.	http://www.iana.org/assignments/media-types/text/csv
+6121.	http://www.iana.org/assignments/media-types/text/directory
+6122.	http://www.iana.org/assignments/media-types/text/dns
+6123.	http://www.iana.org/assignments/media-types/text/ecmascript
+6124.	http://www.iana.org/assignments/media-types/text/encaprtp
+6125.	http://www.iana.org/assignments/media-types/text/example
+6126.	http://www.iana.org/assignments/media-types/text/fwdred
+6127.	http://www.iana.org/assignments/media-types/text/grammar-ref-list
+6128.	http://www.iana.org/assignments/media-types/text/html
+6129.	http://www.iana.org/assignments/media-types/text/javascript
+6130.	http://www.iana.org/assignments/media-types/text/jcr-cnd
+6131.	http://www.iana.org/assignments/media-types/text/mizar
+6132.	http://www.iana.org/assignments/media-types/text/n3
+6133.	http://www.iana.org/assignments/media-types/text/parameters
+6134.	http://www.iana.org/assignments/media-types/text/provenance-notation
+6135.	http://www.iana.org/assignments/media-types/text/prs.fallenstein.rst
+6136.	http://www.iana.org/assignments/media-types/text/prs.lines.tag
+6137.	http://www.iana.org/assignments/media-types/text/raptorfec
+6138.	http://www.iana.org/assignments/media-types/text/RED
+6139.	http://www.iana.org/assignments/media-types/text/rfc822-headers
+6140.	http://www.iana.org/assignments/media-types/text/rtf
+6141.	http://www.iana.org/assignments/media-types/text/rtp-enc-aescm128
+6142.	http://www.iana.org/assignments/media-types/text/rtploopback
+6143.	http://www.iana.org/assignments/media-types/text/rtx
+6144.	http://www.iana.org/assignments/media-types/text/SGML
+6145.	http://www.iana.org/assignments/media-types/text/t140
+6146.	http://www.iana.org/assignments/media-types/text/tab-separated-values
+6147.	http://www.iana.org/assignments/media-types/text/troff
+6148.	http://www.iana.org/assignments/media-types/text/turtle
+6149.	http://www.iana.org/assignments/media-types/text/ulpfec
+6150.	http://www.iana.org/assignments/media-types/text/uri-list
+6151.	http://www.iana.org/assignments/media-types/text/vcard
+6152.	http://www.iana.org/assignments/media-types/text/vnd-a
+6153.	http://www.iana.org/assignments/media-types/text/vnd.abc
+6154.	http://www.iana.org/assignments/media-types/text/vnd-curl
+6155.	http://www.iana.org/assignments/media-types/text/vnd.debian.copyright
+6156.	http://www.iana.org/assignments/media-types/text/vnd.DMClientScript
+6157.	http://www.iana.org/assignments/media-types/text/vnd.dvb.subtitle
+6158.	http://www.iana.org/assignments/media-types/text/vnd.esmertec.theme-descriptor
+6159.	http://www.iana.org/assignments/media-types/text/vnd.fly
+6160.	http://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor
+6161.	http://www.iana.org/assignments/media-types/text/vnd.graphviz
+6162.	http://www.iana.org/assignments/media-types/text/vnd.in3d.3dml
+6163.	http://www.iana.org/assignments/media-types/text/vnd.in3d.spot
+6164.	http://www.iana.org/assignments/media-types/text/vnd.IPTC.NewsML
+6165.	http://www.iana.org/assignments/media-types/text/vnd.IPTC.NITF
+6166.	http://www.iana.org/assignments/media-types/text/vnd.latex-z
+6167.	http://www.iana.org/assignments/media-types/text/vnd.motorola.reflex
+6168.	http://www.iana.org/assignments/media-types/text/vnd.ms-mediapackage
+6169.	http://www.iana.org/assignments/media-types/text/vnd.net2phone.commcenter.command
+6170.	http://www.iana.org/assignments/media-types/text/vnd.radisys.msml-basic-layout
+6171.	http://www.iana.org/assignments/media-types/text/vnd.si.uricatalogue
+6172.	http://www.iana.org/assignments/media-types/text/vnd.sun.j2me.app-descriptor
+6173.	http://www.iana.org/assignments/media-types/text/vnd.trolltech.linguist
+6174.	http://www.iana.org/assignments/media-types/text/vnd.wap.si
+6175.	http://www.iana.org/assignments/media-types/text/vnd.wap.sl
+6176.	http://www.iana.org/assignments/media-types/text/vnd.wap-wml
+6177.	http://www.iana.org/assignments/media-types/text/vnd.wap.wmlscript
+6178.	http://www.iana.org/assignments/media-types/text/xml
+6179.	http://www.iana.org/assignments/media-types/text/xml-external-parsed-entity
+6180.	http://www.iana.org/assignments/media-types/text/yaml
+6181.	http://www.iana.org/assignments/media-types/video/1d-interleaved-parityfec
+6182.	http://www.iana.org/assignments/media-types/video/3gpp
+6183.	http://www.iana.org/assignments/media-types/video/3gpp2
+6184.	http://www.iana.org/assignments/media-types/video/3gpp-tt
+6185.	http://www.iana.org/assignments/media-types/video/BMPEG
+6186.	http://www.iana.org/assignments/media-types/video/BT656
+6187.	http://www.iana.org/assignments/media-types/video/CelB
+6188.	http://www.iana.org/assignments/media-types/video/DV
+6189.	http://www.iana.org/assignments/media-types/video/encaprtp
+6190.	http://www.iana.org/assignments/media-types/video/example
+6191.	http://www.iana.org/assignments/media-types/video/H261
+6192.	http://www.iana.org/assignments/media-types/video/H263
+6193.	http://www.iana.org/assignments/media-types/video/H263-1998
+6194.	http://www.iana.org/assignments/media-types/video/H263-2000
+6195.	http://www.iana.org/assignments/media-types/video/H264
+6196.	http://www.iana.org/assignments/media-types/video/H264-RCDO
+6197.	http://www.iana.org/assignments/media-types/video/H264-SVC
+6198.	http://www.iana.org/assignments/media-types/video/iso.segment
+6199.	http://www.iana.org/assignments/media-types/video/JPEG
+6200.	http://www.iana.org/assignments/media-types/video/jpeg2000
+6201.	http://www.iana.org/assignments/media-types/video/mj2
+6202.	http://www.iana.org/assignments/media-types/video/MP1S
+6203.	http://www.iana.org/assignments/media-types/video/MP2P
+6204.	http://www.iana.org/assignments/media-types/video/MP2T
+6205.	http://www.iana.org/assignments/media-types/video/mp4
+6206.	http://www.iana.org/assignments/media-types/video/MP4V-ES
+6207.	http://www.iana.org/assignments/media-types/video/mpeg4-generic
+6208.	http://www.iana.org/assignments/media-types/video/MPV
+6209.	http://www.iana.org/assignments/media-types/video/nv
+6210.	http://www.iana.org/assignments/media-types/video/ogg
+6211.	http://www.iana.org/assignments/media-types/video/pointer
+6212.	http://www.iana.org/assignments/media-types/video/quicktime
+6213.	http://www.iana.org/assignments/media-types/video/raptorfec
+6214.	http://www.iana.org/assignments/media-types/video/rtp-enc-aescm128
+6215.	http://www.iana.org/assignments/media-types/video/rtploopback
+6216.	http://www.iana.org/assignments/media-types/video/rtx
+6217.	http://www.iana.org/assignments/media-types/video/SMPTE292M
+6218.	http://www.iana.org/assignments/media-types/video/ulpfec
+6219.	http://www.iana.org/assignments/media-types/video/vc1
+6220.	http://www.iana.org/assignments/media-types/video/vnd.CCTV
+6221.	http://www.iana.org/assignments/media-types/video/vnd.dece.hd
+6222.	http://www.iana.org/assignments/media-types/video/vnd.dece.mobile
+6223.	http://www.iana.org/assignments/media-types/video/vnd.dece-mp4
+6224.	http://www.iana.org/assignments/media-types/video/vnd.dece.pd
+6225.	http://www.iana.org/assignments/media-types/video/vnd.dece.sd
+6226.	http://www.iana.org/assignments/media-types/video/vnd.dece.video
+6227.	http://www.iana.org/assignments/media-types/video/vnd.directv-mpeg
+6228.	http://www.iana.org/assignments/media-types/video/vnd.directv.mpeg-tts
+6229.	http://www.iana.org/assignments/media-types/video/vnd.dlna.mpeg-tts
+6230.	http://www.iana.org/assignments/media-types/video/vnd.dvb.file
+6231.	http://www.iana.org/assignments/media-types/video/vnd.fvt
+6232.	http://www.iana.org/assignments/media-types/video/vnd.hns.video
+6233.	http://www.iana.org/assignments/media-types/video/vnd.iptvforum.1dparityfec-1010
+6234.	http://www.iana.org/assignments/media-types/video/vnd.iptvforum.1dparityfec-2005
+6235.	http://www.iana.org/assignments/media-types/video/vnd.iptvforum.2dparityfec-1010
+6236.	http://www.iana.org/assignments/media-types/video/vnd.iptvforum.2dparityfec-2005
+6237.	http://www.iana.org/assignments/media-types/video/vnd.iptvforum.ttsavc
+6238.	http://www.iana.org/assignments/media-types/video/vnd.iptvforum.ttsmpeg2
+6239.	http://www.iana.org/assignments/media-types/video/vnd.motorola.video
+6240.	http://www.iana.org/assignments/media-types/video/vnd.motorola.videop
+6241.	http://www.iana.org/assignments/media-types/video/vnd-mpegurl
+6242.	http://www.iana.org/assignments/media-types/video/vnd.ms-playready.media.pyv
+6243.	http://www.iana.org/assignments/media-types/video/vnd.nokia.interleaved-multimedia
+6244.	http://www.iana.org/assignments/media-types/video/vnd.nokia.videovoip
+6245.	http://www.iana.org/assignments/media-types/video/vnd.objectvideo
+6246.	http://www.iana.org/assignments/media-types/video/vnd.radgamettools.bink
+6247.	http://www.iana.org/assignments/media-types/video/vnd.radgamettools.smacker
+6248.	http://www.iana.org/assignments/media-types/video/vnd.sealedmedia.softseal-mov
+6249.	http://www.iana.org/assignments/media-types/video/vnd.sealed.mpeg1
+6250.	http://www.iana.org/assignments/media-types/video/vnd.sealed.mpeg4
+6251.	http://www.iana.org/assignments/media-types/video/vnd.sealed-swf
+6252.	http://www.iana.org/assignments/media-types/video/vnd.uvvu-mp4
+6253.	http://www.iana.org/assignments/media-types/video/vnd-vivo
+6254.	http://www.iana.org/assignments/port-numbers
+6255.	http://www.iana.org/assignments/protocol-numbers
+6256.	http://www.iana.org/assignments/protocol-numbers/.
+6257.	http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xml
+6258.	http://www.iana.org/assignments/telnet-options
+6259.	http://www.iana.org/go/
+6260.	http://www.iana.org/go/draft-ietf-appsawg-json-merge-patch-07
+6261.	http://www.iana.org/go/rfc4239
+6262.	http://www.iana.org/time-zones
+6263.	http://www.ibiblio.org/xml/examples/shakespeare/hamlet.xml
+6264.	http://www.ibm.com/
+6265.	http://www.ibm.com.
+6266.	http://www.ibsensoftware.com/
+6267.	http://www.icann.org/tlds/
+6268.	http://www.ics.uci.edu/pub/ietf/http/draft-ietf-http-v10-spec-00.txt
+6269.	http://www.icu-project.org/userguide/posix.html
+6270.	http://www.ietf.org
+6271.	http://www.ietf.org/assignments/dhcpv6-parameters/dhcpv6-parameters.xml
+6272.	http://www.ietf.org/rfc.html
+6273.	http://www.ietf.org/rfc/rfc0822.txt
+6274.	http://www.ietf.org/rfc/rfc0850.txt
+6275.	http://www.ietf.org/rfc/rfc1036.txt
+6276.	http://www.ietf.org/rfc/rfc1123.txt
+6277.	http://www.ietf.org/rfc/rfc1321.txt
+6278.	http://www.ietf.org/rfc/rfc1738.txt
+6279.	http://www.ietf.org/rfc/rfc1867.txt
+6280.	http://www.ietf.org/rfc/rfc1939.txt
+6281.	http://www.ietf.org/rfc/rfc1950.txt
+6282.	http://www.ietf.org/rfc/rfc1951.txt
+6283.	http://www.ietf.org/rfc/rfc1952.txt
+6284.	http://www.ietf.org/rfc/rfc1961.txt
+6285.	http://www.ietf.org/rfc/rfc2045.txt
+6286.	http://www.ietf.org/rfc/rfc2068.txt
+6287.	http://www.ietf.org/rfc/rfc2109.txt
+6288.	http://www.ietf.org/rfc/rfc2326.txt
+6289.	http://www.ietf.org/rfc/rfc2373.txt
+6290.	http://www.ietf.org/rfc/rfc2388.txt
+6291.	http://www.ietf.org/rfc/rfc2396.txt
+6292.	http://www.ietf.org/rfc/rfc2478.txt
+6293.	http://www.ietf.org/rfc/rfc2616.txt
+6294.	http://www.ietf.org/rfc/rfc2617.txt
+6295.	http://www.ietf.org/rfc/rfc2817.txt
+6296.	http://www.ietf.org/rfc/rfc2821.txt
+6297.	http://www.ietf.org/rfc/rfc2822.txt
+6298.	http://www.ietf.org/rfc/rfc3066.txt
+6299.	http://www.ietf.org/rfc/rfc3986.txt
+6300.	http://www.ietf.org/rfc/rfc3987.txt
+6301.	http://www.ietf.org/rfc/rfc4122.txt
+6302.	http://www.ietf.org/rfc/rfc4180.txt
+6303.	http://www.ietf.org/rfc/rfc5054.txt
+6304.	http://www.ietf.org/rfc/rfc822.txt
+6305.	http://www.ietf.org/rfc/rfc867.txt
+6306.	http://www.ietf.org/rfc/rfc959.txt
+6307.	http://www-igm.univ-mlv.fr/
+6308.	http://www.igvita.com/
+6309.	http://www.igvita.com/2008/05/27/ruby-eventmachine-the-speed-demon/
+6310.	http://www.igvita.com/2009/12/22/ruby-websockets-tcp-for-the-browser/
+6311.	http://www.ijs.si/software/snprintf/
+6312.	http://www.indiana.edu/cgi-bin-local/mimetypes
+6313.	http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
+6314.	http://www.info.com.ph/
+6315.	http://www.informatik.uni-konstanz.de/
+6316.	http://www.informatik.uni-oldenburg.de/leute/hoenicke.html
+6317.	http://www.informit.com/articles/article.aspx?p=683059
+6318.	http://www.info-zip.org/
+6319.	http://www.initd.org/pub/software/pysqlite/doc/usage-guide.html
+6320.	http://www.initio.com/Html/inic-1608.html
+6321.	http://www.inkscape.org/
+6322.	http://www.inkscape.org/namespaces/inkscape
+6323.	http://www.innaworks.com/
+6324.	http://www.innaworks.com/mBooster
+6325.	http://www.inria.fr/koala/colas/mouse-wheel-scroll/
+6326.	http://www.instantcocoa.com/products/pTerm/
+6327.	http://www.intel.com/design/chipsets/manuals/29802801.p
+6328.	http://www.intel.com/technology/framework/
+6329.	http://www.intel.com/technology/framework/spec.htm
+6330.	http://www.isi.edu/in-notes/iana/assignments/media-types
+6331.	http://www.isogen.com/paul/post-processor
+6332.	http://www.iso.org/iso/date_and_time_format
+6333.	http://www.iso.org/iso/en/prods-services/iso3166ma/04background-on-iso-3166/iso3166-1-and-ccTLDs.html
+6334.	http://www.iso.org/iso/home/standards/country_codes/updates_on_iso_3166.htm
+6335.	http://www.isthe.com/chongo/tech/comp/fnv/
+6336.	http://www.itl.nist.gov.
+6337.	http://www.itl.nist.gov/div897/ctg/sql_form.htm
+6338.	http://www.itl.nist.gov/div897/pubs/fip180-1.htm
+6339.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm
+6340.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3531.htm
+6341.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda353.htm
+6342.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3581.htm
+6343.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda358.htm
+6344.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda359.htm
+6345.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm
+6346.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm
+6347.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm
+6348.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3664.htm
+6349.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3668.htm
+6350.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3669.htm
+6351.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda366b.htm
+6352.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda366g.htm
+6353.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda366h.htm
+6354.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda366i.htm
+6355.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3673.htm
+6356.	http://www.itl.nist.gov/div898/handbook/eda/section3/eda3674.htm
+6357.	http://www.itl.nist.gov/div898/handbook/eda/section4/eda428.htm
+6358.	http://www.itl.nist.gov/div898/handbook/eda/section4/eda42a1.htm
+6359.	http://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm
+6360.	http://www.itl.nist.gov/div898/handbook/prc/section2/prc232.htm
+6361.	http://www.itl.nist.gov/div898/handbook/prc/section2/prc23.htm
+6362.	http://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm
+6363.	http://www.itl.nist.gov/div898/handbook/prc/section3/prc32.htm
+6364.	http://www.itu.int/ITU-T/studygroups/com17/oid/X.667-E.pdf
+6365.	http://www.itunes.com/dtds/podcast-1.0.dtd
+6366.	http://www.jammconsulting.com/
+6367.	http://www.jammconsulting.com/jamm/servlet/com.jammconsulting.servlet.JAMMServlet?pageId=ObfuscateProPage
+6368.	http://www.javadocking.com/
+6369.	http://www.javasoft.com/products/JDK/1.1/docs/api/Package-java.util.zip.html
+6370.	http://www.javaworld.com/javaworld/jw-12-2000/jw-1229-traps.html?page=4
+6371.	http://www.jboss.org/netty
+6372.	http://www.jclark.com/sp/catalog.htm
+6373.	http://www.jclark.com/xml/canonxml.html
+6374.	http://www.jdevelop.com/
+6375.	http://www.jdevelop.com/best-java-obfuscator.html
+6376.	http://www.jjj.de/pibook/pibook.html
+6377.	http://www.joachim-bauch.de/projects/pylzma/
+6378.	http://www.joachim-faulhaber.de/boost_itl/doc/libs/icl/doc/html/boost_itl/projects.html
+6379.	http://www.josh-davis.org
+6380.	http://www.josuttis.com
+6381.	http://www.josuttis.com/
+6382.	http://www.josuttis.com/cppcode/fdstream.html.
+6383.	http://www.jproof.com/
+6384.	http://www.jroller.com/gfx/entry/get_what_you_need_from
+6385.	http://www.jruby.org/
+6386.	http://www.json.org
+6387.	http://www.JSON.org/
+6388.	http://www.jstatsoft.org/v05/a05/paper
+6389.	http://www.jstatsoft.org/v08/i14/paper
+6390.	http://www.jstatsoft.org/v26/i04/paper
+6391.	http://www.jtc1sc34.org/repository/0661.pdf
+6392.	http://www.justsoftwaresolutions.co.uk
+6393.	http://www.kame.net/dev/cvsweb.cgi/kame/COVERAGE
+6394.	http://www.kangaroologic.com/interfaces/libs/interfaces/doc/index.html
+6395.	http://www.kannel.org
+6396.	http://www.kannel.org/
+6397.	http://www.kapit.fr/flex4/ui
+6398.	http://www.kernel.org/pub/linux/devel/binutils/
+6399.	http://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/
+6400.	http://www.lafortune.eu/
+6401.	http://www.leapsecond.com/java/gpsclock.htm
+6402.	http://www.leesw.com/
+6403.	http://www.lemburg.com/files/python/mxDateTime.html
+6404.	http://www.letters.com/file
+6405.	http://www.libgd.org
+6406.	http://www.libgd.org/
+6407.	http://www.libvirt.org
+6408.	http://www.lightlink.com/xine/bells/namedcolors.html
+6409.	http://www.links.org/files/openssl-ige.pdf
+6410.	http://www.linuxnet.com
+6411.	http://www.linux.org.uk/mailman/listinfo/linuxuser
+6412.	http://www.linux.org.uk/pipermail/linuxuser/
+6413.	http://www.literatecode.com
+6414.	http://www.longnow.org/10kclock/clock.htm
+6415.	http://www.lotus.com.
+6416.	http://www.lsc.nd.edu/
+6417.	http://www.lua.org/manual/5.2/manual.html
+6418.	http://www.lysator.liu.se/
+6419.	http://www.macromedia.com/go/getflashplayer
+6420.	http://www.macruby.org/
+6421.	http://www.mail-archive.com/openssl-dev
+6422.	http://www.mail-archive.com/openssl-users
+6423.	http://www.mail-archive.com/sqlite-users
+6424.	http://www.makotemplates.org
+6425.	http://www.malloc.de
+6426.	http://www.malwr.com
+6427.	http://www.mark.masmcode.com/
+6428.	http://www.martinfowler.com/articles/mocksArentStubs.html
+6429.	http://www.martinfowler.com/bliki/TestDouble.html
+6430.	http://www.math.keio.ac.jp/
+6431.	http://www.math.keio.ac.jp/matumoto/emt.html
+6432.	http://www.math.okstate.edu/mathdept/dynamics/lecnotes/node36.html
+6433.	http://www.math.sci.hiroshima-u.ac.jp/
+6434.	http://www.math.sfu.ca/
+6435.	http://www.math.uah.edu/stat/bernoulli/Introduction.xhtml
+6436.	http://www.math.utexas.edu/users/villegas/publications/conv-accel.pdf
+6437.	http://www.mcternan.me.uk/mscgen/
+6438.	http://www.megginson.com/SAX/.
+6439.	http://www.meta-comm.com
+6440.	http://www.metrowerks.com/
+6441.	http://www.microsoft.com/
+6442.	http://www.microsoft.com/library/toolbar/3.0/trademarks/en-us.mspx.
+6443.	http://www.microsoft.com/management
+6444.	http://www.microsoft.com/mind/0499/faq/faq0499.asp
+6445.	http://www.microsoft.com/msdn/sdk/platforms/doc/sdk/win32/sys/src/conchar_34.htm
+6446.	http://www.microsoft.com/msdn/sdk/platforms/doc/sdk/win32/sys/src/conchar.htm
+6447.	http://www.microsoft.com/whdc/system/platform/server/spcr.mspx
+6448.	http://www.microsoft.com/windows95/downloads/contents/
+6449.	http://www.microsoft.com/windows95/downloads/contents/wuadmintools/s_wunetworkingtools/w95sockets2/
+6450.	http://www.mikeperham.com/2010/02/09/cassandra-and-eventmachine/
+6451.	http://www.mingw.org/wiki/MSYS
+6452.	http://www.mockobjects.com/
+6453.	http://www.mockobjects.com/files/endotesting.pdf
+6454.	http://www.mockobjects.com/files/mockrolesnotobjects.pdf
+6455.	http://www.modpython.org/
+6456.	http://www.modwsgi.org/
+6457.	http://www.mongodb.org/
+6458.	http://www.mongodb.org/display/DOCS/BSON
+6459.	http://www.moocat.org
+6460.	http://www.movable-type.co.uk/scripts/latlong.html
+6461.	http://www.movable-type.co.uk/scripts/latlong-vincenty.html
+6462.	http://www.movsd.com/bm.htm
+6463.	http://www.moxielogic.org/wiki/index.php?title=Libffi_3.0.10
+6464.	http://www.mozilla.org/MPL/
+6465.	http://www.mozilla.org/MPL/MPL-1.1.html
+6466.	http://www.mozilla.org/NPL/
+6467.	http://www.mozilla.org/products/firefox/
+6468.	http://www.mozilla.org/products/thunderbird/
+6469.	http://www.mpfr.org
+6470.	http://www.mpfr.org/algorithms.pdf
+6471.	http://www.mpfr.org/algorithms.pdf.
+6472.	http://www.msn.com
+6473.	http://www.mth.kcl.ac.uk/
+6474.	http://www.mulliner.org/android/
+6475.	http://www.mulliner.org/security/sms/
+6476.	http://www.muppetlabs.com/
+6477.	http://www.myhost.com/today
+6478.	http://www.nabble.com/SQLite-on-NFS-cache-coherency-td15655701.html
+6479.	http://www.nag.co.uk/numeric/cl/manual/pdf/G01/g01bjc.pdf
+6480.	http://www.Nash-Soft.com
+6481.	http://www.nasty.com/
+6482.	http://www.nd.edu/
+6483.	http://www.netbeans.org/download/dev/javadoc/OpenAPIs/org/openide/doc-files/upgrade.html
+6484.	http://www.netbeans.org/dtds/module-auto-deps-1_0.dtd
+6485.	http://www.netbeans.org/dtds/module-status-1_0.dtd
+6486.	http://www.netbeans.org/ns/editor-bookmarks/1
+6487.	http://www.netbeans.org/ns/make-project/1
+6488.	http://www.netbeans.org/ns/make-project-private/1
+6489.	http://www.netbeans.org/ns/project/1
+6490.	http://www.netbeans.org/ns/project-private/1
+6491.	http://www.netlib.org/f2c/libf2c.zip
+6492.	http://www.netlib.org/fp
+6493.	http://www.netlib.org/fp/dtoa.c
+6494.	http://www.netlib.org/utk/papers/templates/node90.html
+6495.	http://www.netrino.com/Connecting/2000-01/
+6496.	http://www.netscape.com/
+6497.	http://www.netscape.com/newsref/std/cookie_spec.html
+6498.	http://www.nexus.hu/upx
+6499.	http://www.nightmare.com/squirl/python-ext/misc/syslog.py
+6500.	http://www.nist.gov
+6501.	http://www.nongnu.org/sinhala/doc/transliteration/sinhala-transliteration_6.html
+6502.	http://www.novell.com/coolsolutions/feature/11251.html
+6503.	http://www.nq4.de/
+6504.	http://www.nr.com/webnotes/nr3web21.pdf
+6505.	http://www.ntcore.com/files/richsign.htm
+6506.	http://www.ntecs.de/projects/xmlrpc4r.
+6507.	http://www.ntg.nl/pipermail/ntg-pdftex/2004-July/000654.html
+6508.	http://www.ntp.org/
+6509.	http://www.nuhertz.com/statmat/distributions.html
+6510.	http://www.numericals.com/file
+6511.	http://www.nxp.com/documents/user_manual/UM10204.pdf
+6512.	http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd
+6513.	http://www.oasis-open.org/committees/entity/spec-2001-08-06.html
+6514.	http://www.oasis-open.org/committees/xml-conformance/xml-test-suite.shtml
+6515.	http://www.oasis-open.org/docbook/xml/
+6516.	http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd
+6517.	http://www.oasis-open.org/docbook/xml/4.2/
+6518.	http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd
+6519.	http://www.oasis-open.org/docbook/xml/4.2/index.shtml
+6520.	http://www.oche.de/
+6521.	http://www.omnifarious.org/
+6522.	http://www.onesite.com
+6523.	http://www.oonumerics.org/tmpw00/
+6524.	http://www.opencore.net/
+6525.	http://www.opendarwin.org/projects/dlcompat
+6526.	http://www.openevidence.org/
+6527.	http://www.opengroup.org/onlinepubs/007904975/basedefs/xbd_chap08.html
+6528.	http://www.opengroup.org/onlinepubs/007904975/functions/wcswidth.html
+6529.	http://www.opengroup.org/onlinepubs/007904975/functions/wcwidth.html
+6530.	http://www.opengroup.org/onlinepubs/007908799/xsh/asctime.html
+6531.	http://www.opengroup.org/openmotif/supporters/metrolink/license.html
+6532.	http://www.openmobilealliance.org/DTD/drmrel10.dtd
+6533.	http://www.openmobilealliance.org/DTD/WV-CSP
+6534.	http://www.openmobilealliance.org/DTD/WV-CSP.DTD
+6535.	http://www.openmobilealliance.org/DTD/WV-CSP.XML
+6536.	http://www.openmobilealliance.org/DTD/WV-PA
+6537.	http://www.openmobilealliance.org/DTD/WV-TRC
+6538.	http://www.openmobilealliance.org/tech/DTD/OMA-SyncML-Device_Information-DTD-1.2.dtd
+6539.	http://www.openmobilealliance.org/tech/DTD/OMA-TS-SyncML_MetaInfo_DTD-V1_2.dtd
+6540.	http://www.openmobilealliance.org/tech/DTD/OMA-TS-SyncML_RepPro_DTD-V1_2.dtd
+6541.	http://www.opensource.apple.com/source/PowerManagement/PowerManagement-137/pmconfigd/pmconfigd.c
+6542.	http://www.opensource.org
+6543.	http://www.opensource.org/
+6544.	http://www.opensource.org/licenses/bsd-license.html
+6545.	http://www.opensource.org/licenses/bsd-license.php
+6546.	http://www.opensource.org/licenses/lgpl-license.php
+6547.	http://www.opensource.org/licenses/mit-license.html
+6548.	http://www.opensource.org/licenses/mit-license.php
+6549.	http://www.opensource.org/licenses/PythonSoftFoundation.php
+6550.	http://www.openssl.org
+6551.	http://www.openssl.org/
+6552.	http://www.OpenSSL.org/
+6553.	http://www.openssl.org/docs/apps/ciphers.html
+6554.	http://www.openssl.org/docs/crypto/threads.html
+6555.	http://www.openssl.org/source/openssl-0.9.8w.tar.gz
+6556.	http://www.openssl.org/support/faq.html
+6557.	http://www.open-std.org/jtc1/sc22/wg14/docs/rr/dr_144.html.
+6558.	http://www.open-std.org/jtc1/sc22/wg21/
+6559.	http://www.open-std.org/jtc1/sc22/wg21/docs/cwg_defects.html
+6560.	http://www.open-std.org/JTC1/SC22/WG21/docs/cwg_defects.html
+6561.	http://www.open-std.org/jtc1/sc22/wg21/docs/lwg-defects.html
+6562.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1456.html
+6563.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1745.pdf
+6564.	http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2005/n1756.pdf
+6565.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1780.html
+6566.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1810.html
+6567.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1836.pdf
+6568.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1837.pdf
+6569.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2179.html
+6570.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2347.pdf
+6571.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2444.html
+6572.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2661.htm
+6573.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2798.pdf.
+6574.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2009/n2960.pdf
+6575.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2011/n3276.pdf
+6576.	http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2011/n3276.pdf
+6577.	http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3442.html
+6578.	http://www.opera.com/portal/startup/?fr=1
+6579.	http://www.opera.com/portal/startup/?fr=2
+6580.	http://www.opera.com/portal/startup/?fr=3
+6581.	http://www.oracle.com/hotspot/jdk/
+6582.	http://www.oracle.com/hotspot/jfr-info/
+6583.	http://www.oracle.com/hotspot/jvm/
+6584.	http://www.oracle.com/hotspot/jvm/enable-errors
+6585.	http://www.oracle.com/hotspot/jvm/enable-exceptions
+6586.	http://www.oracle.com/hotspot/jvm/file-io-threshold
+6587.	http://www.oracle.com/hotspot/jvm/socket-io-threshold
+6588.	http://www.oracle.com/missioncontrol
+6589.	http://www.oracle.com/pls/topic/lookup?ctx=acc
+6590.	http://www.oracle.com/products/export
+6591.	http://www.oracle.com/technetwork/java/javame/
+6592.	http://www.oracle.com/technetwork/java/javase/documentation/index.html
+6593.	http://www.oracle.com/technetwork/java/javase/documentation/index.html.
+6594.	http://www.oracle.com/technetwork/java/javase/overview/
+6595.	http://www.oracle.com/technetwork/java/javase/terms/license/index.html
+6596.	http://www.oracle.com/technology/documentation/berkeley-db/db/api_reference/C/frame_main.html
+6597.	http://www.oracle.com/us/legal/third-party-trademarks/index.html
+6598.	http://www.oreans.com
+6599.	http://www.orfanik.hu
+6600.	http://www.ornl.go
+6601.	http://www.ornl.gov/sgml/wg8/hytime/html/is10744r.html
+6602.	http://www.osgi.org/
+6603.	http://www.ovmj.org/jamit/
+6604.	http://www.parashift.com/c
+6605.	http://www.pathscale.com/docs.html
+6606.	http://www.paypal.com/
+6607.	http://www.pcidatabase.com/reports.php?type=csv
+6608.	http://www.pcidatabase.com/search.php?title=
+6609.	http://www.pcidatabase.com/vendors.php?sort=id
+6610.	http://www.pcisig.com.
+6611.	http://www.pcre.org
+6612.	http://www.pcre.org/
+6613.	http://www.pc-tools.net/win32/freeware/console/
+6614.	http://www.pdflib.com/
+6615.	http://www.pendrivelinux.com/xboot-multiboot-iso-usb-creator/
+6616.	http://www.pepesoft.tox.pl
+6617.	http://www.perl.com/CPAN/authors/id/STBEY/
+6618.	http://www.perlmeister.com/scripts
+6619.	http://www.perl.org/
+6620.	http://www.pgpi.org/
+6621.	http://www.pgroup.com/resources/docs.htm
+6622.	http://www.php.net/manual/en/reserved.keywords.php
+6623.	http://www.phys.uu.nl/
+6624.	http://www.pip-installer.org
+6625.	http://www.pip-installer.org/en/latest/how-to-contribute.html
+6626.	http://www.pivotaltracker.com/projects/28469
+6627.	http://www.pivotaltracker.com/story/show/1223138
+6628.	http://www.pkware.com/documents/casestudies/APPNOTE.TXT
+6629.	http://www.planetpublish.com/xmlarena/xap/Thursday/WordtoXML.pdf
+6630.	http://www.pledgie.com/campaigns/15899
+6631.	http://www.pledgie.com/campaigns/18379
+6632.	http://www.plumbdesign.com/
+6633.	http://www.pocketmagic.net/?p=1473
+6634.	http://www.pocketputty.net/
+6635.	http://www.polhode.com
+6636.	http://www.polhode.com/ansi_mr15.zip
+6637.	http://www.polhode.com/CHANGES_FROM_133_BEFORE_MR13.txt
+6638.	http://www.polhode.com/CHANGES_FROM_133.txt
+6639.	http://www.polhode.com/KNOWN_PROBLEMS.txt
+6640.	http://www.polhode.com/pccts133mr.zip
+6641.	http://www.polhode.com/pccts.html
+6642.	http://www.polhode.com/pccts.html.
+6643.	http://www.polhode.com/win32.zip
+6644.	http://www.polhode.com/win32.zip.
+6645.	http://www.postgresql.org/docs/current/static
+6646.	http://www.pps.jussieu.fr/
+6647.	http://www.preemptive.com/
+6648.	http://www.preemptive.com/products/dasho/index.html
+6649.	http://www.primenet.com/
+6650.	http://www.progressive-coding.com
+6651.	http://www.psyked.co.uk/actionscript/rotating-bitmapdata.htm
+6652.	http://www.pureatria.com/
+6653.	http://www.puttyworld.com
+6654.	http://www.python.
+6655.	http://www.pythoncom-test.com/bar
+6656.	http://www.pythoncom-test.com/foo
+6657.	http://www.python.doc/current/
+6658.	http://www.python-forum.de
+6659.	http://www.pythonlabs.com/logos.html
+6660.	http://www.python.org
+6661.	http://www.python.org/
+6662.	http://www.python.org/.
+6663.	http://www.python.org/2.2/descrintro.html
+6664.	http://www.python.org/2.4/license
+6665.	http://www.python.org/cgi-bin/faqw.py
+6666.	http://www.python.org/cgi-bin/faqw.py?req=show
+6667.	http://www.python.org/community/lists/
+6668.	http://www.python.org/community/logos/python-logo-master-v3-TM.png
+6669.	http://www.python.org/dev/
+6670.	http://www.python.org/dev/doc/devel/lib/module-decimal.html
+6671.	http://www.python.org/dev/patches/.
+6672.	http://www.python.org/dev/peps/.
+6673.	http://www.python.org/dev/peps/pep-
+6674.	http://www.python.org/dev/peps/pep-0008/
+6675.	http://www.python.org/dev/peps/pep-0205/
+6676.	http://www.python.org/dev/peps/pep-0249/
+6677.	http://www.python.org/dev/peps/pep-0257/
+6678.	http://www.python.org/dev/peps/pep-0381/
+6679.	http://www.python.org/doc/2.3/lib/module-unittest.html
+6680.	http://www.python.org/doc/2.4.1/lib/module-unittest.html
+6681.	http://www.python.org/doc/Copyright.html
+6682.	http://www.python.org/doc/essays/
+6683.	http://www.python.org/doc/faq/
+6684.	http://www.python.org/doc/lib/module-zlib.html
+6685.	http://www.python.org/download/mac/tcltk/
+6686.	http://www.python.org/download/releases/2.3/mro/.
+6687.	http://www.python.org/favicon.ico
+6688.	http://www.python.org/ftp/python/2.7.2/.
+6689.	http://www.python.org/getit/
+6690.	http://www.python.org?getspam
+6691.	http://www.python.org/idle/
+6692.	http://www.python.org/index.html
+6693.	http://www.python.org/mailman/listinfo/idle-dev
+6694.	http://www.python.org/missing-favicon.ico
+6695.	http://www.python.org/namespace
+6696.	http://www.python.org/peps/pep-0263.html
+6697.	http://www.python.org/pipermail/python-dev/2000-March/003869.html
+6698.	http://www.python.org/pipermail/python-dev/2000-March/004010.html
+6699.	http://www.python.org/pipermail/python-dev/2000-March/004022.html
+6700.	http://www.python.org/psa/
+6701.	http://www.python.org/psf/
+6702.	http://www.python.org/psf/license
+6703.	http://www.python.org/python/
+6704.	http://www.python.org/?qs=query
+6705.	http://www.python.org/robots.txt
+6706.	http://www.python.org/sax/properties/encoding
+6707.	http://www.python.org/sax/properties/interning-dict
+6708.	http://www.python.org/sf/1055820
+6709.	http://www.python.org/sf/1511497
+6710.	http://www.python.org/sf/1513611
+6711.	http://www.python.org/sf/1651235
+6712.	http://www.python.org/sf/1703286
+6713.	http://www.python.org/sf/511737
+6714.	http://www.python.org/sf/583248
+6715.	http://www.python.org/sf/586680
+6716.	http://www.python.org/sf/801631
+6717.	http://www.python.org/sf/853506
+6718.	http://www.python.org/sigs/distutils-sig/
+6719.	http://www.python.org/sigs/pythonmac-sig/
+6720.	http://www.python.org/test/test_urllib2/basic_auth
+6721.	http://www.python.org/topics/database/DatabaseAPI-2.0.html
+6722.	http://www.python.org/topics/tkinter/
+6723.	http://www.python.org/workshops/1997-10/proceedings/loewis.html
+6724.	http://www.python.org/xml-ns/saxtest/
+6725.	http://www.python.org/XXXinvalidXXX
+6726.	http://www.pythonware.com
+6727.	http://www.pythonware.com/products/pil/
+6728.	http://www.ragestorm.net/distorm/
+6729.	http://www.random.org/cgi-bin/randbyte?nbytes=10
+6730.	http://www.rapid7.com
+6731.	http://www.realestate3d.com/gps/latlong.htm
+6732.	http://www.realtek.com/downloads/downloadsView.aspx?Langid=1
+6733.	http://www.regxlib.com/
+6734.	http://www.research.att.com/
+6735.	http://www.research.ibm.com/jax/
+6736.	http://www.resophonic.com
+6737.	http://www.retrologic.com/
+6738.	http://www.rfc-editor.org/errata_search.php?eid=
+6739.	http://www.rfc-editor.org/errata_search.php?eid=3245
+6740.	http://www.rfc-editor.org/rfc/pdfrfc/rfc1350.txt.pdf
+6741.	http://www.rfc-editor.org/rfc/rfc
+6742.	http://www.rfc-editor.org/rfc/rfc1952.txt
+6743.	http://www.rfc-editor.org/rfc/rfc3629.txt
+6744.	http://www.rgagnon.com/javadetails/java-0021.html
+6745.	http://www.rgaros.nl/gestalt/
+6746.	http://www.rhubarb.net/
+6747.	http://www.riggshill.com/
+6748.	http://www.roadrunner.net/
+6749.	http://www.robotstxt.org/wc/norobots.html
+6750.	http://www.robotstxt.org/wc/norobots-rfc.html
+6751.	http://www.ross.net/crc/crcpaper.html
+6752.	http://www.rrsd.com
+6753.	http://www.rrsd.com.
+6754.	http://www.rsalabs.com/pkcs/pkcs-11/index.html
+6755.	http://www.rskey.org/gamma.htm
+6756.	http://www.rsok.com/
+6757.	http://www.rssboard.org/rss-0-9-1-netscape
+6758.	http://www.rssboard.org/rss-specification
+6759.	http://www.rubydoc.info/github/relevance/rcov/master/Rcov/RcovTask
+6760.	http://www.ruby-doc.org/core-2.0/Array.html
+6761.	http://www.ruby-doc.org/core-2.0/Object.html
+6762.	http://www.ruby-doc.org/core-2.0/String.html
+6763.	http://www.ruby-doc.org/core/classes/Object.html
+6764.	http://www.ruby-doc.org/docs/ProgrammingRuby/html/lib_patterns.html.
+6765.	http://www.ruby-doc.org/docs/ProgrammingRuby/html/ospace.html
+6766.	http://www.ruby-doc.org/stdlib-2.1.0/libdoc/coverage/rdoc/Coverage.html
+6767.	http://www.ruby-doc.org/stdlib/libdoc/optparse/rdoc/classes/OptionParser.html
+6768.	http://www.rubyenterpriseedition.com
+6769.	http://www.rubyforen.de
+6770.	http://www.rubyforge.org
+6771.	http://www.ruby-forum.com/topic/136825
+6772.	http://www.ruby-forum.com/topic/166423
+6773.	http://www.rubygems.org/read/chapter/20
+6774.	http://www.rubyinside.com/using-ripper-to-see-how-ruby-is-parsing-your-code-5270.html
+6775.	http://www.ruby-lang.org
+6776.	http://www.ruby-lang.org/
+6777.	http://www.ruby-lang.org/en
+6778.	http://www.ruby-lang.org/en/
+6779.	http://www.ruby-lang.org/en/feeds/news.rss
+6780.	http://www.ruby-lang.org/en/index.html
+6781.	http://www.ruby-lang.org/en/LICENSE.txt
+6782.	http://www.ruby-lang.org/en/news/2010/12/25/ruby-1-9-2-p136-is-released/
+6783.	http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/
+6784.	http://www.ruby-lang.org/en/raa-list.rhtml?name=REXML
+6785.	http://www.ruby-lang.org/ja/man/html/net_pop.html
+6786.	http://www.ruby-lang.org/ja/man/html/net_smtp.html
+6787.	http://www.s5systems.com/
+6788.	http://www.s5systems.com/jPresto.htm
+6789.	http://www.sable.mcgill.ca/
+6790.	http://www.sable.mcgill.ca/JBCO/
+6791.	http://www.sable.mcgill.ca/soot/
+6792.	http://www.sadflkjsasadf.com/
+6793.	http://www.sagehill.net/docbookxsl/ProgramListings.html
+6794.	http://www.sagehill.net/docbookxsl/UsingCSS.html
+6795.	http://www.saikoa.com/
+6796.	http://www.saikoa.com/dexguard
+6797.	http://www.saikoa.com/proguard/support
+6798.	http://www.sbktech.org/
+6799.	http://www.scintilla.org
+6800.	http://www.scintilla.org/SciTE.html
+6801.	http://www.sco.com/developers/gabi/latest/ch4.eheader.html
+6802.	http://www.scons.org
+6803.	http://www.s-cradle.com/english/index.html
+6804.	http://www.s-cradle.com/english/products/sophiacompress_java/index.html
+6805.	http://wwwsearch.sf.net/
+6806.	http://www.semdesigns.com/
+6807.	http://www.semdesigns.com/Products/Obfuscators/JavaObfuscator.html
+6808.	http://www.sgi.com/products/software/irix/tools/
+6809.	http://www.sgi.com/software/opensource/cid/license.html
+6810.	http://www.sgi.com/software/opensource/glx/license.html.
+6811.	http://www.sgi.com/tech/stl/
+6812.	http://www.sgi.com/tech/stl/AdaptableBinaryFunction.html
+6813.	http://www.sgi.com/tech/stl/AdaptableBinaryPredicate.html
+6814.	http://www.sgi.com/tech/stl/AdaptableGenerator.html
+6815.	http://www.sgi.com/tech/stl/AdaptablePredicate.html
+6816.	http://www.sgi.com/tech/stl/AdaptableUnaryFunction.html
+6817.	http://www.sgi.com/tech/stl/Assignable.html
+6818.	http://www.sgi.com/tech/stl/AssociativeContainer.html
+6819.	http://www.sgi.com/tech/stl/BackInsertionSequence.html
+6820.	http://www.sgi.com/tech/stl/basic_string.html
+6821.	http://www.sgi.com/tech/stl/BidirectionalIterator.html
+6822.	http://www.sgi.com/tech/stl/BinaryFunction.html
+6823.	http://www.sgi.com/tech/stl/BinaryPredicate.html
+6824.	http://www.sgi.com/tech/stl/bitset.html
+6825.	http://www.sgi.com/tech/stl/Container.html
+6826.	http://www.sgi.com/tech/stl/DefaultConstructible.html
+6827.	http://www.sgi.com/tech/stl/equal.html
+6828.	http://www.sgi.com/tech/stl/EqualityComparable.html
+6829.	http://www.sgi.com/tech/stl/ForwardContainer.html
+6830.	http://www.sgi.com/tech/stl/ForwardIterator.html
+6831.	http://www.sgi.com/tech/stl/FrontInsertionSequence.html
+6832.	http://www.sgi.com/tech/stl/front_insert_iterator.html
+6833.	http://www.sgi.com/tech/stl/generate_n.html
+6834.	http://www.sgi.com/tech/stl/Generator.html
+6835.	http://www.sgi.com/tech/stl/InputIterator.html
+6836.	http://www.sgi.com/tech/stl/LessThanComparable.html
+6837.	http://www.sgi.com/tech/stl/lexicographical_compare.html
+6838.	http://www.sgi.com/tech/stl/List.html
+6839.	http://www.sgi.com/tech/stl/max_element.html
+6840.	http://www.sgi.com/tech/stl/max.html
+6841.	http://www.sgi.com/tech/stl/min_element.html
+6842.	http://www.sgi.com/tech/stl/min.html
+6843.	http://www.sgi.com/tech/stl/MultipleAssociativeContainer.html
+6844.	http://www.sgi.com/tech/stl/nth_element.html
+6845.	http://www.sgi.com/tech/stl/OutputIterator.html
+6846.	http://www.sgi.com/tech/stl/PairAssociativeContainer.html
+6847.	http://www.sgi.com/tech/stl/pair.html
+6848.	http://www.sgi.com/tech/stl/Predicate.html
+6849.	http://www.sgi.com/tech/stl/RandomAccessContainer.html
+6850.	http://www.sgi.com/tech/stl/RandomAccessIterator.html
+6851.	http://www.sgi.com/tech/stl/ReversibleContainer.html
+6852.	http://www.sgi.com/tech/stl/rotate.html
+6853.	http://www.sgi.com/tech/stl/Sequence.html
+6854.	http://www.sgi.com/tech/stl/SimpleAssociativeContainer.html
+6855.	http://www.sgi.com/tech/stl/SortedAssociativeContainer.html
+6856.	http://www.sgi.com/tech/stl/sort.html
+6857.	http://www.sgi.com/tech/stl/stable_sort.html
+6858.	http://www.sgi.com/tech/stl/StrictWeakOrdering.html
+6859.	http://www.sgi.com/tech/stl/UnaryFunction.html
+6860.	http://www.sgi.com/tech/stl/UniqueAssociativeContainer.html
+6861.	http://www.sgi.com/tech/stl/Vector.html
+6862.	http://www.shadowserver.org
+6863.	http://www.siliconimaging.com/RGB
+6864.	http://www.sinatrarb.com
+6865.	http://www.site.com/
+6866.	http://www.site.net/
+6867.	http://www.skype.com
+6868.	http://www.skytopia.com/project/articles/compsci/clipping.html
+6869.	http://www.slashdot.org
+6870.	http://www.slavasoft.com/fsum/
+6871.	http://www.sleepycat.com/docs/api_c/db_get_flags.html
+6872.	http://www.sleepycat.com/docs/api_c/db_set_flags.html
+6873.	http://www.smardec.com/
+6874.	http://www.smc.com/index.cfm?event=downloads.doSearchCriteria
+6875.	http://www.socal-raves.org/
+6876.	http://www.soe.ucsc.edu/
+6877.	http://www.softtreetech.com/24x7/archive/51.htm
+6878.	http://www.software4j.com/
+6879.	http://www.software4j.com/obfuscate4j/
+6880.	http://www.solent.ac.uk/hydrography/notes/errorthe/accuracy.htm
+6881.	http://www.sol.no
+6882.	http://www.sol.no/
+6883.	http://www.sol.no/foo/
+6884.	http://www.sol.no/foo/bar
+6885.	http://www.solutia.ro/
+6886.	http://www.solutia.ro/pages/javadc/
+6887.	http://www.someproxy.com
+6888.	http://www.spaennare.se/SSPROG/ssnum.pdf
+6889.	http://www.speex.org/
+6890.	http://www.spenvis.oma.be/help/background/coortran/coortran.html
+6891.	http://www.spinwardstars.com/frontier/fal.html
+6892.	http://www.sqlalchemy.org/trac/wiki/UsageRecipes/NamingConventions
+6893.	http://www.sqlalchemy.org/trac/wiki/UsageRecipes/SessionAwareMapper
+6894.	http://www.sqlite.org.
+6895.	http://www.sqlite.org/cvstrac/tktview?tn=1884
+6896.	http://www.sqlite.org/src/info/6709574d2a
+6897.	http://www.sqlite.org/src/info/f2369304e4
+6898.	http://www.sra.co.jp/people/m-kasahr/ruby/getoptlong/
+6899.	http://www.stackoverflow.com
+6900.	http://www.statsci.org/s/inverse_gaussian.html
+6901.	http://www.statsci.org/s/inverse_gaussian.s
+6902.	http://www.stat.ucl.ac.be/ISdidactique/Rhelp/library/SuppDists/html/inverse_gaussian.html
+6903.	http://www.stat.wvu.edu/SRS/Modules/Binomial/test.html
+6904.	http://www.st.cs.uni-sb.de/
+6905.	http://www.steve.org.uk/Reference/Unix/faq_2.html
+6906.	http://www.stlport.com/dcforum/DCForumID6/1763.html
+6907.	http://www.stroustrup.com/wrapper.pdf
+6908.	http://www.stunnel.org/
+6909.	http://www.sun.com.
+6910.	http://www.sunfreeware.com
+6911.	http://www.syncml.org/docs/devinf_v11_20020215.dtd
+6912.	http://www.syncml.org/docs/syncml_devinf_v10_20001207.dtd
+6913.	http://www.syncml.org/docs/syncml_metinf_v10_20001207.dtd
+6914.	http://www.syncml.org/docs/syncml_metinf_v11_20020215.dtd
+6915.	http://www.syncml.org/docs/syncml_represent_v10_20001207.dtd
+6916.	http://www.syncml.org/docs/syncml_represent_v11_20020213.dtd
+6917.	http://www.t13.org/
+6918.	http://www.tbs-internet.com/CA/repository/OU=TBS
+6919.	http://www.tcpdump.org
+6920.	http://www.technogumbo.com/2011/12/Migrating-to-Javascript-from-the-Google-Maps-API-for-Flash-Using-Adobe-AIR/
+6921.	http://www.terralib.org
+6922.	http://www.textuality.com/boilerplate/OpenHatch.xml
+6923.	http://www.therealtimeweb.com/index.cfm/2009/10/22/flex-compile-locale
+6924.	http://www.tianocore.org
+6925.	http://www.TianoCore.org/2006/Edk2.1
+6926.	http://www.timeanddate.com/time/aboutdst.html
+6927.	http://www.timezonesforpcs.com
+6928.	http://www.tink.ws
+6929.	http://www.tondering.dk/claus/calendar.html
+6930.	http://www.topdesignmag.com/awesome-black-icon-sets/
+6931.	http://www.trolltech.com/products/qt3/index.html
+6932.	http://www.trolltech.com/products/qt/index.html
+6933.	http://www.trustedcomputinggroup.org/resources/tpm_library_specification
+6934.	http://www.tt.org/LICENSE_1_0.txt
+6935.	http://www.tuttobenegrazie.com/
+6936.	http://www.twinsun.com/tz/tz-link.htm
+6937.	http://www.ucdetector.org/
+6938.	http://www.ucs.louisiana.edu/
+6939.	http://www.uefidk.com/develop.
+6940.	http://www.uefi.org
+6941.	http://www.uefi.org/2008/2.1
+6942.	http://www.uefi.org/2011/1.1
+6943.	http://www.uefi.org/2012/1.0
+6944.	http://www.undocprint.org/winspool/getfontresourceinfo
+6945.	http://www.unicode.org
+6946.	http://www.unicode.org/cldr/data/.
+6947.	http://www.unicode.org/copyright.html.
+6948.	http://www.unicode.org/Public/
+6949.	http://www.unicode.org/Public/.
+6950.	http://www.unicode.org/Public/4.0-Update1/UCD-4.0.1.html
+6951.	http://www.unicode.org/Public/MAPPINGS/
+6952.	http://www.unicode.org/Public/MAPPINGS/ISO8859/8859-
+6953.	http://www.unicode.org/Public/MAPPINGS/OBSOLETE
+6954.	http://www.unicode.org/Public/MAPPINGS/OBSOLETE/
+6955.	http://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/
+6956.	http://www.unicode.org/Public/MAPPINGS/VENDORS/
+6957.	http://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/
+6958.	http://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/README.TXT
+6959.	http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT
+6960.	http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/
+6961.	http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/PC/CP
+6962.	http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP
+6963.	http://www.unicode.org/Public/MAPPINGS/VENDORS/MISC/KOI8-R.TXT
+6964.	http://www.unicode.org/Public/UNIDATA/UnicodeData.html
+6965.	http://www.unicode.org/Public/UNIDATA/UnicodeData.txt
+6966.	http://www.unicode.org/reports/
+6967.	http://www.unicode.org/reports/tr24/
+6968.	http://www.unicode.org/reports/tr44/
+6969.	http://www.unicode.org/reports/tr44/tr44-4.html
+6970.	http://www.unicode.org/reports/tr9/
+6971.	http://www.unicode.org/review/pr-29.html
+6972.	http://www.unicode.org/terms_of_use.html
+6973.	http://www.unicode.org/unicode/reports/tr11/
+6974.	http://www.unicode.org/unicode/reports/tr14/
+6975.	http://www.unicode.org/unicode/reports/tr28/
+6976.	http://www.unicode.org/versions/Unicode5.2.0/ch03.pdf
+6977.	http://www.uni-vologda.ac.ru/
+6978.	http://www.unix.org
+6979.	http://www.unix.org/single_unix_specification/
+6980.	http://www.uploadtothissite.com
+6981.	http://www.usenix.org/events/lisa03/tech/robertson.html
+6982.	http://www.usenix.org/publications/library/proceedings/c
+6983.	http://www.usertrust.com/CN=UTN
+6984.	http://www.usr.com/support/product-template.asp?prod=5660a
+6985.	http://www.utdallas.edu/
+6986.	http://www.vanis.cz/ondra
+6987.	http://www.vegatech.com/
+6988.	http://www.vegatech.com/jzipper/
+6989.	http://www.vergenet.net/
+6990.	http://www.verisign.com/support/verisign-intermediate-ca/code-signing-intermediate/index.html
+6991.	http://www.vias.org/comp_geometry/math_coord_convert_3d.htm
+6992.	http://www.vias.org/simulations/simusoft_distcalc.html
+6993.	http://www.vias.org/simulations/simu_stat.html
+6994.	http://www.videopedia.pl/avirecomp
+6995.	http://www.virtualbox.org
+6996.	http://www.virtualenv.org
+6997.	http://www.vmware.com/support/developer/vix-api/vix18_reference/
+6998.	http://www.vulnwatch.org/netcat/
+6999.	http://www.w3c.org/tr/xpath
+7000.	http://www.w3.org
+7001.	http://www.w3.org/
+7002.	http://www.w3.org/1999/02/22-rdf-syntax-ns
+7003.	http://www.w3.org/1999/xhtml
+7004.	http://www.w3.org/1999/xhtml/
+7005.	http://www.w3.org/1999/xlink
+7006.	http://www.w3.org/1999/XSL/Format
+7007.	http://www.w3.org/1999/XSL/Transform
+7008.	http://www.w3.org/2000/09/xmldsig
+7009.	http://www.w3.org/2000/svg
+7010.	http://www.w3.org/2000/xmlns/
+7011.	http://www.w3.org/2001/XInclude
+7012.	http://www.w3.org/2001/XMLSchema
+7013.	http://www.w3.org/2001/XMLSchema-instance
+7014.	http://www.w3.org/2002/08/xquery-functions
+7015.	http://www.w3.org/2003/XInclude
+7016.	http://www.w3.org/2005/Atom
+7017.	http://www.w3.org/Addressing/rfc
+7018.	http://www.w3.org/Addressing/rfc1738.txt
+7019.	http://www.w3.org/Addressing/rfc1808.txt
+7020.	http://www.w3.org/CGI/
+7021.	http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231
+7022.	http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd
+7023.	http://www.w3.org/hypertext/WWW/MarkUp/html-spec/html-spec_toc.html
+7024.	http://www.w3.org/MarkUp/SGML/Activity
+7025.	http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+7026.	http://www.w3.org/Protocols/rfc2616/rfc2616-sec19.html
+7027.	http://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html
+7028.	http://www.w3.org/pub/WWW/Addressing/Overview.html
+7029.	http://www.w3.org/pub/WWW/Protocols/
+7030.	http://www.w3.org/pub/WWW/TheProject.html
+7031.	http://www.w3.org/Style/XSL/
+7032.	http://www.w3.org/TR
+7033.	http://www.w3.org/TR/1998/WD-xlink-19980303
+7034.	http://www.w3.org/TR/1999/REC-xpath-19991116
+7035.	http://www.w3.org/TR/2000/CR-xptr-20000607
+7036.	http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113
+7037.	http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113
+7038.	http://www.w3.org/TR/2002/PR-xptr-element-20021113/
+7039.	http://www.w3.org/TR/2003/WD-xinclude-20031110
+7040.	http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407
+7041.	http://www.w3.org/TR/2004/REC-DOM-Level-3-LS-20040407
+7042.	http://www.w3.org/TR/2004/REC-DOM-Level-3-LS-20040407/DOM3-LS.html
+7043.	http://www.w3.org/TR/2004/REC-xml-20040204/
+7044.	http://www.w3.org/TR/2007/CR-emma-20071211/
+7045.	http://www.w3.org/TR/2007/CR-rdf-sparql-query-20070614/
+7046.	http://www.w3.org/TR/2007/CR-rdf-sparql-XMLres-20070925/
+7047.	http://www.w3.org/TR/2007/REC-xslt20-20070123/
+7048.	http://www.w3.org/TR/2009/CR-exi-20091208/
+7049.	http://www.w3.org/TR/html401/interact/forms.html
+7050.	http://www.w3.org/TR/html401/strict.dtd
+7051.	http://www.w3.org/TR/html4/frameset.dtd
+7052.	http://www.w3.org/TR/html4/loose.dtd
+7053.	http://www.w3.org/TR/html4/strict.dtd
+7054.	http://www.w3.org/TR/html5/association-of-controls-and-forms.html
+7055.	http://www.w3.org/TR/html5/forms.html
+7056.	http://www.w3.org/TR/html5/syntax.html
+7057.	http://www.w3.org/TR/MathML3/appendixb.html
+7058.	http://www.w3.org/TR/NOTE-xlink-principles
+7059.	http://www.w3.org/TR/NOTE-xlink-req/
+7060.	http://www.w3.org/TR/REC-DOM-Level-1/
+7061.	http://www.w3.org/TR/REC-html32.html
+7062.	http://www.w3.org/TR/REC-html40
+7063.	http://www.w3.org/TR/REC-html40/appendix/notes.html
+7064.	http://www.w3.org/TR/REC-html40/HTMLlat1.ent
+7065.	http://www.w3.org/TR/REC-html40/loose.dtd
+7066.	http://www.w3.org/TR/REC-xml
+7067.	http://www.w3.org/TR/REC-xml/
+7068.	http://www.w3.org/TR/REC-xml-names/
+7069.	http://www.w3.org/TR/SVG/mimereg.html
+7070.	http://www.w3.org/TR/wbxml/
+7071.	http://www.w3.org/TR/wd-xlink
+7072.	http://www.w3.org/TR/wd-xlink/
+7073.	http://www.w3.org/TR/WD-xml-link-970630
+7074.	http://www.w3.org/TR/WD-xptr
+7075.	http://www.w3.org/TR/widgets/
+7076.	http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd
+7077.	http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+7078.	http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+7079.	http://www.w3.org/TR/xinclude/
+7080.	http://www.w3.org/TR/xml-c14n
+7081.	http://www.w3.org/TR/xml-exc-c14n
+7082.	http://www.w3.org/TR/xmlschema-1/
+7083.	http://www.w3.org/TR/xmlschema-2/
+7084.	http://www.w3.org/TR/xpath
+7085.	http://www.w3.org/TR/xpath-functions/
+7086.	http://www.w3.org/XML/
+7087.	http://www.w3.org/XML/1998/namespace
+7088.	http://www.w3.org/XML/1998/namespace.
+7089.	http://www.w3.org/XML/Activity
+7090.	http://www.w3.org/XML/Group/1999/05/WD-xlink-19990505
+7091.	http://www.w3.org/XML/Group/1999/05/WD-xlink-19990527
+7092.	http://www.w3.org/XML/Group/1999/05/WD-xlink-current
+7093.	http://www.w3schools.com/css/default.asp
+7094.	http://www.w3schools.com/tags/ref_entities.asp
+7095.	http://www.w3schools.com/tags/ref_symbols.asp
+7096.	http://www.wapforum.org/DTD/channel12.dtd
+7097.	http://www.wapforum.org/DTD/co_1.0.dtd
+7098.	http://www.wapforum.org/DTD/emn.dtd
+7099.	http://www.wapforum.org/DTD/prov.dtd
+7100.	http://www.wapforum.org/DTD/si.dtd
+7101.	http://www.wapforum.org/DTD/sl.dtd
+7102.	http://www.wapforum.org/DTD/wml_1_1.dtd
+7103.	http://www.wapforum.org/DTD/wml12.dtd
+7104.	http://www.wapforum.org/DTD/wml13.dtd
+7105.	http://www.wapforum.org/DTD/wml.xml
+7106.	http://www.wapforum.org/DTD/wta-wml12.dtd
+7107.	http://www.wapforum.org/wina
+7108.	http://www.webmasterworld.com/r.cgi?f=21
+7109.	http://www.webmproject.org/code/specs/container/
+7110.	http://www.webzdarma.cz/
+7111.	http://www.westend.com/
+7112.	http://www.wharton.co.uk/Support/sup_dst.htm
+7113.	http://www.winampfr.com/nsis.
+7114.	http://www.wingsoft.com/
+7115.	http://www.wingsoft.com/wingguard.html
+7116.	http://www.winimage.com/zLibDll
+7117.	http://www.winimage.com/zLibDll/unzip.html
+7118.	http://www.wireless-village.org/CSP
+7119.	http://www.wireless-village.org/CSP1.1
+7120.	http://www.wireless-village.org/PA
+7121.	http://www.wireless-village.org/TRC
+7122.	http://www.wolframalpha.com/input/?i=inverse
+7123.	http://www.wordsmith.org/anagram/anagram.cgi?anagram=ACDRMGU
+7124.	http://www.worldtimeserver.com
+7125.	http://www.worldtimezone.com/utc/utc
+7126.	http://www.xda-developers.com/android/automated-device-lets-you-automate-your-android-device-with-rules/
+7127.	http://www.xfree86.org/
+7128.	http://www.xiph.org/
+7129.	http://www.xmlrpc.com.
+7130.	http://www.xmlrpc.com/discuss/msgReader
+7131.	http://www.xn--8ws00zhy3a.com
+7132.	http://www.xn--8ws00zhy3a.com/
+7133.	http://www.xn--8ws00zhy3a.com/atomtests/iri/
+7134.	http://www.xn--n8jaaaaai5bhf7as8fsfk3jnknefdde3f
+7135.	http://www.yahoo.com/
+7136.	http://www.yahoogroups.com/list/boost
+7137.	http://www.yelp.com/biz/ace-cafe-san-francisco
+7138.	http://www.yelp.com/biz/broken-record-san-francisco
+7139.	http://www.yelp.com/biz/chug-pub-san-francisco
+7140.	http://www.yelp.com/biz/corkage-sake-and-wine-shop-san-francisco
+7141.	http://www.yelp.com/biz/crestas-twenty-two-eleven-club-san-francisco
+7142.	http://www.yelp.com/biz/durty-nellys-san-francisco
+7143.	http://www.yelp.com/biz/eagles-drift-in-lounge-san-francisco
+7144.	http://www.yelp.com/biz/geary-club-san-francisco
+7145.	http://www.yelp.com/biz/hotel-biron-san-francisco
+7146.	http://www.yelp.com/biz/koko-cocktails-san-francisco
+7147.	http://www.yelp.com/biz/okeeffes-bar-san-francisco
+7148.	http://www.yelp.com/biz/sweeties-san-francisco
+7149.	http://www.yelp.com/biz/swirl-on-castro-san-francisco
+7150.	http://www.yelp.com/biz/the-bar-at-the-four-seasons-san-francisco
+7151.	http://www.yelp.com/biz/the-black-horse-london-pub-san-francisco
+7152.	http://www.yelp.com/biz/the-city-beer-store-and-tasting-bar-san-francisco
+7153.	http://www.yelp.com/biz/the-hidden-vine-san-francisco
+7154.	http://www.yelp.com/biz/tosca-cafe-san-francisco
+7155.	http://www.yelp.com/biz/wild-side-west-san-francisco
+7156.	http://www.yelp.com/biz/yield-wine-bar-san-francisco
+7157.	http://www.yelp.com/search?find_loc=1060
+7158.	http://www.yelp.com/search?find_loc=1166
+7159.	http://www.yelp.com/search?find_loc=1168
+7160.	http://www.yelp.com/search?find_loc=1232
+7161.	http://www.yelp.com/search?find_loc=1304
+7162.	http://www.yelp.com/search?find_loc=1514
+7163.	http://www.yelp.com/search?find_loc=1799
+7164.	http://www.yelp.com/search?find_loc=1849
+7165.	http://www.yelp.com/search?find_loc=2211
+7166.	http://www.yelp.com/search?find_loc=2328
+7167.	http://www.yelp.com/search?find_loc=242
+7168.	http://www.yelp.com/search?find_loc=2490
+7169.	http://www.yelp.com/search?find_loc=424
+7170.	http://www.yelp.com/search?find_loc=45
+7171.	http://www.yelp.com/search?find_loc=475
+7172.	http://www.yelp.com/search?find_loc=572
+7173.	http://www.yelp.com/search?find_loc=598
+7174.	http://www.yelp.com/search?find_loc=620
+7175.	http://www.yelp.com/search?find_loc=757
+7176.	http://www.yelp.com/search?find_loc=768
+7177.	http://www.yelp.com/search?find_loc=Bernal
+7178.	http://www.yelp.com/search?find_loc=Castro
+7179.	http://www.yelp.com/search?find_loc=Civic
+7180.	http://www.yelp.com/search?find_loc=Dogpatch
+7181.	http://www.yelp.com/search?find_loc=Hayes
+7182.	http://www.yelp.com/search?find_loc=Inner
+7183.	http://www.yelp.com/search?find_loc=Marina
+7184.	http://www.yelp.com/search?find_loc=Mission
+7185.	http://www.yelp.com/search?find_loc=Nob
+7186.	http://www.yelp.com/search?find_loc=North
+7187.	http://www.yelp.com/search?find_loc=Outer
+7188.	http://www.yelp.com/search?find_loc=Potrero
+7189.	http://www.yelp.com/search?find_loc=Russian
+7190.	http://www.yelp.com/search?find_loc=SOMA
+7191.	http://www.yelp.com/search?find_loc=Union
+7192.	http://www.yelp.com/search?find_loc=Western
+7193.	http://www.yelp.com/user_details?userid=0sPPamYvk77rDOYECr_85A
+7194.	http://www.yelp.com/user_details?userid=17AUx3RVchxyaqk71ygWaw
+7195.	http://www.yelp.com/user_details?userid=1D5EQITb4hOzPMZT8gDPQQ
+7196.	http://www.yelp.com/user_details?userid=1O1MfZlHbQx_U5G47a90JA
+7197.	http://www.yelp.com/user_details?userid=21SRsnSJqvk3gWXY1iDRiQ
+7198.	http://www.yelp.com/user_details?userid=3xsmXxDysn5yqflq3AzWKQ
+7199.	http://www.yelp.com/user_details?userid=755f5UrhlcEiPjfLUcKdDw
+7200.	http://www.yelp.com/user_details?userid=9hJYqwXzjbLsw_WUqYyzMg
+7201.	http://www.yelp.com/user_details?userid=9-y579gMphAItFxc9XA8yQ
+7202.	http://www.yelp.com/user_details?userid=AzUISA7zjPXVzxOBuNVUBA
+7203.	http://www.yelp.com/user_details?userid=CqMlDAQW_5Rj7Nu2hIrwfw
+7204.	http://www.yelp.com/user_details?userid=d7RGLy5EPXEFpLAfh3uwvA
+7205.	http://www.yelp.com/user_details?userid=DcmI6NlZykgvvZ4SkYoTdA
+7206.	http://www.yelp.com/user_details?userid=dpEtyfB2o7MH1Mc_Ygoolg
+7207.	http://www.yelp.com/user_details?userid=_Dv1gLCvRlrLTxxP5TX8GA
+7208.	http://www.yelp.com/user_details?userid=e1FuiYSV1v29q2OTR9ojBA
+7209.	http://www.yelp.com/user_details?userid=emF8KqAfI2VL6Sfaek9gFg
+7210.	http://www.yelp.com/user_details?userid=fjNmLQcw2oSYhUASdlo27w
+7211.	http://www.yelp.com/user_details?userid=Fnw_f0X0-cBscRr4sX5JYg
+7212.	http://www.yelp.com/user_details?userid=fYWW7lFdHcvUJ-gsTRJttw
+7213.	http://www.yelp.com/user_details?userid=hE34xpG35WugHznWf79HfQ
+7214.	http://www.yelp.com/user_details?userid=ipleTHGh9KR8hO5U1yxzXw
+7215.	http://www.yelp.com/user_details?userid=IUEkE8T7SvEw4LXSWSOknw
+7216.	http://www.yelp.com/user_details?userid=iV_Hnp3sFxncd6MNhkndGA
+7217.	http://www.yelp.com/user_details?userid=IWal1ziP1AlfcgDJj5CKFw
+7218.	http://www.yelp.com/user_details?userid=JF-7fBtuA_l5R650Iqe7RQ
+7219.	http://www.yelp.com/user_details?userid=K1NLdTfT1IizE-6smhsSug
+7220.	http://www.yelp.com/user_details?userid=k4oMdCSDqa_1iP3hVaozZA
+7221.	http://www.yelp.com/user_details?userid=K6jTnDUtLuxyTFASgCS-gw
+7222.	http://www.yelp.com/user_details?userid=KpwPavO0PtuSTIaJ2Uslfg
+7223.	http://www.yelp.com/user_details?userid=kzkAXy9mJS6gMljzC4xGXw
+7224.	http://www.yelp.com/user_details?userid=LIr-srYm2nOmPlXQxaYELQ
+7225.	http://www.yelp.com/user_details?userid=LnZUtFx6qTWs8NV6lAARxQ
+7226.	http://www.yelp.com/user_details?userid=M_4EmxzznybTzMwT7FDg_g
+7227.	http://www.yelp.com/user_details?userid=mg4gZL6QRMSX-lnLFyEKAg
+7228.	http://www.yelp.com/user_details?userid=NRGUOpoK1RvIUWZPQ13QTg
+7229.	http://www.yelp.com/user_details?userid=P7_vx8jtm7tNz38N1H1NWw
+7230.	http://www.yelp.com/user_details?userid=qD51vvp5Zf5DgPEGy7yfDQ
+7231.	http://www.yelp.com/user_details?userid=QmmdnVRrxAZLm76-8OTD7Q
+7232.	http://www.yelp.com/user_details?userid=qxEwdvhxDw51cAEejXK83g
+7233.	http://www.yelp.com/user_details?userid=RbaIxpAbwl6JrIPgIX4XIw
+7234.	http://www.yelp.com/user_details?userid=rdSJ_jlij_2x5glkrEEZxg
+7235.	http://www.yelp.com/user_details?userid=RjQkoF8llTiXoO1bc4gOMQ
+7236.	http://www.yelp.com/user_details?userid=smx4hf_nkWhFklxLwfGLjw
+7237.	http://www.yelp.com/user_details?userid=Sw4e9geYXjwG8-JgsuZTSw
+7238.	http://www.yelp.com/user_details?userid=UBAfc-KuDXV8XLurou_i6g
+7239.	http://www.yelp.com/user_details?userid=uSCYNal_CJDPGBYUAenyoA
+7240.	http://www.yelp.com/user_details?userid=uTSGqJGFwngSLTSckILesw
+7241.	http://www.yelp.com/user_details?userid=V8t5zmkH-o5IHmKeds6DuA
+7242.	http://www.yelp.com/user_details?userid=Vnja4xoPVQ7BLXIsVy_cFw
+7243.	http://www.yelp.com/user_details?userid=xADAW32u15sgA18Hfy9PsQ
+7244.	http://www.yelp.com/user_details?userid=XDQCUG6dB_NntrZNsn5Frw
+7245.	http://www.yelp.com/user_details?userid=XnbGrJNw0wglmqXekW138Q
+7246.	http://www.yelp.com/user_details?userid=xZ1htr_9ZiOamddSoDWMqw
+7247.	http://www.yelp.com/user_details?userid=zlxg7BQ6StisAAC0cpUsZQ
+7248.	http://www.yelp.com/user_details?userid=zpXqbJQ2CT4PsUBTy30DbQ
+7249.	http://www.yelp.com/user_details?userid=zvAZsfg7Id2c9X5Vx8uMvQ
+7250.	http://www.yoshidam.net/Ruby.html
+7251.	http://www.yworks.com/
+7252.	http://www.yworks.com/en/products_yguard_about.htm
+7253.	http://www.zelix.com/
+7254.	http://www.zelix.com/klassmaster/index.html
+7255.	http://www.zikko.se/resources/lineIntersection.php
+7256.	http://www.zlatkovic.com/pub/libxml/
+7257.	http://www.zlib.org
+7258.	http://www.zlib.org/
+7259.	http://www.zlib.org.
+7260.	http://www.zlib.org/advisory-2002-03-11.txt
+7261.	http://www.zope.com
+7262.	http://www.zope.org/Members/fdrake/DateTimeWiki/FrontPage
+7263.	http://www.zope.org/Members/fdrake/DateTimeWiki/TestCases
+7264.	http://www.zzz.org/mailman/listinfo/ppp
+7265.	http://wyman.us/
+7266.	http://xerces.apache.org/xerces-c/program-sax2-3.html
+7267.	http://xkcd.com/353/
+7268.	http://xml.apache.org/xslt
+7269.	http://xml/metadataSharing.xsd
+7270.	http://xml.org/sax/features/external-general-entities
+7271.	http://xml.org/sax/features/external-parameter-entities
+7272.	http://xml.org/sax/features/namespace-prefixes
+7273.	http://xml.org/sax/features/namespaces
+7274.	http://xml.org/sax/features/string-interning
+7275.	http://xml.org/sax/features/validation
+7276.	http://xml.org/sax/properties/declaration-handler
+7277.	http://xml.org/sax/properties/dom-node
+7278.	http://xml.org/sax/properties/lexical-handler
+7279.	http://xml.org/sax/properties/xml-string
+7280.	http://xml.python.org/
+7281.	http://xml.python.org/e1
+7282.	http://xml.python.org/e2
+7283.	http://xml.python.org/entities/fragment-builder/internal
+7284.	http://xml.python.org/entities/my
+7285.	http://xml.python.org/entities/something.xml
+7286.	http://xml.python.org/entity
+7287.	http://xml.python.org/namespaces/a
+7288.	http://xml.python.org/notations/my
+7289.	http://xml.python.org/notations/python-module
+7290.	http://xml.python.org/ns
+7291.	http://xml.python.org/ns1
+7292.	http://xml.python.org/ns2
+7293.	http://xml.python.org/public
+7294.	http://xml.python.org/splat
+7295.	http://xml.python.org/system
+7296.	http://xmlrpc-c.sourceforge.net/api/sample.php
+7297.	http://xmlrpc-epi.sourceforge.net/specs/rfc.fault_codes.php
+7298.	http://xmlrpc.usefulinc.com/doc/reserved.html
+7299.	http://xmlrpc.usefulinc.com/doc/sysmethodsig.html
+7300.	http://xmlsoft.org/XSLT/.
+7301.	http://xmlvalidation.com/
+7302.	http://xorg.freedesktop.org/releases/individual/lib/
+7303.	http://xorg.freedesktop.org/releases/individual/proto/
+7304.	http://xunitpatterns.com/Test
+7305.	http://x.y.z.com/
+7306.	http://yaml.org
+7307.	http://yaml.org/spec/1.1/
+7308.	http://yaml.org/type/float.html
+7309.	http://yaml.org/type/int.html
+7310.	http://yaml.org/type/timestamp.html
+7311.	http://yost.co.uk/
+7312.	http://your.web.server/cgi-bin/faqw.py
+7313.	http://yugui.jp/articles/846
+7314.	http://zboncaklehner.ca/
+7315.	http://zero/
+7316.	http://zgp.org/pipermail/p2p-hackers/2001-September/000316.html
+7317.	http://ziememayert.com/
+7318.	http://zigzag.cs.msu.su/boost.build
+7319.	http://zooko.com/
