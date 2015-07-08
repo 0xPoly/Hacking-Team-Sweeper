@@ -8,7 +8,7 @@ Step 1: Reporting signatures
 
 Step 2: Detection
 --------------
-Once we know what to look for, writing native scripts (powershell, bash, etc) for each of the three major OSes should be straight forward.
+Once we know what to look for, writing native scripts (powershell, bash, etc) for each of the three major OSes should be straight forward. Additionally, the information found in step 1 should also be useful to extending tools such as [detekt](https://github.com/botherder/detekt).
 
 Step 3: Preservation
 --------------
