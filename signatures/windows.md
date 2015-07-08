@@ -5,6 +5,7 @@ Windows Signatures
 
   * source: https://github.com/hackedteam/soldier-win/blob/master/Updater/main.cpp line 43
   * Windows Soldier Features in Knowledgebase: http://ht.transparencytoolkit.org/KnowledgeBase/Windows%20-%20Soldier%20Feature%20Compatibility%209.6%20-%20%5DHT%5B%20%3a%3a%20KnowledgeBase%20Product.html
+<<<<<<< HEAD
 
 
 * core-win32 scambles log filenames and config files with a simple substitution of characters from two alphabets, scanning for filesname which only have these characters may help in detecting an install.
@@ -16,3 +17,5 @@ Windows Signatures
   The watermarker is later used to check for presence of existing install via sharedmemory resource
     * source: https://github.com/hackedteam/soldier-win/blob/master/Soldier/utils.cpp#L87
     
+=======
+>>>>>>> parent of 61e144d... Update windows.md
