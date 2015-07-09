@@ -11,3 +11,8 @@ Windows Signatures
   * source: https://github.com/hackedteam/core-win32/blob/master/LOG.cpp#L559 
     and: https://github.com/hackedteam/core-win32/blob/master/LOG.cpp#L591 
 
+* Soldier/scout file binpath.h has configuration for various keys: client_key,encr_key backdoor_id and watermark
+    * source: https://github.com/hackedteam/soldier-win/blob/master/Soldier/binpatch.h
+  The watermarker is later used to check for presence of existing install via sharedmemory resource
+    * source: https://github.com/hackedteam/soldier-win/blob/master/Soldier/utils.cpp#L87
+    
