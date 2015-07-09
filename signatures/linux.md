@@ -14,3 +14,11 @@ Linux Signatures
    * source: https://github.com/hackedteam/vector-offline2/blob/master/offline-linux/offline-install/offline_gui.py#L2604
    * source: https://github.com/hackedteam/vector-offline2/blob/master/offline-linux/offline-install/offline_gui.py#L2716
 
+* config file for linux version is '.cache' (located in the whoopsie directory)
+  * source: https://github.com/hackedteam/core-linux/blob/master/core/src/core.c#L123
+
+* params.h and params.c file contain keys for decrypting config file and watermark information:
+  * source: https://github.com/hackedteam/core-linux/blob/master/core/src/params.h
+
+* config file is encrypted with aes-128-cbc and confkey from params (iv=0)
+  * source: https://github.com/hackedteam/core-linux/blob/master/core/src/config.c#L48
