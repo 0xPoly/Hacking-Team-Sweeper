@@ -10,7 +10,7 @@ Linux Signatures
   * source https://github.com/hackedteam/core-linux/blob/master/dropper/src/dropper.c
   * source: https://github.com/hackedteam/vector-offline2/blob/master/offline-linux/offline-install/offline_gui.py#L1288
 
-* Same scramble_name function for hiding logfile names as seen for Windows is used in offline installer for Max/Linux
+* Same scramble_name function for hiding logfile names as seen for Windows is used in offline installer for Mac/Linux
    * source: https://github.com/hackedteam/vector-offline2/blob/master/offline-linux/offline-install/offline_gui.py#L2604
    * source: https://github.com/hackedteam/vector-offline2/blob/master/offline-linux/offline-install/offline_gui.py#L2716
 
