@@ -19,3 +19,6 @@ Windows Signatures
 * core-win32 encryption keys/watermark/backdoor_id are defined in common.h 
     * source: https://github.com/hackedteam/core-win32/blob/master/common.h#L100
     
+* scout for windows creates different batch files for RCS version 9.4/9.5/9.6 might help for detection/version ident
+  source: https://github.com/hackedteam/scout-win/blob/master/core-scout-win32/version.h
+
