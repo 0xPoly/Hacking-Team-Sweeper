@@ -15,4 +15,7 @@ Windows Signatures
     * source: https://github.com/hackedteam/soldier-win/blob/master/Soldier/binpatch.h
   The watermarker is later used to check for presence of existing install via sharedmemory resource
     * source: https://github.com/hackedteam/soldier-win/blob/master/Soldier/utils.cpp#L87
+
+* core-win32 encryption keys/watermark/backdoor_id are defined in common.h 
+    * source: https://github.com/hackedteam/core-win32/blob/master/common.h#L100
     
