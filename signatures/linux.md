@@ -22,3 +22,12 @@ Linux Signatures
 
 * config file is encrypted with aes-128-cbc and confkey from params (iv=0)
   * source: https://github.com/hackedteam/core-linux/blob/master/core/src/config.c#L48
+
+* core-linux agent creates encrypted 'evidence' files (ie: stolen data) with the following format:
+     .tmp-AAAAAAAAAA-BBBBBB-CCCCCC where
+      AAAAAAAAAA : number of seconds since unix epoch from gettimeofday()
+      BBBBBB : microseconds from gettimeofday()
+      CCCCCC : random letters/numbers from mkstemp() function
+  comparing AAAAAAAAAA with the file's modification time from unix stat() function would give high reliability in identifying them
+
+  source: https://github.com/hackedteam/core-linux/blob/master/core/src/evidencemanager.c#L60
