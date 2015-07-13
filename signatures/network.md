@@ -12,4 +12,8 @@ Network Signatures: ways to detect network traffic?
   * source: https://github.com/hackedteam/rcs-anonymizer/blob/master/src/bbproxy-proxy.c#L369
 
 
+* Windows Soldier & Scout version.h file define different user agents (and urls) for each RCS version:
+
+  source: https://github.com/hackedteam/soldier-win/blob/master/Soldier/version.h#L22
+  source: https://github.com/hackedteam/scout-win/blob/master/core-scout-win32/version.h#L33
 
