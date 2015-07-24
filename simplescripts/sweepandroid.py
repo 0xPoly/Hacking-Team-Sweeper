@@ -20,7 +20,7 @@ import androidhelper
 
 
 app='/system/app/StkDevice.apk'
-shell='/system/bin/ntpsvd'
+shells=('/system/bin/ntpsvd','/system/bin/rilcap')
 
 
 ok=True
@@ -32,10 +32,11 @@ droid=androidhelper.Android()
 if glob.glob(app)!=[]:
   droid.makeToast('WARNING: HT apk present: Your phone may be infected with a version of HackingTeam RCS Agent!')
   ok=False
-  
-if glob.glob(shell)!=[]:
-  droid.makeToast('WARNING: HT shell present: Your phone may be infected with a version of HackingTeam RCS Agent!')
-  ok=False
+
+for shell in shells:  
+	if glob.glob(shell)!=[]:
+  		droid.makeToast('WARNING: HT shell present: Your phone may be infected with a version of HackingTeam RCS Agent!')
+  		ok=False
 
 if ok: 
   droid.makeToast('OK: Nothing strange to report.')
